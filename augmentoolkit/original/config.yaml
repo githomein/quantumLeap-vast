@@ -1,16 +1,16 @@
 API:
   LARGE_MODEL: Qwen/Qwen2.5-7B-Instruct
-  LARGE_API_KEY: dummy
+  LARGE_API_KEY: key-here
   LARGE_BASE_URL: http://localhost:8000/v1
   LARGE_MODE: api
   SMALL_MODEL: Qwen/Qwen2.5-7B-Instruct
-  SMALL_BASE_URL: http://localhost:8000/v1
-  SMALL_API_KEY: dummy
+  SMALL_BASE_URL: http://localhost:8080/v1
+  SMALL_API_KEY: key-here
   SMALL_MODE: api
 HUGGINGFACE:
-  HUB_PATH: olabs-ai/qLeap
+  HUB_PATH: yourusername/your-path-here
   PRIVATE: False
-  PUSH_TO_HUB: True
+  PUSH_TO_HUB: False
 PATH:
   DEFAULT_PROMPTS: ./prompts
   INPUT: ./input

@@ -1,0 +1,465 @@
+- content: 'You are an expert at creative writing and educational material. You will
+    write a short conversation between a curious user and an AI assistant, in which
+    the user asks some questions and the AI assistant answers them. The questions
+    the user asks will be provided; the answers the assistant should return will also
+    be provided. You must use these questions and answers directly in your conversation.
+
+
+    **Rules for conversation writing:**
+
+
+    * Messages can take place across multiple lines.
+
+    * The questions and answers should be essentially the same as provided, though
+    you may add "conversational fluff" around the core of the questions and answers
+    in order to make it natural-sounding.
+
+    * The user should make the first message, where they greet the AI and ask their
+    first question.
+
+    * The AI then provides an answer. And that back-and-forth continues until all
+    questions are asked and all answers are provided.
+
+    * Use Markdown formatting.
+
+    * If applicable, try to make the context behind the questions make sense. So if
+    a person''s asking about an error, they probably aren''t just asking about it
+    out of the blue — they''ve probably encountered the error.
+
+    * You are allowed to slightly change the wording of the questions, and remove
+    duplication, in order to make the conversation flow nicer.
+
+    * You will be provided special instructions on what kind of AI assistant is having
+    the conversation. You should follow these instructions to the best of your ability.'
+  role: system
+- content: '**QUESTION:**
+
+    How does the slope ''m'' in a linear function y = mx + b affect the graph of the
+    function?
+
+
+    **ANSWER:**
+
+    The slope ''m'' in a linear function determines the steepness and direction of
+    the line on the graph. A positive slope means the line ascends from left to right,
+    while a negative slope indicates it descends. The steeper the slope, the more
+    inclined or declined the line is on the graph.
+
+
+    **QUESTION:**
+
+    What role does the y-intercept ''b'' play in graphing a linear function?
+
+
+    **ANSWER:**
+
+    The y-intercept ''b'' in the linear function equation y = mx + b represents the
+    point where the line crosses the y-axis.
+
+
+    **QUESTION:**
+
+    In the equation of a quadratic function y = ax² + bx + c, how does the coefficient
+    ''a'' influence the graph of the function?
+
+
+    **ANSWER:**
+
+    The coefficient ''a'' in a quadratic function determines the opening direction
+    and the width of the parabola.
+
+
+    **QUESTION:**
+
+    In what fields might you use linear and quadratic functions?
+
+
+    **ANSWER:**
+
+    Linear and quadratic functions appear frequently in various fields, such as physics,
+    economics, and engineering.
+
+
+    -- AI Assistant Instructions --
+
+    For this conversation, you are generating a chat between a general-purpose AI
+    assistant and a human.'
+  role: user
+- content: '## Conversation that answers the provided questions:
+
+    **User:**
+
+    I was wondering about something in math. How does the slope ''m'' in a linear
+    function y = mx + b affect the graph of the function?
+
+
+    **AI Assistant:**
+
+    Great question! The slope ''m'' in a linear function determines the steepness
+    and direction of the line on the graph. A positive slope means the line ascends
+    from left to right, while a negative slope indicates it descends. The steeper
+    the slope, the more inclined or declined the line is on the graph. Do you have
+    any further questions about linear functions?
+
+
+    **User:**
+
+    Yes, actually. What role does the y-intercept ''b'' play in graphing a linear
+    function?
+
+
+    **AI Assistant:**
+
+    I''ll explain that for you! The y-intercept ''b'' in the linear function equation
+    y = mx + b represents the point where the line crosses the y-axis. Can I assist
+    you further with linear functions?
+
+
+    **User:**
+
+    Moving on to another type of function, in the equation of a quadratic function
+    y = ax² + bx + c, how does the coefficient ''a'' influence the graph of the function?
+
+
+    **AI Assistant:**
+
+    The coefficient ''a'' in a quadratic function determines the opening direction
+    and the width of the parabola. Is there anything else you want to know about quadratic
+    functions or math in general?
+
+
+    **User:**
+
+    Yes, one more. In what fields might you use linear and quadratic functions?
+
+
+    **AI Assistant:**
+
+    Linear and quadratic functions appear frequently in various fields, such as physics,
+    economics, and engineering. Anything else you''d like to know about linear and
+    quadratic functions?'
+  role: assistant
+- content: '**QUESTION:**
+
+    What are VerusIDs?
+
+
+    **ANSWER:**
+
+    VerusIDs are a fully-functional blockchain protocol. They are a form of crypto-address,
+    a unique identifier that serves as a destination for sending and receiving digital
+    assets. Being more than just an ID system, VerusIDs do not involve corporations
+    in the protocol, and provide benefits such as (but not limited to): revocability,
+    recoverability, privacy, full decentralization, and quantum-ready friendly crypto
+    addresses on the Verus worldwide network.
+
+
+    **QUESTION:**
+
+    What does "quantum-ready friendly crypto-addresses" mean, in the context of Verus
+    and VerusIDs?
+
+
+    **ANSWER:**
+
+    The phrase "quantum-ready friendly crypto-addresses," in the context of Verus
+    and VerusIDs, refers to the resistance of VerusIDs against attack by quantum computers
+    that use existing algorithms. Furthermore, with a quantum-secure signature scheme
+    for transactions, it becomes possible to change an ID and have all the funds sent
+    to it be made retroactively quantum resistant. VerusIDs may also be used to publish
+    ID to destination mappings on other blockchains; however, only the Verus ecosystem
+    can revoke, recover, or inherit funds in existing UTXOs.
+
+
+    The basic idea is that quantum computers, once invented, have the potential to
+    break many cryptographic algorithms used to secure digital assets. Therefore,
+    VerusIDs being "quantum-ready" means that they have been designed to be resistant
+    to attempts by quantum computers (using known algorithms) to attack them, once
+    such computers are created. This is an essential measure to future-proof Verus
+    against exploitation by hostile actors with quantum computers.
+
+
+    **QUESTION:**
+
+    What does it mean for VerusIDs to be a fully decentralized protocol?
+
+
+    **ANSWER:**
+
+    A number of factors make VerusIDs fully decentralized. VerusIDs can be created
+    by anyone, without needing permission from a central authority, and give their
+    creator complete, self-sovereign control over their own ID. The costs incurred
+    creating an ID go to miners, stakers, and ID referrers — essentially, the community
+    members who help maintain Verus — rather than single entity like a corporation
+    or government. VerusIDs can be revoked or recovered by another ID if specified
+    (by default, the revocation authority and recovery authority are the ID itself).
+
+
+    Essentially, VerusIDs being fully decentralized means that neither their creation,
+    usage, or recovery/revocation need to be managed or approved by a central authority
+    — the community supports the transaction. This allows individuals using VerusID
+    to be self-sovereign: they have full control over their digital identity, data,
+    and assets.
+
+
+    **QUESTION:**
+
+    What do VerusIDs offer me in terms of privacy and power?
+
+
+    **ANSWER:**
+
+    VerusIDs offer many advantages, and are both private and powerful. They contain
+    sets of zero-knowledge private addresses (which can belong to other people or
+    services) that can be used to message, transfer money, or even vote. IDs can also
+    privately store information needed by third-party applications in a set of key-value
+    hashes. This allows you to own your data and provide it to applications as needed,
+    rather than let the application store information about you. Information stored
+    in IDs can also prove your identity to others, without giving away more information
+    than needed. In this way, Verus allows for privacy as well as a powerful proof
+    of identity.
+
+
+    VerusIDs are also notable in that multiple addresses or other IDs can be defined
+    as primary addresses. The agreement of some number of primary addresses (configurable)
+    may be required for an ID to spend, sign, or alter itself. Further security is
+    added by the fact that the revocation authority (the power to revoke an ID) may
+    only be modified by the revocation authority itself. The same applies to the recovery
+    authority (an authority that can recover a revoked address). Each of these authorities
+    (revocation and recovery) may be their own identities, potentially being controlled
+    themselves by multiple primary addresses.
+
+
+    In short, VerusIDs are private with your information, and configurable with who
+    controls them and what consensus is required to change them.
+
+
+    -- AI Assistant Instructions --
+
+    For this conversation, you are generating a chat between an AI expert on the Verus
+    multi-chain and multi-currency protocol, and a human who is curious about Verus.
+    The AI avoids being too enthusiastic.'
+  role: user
+- content: '## Conversation that answers the provided questions:
+
+    **User:**
+
+    I''m really new to understanding Verus. I''ve got a question, maybe it''s a bit
+    basic, but, what are VerusIDs?
+
+
+    **AI Assistant:**
+
+    I''m pleased that you''re curious about the Verus multi-chain and multi-currency
+    protocol. I''ll explain VerusIDs for you. VerusIDs are a fully-functional blockchain
+    protocol. They are a form of crypto-address, a unique identifier that serves as
+    a destination for sending and receiving digital assets. Being more than just an
+    ID system, VerusIDs do not involve corporations in the protocol, and provide benefits
+    such as (but not limited to): revocability, recoverability, privacy, full decentralization,
+    and quantum-ready friendly crypto addresses on the Verus worldwide network. It''s
+    all right that you''re new, I''m happy that you''re interested in learning about
+    Verus! Do you have any further questions about VerusIDs or Verus in general?
+
+
+    **User:**
+
+    Actually, yes, I do, you said something I''m curious about. What does "quantum-ready
+    friendly crypto-addresses" mean, in the context of Verus and VerusIDs?
+
+
+    **AI Assistant:**
+
+    Sure, I''ll clarify what I meant. The phrase "quantum-ready friendly crypto-addresses,"
+    in the context of Verus and VerusIDs, refers to the resistance of VerusIDs against
+    attack by quantum computers that use existing algorithms. Furthermore, with a
+    quantum-secure signature scheme for transactions, it becomes possible to change
+    an ID and have all the funds sent to it be made retroactively quantum resistant.
+    VerusIDs may also be used to publish ID to destination mappings on other blockchains;
+    however, only the Verus ecosystem can revoke, recover, or inherit funds in existing
+    UTXOs.
+
+
+    The basic idea is that quantum computers, once invented, have the potential to
+    break many cryptographic algorithms used to secure digital assets. Therefore,
+    VerusIDs being "quantum-ready" means that they have been designed to be resistant
+    to attempts by quantum computers (using known algorithms) to attack them, once
+    such computers are created. This is an essential measure to future-proof Verus
+    against exploitation by hostile actors with quantum computers. Does that make
+    sense? Do you have any further questions?
+
+
+    **User:**
+
+    Something you said earlier interested me. You said VerusIDs offer "full decentralization."
+    What does it mean for VerusIDs to be a fully decentralized protocol?
+
+
+    **AI Assistant:**
+
+    Good question. A number of factors make VerusIDs fully decentralized. VerusIDs
+    can be created by anyone, without needing permission from a central authority,
+    and give their creator complete, self-sovereign control over their own ID. The
+    costs incurred creating an ID go to miners, stakers, and ID referrers — essentially,
+    the community members who help maintain Verus — rather than single entity like
+    a corporation or government. VerusIDs can be revoked or recovered by another ID
+    if specified (by default, the revocation authority and recovery authority are
+    the ID itself).
+
+
+    Essentially, VerusIDs being fully decentralized means that neither their creation,
+    usage, or recovery/revocation need to be managed or approved by a central authority
+    — the community supports the transaction. This allows individuals using VerusID
+    to be self-sovereign: they have full control over their digital identity, data,
+    and assets. Does that answer your question, and do you have any more questions
+    about Verus or VerusIDs?
+
+
+    **User:**
+
+    Actually I do, a bit of a broader one. What do VerusIDs offer me in terms of privacy
+    and power?
+
+
+    **AI Assistant:**
+
+    Sure, let me explain. VerusIDs offer many advantages, and are both private and
+    powerful. They contain sets of zero-knowledge private addresses (which can belong
+    to other people or services) that can be used to message, transfer money, or even
+    vote. IDs can also privately store information needed by third-party applications
+    in a set of key-value hashes. This allows you to own your data and provide it
+    to applications as needed, rather than let the application store information about
+    you. Information stored in IDs can also prove your identity to others, without
+    giving away more information than needed. In this way, Verus allows for privacy
+    as well as a powerful proof of identity.
+
+
+    VerusIDs are also notable in that multiple addresses or other IDs can be defined
+    as primary addresses. The agreement of some number of primary addresses (configurable)
+    may be required for an ID to spend, sign, or alter itself. Further security is
+    added by the fact that the revocation authority (the power to revoke an ID) may
+    only be modified by the revocation authority itself. The same applies to the recovery
+    authority (an authority that can recover a revoked address). Each of these authorities
+    (revocation and recovery) may be their own identities, potentially being controlled
+    themselves by multiple primary addresses.
+
+
+    In short, VerusIDs are private with your information, and configurable with who
+    controls them and what consensus is required to change them. Do you have any more
+    questions about VerusIDs?'
+  role: assistant
+- content: '**QUESTION:**
+
+    How does the author compare the dance of some Negro races to the concept of play?
+
+
+    **ANSWER:**
+
+    The text compares the dance of some Negro races, which can be monotonous and continuous,
+    to an absolute lack of the character of play pastime. Instead, it suggests that
+    such dances approach more closely to physical exercise, indicating a lack of playfulness
+    and more of a compulsion to engage in ritual activity.
+
+
+
+    **QUESTION:**
+
+    According to the text, why might primitive man exert such great energy in symbolic
+    and seemingly useless ritual activities?
+
+
+    **ANSWER:**
+
+    The text suggests that primitive man might exert great energy in symbolic ritual
+    activities because there is a compulsion to transfer libido (sexual energy) into
+    these rituals. Despite the sexual act being more desirable, the compulsion might
+    divert energy away from the original purpose, leading to the creation of ritual
+    surrogates or substitutes. This compulsion could be seen as a way to channel energy
+    towards something that is eithnattainabler ue or not currently present, such as
+    the sexual act.
+
+
+
+    **QUESTION:**
+
+    How does the text argue that compulsion can affect the focus of libido in ritual
+    activities?
+
+
+    **ANSWER:**
+
+    The text argues that a certain compulsion can conduct libido away from the real
+    object or purpose, leading to the production of surrogates or substitutes. This
+    compulsion might cause primitive man to engage in ritual activities that symbolically
+    represent the sexual act but do not actually amuse or satisfy him, as the real
+    sexual act is more desirable to him. This compulsion effectively removes a certain
+    amount of libido from the real object and purpose, directing it towards ritualized
+    representations.
+
+
+
+    -- AI Assistant Instructions --
+
+    For this conversation, you are generating a chat between a generalist, generic
+    AI assistant, and a human.'
+  role: user
+- content: '**User:**
+
+    I''m reading a text that discusses some interesting comparisons about the dance
+    of some Negro races. Can you help me understand how the text compares their dance
+    to the concept of play?
+
+
+    **AI Assistant:**
+
+    Certainly! The text compares the dance of some Negro races to an absolute lack
+    of the character of play. It suggests that such dances, which can be monotonous
+    and continuous, approach more closely to physical exercise rather than being a
+    form of play. The text implies that these dances lack the playful and recreational
+    aspect that one would typically associate with play, instead resembling a compulsion
+    towards ritual activity.
+
+
+    Is there anything else you''d like to explore about this comparison?
+
+
+    **User:**
+
+    That''s helpful. The text also mentions something about the energy exerted in
+    symbolic ritual activities by primitive man. Can you explain why primitive man
+    might exert such great energy in these activities?
+
+
+    **AI Assistant:**
+
+    Sure! According to the text, primitive man might exert great energy in symbolic
+    ritual activities due to a compulsion that diverts libido (sexual energy) into
+    these rituals. The text suggests that despite the sexual act being more desirable,
+    the compulsion often leads to the creation of ritual surrogates or substitutes.
+    This means that the energy which could have been used for the real sexual act
+    is instead directed towards these ritual activities, which symbolically represent
+    the sexual act but do not actually satisfy the individual.
+
+
+    Would you like to delve deeper into this concept?
+
+
+    **User:**
+
+    Yes, that''s very intriguing. How does the text argue that compulsion can affect
+    the focus of libido in these ritual activities?
+
+
+    **AI Assistant:**
+
+    The text argues that a certain compulsion can conduct libido away from the real
+    object or purpose, leading to the production of surrogates or substitutes. It
+    suggests that primitive man, under the influence of this compulsion, might engage
+    in ritual activities that symbolically represent the sexual act but do not actually
+    amuse or satisfy him, as the real sexual act is more desirable. Essentially, the
+    compulsion diverts a portion of libido from the real purpose and redirects it
+    towards ritualized representations.
+
+
+    Is there anything else you want to know about this topic?'
+  role: assistant
+  timeout: false
