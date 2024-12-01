@@ -9434,3 +9434,29 @@
 2024-12-01 18:36:41,617 - INFO - Successfully scraped job: RRC - Engineering Specialist I/ Oil & Gas Field Inspector - Houston (Brazos, Burleson, and Lee County)
 2024-12-01 18:36:41,621 - INFO - Saved job: RRC - Engineering Specialist I/ Oil & Gas Field Inspector - Houston (Brazos, Burleson, and Lee County) - CAPPS
 2024-12-01 18:36:43,002 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/906886
+2024-12-01 18:36:55,312 - WARNING - Timeout waiting for company element
+2024-12-01 18:36:55,389 - DEBUG - No additional metadata found
+2024-12-01 18:36:55,403 - INFO - Successfully scraped job: Vessel Operations Engineer
+2024-12-01 18:36:55,409 - INFO - Saved job: Vessel Operations Engineer - None
+2024-12-01 18:36:56,505 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/996817
+2024-12-01 18:36:58,842 - INFO - Successfully scraped job: Cyber Security Project Engineer
+2024-12-01 18:36:58,847 - INFO - Saved job: Cyber Security Project Engineer - Honeywell
+2024-12-01 18:37:00,433 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/996626
+2024-12-01 18:37:13,144 - WARNING - Timeout waiting for company element
+2024-12-01 18:37:13,302 - INFO - Successfully scraped job: Project Engineer III - Construction
+2024-12-01 18:37:13,306 - INFO - Saved job: Project Engineer III - Construction - None
+2024-12-01 18:37:14,875 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/996614
+2024-12-01 18:37:28,155 - WARNING - Timeout waiting for company element
+2024-12-01 18:37:28,273 - INFO - Successfully scraped job: Lead / Principal structural engineer
+2024-12-01 18:37:28,277 - INFO - Saved job: Lead / Principal structural engineer - None
+2024-12-01 18:37:29,715 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/996528
+2024-12-01 18:37:31,801 - INFO - Successfully scraped job: Process Simulation Engineer
+2024-12-01 18:37:31,805 - INFO - Saved job: Process Simulation Engineer - Emerson
+2024-12-01 18:37:33,252 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/996495
+2024-12-01 18:37:36,233 - DEBUG - No additional metadata found
+2024-12-01 18:37:36,248 - INFO - Successfully scraped job: Firmware staff senior design engineer
+2024-12-01 18:37:36,252 - INFO - Saved job: Firmware staff senior design engineer - Schneider Electric
+2024-12-01 18:37:38,233 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/996452
+2024-12-01 18:37:41,768 - INFO - Successfully scraped job: R&D Engineer-Mechanical
+2024-12-01 18:37:41,772 - INFO - Saved job: R&D Engineer-Mechanical - ABB
+2024-12-01 18:37:43,229 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/996201

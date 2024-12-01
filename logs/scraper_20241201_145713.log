@@ -9255,3 +9255,37 @@
 2024-12-01 18:36:38,369 - INFO - Successfully extracted 20 job links
 2024-12-01 18:36:38,369 - INFO - Found 20 jobs on page 102
 2024-12-01 18:36:38,369 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/996201
+2024-12-01 18:36:50,673 - WARNING - Timeout waiting for company element
+2024-12-01 18:36:50,804 - INFO - Successfully scraped job: HSE Design Lad Engineer
+2024-12-01 18:36:50,811 - INFO - Saved job: HSE Design Lad Engineer - None
+2024-12-01 18:36:52,468 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/996273
+2024-12-01 18:37:05,509 - WARNING - Timeout waiting for company element
+2024-12-01 18:37:05,681 - INFO - Successfully scraped job: UFR Material and Welding Engineer
+2024-12-01 18:37:05,687 - INFO - Saved job: UFR Material and Welding Engineer - None
+2024-12-01 18:37:07,418 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/996238
+2024-12-01 18:37:19,775 - WARNING - Timeout waiting for company element
+2024-12-01 18:37:19,859 - DEBUG - No additional metadata found
+2024-12-01 18:37:19,874 - INFO - Successfully scraped job: Civil Engineer
+2024-12-01 18:37:19,877 - INFO - Saved job: Civil Engineer - None
+2024-12-01 18:37:21,271 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/971051
+2024-12-01 18:37:24,615 - INFO - Successfully scraped job: Associate Engineer, Gas ENG Welding Ctr Excellence
+2024-12-01 18:37:24,619 - INFO - Saved job: Associate Engineer, Gas ENG Welding Ctr Excellence - Consolidated Edison
+2024-12-01 18:37:26,237 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/888594
+2024-12-01 18:37:28,058 - DEBUG - No additional metadata found
+2024-12-01 18:37:28,072 - INFO - Successfully scraped job: Oil & Gas Petroleum Engineer
+2024-12-01 18:37:28,076 - INFO - Saved job: Oil & Gas Petroleum Engineer - Bank of America
+2024-12-01 18:37:29,924 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/970834
+2024-12-01 18:37:33,441 - INFO - Successfully scraped job: LNG - Onshore Offshore Production Senior Project Engineer
+2024-12-01 18:37:33,444 - INFO - Saved job: LNG - Onshore Offshore Production Senior Project Engineer - Baker Hughes Company
+2024-12-01 18:37:34,952 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/970826
+2024-12-01 18:37:37,595 - INFO - Successfully scraped job: Commercial HVAC & Refrigeration engineer
+2024-12-01 18:37:37,598 - INFO - Saved job: Commercial HVAC & Refrigeration engineer - Johnson Controls
+2024-12-01 18:37:38,756 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/923269
+2024-12-01 18:37:41,206 - INFO - Successfully scraped job: Field Alarm Engineer
+2024-12-01 18:37:41,210 - INFO - Saved job: Field Alarm Engineer - Honeywell
+2024-12-01 18:37:43,148 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/922781
+2024-12-01 18:37:45,055 - INFO - Successfully scraped job: Graduate Mechanical Engineer
+2024-12-01 18:37:45,059 - INFO - Saved job: Graduate Mechanical Engineer - AtkinsRéalis
+2024-12-01 18:37:46,383 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/883072
+2024-12-01 18:37:49,667 - INFO - Successfully scraped job: Transportation Structural Engineer
+2024-12-01 18:37:49,673 - INFO - Saved job: Transportation Structural Engineer - AtkinsRéalis
