@@ -10542,3 +10542,41 @@
 2024-12-01 19:07:55,611 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/957448
 2024-12-01 19:07:58,014 - INFO - Successfully scraped job: Embedded Engineer - Summer 2025 Internship
 2024-12-01 19:07:58,019 - INFO - Saved job: Embedded Engineer - Summer 2025 Internship - Honeywell
+2024-12-01 19:07:59,725 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/957116
+2024-12-01 19:08:02,467 - INFO - Successfully scraped job: Drives/Controls Service Engineer
+2024-12-01 19:08:02,471 - INFO - Saved job: Drives/Controls Service Engineer - ABB
+2024-12-01 19:08:03,890 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006256
+2024-12-01 19:08:16,663 - WARNING - Timeout waiting for company element
+2024-12-01 19:08:16,803 - INFO - Successfully scraped job: Geotechnical Regional Engineer
+2024-12-01 19:08:16,807 - INFO - Saved job: Geotechnical Regional Engineer - None
+2024-12-01 19:08:18,031 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006167
+2024-12-01 19:08:21,346 - INFO - Successfully scraped job: Advanced Mechanical Engineer
+2024-12-01 19:08:21,350 - INFO - Saved job: Advanced Mechanical Engineer - Honeywell
+2024-12-01 19:08:22,603 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1006097
+2024-12-01 19:08:25,112 - INFO - Successfully scraped job: Software Support Engineer
+2024-12-01 19:08:25,116 - INFO - Saved job: Software Support Engineer - Honeywell
+2024-12-01 19:08:26,587 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1006106
+2024-12-01 19:08:28,845 - INFO - Successfully scraped job: Software Support Engineer
+2024-12-01 19:08:28,850 - INFO - Saved job: Software Support Engineer - Honeywell
+2024-12-01 19:08:30,418 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1006068
+2024-12-01 19:08:33,122 - INFO - Successfully scraped job: TPE l / Graduate Electrical Engineer
+2024-12-01 19:08:33,127 - INFO - Saved job: TPE l / Graduate Electrical Engineer - Wood PLC
+2024-12-01 19:08:34,584 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006045
+2024-12-01 19:08:36,724 - INFO - Successfully scraped job: Lead Piping Engineer
+2024-12-01 19:08:36,729 - INFO - Saved job: Lead Piping Engineer - Wood PLC
+2024-12-01 19:08:38,193 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006061
+2024-12-01 19:08:41,161 - INFO - Successfully scraped job: TPE l / Graduate Process Engineer
+2024-12-01 19:08:41,165 - INFO - Saved job: TPE l / Graduate Process Engineer - Wood PLC
+2024-12-01 19:08:42,632 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006027
+2024-12-01 19:08:45,582 - INFO - Successfully scraped job: Staff Technical Support Engineer (Singapore)
+2024-12-01 19:08:45,587 - INFO - Saved job: Staff Technical Support Engineer (Singapore) - Emerson
+2024-12-01 19:08:47,395 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1006007
+2024-12-01 19:08:50,536 - INFO - Successfully scraped job: Welding Engineer
+2024-12-01 19:08:50,540 - INFO - Saved job: Welding Engineer - Subsea 7
+2024-12-01 19:08:52,000 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005947
+2024-12-01 19:08:55,049 - INFO - Successfully scraped job: Quantity Engineer/Kalkulatør
+2024-12-01 19:08:55,054 - INFO - Saved job: Quantity Engineer/Kalkulatør - Aker Solutions
+2024-12-01 19:08:56,824 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005928
+2024-12-01 19:08:59,527 - INFO - Successfully scraped job: Field Service Engineer
+2024-12-01 19:08:59,532 - INFO - Saved job: Field Service Engineer - ABB
+2024-12-01 19:09:00,939 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/956390
