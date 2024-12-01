@@ -568,3 +568,45 @@
 2024-12-01 15:04:29,416 - INFO - Successfully scraped job: Lead Software Engineer - Embedded Platform Software
 2024-12-01 15:04:29,419 - INFO - Saved job: Lead Software Engineer - Embedded Platform Software - GE Renewable Energy Power and Aviation
 2024-12-01 15:04:30,737 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/978134
+2024-12-01 15:04:33,429 - INFO - Successfully scraped job: Principal Software Engineer
+2024-12-01 15:04:33,431 - INFO - Saved job: Principal Software Engineer - Honeywell
+2024-12-01 15:04:34,815 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/864896
+2024-12-01 15:04:37,483 - INFO - Successfully scraped job: Bachelor-/ Master-Thesis (m/f/d) - Software Engineering / Architecture
+2024-12-01 15:04:37,486 - INFO - Saved job: Bachelor-/ Master-Thesis (m/f/d) - Software Engineering / Architecture - ABB
+2024-12-01 15:04:39,085 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/952186
+2024-12-01 15:04:42,992 - INFO - Successfully scraped job: Sr Advanced Software Engineer
+2024-12-01 15:04:42,995 - INFO - Saved job: Sr Advanced Software Engineer - Honeywell
+2024-12-01 15:04:44,430 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/871119
+2024-12-01 15:04:47,804 - INFO - Successfully scraped job: Sensor Software Engineer
+2024-12-01 15:04:47,807 - INFO - Saved job: Sensor Software Engineer - Vestas
+2024-12-01 15:04:49,287 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/950775
+2024-12-01 15:04:52,596 - INFO - Successfully scraped job: Associate Group Software Engineer(C#, .net, Revit API/Autocad API/Navisworks API or any other API's)
+2024-12-01 15:04:52,598 - INFO - Saved job: Associate Group Software Engineer(C#, .net, Revit API/Autocad API/Navisworks API or any other API's) - AtkinsRéalis
+2024-12-01 15:04:54,466 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1001007
+2024-12-01 15:04:57,525 - INFO - Successfully scraped job: Staff Software Engineer - C# - Web Development - (2 to 5 years)
+2024-12-01 15:04:57,527 - INFO - Saved job: Staff Software Engineer - C# - Web Development - (2 to 5 years) - Emerson
+2024-12-01 15:04:58,794 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/935753
+2024-12-01 15:05:02,363 - INFO - Successfully scraped job: Nuclear Methods Software Engineer
+2024-12-01 15:05:02,366 - INFO - Saved job: Nuclear Methods Software Engineer - Raag Solutions
+2024-12-01 15:05:03,409 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/934537
+2024-12-01 15:05:06,048 - DEBUG - No additional metadata found
+2024-12-01 15:05:06,060 - INFO - Successfully scraped job: Sr. Software Engineer - AI/ML, AWS Neuron Distributed Training - Next Generation Training
+2024-12-01 15:05:06,063 - INFO - Saved job: Sr. Software Engineer - AI/ML, AWS Neuron Distributed Training - Next Generation Training - Amazon
+2024-12-01 15:05:07,816 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/998784
+2024-12-01 15:05:10,403 - INFO - Successfully scraped job: Software Engineer ERP ABAP
+2024-12-01 15:05:10,406 - INFO - Saved job: Software Engineer ERP ABAP - Chevron
+2024-12-01 15:05:11,493 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/997885
+2024-12-01 15:05:13,644 - INFO - Successfully scraped job: Software Engineer MAUI
+2024-12-01 15:05:13,646 - INFO - Saved job: Software Engineer MAUI - Chevron
+2024-12-01 15:05:15,181 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/906686
+2024-12-01 15:05:18,365 - INFO - Successfully scraped job: SOFTWARE ENGINEERING MGR
+2024-12-01 15:05:18,368 - INFO - Saved job: SOFTWARE ENGINEERING MGR - Weatherford
+2024-12-01 15:05:19,377 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/963231
+2024-12-01 15:05:21,913 - INFO - Successfully scraped job: Senior Software Engineer - RF
+2024-12-01 15:05:21,916 - INFO - Saved job: Senior Software Engineer - RF - Emerson
+2024-12-01 15:05:23,123 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/958191
+2024-12-01 15:05:26,695 - INFO - Successfully scraped job: Software Engineer (Python)
+2024-12-01 15:05:26,698 - INFO - Saved job: Software Engineer (Python) - Engie
+2024-12-01 15:05:27,754 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/990418
+2024-12-01 15:05:31,678 - INFO - Successfully scraped job: Senior Software Engineer
+2024-12-01 15:05:31,681 - INFO - Saved job: Senior Software Engineer - Vestas
