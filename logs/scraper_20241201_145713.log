@@ -12438,3 +12438,23 @@
 2024-12-01 19:50:46,414 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991307
 2024-12-01 19:50:49,759 - INFO - Successfully scraped job: Principal Engineer (CRA Products)
 2024-12-01 19:50:49,764 - INFO - Saved job: Principal Engineer (CRA Products) - Subsea 7
+2024-12-01 19:50:51,346 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991161
+2024-12-01 19:51:04,038 - WARNING - Timeout waiting for company element
+2024-12-01 19:51:04,167 - INFO - Successfully scraped job: Senior Flexible & Umbilical Engineer
+2024-12-01 19:51:04,173 - INFO - Saved job: Senior Flexible & Umbilical Engineer - None
+2024-12-01 19:51:05,350 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/991154
+2024-12-01 19:51:17,999 - WARNING - Timeout waiting for company element
+2024-12-01 19:51:18,148 - INFO - Successfully scraped job: Structural Engineering Specialist
+2024-12-01 19:51:18,153 - INFO - Saved job: Structural Engineering Specialist - None
+2024-12-01 19:51:20,126 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991126
+2024-12-01 19:51:33,385 - WARNING - Timeout waiting for company element
+2024-12-01 19:51:33,490 - DEBUG - No additional metadata found
+2024-12-01 19:51:33,505 - INFO - Successfully scraped job: Lead Project Engineer
+2024-12-01 19:51:33,513 - INFO - Saved job: Lead Project Engineer - None
+2024-12-01 19:51:34,678 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/874637
+2024-12-01 19:51:38,384 - INFO - Successfully scraped job: WL Field Engineer
+2024-12-01 19:51:38,389 - INFO - Saved job: WL Field Engineer - Schlumberger
+2024-12-01 19:51:39,792 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/906320
+2024-12-01 19:51:43,415 - INFO - Successfully scraped job: Senior Engineer, Water
+2024-12-01 19:51:43,421 - INFO - Saved job: Senior Engineer, Water - AtkinsRéalis
+2024-12-01 19:51:45,072 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/922604

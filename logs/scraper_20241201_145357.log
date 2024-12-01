@@ -12669,3 +12669,25 @@
 2024-12-01 19:50:49,642 - WARNING - Timeout waiting for company element
 2024-12-01 19:50:49,790 - INFO - Successfully scraped job: Senior Engineer, Process and Flow Assurance
 2024-12-01 19:50:49,796 - INFO - Saved job: Senior Engineer, Process and Flow Assurance - None
+2024-12-01 19:50:51,426 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991000
+2024-12-01 19:50:55,432 - INFO - Successfully scraped job: Technical Support Engineer
+2024-12-01 19:50:55,438 - INFO - Saved job: Technical Support Engineer - Schneider Electric
+2024-12-01 19:50:57,201 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990898
+2024-12-01 19:51:00,948 - DEBUG - No additional metadata found
+2024-12-01 19:51:00,963 - INFO - Successfully scraped job: Service Contract Engineer (M/F)
+2024-12-01 19:51:00,968 - INFO - Saved job: Service Contract Engineer (M/F) - Vestas
+2024-12-01 19:51:02,638 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990889
+2024-12-01 19:51:06,060 - INFO - Successfully scraped job: Lead Engineer - Rotor Mechanical Design- Hybrid
+2024-12-01 19:51:06,067 - INFO - Saved job: Lead Engineer - Rotor Mechanical Design- Hybrid - GE Renewable Energy Power and Aviation
+2024-12-01 19:51:07,367 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/990837
+2024-12-01 19:51:09,685 - INFO - Successfully scraped job: Structural Engineer
+2024-12-01 19:51:09,691 - INFO - Saved job: Structural Engineer - Wood PLC
+2024-12-01 19:51:11,165 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990763
+2024-12-01 19:51:24,276 - WARNING - Timeout waiting for company element
+2024-12-01 19:51:24,389 - INFO - Successfully scraped job: Mechanical Engineer (FEED, Detailed Engineering)
+2024-12-01 19:51:24,395 - INFO - Saved job: Mechanical Engineer (FEED, Detailed Engineering) - None
+2024-12-01 19:51:25,898 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990778
+2024-12-01 19:51:39,525 - WARNING - Timeout waiting for company element
+2024-12-01 19:51:39,666 - INFO - Successfully scraped job: Control System Engineer
+2024-12-01 19:51:39,673 - INFO - Saved job: Control System Engineer - None
+2024-12-01 19:51:40,877 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990687
