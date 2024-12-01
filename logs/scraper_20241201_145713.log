@@ -11531,3 +11531,46 @@
 2024-12-01 19:28:49,597 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/921510
 2024-12-01 19:28:52,257 - INFO - Successfully scraped job: Test Engineer
 2024-12-01 19:28:52,263 - INFO - Saved job: Test Engineer - ABB
+2024-12-01 19:28:53,742 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/889716
+2024-12-01 19:28:55,973 - INFO - Successfully scraped job: Pipeline (Water Infrastructure) Design Engineer
+2024-12-01 19:28:55,978 - INFO - Saved job: Pipeline (Water Infrastructure) Design Engineer - AtkinsRéalis
+2024-12-01 19:28:57,946 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000052
+2024-12-01 19:29:00,304 - DEBUG - No additional metadata found
+2024-12-01 19:29:00,321 - INFO - Successfully scraped job: Engineer - Gas Engineering
+2024-12-01 19:29:00,325 - INFO - Saved job: Engineer - Gas Engineering - Iberdrola
+2024-12-01 19:29:01,801 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/935954
+2024-12-01 19:29:05,645 - INFO - Successfully scraped job: Water/Wastewater Project Engineer EI
+2024-12-01 19:29:05,650 - INFO - Saved job: Water/Wastewater Project Engineer EI - Keller Associates, Inc.
+2024-12-01 19:29:07,010 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/935853
+2024-12-01 19:29:08,908 - INFO - Successfully scraped job: Wastewater Engineer/Project Manager
+2024-12-01 19:29:08,913 - INFO - Saved job: Wastewater Engineer/Project Manager - HDR
+2024-12-01 19:29:10,367 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/935848
+2024-12-01 19:29:12,600 - INFO - Successfully scraped job: Water & Wastewater Project Engineer
+2024-12-01 19:29:12,604 - INFO - Saved job: Water & Wastewater Project Engineer - Herbert, Rowland & Grubic
+2024-12-01 19:29:14,156 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/935806
+2024-12-01 19:29:17,348 - INFO - Successfully scraped job: Water / Wastewater Engineer
+2024-12-01 19:29:17,353 - INFO - Saved job: Water / Wastewater Engineer - HDR
+2024-12-01 19:29:19,236 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/935603
+2024-12-01 19:29:22,847 - INFO - Successfully scraped job: Senior Nuclear Engineer
+2024-12-01 19:29:22,851 - INFO - Saved job: Senior Nuclear Engineer - Bechtel
+2024-12-01 19:29:24,726 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/935338
+2024-12-01 19:29:27,148 - INFO - Successfully scraped job: Senior Electrical Engineer - Nuclear Projects
+2024-12-01 19:29:27,153 - INFO - Saved job: Senior Electrical Engineer - Nuclear Projects - Sargent & Lundy
+2024-12-01 19:29:28,797 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/934917
+2024-12-01 19:29:32,442 - INFO - Successfully scraped job: Field Engineer Intern - Primoris Renewable Energy
+2024-12-01 19:29:32,447 - INFO - Saved job: Field Engineer Intern - Primoris Renewable Energy - PRIMORIS USA
+2024-12-01 19:29:34,414 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/934952
+2024-12-01 19:29:36,856 - INFO - Successfully scraped job: Field Engineer I - Primoris Renewable Energy
+2024-12-01 19:29:36,860 - INFO - Saved job: Field Engineer I - Primoris Renewable Energy - PRIMORIS USA
+2024-12-01 19:29:38,355 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/934726
+2024-12-01 19:29:40,853 - INFO - Successfully scraped job: Nuclear Engineers - 2025 College Graduates
+2024-12-01 19:29:40,858 - INFO - Saved job: Nuclear Engineers - 2025 College Graduates - Westinghouse Electric Company, LLC
+2024-12-01 19:29:41,864 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/934591
+2024-12-01 19:29:43,852 - INFO - Successfully scraped job: Engineer (All Engineer Majors - Fermi 2 Nuclear Power Plant)
+2024-12-01 19:29:43,858 - INFO - Saved job: Engineer (All Engineer Majors - Fermi 2 Nuclear Power Plant) - DTE Energy
+2024-12-01 19:29:45,517 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/934725
+2024-12-01 19:29:48,647 - INFO - Successfully scraped job: Engineering Supervisor - Nuclear Instrumentation Systems
+2024-12-01 19:29:48,652 - INFO - Saved job: Engineering Supervisor - Nuclear Instrumentation Systems - Westinghouse Electric Company, LLC
+2024-12-01 19:29:50,140 - INFO - Collected 2540 jobs so far
+2024-12-01 19:29:50,140 - INFO - Scraping page 128 of 389
+2024-12-01 19:29:53,849 - INFO - Getting job links from current page

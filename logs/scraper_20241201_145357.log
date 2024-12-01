@@ -11695,3 +11695,30 @@
 2024-12-01 19:28:44,134 - INFO - Successfully scraped job: Lead Control Moment Gyroscope Analog Electrical Engineer
 2024-12-01 19:28:44,139 - INFO - Saved job: Lead Control Moment Gyroscope Analog Electrical Engineer - Honeywell
 2024-12-01 19:28:45,620 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000381
+2024-12-01 19:28:57,918 - WARNING - Timeout waiting for company element
+2024-12-01 19:28:58,057 - INFO - Successfully scraped job: Subsea Controls Engineer
+2024-12-01 19:28:58,063 - INFO - Saved job: Subsea Controls Engineer - None
+2024-12-01 19:28:59,440 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1000289
+2024-12-01 19:29:01,700 - DEBUG - No additional metadata found
+2024-12-01 19:29:01,715 - INFO - Successfully scraped job: DevOps Engineer
+2024-12-01 19:29:01,720 - INFO - Saved job: DevOps Engineer - Emerson
+2024-12-01 19:29:03,412 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/1000394
+2024-12-01 19:29:06,163 - INFO - Successfully scraped job: Medium Voltage Power Electronics Test Engineer (F/M)
+2024-12-01 19:29:06,169 - INFO - Saved job: Medium Voltage Power Electronics Test Engineer (F/M) - Schneider Electric
+2024-12-01 19:29:07,748 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000220
+2024-12-01 19:29:10,548 - INFO - Successfully scraped job: Senior Water Engineer/Senior (Water) Project Manager
+2024-12-01 19:29:10,553 - INFO - Saved job: Senior Water Engineer/Senior (Water) Project Manager - AtkinsRéalis
+2024-12-01 19:29:12,444 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/oilfield-jobs/1000196
+2024-12-01 19:29:27,058 - WARNING - Timeout waiting for company element
+2024-12-01 19:29:27,273 - INFO - Successfully scraped job: Pipeline Engineering Lead
+2024-12-01 19:29:27,278 - INFO - Saved job: Pipeline Engineering Lead - None
+2024-12-01 19:29:28,542 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000117
+2024-12-01 19:29:31,953 - INFO - Successfully scraped job: Maintenance Engineer
+2024-12-01 19:29:31,959 - INFO - Saved job: Maintenance Engineer - Exxon Mobil
+2024-12-01 19:29:33,469 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/925183
+2024-12-01 19:29:37,158 - INFO - Successfully scraped job: Water/Wastewater Project Engineer
+2024-12-01 19:29:37,163 - INFO - Saved job: Water/Wastewater Project Engineer - Garver
+2024-12-01 19:29:38,465 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/908674
+2024-12-01 19:29:41,313 - INFO - Successfully scraped job: Thermal Engineer Luft- und Raumfahrt (m/w/d)
+2024-12-01 19:29:41,319 - INFO - Saved job: Thermal Engineer Luft- und Raumfahrt (m/w/d) - Akkodis
+2024-12-01 19:29:42,516 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/818850
