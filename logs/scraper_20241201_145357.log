@@ -13886,3 +13886,27 @@
 2024-12-01 20:21:08,204 - INFO - Successfully scraped job: SCADA Engineer
 2024-12-01 20:21:08,209 - INFO - Saved job: SCADA Engineer - ABB
 2024-12-01 20:21:09,763 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/oilfield-jobs/1003276
+2024-12-01 20:21:23,453 - WARNING - Timeout waiting for company element
+2024-12-01 20:21:23,566 - INFO - Successfully scraped job: Senior Structural Engineer
+2024-12-01 20:21:23,572 - INFO - Saved job: Senior Structural Engineer - None
+2024-12-01 20:21:25,229 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1003199
+2024-12-01 20:21:37,674 - WARNING - Timeout waiting for company element
+2024-12-01 20:21:37,862 - INFO - Successfully scraped job: Construction Specialist (Civil, Structural \u0026 Project Engineering)
+2024-12-01 20:21:37,867 - INFO - Saved job: Construction Specialist (Civil, Structural \u0026 Project Engineering) - None
+2024-12-01 20:21:39,193 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/933078
+2024-12-01 20:21:41,939 - INFO - Successfully scraped job: 2025 Summer Internship - Mine Engineering - Site Locations
+2024-12-01 20:21:41,944 - INFO - Saved job: 2025 Summer Internship - Mine Engineering - Site Locations - Freeport-McMoRan, Inc.
+2024-12-01 20:21:43,742 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/951662
+2024-12-01 20:21:47,646 - INFO - Successfully scraped job: Nuclear Quality Engineer 3
+2024-12-01 20:21:47,652 - INFO - Saved job: Nuclear Quality Engineer 3 - Teledyne FLIR LLC
+2024-12-01 20:21:49,485 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/951358
+2024-12-01 20:21:53,078 - INFO - Successfully scraped job: Offshore HVAC & Refrigeration Engineer
+2024-12-01 20:21:53,085 - INFO - Saved job: Offshore HVAC & Refrigeration Engineer - Johnson Controls
+2024-12-01 20:21:55,049 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/976893
+2024-12-01 20:21:59,181 - INFO - Successfully scraped job: Commissioning Engineer
+2024-12-01 20:21:59,186 - INFO - Saved job: Commissioning Engineer - Wood PLC
+2024-12-01 20:22:00,914 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/976794
+2024-12-01 20:22:14,277 - WARNING - Timeout waiting for company element
+2024-12-01 20:22:14,375 - INFO - Successfully scraped job: Senior Mechanical Engineer (Static Equipment)
+2024-12-01 20:22:14,382 - INFO - Saved job: Senior Mechanical Engineer (Static Equipment) - None
+2024-12-01 20:22:16,207 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/910613
