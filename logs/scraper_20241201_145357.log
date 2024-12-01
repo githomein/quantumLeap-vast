@@ -5393,3 +5393,36 @@
 2024-12-01 16:58:48,615 - INFO - Successfully scraped job: Rotating Equipment Engineer - Central - TSI
 2024-12-01 16:58:48,618 - INFO - Saved job: Rotating Equipment Engineer - Central - TSI - bp
 2024-12-01 16:58:50,434 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/985954
+2024-12-01 16:59:03,869 - WARNING - Timeout waiting for company element
+2024-12-01 16:59:03,988 - INFO - Successfully scraped job: Project Engineer
+2024-12-01 16:59:03,991 - INFO - Saved job: Project Engineer - None
+2024-12-01 16:59:05,789 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/895471
+2024-12-01 16:59:09,419 - INFO - Successfully scraped job: Advanced Lead Engineer - Systems Engineer
+2024-12-01 16:59:09,422 - INFO - Saved job: Advanced Lead Engineer - Systems Engineer - GE Renewable Energy Power and Aviation
+2024-12-01 16:59:11,067 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/915230
+2024-12-01 16:59:14,520 - INFO - Successfully scraped job: Mechanical Engineering - Recent Grad/Full Time (US Person Required)
+2024-12-01 16:59:14,524 - INFO - Saved job: Mechanical Engineering - Recent Grad/Full Time (US Person Required) - Honeywell
+2024-12-01 16:59:15,607 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/915227
+2024-12-01 16:59:18,908 - INFO - Successfully scraped job: Aerospace Development Program - Engineering - Recent Grad/Full Time (US Person Required)
+2024-12-01 16:59:18,911 - INFO - Saved job: Aerospace Development Program - Engineering - Recent Grad/Full Time (US Person Required) - Honeywell
+2024-12-01 16:59:20,406 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/986298
+2024-12-01 16:59:22,863 - INFO - Successfully scraped job: Petroleum Engineer or Cased hole Petrophysicist II - Wireline
+2024-12-01 16:59:22,867 - INFO - Saved job: Petroleum Engineer or Cased hole Petrophysicist II - Wireline - Weatherford
+2024-12-01 16:59:24,461 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/895449
+2024-12-01 16:59:28,287 - INFO - Successfully scraped job: Senior Civil Engineer
+2024-12-01 16:59:28,291 - INFO - Saved job: Senior Civil Engineer - Wood PLC
+2024-12-01 16:59:30,268 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/986011
+2024-12-01 16:59:33,424 - INFO - Successfully scraped job: Quality Engineer
+2024-12-01 16:59:33,428 - INFO - Saved job: Quality Engineer - ABB
+2024-12-01 16:59:35,163 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/884147
+2024-12-01 16:59:37,510 - INFO - Successfully scraped job: Lead Process Engineer
+2024-12-01 16:59:37,514 - INFO - Saved job: Lead Process Engineer - Wood PLC
+2024-12-01 16:59:39,127 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006907
+2024-12-01 16:59:42,970 - INFO - Successfully scraped job: Manufacturing Engineer- Production Processes and Equipment
+2024-12-01 16:59:42,974 - INFO - Saved job: Manufacturing Engineer- Production Processes and Equipment - GE Renewable Energy Power and Aviation
+2024-12-01 16:59:44,729 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006896
+2024-12-01 16:59:47,501 - INFO - Successfully scraped job: Engineer - Systems Engineering
+2024-12-01 16:59:47,504 - INFO - Saved job: Engineer - Systems Engineering - GE Renewable Energy Power and Aviation
+2024-12-01 16:59:48,963 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1006799
+2024-12-01 16:59:52,644 - INFO - Successfully scraped job: Sales Engineer
+2024-12-01 16:59:52,647 - INFO - Saved job: Sales Engineer - ABB
