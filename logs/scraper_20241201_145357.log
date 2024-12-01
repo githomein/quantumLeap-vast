@@ -1101,3 +1101,44 @@
 2024-12-01 15:14:34,372 - INFO - Saved job: Software Developer (F#) - Halliburton
 2024-12-01 15:14:35,896 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/917664
 2024-12-01 15:14:38,857 - INFO - Successfully scraped job: Software Engr I,Suzhou,PSS,IA
+2024-12-01 15:14:38,860 - INFO - Saved job: Software Engr I,Suzhou,PSS,IA - Honeywell
+2024-12-01 15:14:40,660 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/963473
+2024-12-01 15:14:44,037 - INFO - Successfully scraped job: Scientific Software Developer Intern (3 months) - Starting Summer 2025
+2024-12-01 15:14:44,039 - INFO - Saved job: Scientific Software Developer Intern (3 months) - Starting Summer 2025 - Schlumberger
+2024-12-01 15:14:45,553 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/960573
+2024-12-01 15:14:47,870 - INFO - Successfully scraped job: Advanced Software Engr
+2024-12-01 15:14:47,873 - INFO - Saved job: Advanced Software Engr - Honeywell
+2024-12-01 15:14:49,053 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1005991
+2024-12-01 15:14:52,702 - INFO - Successfully scraped job: Product Owner Leitungsbau Software (m/w/d) (Dortmund, DE)
+2024-12-01 15:14:52,706 - INFO - Saved job: Product Owner Leitungsbau Software (m/w/d) (Dortmund, DE) - E.ON
+2024-12-01 15:14:54,118 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/888080
+2024-12-01 15:14:57,862 - INFO - Successfully scraped job: Senior Project Manager - Natural Gas Software
+2024-12-01 15:14:57,865 - INFO - Saved job: Senior Project Manager - Natural Gas Software - Blackstone Technology Group
+2024-12-01 15:14:59,760 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1003568
+2024-12-01 15:15:02,478 - INFO - Successfully scraped job: Advanced Software Engr
+2024-12-01 15:15:02,481 - INFO - Saved job: Advanced Software Engr - Honeywell
+2024-12-01 15:15:04,110 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/976766
+2024-12-01 15:15:07,398 - DEBUG - No additional metadata found
+2024-12-01 15:15:07,411 - INFO - Successfully scraped job: Tech Prof-Software Development (45011980)
+2024-12-01 15:15:07,413 - INFO - Saved job: Tech Prof-Software Development (45011980) - Halliburton
+2024-12-01 15:15:08,435 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/998963
+2024-12-01 15:15:10,749 - INFO - Successfully scraped job: Software Renewals Specialist
+2024-12-01 15:15:10,753 - INFO - Saved job: Software Renewals Specialist - Emerson
+2024-12-01 15:15:11,924 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/893061
+2024-12-01 15:15:14,131 - INFO - Successfully scraped job: Senior Software Developer
+2024-12-01 15:15:14,134 - INFO - Saved job: Senior Software Developer - Emerson
+2024-12-01 15:15:15,197 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/961190
+2024-12-01 15:15:18,082 - INFO - Successfully scraped job: Staff Software Developer
+2024-12-01 15:15:18,085 - INFO - Saved job: Staff Software Developer - Emerson
+2024-12-01 15:15:19,925 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/991499
+2024-12-01 15:15:23,452 - INFO - Successfully scraped job: Advanced Software Engr
+2024-12-01 15:15:23,454 - INFO - Saved job: Advanced Software Engr - Honeywell
+2024-12-01 15:15:24,735 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/990401
+2024-12-01 15:15:28,343 - INFO - Successfully scraped job: Software Developer in Test - C, Java, C#, ReadyAPI, Python
+2024-12-01 15:15:28,346 - INFO - Saved job: Software Developer in Test - C, Java, C#, ReadyAPI, Python - Honeywell
+2024-12-01 15:15:29,348 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/989931
+2024-12-01 15:15:32,317 - INFO - Successfully scraped job: Software Support Analyst/Enterprise Security Solutions
+2024-12-01 15:15:32,320 - INFO - Saved job: Software Support Analyst/Enterprise Security Solutions - Honeywell
+2024-12-01 15:15:34,075 - INFO - Collected 260 jobs so far
+2024-12-01 15:15:34,075 - INFO - Scraping page 14 of 384
+2024-12-01 15:15:37,431 - INFO - Getting job links from current page
