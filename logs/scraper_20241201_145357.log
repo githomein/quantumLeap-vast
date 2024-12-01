@@ -2652,3 +2652,20 @@
 2024-12-01 15:48:02,794 - INFO - Successfully scraped job: Power Risk Engineer
 2024-12-01 15:48:02,801 - INFO - Saved job: Power Risk Engineer - None
 2024-12-01 15:48:03,817 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005386
+2024-12-01 15:48:16,164 - WARNING - Timeout waiting for company element
+2024-12-01 15:48:16,657 - INFO - Successfully scraped job: Senior Project Engineer
+2024-12-01 15:48:16,659 - INFO - Saved job: Senior Project Engineer - None
+2024-12-01 15:48:18,027 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1002073
+2024-12-01 15:48:31,045 - WARNING - Timeout waiting for company element
+2024-12-01 15:48:31,115 - DEBUG - No additional metadata found
+2024-12-01 15:48:31,128 - INFO - Successfully scraped job: Structural Civil Engineer
+2024-12-01 15:48:31,131 - INFO - Saved job: Structural Civil Engineer - None
+2024-12-01 15:48:33,076 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000256
+2024-12-01 15:48:53,266 - WARNING - Timeout waiting for company element
+2024-12-01 15:48:53,439 - INFO - Successfully scraped job: Instrumentation Engineer
+2024-12-01 15:48:53,443 - INFO - Saved job: Instrumentation Engineer - None
+2024-12-01 15:48:54,491 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/999491
+2024-12-01 15:49:06,535 - WARNING - Timeout waiting for company element
+2024-12-01 15:49:07,025 - DEBUG - No additional metadata found
+2024-12-01 15:49:07,038 - INFO - Successfully scraped job: FIELD SERVICE ENGINEER (MEDICAL EQUIPEMENT) IRELAND
+2024-12-01 15:49:07,042 - INFO - Saved job: FIELD SERVICE ENGINEER (MEDICAL EQUIPEMENT) IRELAND - None

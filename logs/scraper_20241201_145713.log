@@ -2258,3 +2258,46 @@
 2024-12-01 15:48:00,247 - INFO - Successfully scraped job: Senior Electrical Engineers / Electrical Designer
 2024-12-01 15:48:00,249 - INFO - Saved job: Senior Electrical Engineers / Electrical Designer - None
 2024-12-01 15:48:01,932 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005112
+2024-12-01 15:48:14,284 - WARNING - Timeout waiting for company element
+2024-12-01 15:48:14,738 - DEBUG - No additional metadata found
+2024-12-01 15:48:14,750 - INFO - Successfully scraped job: Lead Pipeline Engineer
+2024-12-01 15:48:14,753 - INFO - Saved job: Lead Pipeline Engineer - None
+2024-12-01 15:48:16,131 - INFO - Collected 500 jobs so far
+2024-12-01 15:48:16,131 - INFO - Scraping page 26 of 389
+2024-12-01 15:48:19,118 - INFO - Getting job links from current page
+2024-12-01 15:48:22,151 - INFO - Found 20 job cards
+2024-12-01 15:48:22,163 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000574
+2024-12-01 15:48:22,172 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/991013
+2024-12-01 15:48:22,182 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005388
+2024-12-01 15:48:22,190 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005111
+2024-12-01 15:48:22,199 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000553
+2024-12-01 15:48:22,208 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006635
+2024-12-01 15:48:22,216 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005909
+2024-12-01 15:48:22,225 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005908
+2024-12-01 15:48:22,234 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000841
+2024-12-01 15:48:22,243 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/990955
+2024-12-01 15:48:22,252 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1002053
+2024-12-01 15:48:22,260 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001731
+2024-12-01 15:48:22,270 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005362
+2024-12-01 15:48:22,280 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005109
+2024-12-01 15:48:22,288 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001629
+2024-12-01 15:48:22,296 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/991014
+2024-12-01 15:48:22,304 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005390
+2024-12-01 15:48:22,313 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005105
+2024-12-01 15:48:22,322 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/990705
+2024-12-01 15:48:22,331 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/933966
+2024-12-01 15:48:22,331 - INFO - Successfully extracted 20 job links
+2024-12-01 15:48:22,331 - INFO - Found 20 jobs on page 26
+2024-12-01 15:48:22,331 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000574
+2024-12-01 15:48:35,804 - WARNING - Timeout waiting for company element
+2024-12-01 15:48:36,001 - INFO - Successfully scraped job: Structural Engineer
+2024-12-01 15:48:36,006 - INFO - Saved job: Structural Engineer - None
+2024-12-01 15:48:37,374 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/991013
+2024-12-01 15:48:50,632 - WARNING - Timeout waiting for company element
+2024-12-01 15:48:50,837 - INFO - Successfully scraped job: Senior Piping Engineer - Milan
+2024-12-01 15:48:50,839 - INFO - Saved job: Senior Piping Engineer - Milan - None
+2024-12-01 15:48:52,037 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005388
+2024-12-01 15:49:04,497 - WARNING - Timeout waiting for company element
+2024-12-01 15:49:04,710 - INFO - Successfully scraped job: Development Engineer UK Remote Energy Solutions
+2024-12-01 15:49:04,713 - INFO - Saved job: Development Engineer UK Remote Energy Solutions - None
+2024-12-01 15:49:05,810 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005111
