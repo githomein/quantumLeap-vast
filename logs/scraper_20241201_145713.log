@@ -7339,3 +7339,40 @@
 2024-12-01 17:51:14,371 - INFO - Successfully scraped job: 2nd shift R&D Associate Engineer
 2024-12-01 17:51:14,375 - INFO - Saved job: 2nd shift R&D Associate Engineer - ABB
 2024-12-01 17:51:15,541 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/967902
+2024-12-01 17:51:18,291 - INFO - Successfully scraped job: Senior Civil Structural Engineer (Part-time)
+2024-12-01 17:51:18,294 - INFO - Saved job: Senior Civil Structural Engineer (Part-time) - AtkinsRéalis
+2024-12-01 17:51:20,046 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/990336
+2024-12-01 17:51:22,188 - INFO - Successfully scraped job: Engineering Advisor - (Transmission Interconnection Manager)
+2024-12-01 17:51:22,192 - INFO - Saved job: Engineering Advisor - (Transmission Interconnection Manager) - Engie
+2024-12-01 17:51:23,775 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/990291
+2024-12-01 17:51:25,757 - INFO - Successfully scraped job: OEM Solutions Sales Engineer - Bursa
+2024-12-01 17:51:25,760 - INFO - Saved job: OEM Solutions Sales Engineer - Bursa - Schneider Electric
+2024-12-01 17:51:27,482 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990203
+2024-12-01 17:51:31,062 - INFO - Successfully scraped job: Senior Mechanical Engineer, Research and Development
+2024-12-01 17:51:31,065 - INFO - Saved job: Senior Mechanical Engineer, Research and Development - ABB
+2024-12-01 17:51:33,018 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/899271
+2024-12-01 17:51:46,957 - WARNING - Timeout waiting for company element
+2024-12-01 17:51:47,111 - INFO - Successfully scraped job: Field Engineering Technician II - Construction Materials Testing
+2024-12-01 17:51:47,116 - INFO - Saved job: Field Engineering Technician II - Construction Materials Testing - None
+2024-12-01 17:51:48,595 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/966287
+2024-12-01 17:51:52,330 - DEBUG - No additional metadata found
+2024-12-01 17:51:52,345 - INFO - Successfully scraped job: Senior Planning Engineer
+2024-12-01 17:51:52,349 - INFO - Saved job: Senior Planning Engineer - Wood PLC
+2024-12-01 17:51:53,967 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/966125
+2024-12-01 17:51:55,910 - INFO - Successfully scraped job: Software Engineer Tech Lead
+2024-12-01 17:51:55,914 - INFO - Saved job: Software Engineer Tech Lead - bp
+2024-12-01 17:51:57,786 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/900025
+2024-12-01 17:52:00,409 - INFO - Successfully scraped job: Project Engineer
+2024-12-01 17:52:00,413 - INFO - Saved job: Project Engineer - ABB
+2024-12-01 17:52:02,038 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/900007
+2024-12-01 17:52:05,585 - INFO - Successfully scraped job: R&D Senior Engineer
+2024-12-01 17:52:05,588 - INFO - Saved job: R&D Senior Engineer - ABB
+2024-12-01 17:52:07,234 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/899870
+2024-12-01 17:52:09,637 - INFO - Successfully scraped job: R&D Engineer
+2024-12-01 17:52:09,640 - INFO - Saved job: R&D Engineer - ABB
+2024-12-01 17:52:11,580 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/966330
+2024-12-01 17:52:13,919 - INFO - Successfully scraped job: R&D Assistant engineer
+2024-12-01 17:52:13,924 - INFO - Saved job: R&D Assistant engineer - ABB
+2024-12-01 17:52:15,713 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/966232
+2024-12-01 17:52:19,385 - INFO - Successfully scraped job: Senior Engineer
+2024-12-01 17:52:19,389 - INFO - Saved job: Senior Engineer - AtkinsRéalis
