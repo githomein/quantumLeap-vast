@@ -7130,3 +7130,22 @@
 2024-12-01 17:39:47,609 - INFO - Successfully scraped job: Lead Qualification Engineer (m/f/d)
 2024-12-01 17:39:47,613 - INFO - Saved job: Lead Qualification Engineer (m/f/d) - Bilfinger
 2024-12-01 17:39:48,728 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/820499
+2024-12-01 17:40:02,586 - WARNING - Timeout waiting for company element
+2024-12-01 17:40:02,695 - INFO - Successfully scraped job: Sr. Project Engineer (piping Layout) (epc Oil/gas...
+2024-12-01 17:40:02,700 - INFO - Saved job: Sr. Project Engineer (piping Layout) (epc Oil/gas... - None
+2024-12-01 17:40:04,403 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/820457
+2024-12-01 17:40:17,024 - WARNING - Timeout waiting for company element
+2024-12-01 17:40:17,129 - INFO - Successfully scraped job: Senior Process Engineer (oil/ Gas
+2024-12-01 17:40:17,134 - INFO - Saved job: Senior Process Engineer (oil/ Gas - None
+2024-12-01 17:40:18,264 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/820514
+2024-12-01 17:40:31,659 - WARNING - Timeout waiting for company element
+2024-12-01 17:40:31,778 - INFO - Successfully scraped job: Telecommunication Engineer (epc Oil/gas Offshore)
+2024-12-01 17:40:31,781 - INFO - Saved job: Telecommunication Engineer (epc Oil/gas Offshore) - None
+2024-12-01 17:40:32,880 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/820486
+2024-12-01 17:40:45,031 - WARNING - Timeout waiting for company element
+2024-12-01 17:40:45,109 - INFO - Successfully scraped job: Lead Construction Engineer (epc Oil/gas Onshore)
+2024-12-01 17:40:45,113 - INFO - Saved job: Lead Construction Engineer (epc Oil/gas Onshore) - None
+2024-12-01 17:40:46,206 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/820352
+2024-12-01 17:40:58,310 - WARNING - Timeout waiting for company element
+2024-12-01 17:40:58,426 - INFO - Successfully scraped job: Electrical Engineer (epc Oil/gas Commissioning)
+2024-12-01 17:40:58,430 - INFO - Saved job: Electrical Engineer (epc Oil/gas Commissioning) - None
