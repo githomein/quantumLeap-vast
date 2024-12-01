@@ -15023,3 +15023,19 @@
 2024-12-01 20:53:46,977 - INFO - Successfully scraped job: Construction Engineer (epc Oil/gas Onshore)
 2024-12-01 20:53:46,984 - INFO - Saved job: Construction Engineer (epc Oil/gas Onshore) - None
 2024-12-01 20:53:48,179 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/820518
+2024-12-01 20:54:02,491 - WARNING - Timeout waiting for company element
+2024-12-01 20:54:02,581 - INFO - Successfully scraped job: Electrical Lead Engineer (epc Oil/gas Offshore)
+2024-12-01 20:54:02,589 - INFO - Saved job: Electrical Lead Engineer (epc Oil/gas Offshore) - None
+2024-12-01 20:54:04,029 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/820455
+2024-12-01 20:54:17,795 - WARNING - Timeout waiting for company element
+2024-12-01 20:54:17,890 - INFO - Successfully scraped job: Civil Engineer (oil/ Gas Co.)
+2024-12-01 20:54:17,897 - INFO - Saved job: Civil Engineer (oil/ Gas Co.) - None
+2024-12-01 20:54:18,968 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/820485
+2024-12-01 20:54:33,113 - WARNING - Timeout waiting for company element
+2024-12-01 20:54:33,232 - INFO - Successfully scraped job: Sr. Construction Engineer (epc Oil/gas Onshore)
+2024-12-01 20:54:33,237 - INFO - Saved job: Sr. Construction Engineer (epc Oil/gas Onshore) - None
+2024-12-01 20:54:34,752 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/820505
+2024-12-01 20:54:47,176 - WARNING - Timeout waiting for company element
+2024-12-01 20:54:47,283 - INFO - Successfully scraped job: Project Engineer (technical Building & Hvac) (epc...
+2024-12-01 20:54:47,289 - INFO - Saved job: Project Engineer (technical Building & Hvac) (epc... - None
+2024-12-01 20:54:48,527 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/820496

@@ -15222,3 +15222,21 @@
 2024-12-01 20:53:48,235 - INFO - Successfully extracted 20 job links
 2024-12-01 20:53:48,235 - INFO - Found 20 jobs on page 168
 2024-12-01 20:53:48,235 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991253
+2024-12-01 20:53:52,252 - INFO - Successfully scraped job: Senior Planning Engineer
+2024-12-01 20:53:52,258 - INFO - Saved job: Senior Planning Engineer - AtkinsRéalis
+2024-12-01 20:53:54,052 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991323
+2024-12-01 20:53:57,415 - INFO - Successfully scraped job: Senior Design Engineer, simulation specialist (Power Electronics)
+2024-12-01 20:53:57,424 - INFO - Saved job: Senior Design Engineer, simulation specialist (Power Electronics) - ABB
+2024-12-01 20:53:59,068 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/991242
+2024-12-01 20:54:11,868 - WARNING - Timeout waiting for company element
+2024-12-01 20:54:11,973 - INFO - Successfully scraped job: Senior Electrical Engineer
+2024-12-01 20:54:11,981 - INFO - Saved job: Senior Electrical Engineer - None
+2024-12-01 20:54:13,265 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991213
+2024-12-01 20:54:26,014 - WARNING - Timeout waiting for company element
+2024-12-01 20:54:26,154 - INFO - Successfully scraped job: Precommissioning Engineer
+2024-12-01 20:54:26,159 - INFO - Saved job: Precommissioning Engineer - None
+2024-12-01 20:54:28,047 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/991162
+2024-12-01 20:54:40,795 - WARNING - Timeout waiting for company element
+2024-12-01 20:54:40,934 - INFO - Successfully scraped job: Senior Mechanical/Piping Engineer
+2024-12-01 20:54:40,939 - INFO - Saved job: Senior Mechanical/Piping Engineer - None
+2024-12-01 20:54:42,105 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991160
