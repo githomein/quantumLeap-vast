@@ -9235,3 +9235,20 @@
 2024-12-01 18:31:28,064 - INFO - Successfully scraped job: Principal Mechanical Engineer
 2024-12-01 18:31:28,068 - INFO - Saved job: Principal Mechanical Engineer - None
 2024-12-01 18:31:29,952 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/973546
+2024-12-01 18:31:43,046 - WARNING - Timeout waiting for company element
+2024-12-01 18:31:43,160 - INFO - Successfully scraped job: Senior Piping Engineer
+2024-12-01 18:31:43,164 - INFO - Saved job: Senior Piping Engineer - None
+2024-12-01 18:31:45,015 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/973582
+2024-12-01 18:31:58,291 - WARNING - Timeout waiting for company element
+2024-12-01 18:31:58,430 - INFO - Successfully scraped job: Electrical Engineer
+2024-12-01 18:31:58,434 - INFO - Saved job: Electrical Engineer - None
+2024-12-01 18:32:00,012 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/973425
+2024-12-01 18:32:13,273 - WARNING - Timeout waiting for company element
+2024-12-01 18:32:13,372 - DEBUG - No additional metadata found
+2024-12-01 18:32:13,387 - INFO - Successfully scraped job: Electrical Engineer III
+2024-12-01 18:32:13,390 - INFO - Saved job: Electrical Engineer III - None
+2024-12-01 18:32:14,700 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/973447
+2024-12-01 18:32:28,033 - WARNING - Timeout waiting for company element
+2024-12-01 18:32:28,150 - INFO - Successfully scraped job: SNR INSTRUMENT ENGINEER
+2024-12-01 18:32:28,155 - INFO - Saved job: SNR INSTRUMENT ENGINEER - None
+2024-12-01 18:32:30,107 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/973495
