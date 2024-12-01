@@ -3839,3 +3839,26 @@
 2024-12-01 16:18:50,830 - INFO - Successfully scraped job: Senior Engineer - Onshore Wind
 2024-12-01 16:18:50,833 - INFO - Saved job: Senior Engineer - Onshore Wind - None
 2024-12-01 16:18:51,887 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1000166
+2024-12-01 16:19:04,660 - WARNING - Timeout waiting for company element
+2024-12-01 16:19:04,820 - INFO - Successfully scraped job: Materials Engineer Inspection (E\u0026I)
+2024-12-01 16:19:04,823 - INFO - Saved job: Materials Engineer Inspection (E\u0026I) - None
+2024-12-01 16:19:06,025 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1000134
+2024-12-01 16:19:19,869 - WARNING - Timeout waiting for company element
+2024-12-01 16:19:19,978 - INFO - Successfully scraped job: Lead of Civil & Structure Engineering
+2024-12-01 16:19:19,981 - INFO - Saved job: Lead of Civil & Structure Engineering - None
+2024-12-01 16:19:21,507 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000142
+2024-12-01 16:19:35,252 - WARNING - Timeout waiting for company element
+2024-12-01 16:19:35,333 - DEBUG - No additional metadata found
+2024-12-01 16:19:35,348 - INFO - Successfully scraped job: I&C Design Engineer / Cyber
+2024-12-01 16:19:35,352 - INFO - Saved job: I&C Design Engineer / Cyber - None
+2024-12-01 16:19:36,521 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/925181
+2024-12-01 16:19:38,393 - INFO - Successfully scraped job: Senior Project Engineer - Water/Wastewater
+2024-12-01 16:19:38,396 - INFO - Saved job: Senior Project Engineer - Water/Wastewater - Garver
+2024-12-01 16:19:39,993 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/909362
+2024-12-01 16:19:43,474 - INFO - Successfully scraped job: FIELD APPLICATION ENGINEER NUCLEAR POWER PLANTS (M/W/D)
+2024-12-01 16:19:43,477 - INFO - Saved job: FIELD APPLICATION ENGINEER NUCLEAR POWER PLANTS (M/W/D) - AEG Power Solutions
+2024-12-01 16:19:45,141 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/818952
+2024-12-01 16:19:58,668 - WARNING - Timeout waiting for company element
+2024-12-01 16:19:58,830 - INFO - Successfully scraped job: Cost Control Engineer F/M
+2024-12-01 16:19:58,834 - INFO - Saved job: Cost Control Engineer F/M - None
+2024-12-01 16:19:59,879 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/818759

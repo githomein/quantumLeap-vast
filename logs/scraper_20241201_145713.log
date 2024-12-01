@@ -3502,3 +3502,19 @@
 2024-12-01 16:18:45,907 - INFO - Successfully scraped job: Automation Engineer 2 EMCS India
 2024-12-01 16:18:45,911 - INFO - Saved job: Automation Engineer 2 EMCS India - Schneider Electric
 2024-12-01 16:18:47,827 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000176
+2024-12-01 16:19:02,204 - WARNING - Timeout waiting for company element
+2024-12-01 16:19:02,380 - INFO - Successfully scraped job: Sr. Commissioning System Responsible Engineer SAS
+2024-12-01 16:19:02,383 - INFO - Saved job: Sr. Commissioning System Responsible Engineer SAS - None
+2024-12-01 16:19:03,677 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000175
+2024-12-01 16:19:17,260 - WARNING - Timeout waiting for company element
+2024-12-01 16:19:17,375 - INFO - Successfully scraped job: Senior Engineer - Onshore Wind
+2024-12-01 16:19:17,378 - INFO - Saved job: Senior Engineer - Onshore Wind - None
+2024-12-01 16:19:18,887 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1000166
+2024-12-01 16:19:31,220 - WARNING - Timeout waiting for company element
+2024-12-01 16:19:31,346 - INFO - Successfully scraped job: Materials Engineer Inspection (E\u0026I)
+2024-12-01 16:19:31,349 - INFO - Saved job: Materials Engineer Inspection (E\u0026I) - None
+2024-12-01 16:19:32,600 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1000134
+2024-12-01 16:19:46,481 - WARNING - Timeout waiting for company element
+2024-12-01 16:19:46,593 - INFO - Successfully scraped job: Lead of Civil & Structure Engineering
+2024-12-01 16:19:46,596 - INFO - Saved job: Lead of Civil & Structure Engineering - None
+2024-12-01 16:19:47,829 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000142
