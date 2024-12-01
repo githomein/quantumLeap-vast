@@ -13523,3 +13523,39 @@
 2024-12-01 20:19:04,130 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/981904
 2024-12-01 20:19:06,331 - INFO - Successfully scraped job: Associate Principal Engineer (Testing)
 2024-12-01 20:19:06,336 - INFO - Saved job: Associate Principal Engineer (Testing) - ABB
+2024-12-01 20:19:08,266 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/981944
+2024-12-01 20:19:12,016 - INFO - Successfully scraped job: Principal Software Engineering Architect (f/m/d) (Essen, DE)
+2024-12-01 20:19:12,022 - INFO - Saved job: Principal Software Engineering Architect (f/m/d) (Essen, DE) - E.ON
+2024-12-01 20:19:13,640 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/981845
+2024-12-01 20:19:16,764 - INFO - Successfully scraped job: Senior Engineer - Lines & Substations
+2024-12-01 20:19:16,770 - INFO - Saved job: Senior Engineer - Lines & Substations - AtkinsRéalis
+2024-12-01 20:19:18,010 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1004666
+2024-12-01 20:19:21,228 - INFO - Successfully scraped job: Generation Planning I&C Software Engineer
+2024-12-01 20:19:21,233 - INFO - Saved job: Generation Planning I&C Software Engineer - Consumers Energy
+2024-12-01 20:19:22,352 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/1004636
+2024-12-01 20:19:25,117 - INFO - Successfully scraped job: Electrical Power Engineering Group/Discipline Lead
+2024-12-01 20:19:25,122 - INFO - Saved job: Electrical Power Engineering Group/Discipline Lead - Sierra Lobo, Inc.
+2024-12-01 20:19:27,117 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1004582
+2024-12-01 20:19:29,797 - INFO - Successfully scraped job: Project Engineer - Water/Wastewater
+2024-12-01 20:19:29,801 - INFO - Saved job: Project Engineer - Water/Wastewater - Westwood Professional Services, Inc.
+2024-12-01 20:19:31,332 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1004503
+2024-12-01 20:19:34,897 - DEBUG - No additional metadata found
+2024-12-01 20:19:34,911 - INFO - Successfully scraped job: Senior Reservoir Engineer
+2024-12-01 20:19:34,917 - INFO - Saved job: Senior Reservoir Engineer - Petrofac
+2024-12-01 20:19:36,731 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/950721
+2024-12-01 20:19:40,132 - INFO - Successfully scraped job: Water & Wastewater Project Engineer
+2024-12-01 20:19:40,137 - INFO - Saved job: Water & Wastewater Project Engineer - Herbert, Rowland & Grubic
+2024-12-01 20:19:41,243 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1004450
+2024-12-01 20:19:53,912 - WARNING - Timeout waiting for company element
+2024-12-01 20:19:54,100 - INFO - Successfully scraped job: Cost Control Engineer
+2024-12-01 20:19:54,107 - INFO - Saved job: Cost Control Engineer - None
+2024-12-01 20:19:55,591 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1004375
+2024-12-01 20:19:58,179 - INFO - Successfully scraped job: Sr Engineer CTH - LEAP Rotating Parts
+2024-12-01 20:19:58,185 - INFO - Saved job: Sr Engineer CTH - LEAP Rotating Parts - GE Renewable Energy Power and Aviation
+2024-12-01 20:19:59,462 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/1004309
+2024-12-01 20:20:02,976 - INFO - Successfully scraped job: Production Engineering Specialist
+2024-12-01 20:20:02,981 - INFO - Saved job: Production Engineering Specialist - ABB
+2024-12-01 20:20:04,032 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1004319
+2024-12-01 20:20:07,242 - INFO - Successfully scraped job: Controls Engineer
+2024-12-01 20:20:07,247 - INFO - Saved job: Controls Engineer - ABB
+2024-12-01 20:20:08,722 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1004194
