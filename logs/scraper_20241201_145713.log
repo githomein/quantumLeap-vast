@@ -14279,3 +14279,60 @@
 2024-12-01 20:35:54,104 - INFO - Successfully scraped job: Senior Power Systems Controls Engineer
 2024-12-01 20:35:54,110 - INFO - Saved job: Senior Power Systems Controls Engineer - Eaton
 2024-12-01 20:35:55,897 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/935523
+2024-12-01 20:35:59,749 - DEBUG - No additional metadata found
+2024-12-01 20:35:59,764 - INFO - Successfully scraped job: Eaton Development Program: Power Systems Engineer
+2024-12-01 20:35:59,769 - INFO - Saved job: Eaton Development Program: Power Systems Engineer - Eaton
+2024-12-01 20:36:01,381 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/935205
+2024-12-01 20:36:03,649 - INFO - Successfully scraped job: Balance of Plant Senior Mechanical Engineer - Nuclear Projects
+2024-12-01 20:36:03,654 - INFO - Saved job: Balance of Plant Senior Mechanical Engineer - Nuclear Projects - Sargent & Lundy
+2024-12-01 20:36:05,006 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/935294
+2024-12-01 20:36:08,486 - INFO - Successfully scraped job: Structural Engineer Intern - Energy & Industrial Group
+2024-12-01 20:36:08,492 - INFO - Saved job: Structural Engineer Intern - Energy & Industrial Group - Sargent & Lundy
+2024-12-01 20:36:09,563 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/935278
+2024-12-01 20:36:12,051 - INFO - Successfully scraped job: Mid-Level Mechanical Engineer - Nuclear Projects
+2024-12-01 20:36:12,058 - INFO - Saved job: Mid-Level Mechanical Engineer - Nuclear Projects - Sargent & Lundy
+2024-12-01 20:36:13,672 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/934647
+2024-12-01 20:36:17,661 - INFO - Successfully scraped job: Gas Distribution (Pipeline) Engineer - Multiple Levels (Senior & Principal)
+2024-12-01 20:36:17,667 - INFO - Saved job: Gas Distribution (Pipeline) Engineer - Multiple Levels (Senior & Principal) - DTE Energy
+2024-12-01 20:36:19,622 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/934337
+2024-12-01 20:36:23,701 - INFO - Successfully scraped job: Commercial Engine Technician - Field, Power Systems
+2024-12-01 20:36:23,707 - INFO - Saved job: Commercial Engine Technician - Field, Power Systems - Altorfer CAT
+2024-12-01 20:36:24,761 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/999960
+2024-12-01 20:36:28,255 - INFO - Successfully scraped job: Graduate Design Engineer
+2024-12-01 20:36:28,261 - INFO - Saved job: Graduate Design Engineer - NOV
+2024-12-01 20:36:29,886 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/999956
+2024-12-01 20:36:41,982 - WARNING - Timeout waiting for company element
+2024-12-01 20:36:42,246 - INFO - Successfully scraped job: Engineering Technician I
+2024-12-01 20:36:42,254 - INFO - Saved job: Engineering Technician I - None
+2024-12-01 20:36:43,261 - INFO - Collected 3140 jobs so far
+2024-12-01 20:36:43,261 - INFO - Scraping page 158 of 389
+2024-12-01 20:36:47,211 - INFO - Getting job links from current page
+2024-12-01 20:36:50,252 - INFO - Found 20 job cards
+2024-12-01 20:36:50,264 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/887701
+2024-12-01 20:36:50,275 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/908673
+2024-12-01 20:36:50,283 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/887087
+2024-12-01 20:36:50,294 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/886969
+2024-12-01 20:36:50,308 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/886862
+2024-12-01 20:36:50,318 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/886301
+2024-12-01 20:36:50,330 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/885635
+2024-12-01 20:36:50,341 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/885593
+2024-12-01 20:36:50,356 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/884696
+2024-12-01 20:36:50,368 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/884307
+2024-12-01 20:36:50,380 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/974782
+2024-12-01 20:36:50,389 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/974776
+2024-12-01 20:36:50,402 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/925075
+2024-12-01 20:36:50,412 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/999759
+2024-12-01 20:36:50,426 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/999652
+2024-12-01 20:36:50,440 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/999567
+2024-12-01 20:36:50,453 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/974432
+2024-12-01 20:36:50,463 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/972850
+2024-12-01 20:36:50,475 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/972841
+2024-12-01 20:36:50,487 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/908278
+2024-12-01 20:36:50,487 - INFO - Successfully extracted 20 job links
+2024-12-01 20:36:50,487 - INFO - Found 20 jobs on page 158
+2024-12-01 20:36:50,487 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/887701
+2024-12-01 20:36:54,276 - INFO - Successfully scraped job: Diesel & Natural Gas Industrial Engine Technician/Mechanic
+2024-12-01 20:36:54,285 - INFO - Saved job: Diesel & Natural Gas Industrial Engine Technician/Mechanic - Mustang Cat
+2024-12-01 20:36:55,611 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/908673
+2024-12-01 20:36:59,383 - INFO - Successfully scraped job: Thermal Engineer Luft- und Raumfahrt (m/w/d)
+2024-12-01 20:36:59,389 - INFO - Saved job: Thermal Engineer Luft- und Raumfahrt (m/w/d) - Akkodis

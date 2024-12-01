@@ -14515,3 +14515,65 @@
 2024-12-01 20:35:48,685 - INFO - Successfully scraped job: PLC Controls Engineer-Appleton Foundry
 2024-12-01 20:35:48,691 - INFO - Saved job: PLC Controls Engineer-Appleton Foundry - Emerson
 2024-12-01 20:35:49,980 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/860966
+2024-12-01 20:36:03,817 - WARNING - Timeout waiting for company element
+2024-12-01 20:36:04,027 - INFO - Successfully scraped job: Lead Flow Assurance Engineer
+2024-12-01 20:36:04,034 - INFO - Saved job: Lead Flow Assurance Engineer - None
+2024-12-01 20:36:05,852 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/907523
+2024-12-01 20:36:09,023 - INFO - Successfully scraped job: Analyzer Engineer
+2024-12-01 20:36:09,029 - INFO - Saved job: Analyzer Engineer - Exxon Mobil
+2024-12-01 20:36:10,313 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/924429
+2024-12-01 20:36:13,769 - INFO - Successfully scraped job: Engineer in Training
+2024-12-01 20:36:13,775 - INFO - Saved job: Engineer in Training - ABB
+2024-12-01 20:36:15,586 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/972245
+2024-12-01 20:36:19,322 - INFO - Successfully scraped job: Assistant Engineer
+2024-12-01 20:36:19,328 - INFO - Saved job: Assistant Engineer - AtkinsRéalis
+2024-12-01 20:36:20,664 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/998767
+2024-12-01 20:36:23,058 - INFO - Successfully scraped job: HVAC Mobile Engineer
+2024-12-01 20:36:23,063 - INFO - Saved job: HVAC Mobile Engineer - CBRE
+2024-12-01 20:36:24,776 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/998747
+2024-12-01 20:36:26,725 - INFO - Successfully scraped job: Experienced Generator Specialist Field Engineer
+2024-12-01 20:36:26,730 - INFO - Saved job: Experienced Generator Specialist Field Engineer - FieldCore
+2024-12-01 20:36:27,788 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/998683
+2024-12-01 20:36:30,013 - INFO - Successfully scraped job: Mine Engineering Intern
+2024-12-01 20:36:30,019 - INFO - Saved job: Mine Engineering Intern - SSR Mining, Inc.
+2024-12-01 20:36:31,097 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/998473
+2024-12-01 20:36:33,179 - INFO - Successfully scraped job: Power Systems Electrical Engineer
+2024-12-01 20:36:33,185 - INFO - Saved job: Power Systems Electrical Engineer - Electrical Consultants, Inc.
+2024-12-01 20:36:34,677 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/900261
+2024-12-01 20:36:37,748 - INFO - Successfully scraped job: Pavement Engineer
+2024-12-01 20:36:37,753 - INFO - Saved job: Pavement Engineer - AtkinsRéalis
+2024-12-01 20:36:38,889 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/867341
+2024-12-01 20:36:42,989 - INFO - Successfully scraped job: Principal Pavement Engineer
+2024-12-01 20:36:42,994 - INFO - Saved job: Principal Pavement Engineer - AtkinsRéalis
+2024-12-01 20:36:44,734 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/998358
+2024-12-01 20:36:47,804 - INFO - Successfully scraped job: Manufacturing Engineer
+2024-12-01 20:36:47,809 - INFO - Saved job: Manufacturing Engineer - NOV
+2024-12-01 20:36:49,145 - INFO - Collected 3200 jobs so far
+2024-12-01 20:36:49,145 - INFO - Scraping page 161 of 384
+2024-12-01 20:36:52,419 - INFO - Getting job links from current page
+2024-12-01 20:36:55,448 - INFO - Found 20 job cards
+2024-12-01 20:36:55,458 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/998275
+2024-12-01 20:36:55,466 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/998236
+2024-12-01 20:36:55,473 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/997956
+2024-12-01 20:36:55,481 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/997926
+2024-12-01 20:36:55,488 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/997905
+2024-12-01 20:36:55,496 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/923527
+2024-12-01 20:36:55,503 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/923468
+2024-12-01 20:36:55,510 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/971646
+2024-12-01 20:36:55,517 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/883436
+2024-12-01 20:36:55,525 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/883453
+2024-12-01 20:36:55,532 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/883774
+2024-12-01 20:36:55,539 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/971536
+2024-12-01 20:36:55,547 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/971520
+2024-12-01 20:36:55,554 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/997070
+2024-12-01 20:36:55,560 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/production-jobs/996972
+2024-12-01 20:36:55,567 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/906886
+2024-12-01 20:36:55,574 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/996817
+2024-12-01 20:36:55,581 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/996626
+2024-12-01 20:36:55,589 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/996614
+2024-12-01 20:36:55,596 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/996528
+2024-12-01 20:36:55,596 - INFO - Successfully extracted 20 job links
+2024-12-01 20:36:55,596 - INFO - Found 20 jobs on page 161
+2024-12-01 20:36:55,596 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/998275
+2024-12-01 20:36:59,069 - INFO - Successfully scraped job: Sr. Automation Business Engineer in DAUT
+2024-12-01 20:36:59,076 - INFO - Saved job: Sr. Automation Business Engineer in DAUT - Emerson
