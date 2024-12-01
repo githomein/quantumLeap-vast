@@ -8734,3 +8734,48 @@
 2024-12-01 18:20:11,501 - INFO - Saved job: PAS Lead Engineer - Emerson
 2024-12-01 18:20:12,812 - INFO - Collected 1920 jobs so far
 2024-12-01 18:20:12,812 - INFO - Scraping page 97 of 384
+2024-12-01 18:20:16,335 - INFO - Getting job links from current page
+2024-12-01 18:20:19,369 - INFO - Found 20 job cards
+2024-12-01 18:20:19,382 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001778
+2024-12-01 18:20:19,392 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/environmental-jobs/1001714
+2024-12-01 18:20:19,401 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001713
+2024-12-01 18:20:19,410 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/950566
+2024-12-01 18:20:19,420 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/976553
+2024-12-01 18:20:19,430 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/976558
+2024-12-01 18:20:19,440 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/951200
+2024-12-01 18:20:19,450 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/842376
+2024-12-01 18:20:19,460 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/950842
+2024-12-01 18:20:19,472 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/890876
+2024-12-01 18:20:19,482 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/910049
+2024-12-01 18:20:19,493 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/950856
+2024-12-01 18:20:19,502 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1001612
+2024-12-01 18:20:19,512 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001286
+2024-12-01 18:20:19,522 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001267
+2024-12-01 18:20:19,531 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001154
+2024-12-01 18:20:19,541 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/production-jobs/1001050
+2024-12-01 18:20:19,551 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1001024
+2024-12-01 18:20:19,561 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000749
+2024-12-01 18:20:19,570 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/production-jobs/976030
+2024-12-01 18:20:19,571 - INFO - Successfully extracted 20 job links
+2024-12-01 18:20:19,571 - INFO - Found 20 jobs on page 97
+2024-12-01 18:20:19,571 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001778
+2024-12-01 18:20:23,134 - INFO - Successfully scraped job: Production Engineer
+2024-12-01 18:20:23,139 - INFO - Saved job: Production Engineer - ABB
+2024-12-01 18:20:24,234 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/environmental-jobs/1001714
+2024-12-01 18:20:36,680 - WARNING - Timeout waiting for company element
+2024-12-01 18:20:37,056 - INFO - Successfully scraped job: Site Environmental Engineer
+2024-12-01 18:20:37,061 - INFO - Saved job: Site Environmental Engineer - None
+2024-12-01 18:20:38,636 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001713
+2024-12-01 18:20:51,931 - WARNING - Timeout waiting for company element
+2024-12-01 18:20:52,065 - INFO - Successfully scraped job: Lead Rotating Engineer
+2024-12-01 18:20:52,069 - INFO - Saved job: Lead Rotating Engineer - None
+2024-12-01 18:20:53,210 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/950566
+2024-12-01 18:20:56,381 - INFO - Successfully scraped job: Gas Turbine Intake and Exhaust Engineer
+2024-12-01 18:20:56,385 - INFO - Saved job: Gas Turbine Intake and Exhaust Engineer - System One Holdings, LLC
+2024-12-01 18:20:57,556 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/976553
+2024-12-01 18:20:59,633 - INFO - Successfully scraped job: DCS Field Service Engineer
+2024-12-01 18:20:59,636 - INFO - Saved job: DCS Field Service Engineer - Emerson
+2024-12-01 18:21:01,486 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/976558
+2024-12-01 18:21:04,252 - INFO - Successfully scraped job: PAS Lead Engineer
+2024-12-01 18:21:04,256 - INFO - Saved job: PAS Lead Engineer - Emerson
+2024-12-01 18:21:06,241 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/951200

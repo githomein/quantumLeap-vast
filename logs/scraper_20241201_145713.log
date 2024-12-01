@@ -8535,3 +8535,24 @@
 2024-12-01 18:20:06,009 - INFO - Successfully scraped job: Production Engineer
 2024-12-01 18:20:06,013 - INFO - Saved job: Production Engineer - ABB
 2024-12-01 18:20:07,033 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/environmental-jobs/1001714
+2024-12-01 18:20:19,836 - WARNING - Timeout waiting for company element
+2024-12-01 18:20:20,067 - INFO - Successfully scraped job: Site Environmental Engineer
+2024-12-01 18:20:20,071 - INFO - Saved job: Site Environmental Engineer - None
+2024-12-01 18:20:21,707 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001713
+2024-12-01 18:20:34,673 - WARNING - Timeout waiting for company element
+2024-12-01 18:20:34,803 - INFO - Successfully scraped job: Lead Rotating Engineer
+2024-12-01 18:20:34,807 - INFO - Saved job: Lead Rotating Engineer - None
+2024-12-01 18:20:35,885 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/950566
+2024-12-01 18:20:39,417 - INFO - Successfully scraped job: Gas Turbine Intake and Exhaust Engineer
+2024-12-01 18:20:39,421 - INFO - Saved job: Gas Turbine Intake and Exhaust Engineer - System One Holdings, LLC
+2024-12-01 18:20:41,151 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/976553
+2024-12-01 18:20:43,973 - INFO - Successfully scraped job: DCS Field Service Engineer
+2024-12-01 18:20:43,977 - INFO - Saved job: DCS Field Service Engineer - Emerson
+2024-12-01 18:20:45,006 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/976558
+2024-12-01 18:20:48,213 - INFO - Successfully scraped job: PAS Lead Engineer
+2024-12-01 18:20:48,216 - INFO - Saved job: PAS Lead Engineer - Emerson
+2024-12-01 18:20:49,348 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/951200
+2024-12-01 18:21:02,328 - WARNING - Timeout waiting for company element
+2024-12-01 18:21:02,473 - INFO - Successfully scraped job: Senior Engineer-Mechanical (Static / Rotary), Civil & Structural, and Project Control
+2024-12-01 18:21:02,477 - INFO - Saved job: Senior Engineer-Mechanical (Static / Rotary), Civil & Structural, and Project Control - None
+2024-12-01 18:21:03,719 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/842376
