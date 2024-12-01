@@ -5509,3 +5509,40 @@
 2024-12-01 17:08:58,520 - INFO - Successfully extracted 20 job links
 2024-12-01 17:08:58,520 - INFO - Found 20 jobs on page 61
 2024-12-01 17:08:58,520 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/981776
+2024-12-01 17:09:11,667 - WARNING - Timeout waiting for company element
+2024-12-01 17:09:11,747 - DEBUG - No additional metadata found
+2024-12-01 17:09:11,762 - INFO - Successfully scraped job: Piping Engineer M/F
+2024-12-01 17:09:11,768 - INFO - Saved job: Piping Engineer M/F - None
+2024-12-01 17:09:13,501 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/911749
+2024-12-01 17:09:16,443 - INFO - Successfully scraped job: NEC Engineering Construction Senior Project Manager - Complex Infrastructure
+2024-12-01 17:09:16,446 - INFO - Saved job: NEC Engineering Construction Senior Project Manager - Complex Infrastructure - AtkinsRéalis
+2024-12-01 17:09:17,896 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1004675
+2024-12-01 17:09:21,717 - INFO - Successfully scraped job: Quality Engineer- Solar Array
+2024-12-01 17:09:21,721 - INFO - Saved job: Quality Engineer- Solar Array - TRIGO ADR Americas
+2024-12-01 17:09:23,155 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1004480
+2024-12-01 17:09:25,944 - INFO - Successfully scraped job: Gas Service Engineer
+2024-12-01 17:09:25,947 - INFO - Saved job: Gas Service Engineer - Liberty Group Investments Ltd
+2024-12-01 17:09:26,973 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/981561
+2024-12-01 17:09:29,841 - DEBUG - No additional metadata found
+2024-12-01 17:09:29,856 - INFO - Successfully scraped job: ASIC Power Engineer
+2024-12-01 17:09:29,859 - INFO - Saved job: ASIC Power Engineer - Apple
+2024-12-01 17:09:31,400 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1004471
+2024-12-01 17:09:34,363 - INFO - Successfully scraped job: IT Full Stack Software Engineer
+2024-12-01 17:09:34,366 - INFO - Saved job: IT Full Stack Software Engineer - Schlumberger
+2024-12-01 17:09:35,627 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1004446
+2024-12-01 17:09:49,139 - WARNING - Timeout waiting for company element
+2024-12-01 17:09:49,290 - INFO - Successfully scraped job: Industry Projects Engineering Management
+2024-12-01 17:09:49,293 - INFO - Saved job: Industry Projects Engineering Management - None
+2024-12-01 17:09:50,787 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1004409
+2024-12-01 17:09:54,103 - INFO - Successfully scraped job: Power Electronics Engineer - Advanced Technologies
+2024-12-01 17:09:54,106 - INFO - Saved job: Power Electronics Engineer - Advanced Technologies - GE Renewable Energy Power and Aviation
+2024-12-01 17:09:55,504 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1004400
+2024-12-01 17:09:58,013 - INFO - Successfully scraped job: Lead Manufacturing Engineer - Manuf Eng Specialist
+2024-12-01 17:09:58,016 - INFO - Saved job: Lead Manufacturing Engineer - Manuf Eng Specialist - GE Renewable Energy Power and Aviation
+2024-12-01 17:09:59,239 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1004372
+2024-12-01 17:10:02,052 - INFO - Successfully scraped job: PMC Lead Weight Control Engineer
+2024-12-01 17:10:02,056 - INFO - Saved job: PMC Lead Weight Control Engineer - Wood PLC
+2024-12-01 17:10:03,614 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1004368
+2024-12-01 17:10:06,024 - INFO - Successfully scraped job: Project Engineering Manager
+2024-12-01 17:10:06,027 - INFO - Saved job: Project Engineering Manager - Wood PLC
+2024-12-01 17:10:07,363 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/977791

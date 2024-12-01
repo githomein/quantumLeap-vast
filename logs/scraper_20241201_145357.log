@@ -5766,3 +5766,35 @@
 2024-12-01 17:09:03,428 - INFO - Successfully scraped job: Crane / Mechanical Preparation Engineer M/F
 2024-12-01 17:09:03,434 - INFO - Saved job: Crane / Mechanical Preparation Engineer M/F - None
 2024-12-01 17:09:04,852 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/981803
+2024-12-01 17:09:17,415 - WARNING - Timeout waiting for company element
+2024-12-01 17:09:17,535 - INFO - Successfully scraped job: Asset Integrity Engineer M/F
+2024-12-01 17:09:17,539 - INFO - Saved job: Asset Integrity Engineer M/F - None
+2024-12-01 17:09:18,643 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/911700
+2024-12-01 17:09:21,159 - INFO - Successfully scraped job: Supplier Quality Engineer
+2024-12-01 17:09:21,163 - INFO - Saved job: Supplier Quality Engineer - ABB
+2024-12-01 17:09:22,985 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/911711
+2024-12-01 17:09:25,467 - INFO - Successfully scraped job: Ingénieure Génie Civil (Civil Engineer)
+2024-12-01 17:09:25,470 - INFO - Saved job: Ingénieure Génie Civil (Civil Engineer) - AtkinsRéalis
+2024-12-01 17:09:26,766 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/892502
+2024-12-01 17:09:29,903 - INFO - Successfully scraped job: Senior / Principal Stress Engineer - Nuclear
+2024-12-01 17:09:29,907 - INFO - Saved job: Senior / Principal Stress Engineer - Nuclear - AtkinsRéalis
+2024-12-01 17:09:31,064 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1004758
+2024-12-01 17:09:35,017 - INFO - Successfully scraped job: HVAC Building Engineer (Mobile)
+2024-12-01 17:09:35,022 - INFO - Saved job: HVAC Building Engineer (Mobile) - CBRE
+2024-12-01 17:09:36,084 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1004698
+2024-12-01 17:09:38,727 - INFO - Successfully scraped job: Civil Engineering Analyst | Natural Gas Pipeline Design
+2024-12-01 17:09:38,730 - INFO - Saved job: Civil Engineering Analyst | Natural Gas Pipeline Design - Kimley-Horn
+2024-12-01 17:09:39,813 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1004496
+2024-12-01 17:09:42,499 - INFO - Successfully scraped job: Commercial Gas Engineer
+2024-12-01 17:09:42,502 - INFO - Saved job: Commercial Gas Engineer - OneWay
+2024-12-01 17:09:43,941 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1004483
+2024-12-01 17:09:47,475 - INFO - Successfully scraped job: Gas Engineer - LNG
+2024-12-01 17:09:47,478 - INFO - Saved job: Gas Engineer - LNG - Northern Marine
+2024-12-01 17:09:48,978 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/900089
+2024-12-01 17:09:50,935 - INFO - Successfully scraped job: Field Service Engineer
+2024-12-01 17:09:50,939 - INFO - Saved job: Field Service Engineer - ABB
+2024-12-01 17:09:52,066 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1004447
+2024-12-01 17:10:05,655 - WARNING - Timeout waiting for company element
+2024-12-01 17:10:05,746 - INFO - Successfully scraped job: I&C Engineering Intern (Summer 2025)
+2024-12-01 17:10:05,749 - INFO - Saved job: I&C Engineering Intern (Summer 2025) - None
+2024-12-01 17:10:06,841 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1004391
