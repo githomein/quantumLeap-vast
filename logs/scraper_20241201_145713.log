@@ -10357,3 +10357,19 @@
 2024-12-01 19:02:44,985 - INFO - Successfully scraped job: Senior Engineer - Coatings and Cathodic Protection
 2024-12-01 19:02:44,989 - INFO - Saved job: Senior Engineer - Coatings and Cathodic Protection - Wood PLC
 2024-12-01 19:02:46,670 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005104
+2024-12-01 19:02:59,133 - WARNING - Timeout waiting for company element
+2024-12-01 19:02:59,566 - INFO - Successfully scraped job: Lead Project Engineer
+2024-12-01 19:02:59,570 - INFO - Saved job: Lead Project Engineer - None
+2024-12-01 19:03:01,492 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000572
+2024-12-01 19:03:15,416 - WARNING - Timeout waiting for company element
+2024-12-01 19:03:15,611 - INFO - Successfully scraped job: Lead Civil / Structural Engineer
+2024-12-01 19:03:15,616 - INFO - Saved job: Lead Civil / Structural Engineer - None
+2024-12-01 19:03:17,242 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/999784
+2024-12-01 19:03:30,660 - WARNING - Timeout waiting for company element
+2024-12-01 19:03:30,834 - INFO - Successfully scraped job: Offshore Wind Yield Engineer
+2024-12-01 19:03:30,839 - INFO - Saved job: Offshore Wind Yield Engineer - None
+2024-12-01 19:03:32,365 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/989163
+2024-12-01 19:03:46,470 - WARNING - Timeout waiting for company element
+2024-12-01 19:03:46,653 - INFO - Successfully scraped job: NLQ HVAC Engineer
+2024-12-01 19:03:46,658 - INFO - Saved job: NLQ HVAC Engineer - None
+2024-12-01 19:03:48,250 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/987684
