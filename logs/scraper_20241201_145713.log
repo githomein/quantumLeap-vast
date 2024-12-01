@@ -13559,3 +13559,32 @@
 2024-12-01 20:20:07,242 - INFO - Successfully scraped job: Controls Engineer
 2024-12-01 20:20:07,247 - INFO - Saved job: Controls Engineer - ABB
 2024-12-01 20:20:08,722 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1004194
+2024-12-01 20:20:22,698 - WARNING - Timeout waiting for company element
+2024-12-01 20:20:22,772 - DEBUG - No additional metadata found
+2024-12-01 20:20:22,786 - INFO - Successfully scraped job: Process Engineer - Cameia
+2024-12-01 20:20:22,793 - INFO - Saved job: Process Engineer - Cameia - None
+2024-12-01 20:20:24,359 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/oilfield-jobs/1004127
+2024-12-01 20:20:37,146 - WARNING - Timeout waiting for company element
+2024-12-01 20:20:37,226 - DEBUG - No additional metadata found
+2024-12-01 20:20:37,241 - INFO - Successfully scraped job: Mechanical Engineer (Resident)
+2024-12-01 20:20:37,248 - INFO - Saved job: Mechanical Engineer (Resident) - None
+2024-12-01 20:20:38,618 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/952844
+2024-12-01 20:20:41,395 - INFO - Successfully scraped job: Water/Wastewater Engineering Intern - Summer 2025
+2024-12-01 20:20:41,400 - INFO - Saved job: Water/Wastewater Engineering Intern - Summer 2025 - HDR
+2024-12-01 20:20:43,102 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/oilfield-jobs/1004039
+2024-12-01 20:20:56,552 - WARNING - Timeout waiting for company element
+2024-12-01 20:20:56,629 - DEBUG - No additional metadata found
+2024-12-01 20:20:56,643 - INFO - Successfully scraped job: Piping Engineer - Valve Specialist (Resident)
+2024-12-01 20:20:56,647 - INFO - Saved job: Piping Engineer - Valve Specialist (Resident) - None
+2024-12-01 20:20:57,700 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/952659
+2024-12-01 20:21:00,764 - INFO - Successfully scraped job: Automation Engineer (Power Systems)
+2024-12-01 20:21:00,769 - INFO - Saved job: Automation Engineer (Power Systems) - Caterpillar
+2024-12-01 20:21:01,809 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/952805
+2024-12-01 20:21:04,211 - INFO - Successfully scraped job: Software Engineer III - Home Energy Management System
+2024-12-01 20:21:04,216 - INFO - Saved job: Software Engineer III - Home Energy Management System - Generac Power Systems, Inc.
+2024-12-01 20:21:05,584 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/952459
+2024-12-01 20:21:09,117 - DEBUG - No additional metadata found
+2024-12-01 20:21:09,133 - INFO - Successfully scraped job: Staff Electrical Systems Engineer - Nuclear
+2024-12-01 20:21:09,140 - INFO - Saved job: Staff Electrical Systems Engineer - Nuclear - Public Service Enterprise Group
+2024-12-01 20:21:11,046 - INFO - Collected 2980 jobs so far
+2024-12-01 20:21:11,046 - INFO - Scraping page 150 of 389
