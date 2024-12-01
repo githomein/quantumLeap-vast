@@ -6554,3 +6554,58 @@
 2024-12-01 17:32:41,744 - INFO - Successfully scraped job: VIE _ Solar R&D Engineer (M/F) _ QATAR (Doha)
 2024-12-01 17:32:41,749 - INFO - Saved job: VIE _ Solar R&D Engineer (M/F) _ QATAR (Doha) - Total Energies
 2024-12-01 17:32:43,433 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/998149
+2024-12-01 17:32:45,469 - INFO - Successfully scraped job: Well Engineer III - Integrated Services and Projects
+2024-12-01 17:32:45,473 - INFO - Saved job: Well Engineer III - Integrated Services and Projects - Weatherford
+2024-12-01 17:32:47,202 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/998158
+2024-12-01 17:32:49,320 - INFO - Successfully scraped job: Field Service Engineer I
+2024-12-01 17:32:49,324 - INFO - Saved job: Field Service Engineer I - Honeywell
+2024-12-01 17:32:50,835 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/997979
+2024-12-01 17:33:04,023 - WARNING - Timeout waiting for company element
+2024-12-01 17:33:04,138 - INFO - Successfully scraped job: Senior Principal Structural Engineer
+2024-12-01 17:33:04,144 - INFO - Saved job: Senior Principal Structural Engineer - None
+2024-12-01 17:33:05,392 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/997941
+2024-12-01 17:33:18,277 - WARNING - Timeout waiting for company element
+2024-12-01 17:33:18,443 - INFO - Successfully scraped job: Coating Engineer
+2024-12-01 17:33:18,447 - INFO - Saved job: Coating Engineer - None
+2024-12-01 17:33:19,628 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/997913
+2024-12-01 17:33:22,474 - INFO - Successfully scraped job: Senior Product Development Engineer
+2024-12-01 17:33:22,477 - INFO - Saved job: Senior Product Development Engineer - Exxon Mobil
+2024-12-01 17:33:24,283 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/997912
+2024-12-01 17:33:26,381 - INFO - Successfully scraped job: Senior Customer and Application Development Engineer, Pultruded Composites
+2024-12-01 17:33:26,385 - INFO - Saved job: Senior Customer and Application Development Engineer, Pultruded Composites - Exxon Mobil
+2024-12-01 17:33:28,356 - INFO - Collected 1440 jobs so far
+2024-12-01 17:33:28,356 - INFO - Scraping page 73 of 389
+2024-12-01 17:33:31,742 - INFO - Getting job links from current page
+2024-12-01 17:33:34,777 - INFO - Found 20 job cards
+2024-12-01 17:33:34,791 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/883048
+2024-12-01 17:33:34,800 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/environmental-jobs/995955
+2024-12-01 17:33:34,809 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/environmental-jobs/995921
+2024-12-01 17:33:34,818 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/995889
+2024-12-01 17:33:34,828 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/general-management-jobs/995864
+2024-12-01 17:33:34,837 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/959873
+2024-12-01 17:33:34,847 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/970720
+2024-12-01 17:33:34,857 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/959868
+2024-12-01 17:33:34,868 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/962917
+2024-12-01 17:33:34,878 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/959462
+2024-12-01 17:33:34,889 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/968844
+2024-12-01 17:33:34,900 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/964717
+2024-12-01 17:33:34,910 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/970666
+2024-12-01 17:33:34,920 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/964721
+2024-12-01 17:33:34,931 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/957826
+2024-12-01 17:33:34,941 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/959840
+2024-12-01 17:33:34,952 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/959325
+2024-12-01 17:33:34,963 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/959249
+2024-12-01 17:33:34,975 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/968529
+2024-12-01 17:33:34,985 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/966061
+2024-12-01 17:33:34,985 - INFO - Successfully extracted 20 job links
+2024-12-01 17:33:34,985 - INFO - Found 20 jobs on page 73
+2024-12-01 17:33:34,985 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/883048
+2024-12-01 17:33:38,004 - INFO - Successfully scraped job: Civil Engineering Manager
+2024-12-01 17:33:38,009 - INFO - Saved job: Civil Engineering Manager - AtkinsRéalis
+2024-12-01 17:33:39,181 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/environmental-jobs/995955
+2024-12-01 17:33:41,928 - INFO - Successfully scraped job: Environmental Engineer - Agg/Mining Operations | San Antonio, TX
+2024-12-01 17:33:41,931 - INFO - Saved job: Environmental Engineer - Agg/Mining Operations | San Antonio, TX - Martin Marietta
+2024-12-01 17:33:43,332 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/environmental-jobs/995921
+2024-12-01 17:33:46,734 - DEBUG - No additional metadata found
+2024-12-01 17:33:46,748 - INFO - Successfully scraped job: Environmental/Civil Engineer - Renewable Energy
+2024-12-01 17:33:46,751 - INFO - Saved job: Environmental/Civil Engineer - Renewable Energy - Sólida Energías Renovables SL
