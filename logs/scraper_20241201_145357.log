@@ -2716,3 +2716,20 @@
 2024-12-01 15:50:25,537 - INFO - Successfully scraped job: Principal Process Safety Engineer
 2024-12-01 15:50:25,543 - INFO - Saved job: Principal Process Safety Engineer - None
 2024-12-01 15:50:26,617 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/990955
+2024-12-01 15:50:40,051 - WARNING - Timeout waiting for company element
+2024-12-01 15:50:40,177 - DEBUG - No additional metadata found
+2024-12-01 15:50:40,194 - INFO - Successfully scraped job: Senior Mechanical Engineer - Milan
+2024-12-01 15:50:40,197 - INFO - Saved job: Senior Mechanical Engineer - Milan - None
+2024-12-01 15:50:42,068 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005390
+2024-12-01 15:50:54,550 - WARNING - Timeout waiting for company element
+2024-12-01 15:50:54,866 - INFO - Successfully scraped job: RUYA B1 PVV Engineer
+2024-12-01 15:50:54,869 - INFO - Saved job: RUYA B1 PVV Engineer - None
+2024-12-01 15:50:56,787 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005105
+2024-12-01 15:51:10,341 - WARNING - Timeout waiting for company element
+2024-12-01 15:51:10,787 - INFO - Successfully scraped job: Lead Planning Engineer
+2024-12-01 15:51:10,790 - INFO - Saved job: Lead Planning Engineer - None
+2024-12-01 15:51:12,620 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990705
+2024-12-01 15:51:25,019 - WARNING - Timeout waiting for company element
+2024-12-01 15:51:25,252 - INFO - Successfully scraped job: Senior Electrical Engineers / Electrical Designer
+2024-12-01 15:51:25,255 - INFO - Saved job: Senior Electrical Engineers / Electrical Designer - None
+2024-12-01 15:51:27,241 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005362

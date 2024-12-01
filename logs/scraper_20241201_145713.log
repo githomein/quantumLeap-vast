@@ -2321,3 +2321,20 @@
 2024-12-01 15:50:19,091 - INFO - Successfully scraped job: Principle Flow Assurance Engineer
 2024-12-01 15:50:19,094 - INFO - Saved job: Principle Flow Assurance Engineer - None
 2024-12-01 15:50:20,428 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000841
+2024-12-01 15:50:33,900 - WARNING - Timeout waiting for company element
+2024-12-01 15:50:34,171 - INFO - Successfully scraped job: Principal Process Safety Engineer
+2024-12-01 15:50:34,175 - INFO - Saved job: Principal Process Safety Engineer - None
+2024-12-01 15:50:36,087 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/990955
+2024-12-01 15:50:49,784 - WARNING - Timeout waiting for company element
+2024-12-01 15:50:49,869 - DEBUG - No additional metadata found
+2024-12-01 15:50:49,883 - INFO - Successfully scraped job: Senior Mechanical Engineer - Milan
+2024-12-01 15:50:49,886 - INFO - Saved job: Senior Mechanical Engineer - Milan - None
+2024-12-01 15:50:51,768 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1002053
+2024-12-01 15:51:04,552 - WARNING - Timeout waiting for company element
+2024-12-01 15:51:04,678 - INFO - Successfully scraped job: Welding Engineer
+2024-12-01 15:51:04,680 - INFO - Saved job: Welding Engineer - None
+2024-12-01 15:51:05,835 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001731
+2024-12-01 15:51:18,858 - WARNING - Timeout waiting for company element
+2024-12-01 15:51:19,063 - INFO - Successfully scraped job: Procurement QC Engineer
+2024-12-01 15:51:19,067 - INFO - Saved job: Procurement QC Engineer - None
+2024-12-01 15:51:20,799 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005362
