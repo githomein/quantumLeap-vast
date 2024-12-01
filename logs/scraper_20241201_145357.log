@@ -2426,3 +2426,32 @@
 2024-12-01 15:40:55,674 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/999225
 2024-12-01 15:40:59,426 - INFO - Successfully scraped job: Power Plant Electrician A
 2024-12-01 15:40:59,429 - INFO - Saved job: Power Plant Electrician A - U.S. Army Corps of Engineers
+2024-12-01 15:41:01,347 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/920352
+2024-12-01 15:41:04,571 - INFO - Successfully scraped job: Senior HVAC/R
+2024-12-01 15:41:04,574 - INFO - Saved job: Senior HVAC/R - HTS Engineering Ltd
+2024-12-01 15:41:06,115 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/994581
+2024-12-01 15:41:09,552 - INFO - Successfully scraped job: Driller's Helper- CDL Required
+2024-12-01 15:41:09,555 - INFO - Saved job: Driller's Helper- CDL Required - Universal Engineering Sciences
+2024-12-01 15:41:11,324 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/994570
+2024-12-01 15:41:14,591 - INFO - Successfully scraped job: Driller's Helper
+2024-12-01 15:41:14,594 - INFO - Saved job: Driller's Helper - Universal Engineering Sciences
+2024-12-01 15:41:15,858 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/993558
+2024-12-01 15:41:18,002 - INFO - Successfully scraped job: Senior Certified Petroleum Testing Technician
+2024-12-01 15:41:18,006 - INFO - Saved job: Senior Certified Petroleum Testing Technician - Bunnell-Lammons Engineering, Inc
+2024-12-01 15:41:19,353 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/992918
+2024-12-01 15:41:22,793 - INFO - Successfully scraped job: Power Generation Field Manager
+2024-12-01 15:41:22,796 - INFO - Saved job: Power Generation Field Manager - One Tech Engineering
+2024-12-01 15:41:24,316 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/992306
+2024-12-01 15:41:28,144 - INFO - Successfully scraped job: HSEQ Lead - Renewable Energy Projects
+2024-12-01 15:41:28,149 - INFO - Saved job: HSEQ Lead - Renewable Energy Projects - Orion Engineering Services
+2024-12-01 15:41:29,155 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001706
+2024-12-01 15:41:43,361 - WARNING - Timeout waiting for company element
+2024-12-01 15:41:43,440 - DEBUG - No additional metadata found
+2024-12-01 15:41:43,452 - INFO - Successfully scraped job: Hook-up Lead
+2024-12-01 15:41:43,456 - INFO - Saved job: Hook-up Lead - None
+2024-12-01 15:41:45,321 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990794
+2024-12-01 15:41:58,212 - WARNING - Timeout waiting for company element
+2024-12-01 15:41:58,315 - DEBUG - No additional metadata found
+2024-12-01 15:41:58,327 - INFO - Successfully scraped job: EPCI Manager
+2024-12-01 15:41:58,330 - INFO - Saved job: EPCI Manager - None
+2024-12-01 15:42:00,117 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1002282

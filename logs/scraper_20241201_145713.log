@@ -2020,3 +2020,44 @@
 2024-12-01 15:40:48,668 - INFO - Successfully scraped job: Senior Certified Petroleum Testing Technician
 2024-12-01 15:40:48,672 - INFO - Saved job: Senior Certified Petroleum Testing Technician - Bunnell-Lammons Engineering, Inc
 2024-12-01 15:40:50,009 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001706
+2024-12-01 15:41:03,171 - WARNING - Timeout waiting for company element
+2024-12-01 15:41:03,262 - DEBUG - No additional metadata found
+2024-12-01 15:41:03,275 - INFO - Successfully scraped job: Hook-up Lead
+2024-12-01 15:41:03,279 - INFO - Saved job: Hook-up Lead - None
+2024-12-01 15:41:04,679 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990794
+2024-12-01 15:41:18,386 - WARNING - Timeout waiting for company element
+2024-12-01 15:41:18,469 - DEBUG - No additional metadata found
+2024-12-01 15:41:18,482 - INFO - Successfully scraped job: EPCI Manager
+2024-12-01 15:41:18,486 - INFO - Saved job: EPCI Manager - None
+2024-12-01 15:41:20,003 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1002282
+2024-12-01 15:41:21,975 - INFO - Successfully scraped job: HVAC Technician
+2024-12-01 15:41:21,977 - INFO - Saved job: HVAC Technician - ARORA ENGINEERS
+2024-12-01 15:41:23,864 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001584
+2024-12-01 15:41:26,096 - INFO - Successfully scraped job: Renewable Energy Project Manager
+2024-12-01 15:41:26,099 - INFO - Saved job: Renewable Energy Project Manager - SCS Engineers
+2024-12-01 15:41:27,193 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/930117
+2024-12-01 15:41:29,369 - INFO - Successfully scraped job: Drill Rig Operator
+2024-12-01 15:41:29,371 - INFO - Saved job: Drill Rig Operator - U.S. Army Corps of Engineers
+2024-12-01 15:41:30,635 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/888799
+2024-12-01 15:41:33,107 - INFO - Successfully scraped job: HVAC Service Dispatch - Houston
+2024-12-01 15:41:33,110 - INFO - Saved job: HVAC Service Dispatch - Houston - HTS Engineering Ltd
+2024-12-01 15:41:35,106 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/972024
+2024-12-01 15:41:37,612 - INFO - Successfully scraped job: Projectleider Energy Systems
+2024-12-01 15:41:37,614 - INFO - Saved job: Projectleider Energy Systems - USG Engineering
+2024-12-01 15:41:39,101 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/998524
+2024-12-01 15:41:42,770 - INFO - Successfully scraped job: Sr. HVAC Technician
+2024-12-01 15:41:42,772 - INFO - Saved job: Sr. HVAC Technician - ARORA ENGINEERS
+2024-12-01 15:41:43,870 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/998505
+2024-12-01 15:41:46,034 - INFO - Successfully scraped job: Lead Piping Designer
+2024-12-01 15:41:46,039 - INFO - Saved job: Lead Piping Designer - Engineering and Inspection Services, LLC
+2024-12-01 15:41:47,246 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/923503
+2024-12-01 15:41:49,198 - INFO - Successfully scraped job: Driller Assistant
+2024-12-01 15:41:49,200 - INFO - Saved job: Driller Assistant - Tolunay-Wong Engineers, Inc.
+2024-12-01 15:41:51,000 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/996963
+2024-12-01 15:41:52,983 - INFO - Successfully scraped job: Electric & Natural Gas Designer
+2024-12-01 15:41:52,985 - INFO - Saved job: Electric & Natural Gas Designer - Pape-Dawson Engineers
+2024-12-01 15:41:54,916 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/909912
+2024-12-01 15:41:57,808 - INFO - Successfully scraped job: Water/Wastewater- Project Manager
+2024-12-01 15:41:57,810 - INFO - Saved job: Water/Wastewater- Project Manager - EHRA Engineering
+2024-12-01 15:41:59,757 - INFO - Collected 460 jobs so far
+2024-12-01 15:41:59,757 - INFO - Scraping page 24 of 389
