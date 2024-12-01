@@ -2635,3 +2635,20 @@
 2024-12-01 15:47:00,140 - INFO - Successfully scraped job: Senior Electrical Engineers / Electrical Designer
 2024-12-01 15:47:00,143 - INFO - Saved job: Senior Electrical Engineers / Electrical Designer - None
 2024-12-01 15:47:02,037 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005112
+2024-12-01 15:47:15,850 - WARNING - Timeout waiting for company element
+2024-12-01 15:47:16,277 - DEBUG - No additional metadata found
+2024-12-01 15:47:16,290 - INFO - Successfully scraped job: Lead Pipeline Engineer
+2024-12-01 15:47:16,292 - INFO - Saved job: Lead Pipeline Engineer - None
+2024-12-01 15:47:17,347 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000574
+2024-12-01 15:47:30,706 - WARNING - Timeout waiting for company element
+2024-12-01 15:47:30,885 - INFO - Successfully scraped job: Structural Engineer
+2024-12-01 15:47:30,887 - INFO - Saved job: Structural Engineer - None
+2024-12-01 15:47:32,614 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/991013
+2024-12-01 15:47:47,006 - WARNING - Timeout waiting for company element
+2024-12-01 15:47:47,163 - INFO - Successfully scraped job: Senior Piping Engineer - Milan
+2024-12-01 15:47:47,166 - INFO - Saved job: Senior Piping Engineer - Milan - None
+2024-12-01 15:47:48,598 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005393
+2024-12-01 15:48:02,468 - WARNING - Timeout waiting for company element
+2024-12-01 15:48:02,794 - INFO - Successfully scraped job: Power Risk Engineer
+2024-12-01 15:48:02,801 - INFO - Saved job: Power Risk Engineer - None
+2024-12-01 15:48:03,817 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005386

@@ -2241,3 +2241,20 @@
 2024-12-01 15:47:00,628 - INFO - Successfully scraped job: Structural Civil Engineer
 2024-12-01 15:47:00,630 - INFO - Saved job: Structural Civil Engineer - None
 2024-12-01 15:47:02,198 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000256
+2024-12-01 15:47:16,091 - WARNING - Timeout waiting for company element
+2024-12-01 15:47:16,266 - INFO - Successfully scraped job: Instrumentation Engineer
+2024-12-01 15:47:16,268 - INFO - Saved job: Instrumentation Engineer - None
+2024-12-01 15:47:17,435 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/999491
+2024-12-01 15:47:29,470 - WARNING - Timeout waiting for company element
+2024-12-01 15:47:29,865 - DEBUG - No additional metadata found
+2024-12-01 15:47:29,878 - INFO - Successfully scraped job: FIELD SERVICE ENGINEER (MEDICAL EQUIPEMENT) IRELAND
+2024-12-01 15:47:29,880 - INFO - Saved job: FIELD SERVICE ENGINEER (MEDICAL EQUIPEMENT) IRELAND - None
+2024-12-01 15:47:31,238 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/987841
+2024-12-01 15:47:44,756 - WARNING - Timeout waiting for company element
+2024-12-01 15:47:44,945 - INFO - Successfully scraped job: PAVEMENT ENGINEER : USA
+2024-12-01 15:47:44,947 - INFO - Saved job: PAVEMENT ENGINEER : USA - None
+2024-12-01 15:47:46,904 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005899
+2024-12-01 15:48:00,023 - WARNING - Timeout waiting for company element
+2024-12-01 15:48:00,247 - INFO - Successfully scraped job: Senior Electrical Engineers / Electrical Designer
+2024-12-01 15:48:00,249 - INFO - Saved job: Senior Electrical Engineers / Electrical Designer - None
+2024-12-01 15:48:01,932 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005112
