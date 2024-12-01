@@ -4254,3 +4254,20 @@
 2024-12-01 16:36:19,375 - WARNING - Timeout waiting for company element
 2024-12-01 16:36:19,467 - INFO - Successfully scraped job: Lead Construction Engineer (epc Oil/gas Onshore)
 2024-12-01 16:36:19,471 - INFO - Saved job: Lead Construction Engineer (epc Oil/gas Onshore) - None
+2024-12-01 16:36:21,431 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/820352
+2024-12-01 16:36:35,227 - WARNING - Timeout waiting for company element
+2024-12-01 16:36:35,338 - INFO - Successfully scraped job: Electrical Engineer (epc Oil/gas Commissioning)
+2024-12-01 16:36:35,342 - INFO - Saved job: Electrical Engineer (epc Oil/gas Commissioning) - None
+2024-12-01 16:36:36,751 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/820347
+2024-12-01 16:36:49,880 - WARNING - Timeout waiting for company element
+2024-12-01 16:36:49,995 - INFO - Successfully scraped job: Senior Instrumentation Engineer (epc Oil/gas Commissioning)
+2024-12-01 16:36:49,998 - INFO - Saved job: Senior Instrumentation Engineer (epc Oil/gas Commissioning) - None
+2024-12-01 16:36:51,492 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/820356
+2024-12-01 16:37:04,439 - WARNING - Timeout waiting for company element
+2024-12-01 16:37:04,535 - INFO - Successfully scraped job: Senior Completions Engineer (epc Oil/gas Commissioninig)
+2024-12-01 16:37:04,538 - INFO - Saved job: Senior Completions Engineer (epc Oil/gas Commissioninig) - None
+2024-12-01 16:37:05,901 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/820349
+2024-12-01 16:37:18,831 - WARNING - Timeout waiting for company element
+2024-12-01 16:37:18,939 - INFO - Successfully scraped job: Lead Offshore Structural Engineer (epc Oil/gas Commissioning)
+2024-12-01 16:37:18,942 - INFO - Saved job: Lead Offshore Structural Engineer (epc Oil/gas Commissioning) - None
+2024-12-01 16:37:20,352 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/820344
