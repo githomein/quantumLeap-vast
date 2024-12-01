@@ -4236,3 +4236,21 @@
 2024-12-01 16:35:17,397 - INFO - Successfully scraped job: Lead Engineer Electrical
 2024-12-01 16:35:17,400 - INFO - Saved job: Lead Engineer Electrical - Bilfinger
 2024-12-01 16:35:19,055 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/869349
+2024-12-01 16:35:21,411 - INFO - Successfully scraped job: Lead Qualification Engineer (m/f/d)
+2024-12-01 16:35:21,413 - INFO - Saved job: Lead Qualification Engineer (m/f/d) - Bilfinger
+2024-12-01 16:35:22,943 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/820499
+2024-12-01 16:35:36,806 - WARNING - Timeout waiting for company element
+2024-12-01 16:35:36,913 - INFO - Successfully scraped job: Sr. Project Engineer (piping Layout) (epc Oil/gas...
+2024-12-01 16:35:36,916 - INFO - Saved job: Sr. Project Engineer (piping Layout) (epc Oil/gas... - None
+2024-12-01 16:35:38,355 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/820457
+2024-12-01 16:35:51,673 - WARNING - Timeout waiting for company element
+2024-12-01 16:35:51,791 - INFO - Successfully scraped job: Senior Process Engineer (oil/ Gas
+2024-12-01 16:35:51,794 - INFO - Saved job: Senior Process Engineer (oil/ Gas - None
+2024-12-01 16:35:52,853 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/820514
+2024-12-01 16:36:05,937 - WARNING - Timeout waiting for company element
+2024-12-01 16:36:06,056 - INFO - Successfully scraped job: Telecommunication Engineer (epc Oil/gas Offshore)
+2024-12-01 16:36:06,059 - INFO - Saved job: Telecommunication Engineer (epc Oil/gas Offshore) - None
+2024-12-01 16:36:07,112 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/820486
+2024-12-01 16:36:19,375 - WARNING - Timeout waiting for company element
+2024-12-01 16:36:19,467 - INFO - Successfully scraped job: Lead Construction Engineer (epc Oil/gas Onshore)
+2024-12-01 16:36:19,471 - INFO - Saved job: Lead Construction Engineer (epc Oil/gas Onshore) - None
