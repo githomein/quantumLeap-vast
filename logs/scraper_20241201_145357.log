@@ -11639,3 +11639,59 @@
 2024-12-01 19:27:46,825 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1000239
 2024-12-01 19:27:48,917 - INFO - Successfully scraped job: TPE V / Principal Civil Engineer
 2024-12-01 19:27:48,921 - INFO - Saved job: TPE V / Principal Civil Engineer - Wood PLC
+2024-12-01 19:27:50,445 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1000477
+2024-12-01 19:27:52,774 - INFO - Successfully scraped job: Quality Engineer Internship (Spring 2025)
+2024-12-01 19:27:52,779 - INFO - Saved job: Quality Engineer Internship (Spring 2025) - Schneider Electric
+2024-12-01 19:27:54,551 - INFO - Collected 2560 jobs so far
+2024-12-01 19:27:54,551 - INFO - Scraping page 129 of 384
+2024-12-01 19:27:57,990 - INFO - Getting job links from current page
+2024-12-01 19:28:01,028 - INFO - Found 20 job cards
+2024-12-01 19:28:01,042 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/933769
+2024-12-01 19:28:01,051 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/933737
+2024-12-01 19:28:01,060 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/932850
+2024-12-01 19:28:01,068 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/sales-or-business-development-or-account-management-jobs/932008
+2024-12-01 19:28:01,077 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/931393
+2024-12-01 19:28:01,087 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/921805
+2024-12-01 19:28:01,097 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000561
+2024-12-01 19:28:01,107 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1000461
+2024-12-01 19:28:01,117 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000381
+2024-12-01 19:28:01,127 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1000289
+2024-12-01 19:28:01,138 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/production-jobs/1000394
+2024-12-01 19:28:01,146 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000220
+2024-12-01 19:28:01,154 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/oilfield-jobs/1000196
+2024-12-01 19:28:01,163 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000117
+2024-12-01 19:28:01,175 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/925183
+2024-12-01 19:28:01,191 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/908674
+2024-12-01 19:28:01,203 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/818850
+2024-12-01 19:28:01,214 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/975395
+2024-12-01 19:28:01,224 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/889672
+2024-12-01 19:28:01,237 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/925493
+2024-12-01 19:28:01,237 - INFO - Successfully extracted 20 job links
+2024-12-01 19:28:01,237 - INFO - Found 20 jobs on page 129
+2024-12-01 19:28:01,237 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/933769
+2024-12-01 19:28:03,361 - INFO - Successfully scraped job: Battery Pack & Energy Storage Sourcing Engineer
+2024-12-01 19:28:03,366 - INFO - Saved job: Battery Pack & Energy Storage Sourcing Engineer - Gotion, Inc.
+2024-12-01 19:28:05,215 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/933737
+2024-12-01 19:28:08,004 - INFO - Successfully scraped job: Power Generation Mechanical Engineer
+2024-12-01 19:28:08,009 - INFO - Saved job: Power Generation Mechanical Engineer - City of Tacoma, WA
+2024-12-01 19:28:09,943 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/932850
+2024-12-01 19:28:12,248 - INFO - Successfully scraped job: Lead Power Systems Engineer - Phoenix, AZ (US Hybrid)
+2024-12-01 19:28:12,252 - INFO - Saved job: Lead Power Systems Engineer - Phoenix, AZ (US Hybrid) - Black & Veatch
+2024-12-01 19:28:14,232 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/sales-or-business-development-or-account-management-jobs/932008
+2024-12-01 19:28:16,211 - INFO - Successfully scraped job: Business Developer - Energy Engineering
+2024-12-01 19:28:16,216 - INFO - Saved job: Business Developer - Energy Engineering - Iconergy
+2024-12-01 19:28:18,127 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/931393
+2024-12-01 19:28:20,749 - DEBUG - No additional metadata found
+2024-12-01 19:28:20,763 - INFO - Successfully scraped job: Power Engineering Technologist Associate
+2024-12-01 19:28:20,767 - INFO - Saved job: Power Engineering Technologist Associate - Pike Corporation
+2024-12-01 19:28:21,982 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/921805
+2024-12-01 19:28:25,163 - INFO - Successfully scraped job: Senior Network Engineer - Wireless Expert
+2024-12-01 19:28:25,168 - INFO - Saved job: Senior Network Engineer - Wireless Expert - NOV
+2024-12-01 19:28:26,168 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000561
+2024-12-01 19:28:39,179 - WARNING - Timeout waiting for company element
+2024-12-01 19:28:39,320 - INFO - Successfully scraped job: Lead Piping Engineer - London/Paris
+2024-12-01 19:28:39,325 - INFO - Saved job: Lead Piping Engineer - London/Paris - None
+2024-12-01 19:28:41,224 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1000461
+2024-12-01 19:28:44,134 - INFO - Successfully scraped job: Lead Control Moment Gyroscope Analog Electrical Engineer
+2024-12-01 19:28:44,139 - INFO - Saved job: Lead Control Moment Gyroscope Analog Electrical Engineer - Honeywell
+2024-12-01 19:28:45,620 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000381
