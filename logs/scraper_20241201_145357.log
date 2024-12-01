@@ -12776,3 +12776,45 @@
 2024-12-01 19:53:55,341 - INFO - Successfully scraped job: Construction Engineer (New Grad)
 2024-12-01 19:53:55,348 - INFO - Saved job: Construction Engineer (New Grad) - None
 2024-12-01 19:53:57,230 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/990357
+2024-12-01 19:54:00,261 - INFO - Successfully scraped job: Systems Engineer II
+2024-12-01 19:54:00,266 - INFO - Saved job: Systems Engineer II - Honeywell
+2024-12-01 19:54:01,604 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990175
+2024-12-01 19:54:15,154 - WARNING - Timeout waiting for company element
+2024-12-01 19:54:15,272 - DEBUG - No additional metadata found
+2024-12-01 19:54:15,287 - INFO - Successfully scraped job: Lead Planning & Reporting Engineer
+2024-12-01 19:54:15,292 - INFO - Saved job: Lead Planning & Reporting Engineer - None
+2024-12-01 19:54:17,132 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/990160
+2024-12-01 19:54:19,225 - INFO - Successfully scraped job: Cold Lake Plant - Power Engineering Student
+2024-12-01 19:54:19,231 - INFO - Saved job: Cold Lake Plant - Power Engineering Student - Exxon Mobil
+2024-12-01 19:54:20,458 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/920613
+2024-12-01 19:54:24,049 - INFO - Successfully scraped job: Lead Piping Stress Engineer
+2024-12-01 19:54:24,054 - INFO - Saved job: Lead Piping Stress Engineer - Wood PLC
+2024-12-01 19:54:25,232 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/920213
+2024-12-01 19:54:28,764 - INFO - Successfully scraped job: BMS Project Engineer
+2024-12-01 19:54:28,772 - INFO - Saved job: BMS Project Engineer - Honeywell
+2024-12-01 19:54:29,890 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/966318
+2024-12-01 19:54:31,956 - INFO - Successfully scraped job: TPE IV / Senior Telecomms Engineer
+2024-12-01 19:54:31,961 - INFO - Saved job: TPE IV / Senior Telecomms Engineer - Wood PLC
+2024-12-01 19:54:33,726 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/900253
+2024-12-01 19:54:36,216 - INFO - Successfully scraped job: Onshore HV Cable Engineer
+2024-12-01 19:54:36,222 - INFO - Saved job: Onshore HV Cable Engineer - AtkinsRéalis
+2024-12-01 19:54:37,387 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/900254
+2024-12-01 19:54:39,282 - INFO - Successfully scraped job: Electrical Engineer - Onshore Substation Engineer
+2024-12-01 19:54:39,286 - INFO - Saved job: Electrical Engineer - Onshore Substation Engineer - AtkinsRéalis
+2024-12-01 19:54:41,030 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/899893
+2024-12-01 19:54:43,359 - INFO - Successfully scraped job: Digital Solution Engineering Specialist- MES, Cement & Mining
+2024-12-01 19:54:43,364 - INFO - Saved job: Digital Solution Engineering Specialist- MES, Cement & Mining - ABB
+2024-12-01 19:54:45,045 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/899754
+2024-12-01 19:54:47,209 - INFO - Successfully scraped job: Project Lead Engineer - Geothermal
+2024-12-01 19:54:47,214 - INFO - Saved job: Project Lead Engineer - Geothermal - ABB
+2024-12-01 19:54:49,210 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/966334
+2024-12-01 19:54:52,132 - INFO - Successfully scraped job: Project Engineer
+2024-12-01 19:54:52,137 - INFO - Saved job: Project Engineer - ABB
+2024-12-01 19:54:53,450 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/899784
+2024-12-01 19:54:55,608 - INFO - Successfully scraped job: Project Lead Engineer m/f/d
+2024-12-01 19:54:55,613 - INFO - Saved job: Project Lead Engineer m/f/d - ABB
+2024-12-01 19:54:56,960 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/899714
+2024-12-01 19:55:00,068 - INFO - Successfully scraped job: R&D Engineer- Product Analysis
+2024-12-01 19:55:00,074 - INFO - Saved job: R&D Engineer- Product Analysis - ABB
+2024-12-01 19:55:01,877 - INFO - Collected 2820 jobs so far
+2024-12-01 19:55:01,877 - INFO - Scraping page 142 of 384

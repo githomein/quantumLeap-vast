@@ -12532,3 +12532,35 @@
 2024-12-01 19:53:45,525 - INFO - Successfully scraped job: Senior Project Engineer - EPLAN
 2024-12-01 19:53:45,530 - INFO - Saved job: Senior Project Engineer - EPLAN - ABB
 2024-12-01 19:53:47,008 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/oilfield-jobs/990643
+2024-12-01 19:54:00,471 - WARNING - Timeout waiting for company element
+2024-12-01 19:54:00,617 - INFO - Successfully scraped job: Senior Engineer, Process and Flow Assurance
+2024-12-01 19:54:00,624 - INFO - Saved job: Senior Engineer, Process and Flow Assurance - None
+2024-12-01 19:54:01,990 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/957114
+2024-12-01 19:54:05,581 - INFO - Successfully scraped job: Testing and Commissioning Engineer
+2024-12-01 19:54:05,589 - INFO - Saved job: Testing and Commissioning Engineer - AtkinsRéalis
+2024-12-01 19:54:07,253 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990541
+2024-12-01 19:54:20,205 - WARNING - Timeout waiting for company element
+2024-12-01 19:54:20,378 - INFO - Successfully scraped job: Engineer - Commissioning - Mech./Piping/Safety/HVAC
+2024-12-01 19:54:20,385 - INFO - Saved job: Engineer - Commissioning - Mech./Piping/Safety/HVAC - None
+2024-12-01 19:54:21,735 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990532
+2024-12-01 19:54:34,173 - WARNING - Timeout waiting for company element
+2024-12-01 19:54:34,351 - INFO - Successfully scraped job: Mechanical - Senior Engineer
+2024-12-01 19:54:34,359 - INFO - Saved job: Mechanical - Senior Engineer - None
+2024-12-01 19:54:36,169 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/876910
+2024-12-01 19:54:39,839 - INFO - Successfully scraped job: Sr. Cementing Engineer
+2024-12-01 19:54:39,844 - INFO - Saved job: Sr. Cementing Engineer - Halliburton
+2024-12-01 19:54:41,016 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/862961
+2024-12-01 19:54:44,185 - INFO - Successfully scraped job: BMS Engineer
+2024-12-01 19:54:44,191 - INFO - Saved job: BMS Engineer - Honeywell
+2024-12-01 19:54:45,204 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/856974
+2024-12-01 19:54:48,754 - INFO - Successfully scraped job: Senior Advanced Project Engineer
+2024-12-01 19:54:48,758 - INFO - Saved job: Senior Advanced Project Engineer - Honeywell
+2024-12-01 19:54:50,245 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/856500
+2024-12-01 19:54:53,792 - INFO - Successfully scraped job: Techniker / Application Engineer (m/w/d) Building Automation
+2024-12-01 19:54:53,797 - INFO - Saved job: Techniker / Application Engineer (m/w/d) Building Automation - Honeywell
+2024-12-01 19:54:55,143 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/969503
+2024-12-01 19:54:57,801 - INFO - Successfully scraped job: Junior Field Service Engineer
+2024-12-01 19:54:57,807 - INFO - Saved job: Junior Field Service Engineer - Honeywell
+2024-12-01 19:54:59,144 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/969486
+2024-12-01 19:55:01,254 - INFO - Successfully scraped job: Field Service Engineer II
+2024-12-01 19:55:01,259 - INFO - Saved job: Field Service Engineer II - Honeywell
