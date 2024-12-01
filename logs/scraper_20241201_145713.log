@@ -11339,3 +11339,43 @@
 2024-12-01 19:24:37,662 - INFO - Successfully scraped job: Mechanical Engineer, Energy Systems
 2024-12-01 19:24:37,667 - INFO - Saved job: Mechanical Engineer, Energy Systems - Ramboll
 2024-12-01 19:24:39,388 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/927841
+2024-12-01 19:24:41,608 - INFO - Successfully scraped job: Intern - Power Engineering
+2024-12-01 19:24:41,614 - INFO - Saved job: Intern - Power Engineering - Gannett Fleming, Inc.
+2024-12-01 19:24:42,909 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/927405
+2024-12-01 19:24:46,560 - DEBUG - No additional metadata found
+2024-12-01 19:24:46,575 - INFO - Successfully scraped job: Sr. Principal Systems Engineer - Nuclear Survivability/Thermal
+2024-12-01 19:24:46,580 - INFO - Saved job: Sr. Principal Systems Engineer - Nuclear Survivability/Thermal - Northrop Grumman
+2024-12-01 19:24:48,181 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/926972
+2024-12-01 19:24:50,643 - INFO - Successfully scraped job: Nevada Gold Mines - Engineering Greenfield Talent Program (GTP)
+2024-12-01 19:24:50,648 - INFO - Saved job: Nevada Gold Mines - Engineering Greenfield Talent Program (GTP) - Barrick Gold Corporation
+2024-12-01 19:24:51,711 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/926444
+2024-12-01 19:24:55,595 - INFO - Successfully scraped job: ADP's HVAC Lead Product Development Engineer (Thermodynamics/Heat Transfer)
+2024-12-01 19:24:55,601 - INFO - Saved job: ADP's HVAC Lead Product Development Engineer (Thermodynamics/Heat Transfer) - Lennox International
+2024-12-01 19:24:56,919 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/926404
+2024-12-01 19:24:59,661 - INFO - Successfully scraped job: Engineering Manager - Water/Wastewater - Fort Worth, TX
+2024-12-01 19:24:59,667 - INFO - Saved job: Engineering Manager - Water/Wastewater - Fort Worth, TX - Black & Veatch
+2024-12-01 19:25:01,188 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000660
+2024-12-01 19:25:13,568 - WARNING - Timeout waiting for company element
+2024-12-01 19:25:13,718 - INFO - Successfully scraped job: Civil Project Engineer
+2024-12-01 19:25:13,723 - INFO - Saved job: Civil Project Engineer - None
+2024-12-01 19:25:14,862 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/926141
+2024-12-01 19:25:16,833 - INFO - Successfully scraped job: Prin Appl/Sys Sales Engineer
+2024-12-01 19:25:16,837 - INFO - Saved job: Prin Appl/Sys Sales Engineer - Honeywell
+2024-12-01 19:25:18,232 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/890075
+2024-12-01 19:25:21,701 - INFO - Successfully scraped job: Mechanical Test Engineer - Gas Products
+2024-12-01 19:25:21,705 - INFO - Saved job: Mechanical Test Engineer - Gas Products - The British Standards Institution (BSI)
+2024-12-01 19:25:23,572 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/851322
+2024-12-01 19:25:25,502 - INFO - Successfully scraped job: Electrical Design Engineer(MEP)
+2024-12-01 19:25:25,506 - INFO - Saved job: Electrical Design Engineer(MEP) - Engie
+2024-12-01 19:25:27,031 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/925975
+2024-12-01 19:25:29,313 - INFO - Successfully scraped job: Electrical Technical Sales Support Engineer for Monterrey, N.L. Mexico
+2024-12-01 19:25:29,318 - INFO - Saved job: Electrical Technical Sales Support Engineer for Monterrey, N.L. Mexico - ABB
+2024-12-01 19:25:30,526 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/890377
+2024-12-01 19:25:33,934 - INFO - Successfully scraped job: Senior Process Engineer - Dairy
+2024-12-01 19:25:33,939 - INFO - Saved job: Senior Process Engineer - Dairy - AtkinsRéalis
+2024-12-01 19:25:35,480 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000694
+2024-12-01 19:25:39,271 - INFO - Successfully scraped job: Senior Mechanical Engineer (Nuclear) - Power (Kansas City)
+2024-12-01 19:25:39,276 - INFO - Saved job: Senior Mechanical Engineer (Nuclear) - Power (Kansas City) - Burns & McDonnell
+2024-12-01 19:25:40,317 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000636
+2024-12-01 19:25:43,247 - INFO - Successfully scraped job: Multi Skilled Engineer - Gas Bias
+2024-12-01 19:25:43,252 - INFO - Saved job: Multi Skilled Engineer - Gas Bias - JOHN GRAHAM CONSTRUCTION LIMITED

@@ -11506,3 +11506,42 @@
 2024-12-01 19:24:39,760 - INFO - Successfully scraped job: Jr. Civil/Geological Engineer
 2024-12-01 19:24:39,766 - INFO - Saved job: Jr. Civil/Geological Engineer - TRC Companies, Inc.
 2024-12-01 19:24:41,131 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/928664
+2024-12-01 19:24:43,147 - INFO - Successfully scraped job: Intern / Co - Op Nuclear Engineers
+2024-12-01 19:24:43,152 - INFO - Saved job: Intern / Co - Op Nuclear Engineers - Framatome
+2024-12-01 19:24:44,373 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/934455
+2024-12-01 19:24:47,685 - INFO - Successfully scraped job: Senior Staff Product Quality Engineer - Clean Energy
+2024-12-01 19:24:47,690 - INFO - Saved job: Senior Staff Product Quality Engineer - Clean Energy - Generac Power Systems, Inc.
+2024-12-01 19:24:49,149 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/928428
+2024-12-01 19:24:52,429 - INFO - Successfully scraped job: Electrical Power Engineer IV
+2024-12-01 19:24:52,435 - INFO - Saved job: Electrical Power Engineer IV - CHA Consulting, Inc.
+2024-12-01 19:24:54,313 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/928185
+2024-12-01 19:24:57,713 - DEBUG - No additional metadata found
+2024-12-01 19:24:57,730 - INFO - Successfully scraped job: Energy Engineer
+2024-12-01 19:24:57,736 - INFO - Saved job: Energy Engineer - Seton Hall University
+2024-12-01 19:24:58,836 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/928047
+2024-12-01 19:25:01,215 - INFO - Successfully scraped job: Mechanical Engineer, Energy Systems
+2024-12-01 19:25:01,219 - INFO - Saved job: Mechanical Engineer, Energy Systems - Ramboll
+2024-12-01 19:25:02,674 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/927841
+2024-12-01 19:25:06,271 - INFO - Successfully scraped job: Intern - Power Engineering
+2024-12-01 19:25:06,277 - INFO - Saved job: Intern - Power Engineering - Gannett Fleming, Inc.
+2024-12-01 19:25:07,963 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/927405
+2024-12-01 19:25:10,934 - DEBUG - No additional metadata found
+2024-12-01 19:25:10,948 - INFO - Successfully scraped job: Sr. Principal Systems Engineer - Nuclear Survivability/Thermal
+2024-12-01 19:25:10,953 - INFO - Saved job: Sr. Principal Systems Engineer - Nuclear Survivability/Thermal - Northrop Grumman
+2024-12-01 19:25:12,906 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/926972
+2024-12-01 19:25:14,900 - INFO - Successfully scraped job: Nevada Gold Mines - Engineering Greenfield Talent Program (GTP)
+2024-12-01 19:25:14,904 - INFO - Saved job: Nevada Gold Mines - Engineering Greenfield Talent Program (GTP) - Barrick Gold Corporation
+2024-12-01 19:25:16,786 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/926444
+2024-12-01 19:25:20,345 - INFO - Successfully scraped job: ADP's HVAC Lead Product Development Engineer (Thermodynamics/Heat Transfer)
+2024-12-01 19:25:20,349 - INFO - Saved job: ADP's HVAC Lead Product Development Engineer (Thermodynamics/Heat Transfer) - Lennox International
+2024-12-01 19:25:21,700 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/926404
+2024-12-01 19:25:23,866 - INFO - Successfully scraped job: Engineering Manager - Water/Wastewater - Fort Worth, TX
+2024-12-01 19:25:23,870 - INFO - Saved job: Engineering Manager - Water/Wastewater - Fort Worth, TX - Black & Veatch
+2024-12-01 19:25:25,603 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000660
+2024-12-01 19:25:38,160 - WARNING - Timeout waiting for company element
+2024-12-01 19:25:38,281 - INFO - Successfully scraped job: Civil Project Engineer
+2024-12-01 19:25:38,288 - INFO - Saved job: Civil Project Engineer - None
+2024-12-01 19:25:39,425 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/926141
+2024-12-01 19:25:41,813 - INFO - Successfully scraped job: Prin Appl/Sys Sales Engineer
+2024-12-01 19:25:41,818 - INFO - Saved job: Prin Appl/Sys Sales Engineer - Honeywell
+2024-12-01 19:25:43,189 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/890075
