@@ -5305,3 +5305,32 @@
 2024-12-01 16:56:46,972 - WARNING - Timeout waiting for company element
 2024-12-01 16:56:47,219 - INFO - Successfully scraped job: Principal Civil Engineer
 2024-12-01 16:56:47,222 - INFO - Saved job: Principal Civil Engineer - None
+2024-12-01 16:56:48,945 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/987649
+2024-12-01 16:56:52,083 - INFO - Successfully scraped job: Safety Assurance Engineer
+2024-12-01 16:56:52,086 - INFO - Saved job: Safety Assurance Engineer - AtkinsRéalis
+2024-12-01 16:56:53,655 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/820694
+2024-12-01 16:57:06,299 - WARNING - Timeout waiting for company element
+2024-12-01 16:57:06,435 - INFO - Successfully scraped job: Senior Pipeline Engineer (II)
+2024-12-01 16:57:06,439 - INFO - Saved job: Senior Pipeline Engineer (II) - None
+2024-12-01 16:57:07,999 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/848409
+2024-12-01 16:57:10,234 - INFO - Successfully scraped job: Lead Civil Structural Engineer
+2024-12-01 16:57:10,237 - INFO - Saved job: Lead Civil Structural Engineer - Wood PLC
+2024-12-01 16:57:11,407 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/850119
+2024-12-01 16:57:14,095 - INFO - Successfully scraped job: Field Engineer - Next Gen Graduate Program
+2024-12-01 16:57:14,098 - INFO - Saved job: Field Engineer - Next Gen Graduate Program - Weatherford
+2024-12-01 16:57:15,381 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/962291
+2024-12-01 16:57:17,372 - INFO - Successfully scraped job: Sr Field HSE Engineer
+2024-12-01 16:57:17,375 - INFO - Saved job: Sr Field HSE Engineer - Honeywell
+2024-12-01 16:57:18,845 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/847679
+2024-12-01 16:57:22,371 - INFO - Successfully scraped job: Air Quality Engineer
+2024-12-01 16:57:22,374 - INFO - Saved job: Air Quality Engineer - Wood PLC
+2024-12-01 16:57:23,505 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/962482
+2024-12-01 16:57:25,445 - INFO - Successfully scraped job: Senior Casting Technology Manufacturing Engineer
+2024-12-01 16:57:25,450 - INFO - Saved job: Senior Casting Technology Manufacturing Engineer - GE Renewable Energy Power and Aviation
+2024-12-01 16:57:27,026 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/962459
+2024-12-01 16:57:30,896 - INFO - Successfully scraped job: Lead Engineer - Commercial EMI/Lightning
+2024-12-01 16:57:30,899 - INFO - Saved job: Lead Engineer - Commercial EMI/Lightning - GE Renewable Energy Power and Aviation
+2024-12-01 16:57:32,680 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/962131
+2024-12-01 16:57:35,778 - INFO - Successfully scraped job: Engineering Manager (NEOM Site)
+2024-12-01 16:57:35,783 - INFO - Saved job: Engineering Manager (NEOM Site) - AtkinsRéalis
+2024-12-01 16:57:36,992 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/961526
