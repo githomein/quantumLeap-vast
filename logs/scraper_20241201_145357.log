@@ -4936,3 +4936,42 @@
 2024-12-01 16:47:30,610 - INFO - Successfully scraped job: Junior Field Service Engineer Milano
 2024-12-01 16:47:30,613 - INFO - Saved job: Junior Field Service Engineer Milano - Honeywell
 2024-12-01 16:47:31,768 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/855561
+2024-12-01 16:47:35,520 - INFO - Successfully scraped job: Chemical Design Engineer I (Hybrid)
+2024-12-01 16:47:35,523 - INFO - Saved job: Chemical Design Engineer I (Hybrid) - Honeywell
+2024-12-01 16:47:36,563 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/855854
+2024-12-01 16:47:39,003 - INFO - Successfully scraped job: Advanced Electronics (EMC) Design Engineer
+2024-12-01 16:47:39,006 - INFO - Saved job: Advanced Electronics (EMC) Design Engineer - Honeywell
+2024-12-01 16:47:40,781 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/904215
+2024-12-01 16:47:54,216 - WARNING - Timeout waiting for company element
+2024-12-01 16:47:54,315 - INFO - Successfully scraped job: Senior Well Intervention Engineer I (Operation & Planning)
+2024-12-01 16:47:54,320 - INFO - Saved job: Senior Well Intervention Engineer I (Operation & Planning) - None
+2024-12-01 16:47:55,574 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/968325
+2024-12-01 16:47:58,113 - INFO - Successfully scraped job: Aftermarket Mechanical Engineer
+2024-12-01 16:47:58,117 - INFO - Saved job: Aftermarket Mechanical Engineer - NOV
+2024-12-01 16:47:59,160 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/902737
+2024-12-01 16:48:00,965 - INFO - Successfully scraped job: Field Service Engineer - Gas Detection
+2024-12-01 16:48:00,968 - INFO - Saved job: Field Service Engineer - Gas Detection - Honeywell
+2024-12-01 16:48:02,397 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/902142
+2024-12-01 16:48:04,315 - INFO - Successfully scraped job: RF Engineer II - Integrated Circuits
+2024-12-01 16:48:04,318 - INFO - Saved job: RF Engineer II - Integrated Circuits - Honeywell
+2024-12-01 16:48:06,274 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/902149
+2024-12-01 16:48:09,844 - INFO - Successfully scraped job: Quality Engineer III
+2024-12-01 16:48:09,848 - INFO - Saved job: Quality Engineer III - Honeywell
+2024-12-01 16:48:11,659 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/851309
+2024-12-01 16:48:14,100 - INFO - Successfully scraped job: JUNIOR ROAD DESIGN ENGINEER
+2024-12-01 16:48:14,104 - INFO - Saved job: JUNIOR ROAD DESIGN ENGINEER - Engie
+2024-12-01 16:48:15,870 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/850799
+2024-12-01 16:48:19,331 - INFO - Successfully scraped job: Systems Engineer I
+2024-12-01 16:48:19,334 - INFO - Saved job: Systems Engineer I - Engie
+2024-12-01 16:48:20,619 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/871795
+2024-12-01 16:48:23,760 - INFO - Successfully scraped job: Overhead Line (OHL) Design Engineer
+2024-12-01 16:48:23,763 - INFO - Saved job: Overhead Line (OHL) Design Engineer - Engie
+2024-12-01 16:48:25,221 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/968003
+2024-12-01 16:48:28,535 - INFO - Successfully scraped job: Radiation Safety Officer (RSO) & EXPLOSIVES LIC ENGINEER
+2024-12-01 16:48:28,539 - INFO - Saved job: Radiation Safety Officer (RSO) & EXPLOSIVES LIC ENGINEER - Weatherford
+2024-12-01 16:48:30,149 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/920971
+2024-12-01 16:48:32,388 - INFO - Successfully scraped job: Principal Protection Secondary Engineer
+2024-12-01 16:48:32,391 - INFO - Saved job: Principal Protection Secondary Engineer - AtkinsRéalis
+2024-12-01 16:48:34,093 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/867105
+2024-12-01 16:48:36,359 - INFO - Successfully scraped job: Ingénieur(e) électrique sénior, aéroports / Senior airside electrical engineer
+2024-12-01 16:48:36,362 - INFO - Saved job: Ingénieur(e) électrique sénior, aéroports / Senior airside electrical engineer - AtkinsRéalis
