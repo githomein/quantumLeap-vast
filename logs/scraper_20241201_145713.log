@@ -7528,3 +7528,29 @@
 2024-12-01 17:56:25,721 - INFO - Successfully scraped job: Digital Consulting Application Engineer
 2024-12-01 17:56:25,724 - INFO - Saved job: Digital Consulting Application Engineer - Schneider Electric
 2024-12-01 17:56:27,095 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/988114
+2024-12-01 17:56:29,340 - INFO - Successfully scraped job: Advanced Chemical Engineer (PRV Engineer)
+2024-12-01 17:56:29,343 - INFO - Saved job: Advanced Chemical Engineer (PRV Engineer) - Honeywell
+2024-12-01 17:56:30,803 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/988010
+2024-12-01 17:56:44,014 - WARNING - Timeout waiting for company element
+2024-12-01 17:56:44,114 - INFO - Successfully scraped job: Structural Engineer
+2024-12-01 17:56:44,118 - INFO - Saved job: Structural Engineer - None
+2024-12-01 17:56:45,585 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/oilfield-jobs/987989
+2024-12-01 17:56:59,340 - WARNING - Timeout waiting for company element
+2024-12-01 17:56:59,418 - DEBUG - No additional metadata found
+2024-12-01 17:56:59,432 - INFO - Successfully scraped job: Contract Workforce Engineer
+2024-12-01 17:56:59,437 - INFO - Saved job: Contract Workforce Engineer - None
+2024-12-01 17:57:01,213 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/987910
+2024-12-01 17:57:04,685 - DEBUG - No additional metadata found
+2024-12-01 17:57:04,699 - INFO - Successfully scraped job: RD106-ESG-R&D Mechanical Engineer, Assoc
+2024-12-01 17:57:04,703 - INFO - Saved job: RD106-ESG-R&D Mechanical Engineer, Assoc - Halliburton
+2024-12-01 17:57:06,544 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/987935
+2024-12-01 17:57:08,486 - INFO - Successfully scraped job: Internship Engineer Belgium - 2025
+2024-12-01 17:57:08,489 - INFO - Saved job: Internship Engineer Belgium - 2025 - Exxon Mobil
+2024-12-01 17:57:09,662 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/987886
+2024-12-01 17:57:21,874 - WARNING - Timeout waiting for company element
+2024-12-01 17:57:22,079 - INFO - Successfully scraped job: SENIOR ENVIRONMENT MANGEMENT SYSTEM ENGINEER
+2024-12-01 17:57:22,084 - INFO - Saved job: SENIOR ENVIRONMENT MANGEMENT SYSTEM ENGINEER - None
+2024-12-01 17:57:23,463 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/853905
+2024-12-01 17:57:26,391 - INFO - Successfully scraped job: Senior Engineer - FPGA Design
+2024-12-01 17:57:26,395 - INFO - Saved job: Senior Engineer - FPGA Design - GE Renewable Energy Power and Aviation
+2024-12-01 17:57:28,103 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/964261

@@ -7771,3 +7771,37 @@
 2024-12-01 17:56:19,996 - INFO - Successfully scraped job: Senior Planning and Control Engineer
 2024-12-01 17:56:20,000 - INFO - Saved job: Senior Planning and Control Engineer - None
 2024-12-01 17:56:21,029 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/legal-jobs/989648
+2024-12-01 17:56:33,872 - WARNING - Timeout waiting for company element
+2024-12-01 17:56:34,087 - INFO - Successfully scraped job: Senior Contract Engineer with experiences in BIMCO
+2024-12-01 17:56:34,091 - INFO - Saved job: Senior Contract Engineer with experiences in BIMCO - None
+2024-12-01 17:56:35,305 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/965705
+2024-12-01 17:56:38,680 - INFO - Successfully scraped job: Electrical Engineer
+2024-12-01 17:56:38,686 - INFO - Saved job: Electrical Engineer - Vestas
+2024-12-01 17:56:40,608 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/989518
+2024-12-01 17:56:43,283 - INFO - Successfully scraped job: Lead Engineer - Systems Engineering
+2024-12-01 17:56:43,287 - INFO - Saved job: Lead Engineer - Systems Engineering - GE Renewable Energy Power and Aviation
+2024-12-01 17:56:44,546 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/989432
+2024-12-01 17:56:47,884 - INFO - Successfully scraped job: Application Engineer II
+2024-12-01 17:56:47,889 - INFO - Saved job: Application Engineer II - Schneider Electric
+2024-12-01 17:56:49,293 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/989396
+2024-12-01 17:56:51,407 - INFO - Successfully scraped job: Application Engineer Intern - Summer 2025
+2024-12-01 17:56:51,413 - INFO - Saved job: Application Engineer Intern - Summer 2025 - Schneider Electric
+2024-12-01 17:56:52,944 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/989321
+2024-12-01 17:56:56,725 - INFO - Successfully scraped job: Product Application Engineer
+2024-12-01 17:56:56,729 - INFO - Saved job: Product Application Engineer - Schneider Electric
+2024-12-01 17:56:57,732 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/989269
+2024-12-01 17:57:01,096 - INFO - Successfully scraped job: Graduate Engineer Trainee - Piping
+2024-12-01 17:57:01,101 - INFO - Saved job: Graduate Engineer Trainee - Piping - Wood PLC
+2024-12-01 17:57:03,096 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/989268
+2024-12-01 17:57:05,110 - INFO - Successfully scraped job: Graduate Engineer Trainee - Project Controls
+2024-12-01 17:57:05,114 - INFO - Saved job: Graduate Engineer Trainee - Project Controls - Wood PLC
+2024-12-01 17:57:06,800 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/989301
+2024-12-01 17:57:10,572 - INFO - Successfully scraped job: DevOps Engineer, B&R Automation
+2024-12-01 17:57:10,577 - INFO - Saved job: DevOps Engineer, B&R Automation - ABB
+2024-12-01 17:57:11,797 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/989126
+2024-12-01 17:57:24,909 - WARNING - Timeout waiting for company element
+2024-12-01 17:57:25,072 - INFO - Successfully scraped job: HSE Risk Engineer / Advisor
+2024-12-01 17:57:25,077 - INFO - Saved job: HSE Risk Engineer / Advisor - None
+2024-12-01 17:57:26,753 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/989060
+2024-12-01 17:57:29,142 - INFO - Successfully scraped job: RE Contract Performance Engineer
+2024-12-01 17:57:29,146 - INFO - Saved job: RE Contract Performance Engineer - Shell
