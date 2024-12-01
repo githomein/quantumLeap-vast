@@ -12257,3 +12257,23 @@
 2024-12-01 19:45:21,512 - INFO - Successfully scraped job: Reservoir Engineer (oil/ Gas Co.)
 2024-12-01 19:45:21,517 - INFO - Saved job: Reservoir Engineer (oil/ Gas Co.) - None
 2024-12-01 19:45:23,350 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/820528
+2024-12-01 19:45:37,286 - WARNING - Timeout waiting for company element
+2024-12-01 19:45:37,419 - INFO - Successfully scraped job: Lead Instrument Engineer (oil/gas Commissioning)
+2024-12-01 19:45:37,427 - INFO - Saved job: Lead Instrument Engineer (oil/gas Commissioning) - None
+2024-12-01 19:45:38,854 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/820510
+2024-12-01 19:45:51,659 - WARNING - Timeout waiting for company element
+2024-12-01 19:45:51,750 - INFO - Successfully scraped job: Structural Senior Engineer (epc Oil/gas Offshore)
+2024-12-01 19:45:51,756 - INFO - Saved job: Structural Senior Engineer (epc Oil/gas Offshore) - None
+2024-12-01 19:45:53,194 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/820437
+2024-12-01 19:46:06,339 - WARNING - Timeout waiting for company element
+2024-12-01 19:46:06,428 - INFO - Successfully scraped job: Cost Control Engineer ( Oil/gas Offshore )
+2024-12-01 19:46:06,434 - INFO - Saved job: Cost Control Engineer ( Oil/gas Offshore ) - None
+2024-12-01 19:46:07,625 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/820460
+2024-12-01 19:46:20,059 - WARNING - Timeout waiting for company element
+2024-12-01 19:46:20,156 - INFO - Successfully scraped job: Project Engineer (oil/ Gas Co.)
+2024-12-01 19:46:20,162 - INFO - Saved job: Project Engineer (oil/ Gas Co.) - None
+2024-12-01 19:46:21,521 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/820509
+2024-12-01 19:46:33,753 - WARNING - Timeout waiting for company element
+2024-12-01 19:46:33,857 - INFO - Successfully scraped job: Structural Lead Engineer (epc Oil/gas Offshore)
+2024-12-01 19:46:33,864 - INFO - Saved job: Structural Lead Engineer (epc Oil/gas Offshore) - None
+2024-12-01 19:46:35,658 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/820451

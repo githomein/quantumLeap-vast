@@ -12478,3 +12478,38 @@
 2024-12-01 19:45:32,633 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/992554
 2024-12-01 19:45:36,256 - INFO - Successfully scraped job: Space thermal engineer
 2024-12-01 19:45:36,264 - INFO - Saved job: Space thermal engineer - TMC
+2024-12-01 19:45:37,589 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/992441
+2024-12-01 19:45:39,994 - INFO - Successfully scraped job: HVAC Sales Engineer
+2024-12-01 19:45:39,999 - INFO - Saved job: HVAC Sales Engineer - Viessmann Climate Solutions
+2024-12-01 19:45:41,223 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/992353
+2024-12-01 19:45:44,125 - INFO - Successfully scraped job: Offshore Pipeline Engineer - PAYE contract
+2024-12-01 19:45:44,132 - INFO - Saved job: Offshore Pipeline Engineer - PAYE contract - Technip Energies NV
+2024-12-01 19:45:45,677 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/992305
+2024-12-01 19:45:48,886 - INFO - Successfully scraped job: Trainee Gas Engineer
+2024-12-01 19:45:48,892 - INFO - Saved job: Trainee Gas Engineer - SGN
+2024-12-01 19:45:50,345 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/992282
+2024-12-01 19:45:54,091 - INFO - Successfully scraped job: Power Systems Engineer
+2024-12-01 19:45:54,096 - INFO - Saved job: Power Systems Engineer - GE Vernova
+2024-12-01 19:45:56,043 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/992208
+2024-12-01 19:45:59,492 - INFO - Successfully scraped job: Senior Solar Engineer
+2024-12-01 19:45:59,498 - INFO - Saved job: Senior Solar Engineer - AECOM
+2024-12-01 19:46:01,365 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/992194
+2024-12-01 19:46:03,286 - INFO - Successfully scraped job: Commissioning Engineer Gas Compressors
+2024-12-01 19:46:03,292 - INFO - Saved job: Commissioning Engineer Gas Compressors - Segula Technologies
+2024-12-01 19:46:05,018 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/992006
+2024-12-01 19:46:07,465 - INFO - Successfully scraped job: Gas Installation Engineer
+2024-12-01 19:46:07,470 - INFO - Saved job: Gas Installation Engineer - Liberty Group Investments Ltd
+2024-12-01 19:46:08,731 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/992087
+2024-12-01 19:46:21,395 - WARNING - Timeout waiting for company element
+2024-12-01 19:46:21,513 - INFO - Successfully scraped job: Junior Instrumentation Engineer
+2024-12-01 19:46:21,518 - INFO - Saved job: Junior Instrumentation Engineer - None
+2024-12-01 19:46:23,369 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/991594
+2024-12-01 19:46:26,849 - INFO - Successfully scraped job: Praktikant (m/w/d) im Bereich Engineering
+2024-12-01 19:46:26,856 - INFO - Saved job: Praktikant (m/w/d) im Bereich Engineering - Bilfinger
+2024-12-01 19:46:28,851 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/991952
+2024-12-01 19:46:31,292 - INFO - Successfully scraped job: Senior Field Application Engineer (FAE)- ADG
+2024-12-01 19:46:31,297 - INFO - Saved job: Senior Field Application Engineer (FAE)- ADG - Emerson
+2024-12-01 19:46:32,820 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/991852
+2024-12-01 19:46:36,383 - INFO - Successfully scraped job: Applications Engineering Sr Group Manager
+2024-12-01 19:46:36,390 - INFO - Saved job: Applications Engineering Sr Group Manager - Emerson
+2024-12-01 19:46:37,684 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991850
