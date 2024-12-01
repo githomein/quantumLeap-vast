@@ -7431,3 +7431,30 @@
 2024-12-01 17:53:17,406 - INFO - Successfully scraped job: Engineer - Electronic Hardware
 2024-12-01 17:53:17,409 - INFO - Saved job: Engineer - Electronic Hardware - GE Renewable Energy Power and Aviation
 2024-12-01 17:53:19,126 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/988742
+2024-12-01 17:53:22,991 - DEBUG - No additional metadata found
+2024-12-01 17:53:23,005 - INFO - Successfully scraped job: Electromechanical Engineer
+2024-12-01 17:53:23,008 - INFO - Saved job: Electromechanical Engineer - Schneider Electric
+2024-12-01 17:53:24,645 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/897854
+2024-12-01 17:53:27,505 - INFO - Successfully scraped job: Avionics Embedded Software Engineer - FLRAA
+2024-12-01 17:53:27,509 - INFO - Saved job: Avionics Embedded Software Engineer - FLRAA - GE Renewable Energy Power and Aviation
+2024-12-01 17:53:28,514 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/988367
+2024-12-01 17:53:40,960 - WARNING - Timeout waiting for company element
+2024-12-01 17:53:41,123 - INFO - Successfully scraped job: Engineering Studies Buyer F/M
+2024-12-01 17:53:41,128 - INFO - Saved job: Engineering Studies Buyer F/M - None
+2024-12-01 17:53:42,985 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/988228
+2024-12-01 17:53:44,853 - INFO - Successfully scraped job: Test Engineer - SATCOM
+2024-12-01 17:53:44,856 - INFO - Saved job: Test Engineer - SATCOM - Honeywell
+2024-12-01 17:53:46,589 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/988018
+2024-12-01 17:53:59,936 - WARNING - Timeout waiting for company element
+2024-12-01 17:54:00,014 - DEBUG - No additional metadata found
+2024-12-01 17:54:00,031 - INFO - Successfully scraped job: Engineering – Mechanical
+2024-12-01 17:54:00,035 - INFO - Saved job: Engineering – Mechanical - None
+2024-12-01 17:54:01,678 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/987983
+2024-12-01 17:54:15,191 - WARNING - Timeout waiting for company element
+2024-12-01 17:54:15,327 - DEBUG - No additional metadata found
+2024-12-01 17:54:15,341 - INFO - Successfully scraped job: Process Engineer
+2024-12-01 17:54:15,345 - INFO - Saved job: Process Engineer - None
+2024-12-01 17:54:16,751 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/987791
+2024-12-01 17:54:18,644 - INFO - Successfully scraped job: Staff Identity Management Operations Engineer - IGA
+2024-12-01 17:54:18,648 - INFO - Saved job: Staff Identity Management Operations Engineer - IGA - GE Renewable Energy Power and Aviation
+2024-12-01 17:54:20,231 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/oilfield-jobs/987757
