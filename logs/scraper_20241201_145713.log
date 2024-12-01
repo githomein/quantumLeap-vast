@@ -9098,3 +9098,21 @@
 2024-12-01 18:32:35,637 - INFO - Successfully scraped job: Senior Engineer - Water/Wastewater - Remote
 2024-12-01 18:32:35,641 - INFO - Saved job: Senior Engineer - Water/Wastewater - Remote - Spencer Ogden
 2024-12-01 18:32:36,908 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/974061
+2024-12-01 18:32:50,331 - WARNING - Timeout waiting for company element
+2024-12-01 18:32:50,534 - INFO - Successfully scraped job: Senior Offshore Structural Engineer
+2024-12-01 18:32:50,538 - INFO - Saved job: Senior Offshore Structural Engineer - None
+2024-12-01 18:32:52,444 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/973418
+2024-12-01 18:33:06,394 - WARNING - Timeout waiting for company element
+2024-12-01 18:33:06,473 - DEBUG - No additional metadata found
+2024-12-01 18:33:06,488 - INFO - Successfully scraped job: Lead Planning engineer - Suriname Project
+2024-12-01 18:33:06,492 - INFO - Saved job: Lead Planning engineer - Suriname Project - None
+2024-12-01 18:33:07,496 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/973556
+2024-12-01 18:33:20,741 - WARNING - Timeout waiting for company element
+2024-12-01 18:33:20,819 - DEBUG - No additional metadata found
+2024-12-01 18:33:20,833 - INFO - Successfully scraped job: PROJECT CIVIL WORK LEAD ENGINEER
+2024-12-01 18:33:20,838 - INFO - Saved job: PROJECT CIVIL WORK LEAD ENGINEER - None
+2024-12-01 18:33:22,299 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/973421
+2024-12-01 18:33:35,892 - WARNING - Timeout waiting for company element
+2024-12-01 18:33:36,144 - INFO - Successfully scraped job: Principal Engineer - Substation Switchyard
+2024-12-01 18:33:36,149 - INFO - Saved job: Principal Engineer - Substation Switchyard - None
+2024-12-01 18:33:37,891 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/973851
