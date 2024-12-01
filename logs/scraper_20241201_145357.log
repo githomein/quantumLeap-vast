@@ -3112,3 +3112,21 @@
 2024-12-01 16:02:28,687 - INFO - Successfully scraped job: Engineering Delivery Platform Manager (EDP) Mexico
 2024-12-01 16:02:28,691 - INFO - Saved job: Engineering Delivery Platform Manager (EDP) Mexico - ABB
 2024-12-01 16:02:29,941 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005193
+2024-12-01 16:02:44,498 - WARNING - Timeout waiting for company element
+2024-12-01 16:02:44,573 - DEBUG - No additional metadata found
+2024-12-01 16:02:44,588 - INFO - Successfully scraped job: Facilities Engineer III
+2024-12-01 16:02:44,592 - INFO - Saved job: Facilities Engineer III - None
+2024-12-01 16:02:46,503 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1004990
+2024-12-01 16:03:00,564 - WARNING - Timeout waiting for company element
+2024-12-01 16:03:00,669 - DEBUG - No additional metadata found
+2024-12-01 16:03:00,687 - INFO - Successfully scraped job: Senior QA/QC Engineer
+2024-12-01 16:03:00,690 - INFO - Saved job: Senior QA/QC Engineer - None
+2024-12-01 16:03:01,712 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/953528
+2024-12-01 16:03:14,067 - WARNING - Timeout waiting for company element
+2024-12-01 16:03:14,287 - INFO - Successfully scraped job: Senior Engineer - Loss Prevention
+2024-12-01 16:03:14,292 - INFO - Saved job: Senior Engineer - Loss Prevention - None
+2024-12-01 16:03:15,837 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/953530
+2024-12-01 16:03:29,594 - WARNING - Timeout waiting for company element
+2024-12-01 16:03:29,744 - INFO - Successfully scraped job: Principal Packages Engineer
+2024-12-01 16:03:29,748 - INFO - Saved job: Principal Packages Engineer - None
+2024-12-01 16:03:31,022 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/953841

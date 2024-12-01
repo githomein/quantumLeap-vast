@@ -2762,3 +2762,39 @@
 2024-12-01 16:02:35,639 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/983071
 2024-12-01 16:02:38,726 - INFO - Successfully scraped job: Electrical Design Engineer
 2024-12-01 16:02:38,729 - INFO - Saved job: Electrical Design Engineer - ABB
+2024-12-01 16:02:40,676 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/983053
+2024-12-01 16:02:54,268 - WARNING - Timeout waiting for company element
+2024-12-01 16:02:54,445 - INFO - Successfully scraped job: Instrument Systems Engineer M/F
+2024-12-01 16:02:54,449 - INFO - Saved job: Instrument Systems Engineer M/F - None
+2024-12-01 16:02:55,696 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/983061
+2024-12-01 16:02:58,680 - INFO - Successfully scraped job: Senior Service Engineer
+2024-12-01 16:02:58,683 - INFO - Saved job: Senior Service Engineer - ABB
+2024-12-01 16:02:59,965 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/982986
+2024-12-01 16:03:02,489 - INFO - Successfully scraped job: Control Engineering
+2024-12-01 16:03:02,493 - INFO - Saved job: Control Engineering - ABB
+2024-12-01 16:03:03,865 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/872366
+2024-12-01 16:03:06,912 - INFO - Successfully scraped job: Principal Fire Engineer
+2024-12-01 16:03:06,916 - INFO - Saved job: Principal Fire Engineer - AtkinsRéalis
+2024-12-01 16:03:08,848 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005058
+2024-12-01 16:03:12,043 - INFO - Successfully scraped job: Senior Renewable Energy Engineer
+2024-12-01 16:03:12,046 - INFO - Saved job: Senior Renewable Energy Engineer - Sargent & Lundy
+2024-12-01 16:03:13,370 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1005033
+2024-12-01 16:03:16,313 - INFO - Successfully scraped job: Power Systems Engineer
+2024-12-01 16:03:16,316 - INFO - Saved job: Power Systems Engineer - ISO New England, Inc.
+2024-12-01 16:03:18,315 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1004991
+2024-12-01 16:03:21,029 - INFO - Successfully scraped job: Engineer Rotational Development Program (ERDP) Electric Engineering (Power Systems)
+2024-12-01 16:03:21,033 - INFO - Saved job: Engineer Rotational Development Program (ERDP) Electric Engineering (Power Systems) - Pacific Gas and Electric Company
+2024-12-01 16:03:22,077 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1004890
+2024-12-01 16:03:25,134 - INFO - Successfully scraped job: Senior Solar Project Engineer
+2024-12-01 16:03:25,138 - INFO - Saved job: Senior Solar Project Engineer - Nexamp
+2024-12-01 16:03:26,320 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1004887
+2024-12-01 16:03:28,914 - DEBUG - No additional metadata found
+2024-12-01 16:03:28,928 - INFO - Successfully scraped job: Thermal Engineer
+2024-12-01 16:03:28,930 - INFO - Saved job: Thermal Engineer - Apple
+2024-12-01 16:03:30,553 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/1004851
+2024-12-01 16:03:33,183 - INFO - Successfully scraped job: Satellite Mechanical and Thermal Engineer
+2024-12-01 16:03:33,186 - INFO - Saved job: Satellite Mechanical and Thermal Engineer - EUTELSAT SA
+2024-12-01 16:03:34,360 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/981417
+2024-12-01 16:03:37,692 - INFO - Successfully scraped job: Engineer II | Renewable Generation Engineering
+2024-12-01 16:03:37,694 - INFO - Saved job: Engineer II | Renewable Generation Engineering - Arizona Public Service
+2024-12-01 16:03:38,894 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/892440
