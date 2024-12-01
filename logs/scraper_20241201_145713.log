@@ -4998,3 +4998,25 @@
 2024-12-01 16:55:39,987 - INFO - Successfully scraped job: Lead Rotating Engineer
 2024-12-01 16:55:39,990 - INFO - Saved job: Lead Rotating Engineer - None
 2024-12-01 16:55:41,419 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000709
+2024-12-01 16:55:55,355 - WARNING - Timeout waiting for company element
+2024-12-01 16:55:55,567 - INFO - Successfully scraped job: Architect Engineer
+2024-12-01 16:55:55,570 - INFO - Saved job: Architect Engineer - None
+2024-12-01 16:55:57,439 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/consulting-jobs/999912
+2024-12-01 16:56:10,225 - WARNING - Timeout waiting for company element
+2024-12-01 16:56:10,341 - DEBUG - No additional metadata found
+2024-12-01 16:56:10,356 - INFO - Successfully scraped job: SENIOR OFFSHORE PIPELINE ENGINEER (Abu Dhabi)
+2024-12-01 16:56:10,359 - INFO - Saved job: SENIOR OFFSHORE PIPELINE ENGINEER (Abu Dhabi) - None
+2024-12-01 16:56:12,298 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991128
+2024-12-01 16:56:26,340 - WARNING - Timeout waiting for company element
+2024-12-01 16:56:26,457 - DEBUG - No additional metadata found
+2024-12-01 16:56:26,471 - INFO - Successfully scraped job: Senior Project Control Engineer
+2024-12-01 16:56:26,474 - INFO - Saved job: Senior Project Control Engineer - None
+2024-12-01 16:56:27,965 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/oilfield-jobs/1007106
+2024-12-01 16:56:41,580 - WARNING - Timeout waiting for company element
+2024-12-01 16:56:41,749 - INFO - Successfully scraped job: Process Engineer
+2024-12-01 16:56:41,752 - INFO - Saved job: Process Engineer - None
+2024-12-01 16:56:43,440 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/915623
+2024-12-01 16:56:46,652 - INFO - Successfully scraped job: Intern - Instrumentation & Controls Engineer (July - December 2025)
+2024-12-01 16:56:46,656 - INFO - Saved job: Intern - Instrumentation & Controls Engineer (July - December 2025) - Exxon Mobil
+2024-12-01 16:56:47,790 - INFO - Collected 1100 jobs so far
+2024-12-01 16:56:47,790 - INFO - Scraping page 56 of 389
