@@ -10449,3 +10449,39 @@
 2024-12-01 19:05:52,785 - INFO - Successfully scraped job: STRUCTURAL ENGINEER FOR INSTALLATION ON SUBSEA PROJECT
 2024-12-01 19:05:52,789 - INFO - Saved job: STRUCTURAL ENGINEER FOR INSTALLATION ON SUBSEA PROJECT - None
 2024-12-01 19:05:54,001 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/915224
+2024-12-01 19:05:56,318 - INFO - Successfully scraped job: Software Engineer & Computer Science - Recent Grad/Full Time
+2024-12-01 19:05:56,322 - INFO - Saved job: Software Engineer & Computer Science - Recent Grad/Full Time - Honeywell
+2024-12-01 19:05:58,317 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/915220
+2024-12-01 19:06:01,941 - INFO - Successfully scraped job: Systems Engineering - Recent Grad/Full Time
+2024-12-01 19:06:01,945 - INFO - Saved job: Systems Engineering - Recent Grad/Full Time - Honeywell
+2024-12-01 19:06:03,693 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/915205
+2024-12-01 19:06:06,461 - INFO - Successfully scraped job: Chemical Engineering - Summer 2025 Intern (US Person Required)
+2024-12-01 19:06:06,466 - INFO - Saved job: Chemical Engineering - Summer 2025 Intern (US Person Required) - Honeywell
+2024-12-01 19:06:08,187 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/874418
+2024-12-01 19:06:10,295 - INFO - Successfully scraped job: Principal Mechanical Engineer
+2024-12-01 19:06:10,299 - INFO - Saved job: Principal Mechanical Engineer - AtkinsRéalis
+2024-12-01 19:06:11,824 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/914841
+2024-12-01 19:06:15,850 - INFO - Successfully scraped job: APC Project engineer
+2024-12-01 19:06:15,855 - INFO - Saved job: APC Project engineer - ABB
+2024-12-01 19:06:17,365 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006753
+2024-12-01 19:06:20,383 - INFO - Successfully scraped job: Senior C&I Engineer
+2024-12-01 19:06:20,388 - INFO - Saved job: Senior C&I Engineer - AtkinsRéalis
+2024-12-01 19:06:21,670 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006831
+2024-12-01 19:06:25,497 - INFO - Successfully scraped job: Project Lead Engineer (m/f/d) - Division Process Automation Energy Industries
+2024-12-01 19:06:25,501 - INFO - Saved job: Project Lead Engineer (m/f/d) - Division Process Automation Energy Industries - ABB
+2024-12-01 19:06:26,936 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006690
+2024-12-01 19:06:39,287 - WARNING - Timeout waiting for company element
+2024-12-01 19:06:39,456 - INFO - Successfully scraped job: Process Engineer (Low Carbon)
+2024-12-01 19:06:39,461 - INFO - Saved job: Process Engineer (Low Carbon) - None
+2024-12-01 19:06:40,465 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/958298
+2024-12-01 19:06:43,191 - INFO - Successfully scraped job: Sr HSE Engineer
+2024-12-01 19:06:43,195 - INFO - Saved job: Sr HSE Engineer - Honeywell
+2024-12-01 19:06:45,076 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/985704
+2024-12-01 19:06:47,441 - INFO - Successfully scraped job: Ingénieur.e - (Engineer) - instrumentation
+2024-12-01 19:06:47,445 - INFO - Saved job: Ingénieur.e - (Engineer) - instrumentation - GE Renewable Energy Power and Aviation
+2024-12-01 19:06:48,704 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/985610
+2024-12-01 19:06:51,593 - INFO - Successfully scraped job: Process Engineer
+2024-12-01 19:06:51,597 - INFO - Saved job: Process Engineer - Wood PLC
+2024-12-01 19:06:52,794 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/914445
+2024-12-01 19:06:56,613 - INFO - Successfully scraped job: Senior Electrical Engineer
+2024-12-01 19:06:56,619 - INFO - Saved job: Senior Electrical Engineer - Engie
