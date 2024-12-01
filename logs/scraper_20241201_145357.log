@@ -6041,3 +6041,27 @@
 2024-12-01 17:15:15,254 - WARNING - Timeout waiting for company element
 2024-12-01 17:15:15,380 - INFO - Successfully scraped job: Technical Safety Engineer
 2024-12-01 17:15:15,384 - INFO - Saved job: Technical Safety Engineer - None
+2024-12-01 17:15:16,603 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/818481
+2024-12-01 17:15:30,033 - WARNING - Timeout waiting for company element
+2024-12-01 17:15:30,184 - INFO - Successfully scraped job: Engineer, Piping Stress
+2024-12-01 17:15:30,187 - INFO - Saved job: Engineer, Piping Stress - None
+2024-12-01 17:15:32,047 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1003479
+2024-12-01 17:15:35,324 - INFO - Successfully scraped job: Sr Staff - Systems Engineer - LP Module Leader
+2024-12-01 17:15:35,328 - INFO - Saved job: Sr Staff - Systems Engineer - LP Module Leader - GE Renewable Energy Power and Aviation
+2024-12-01 17:15:37,129 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1003445
+2024-12-01 17:15:39,139 - INFO - Successfully scraped job: Lead Repair Materials Application Engineer- Hybrid
+2024-12-01 17:15:39,142 - INFO - Saved job: Lead Repair Materials Application Engineer- Hybrid - GE Renewable Energy Power and Aviation
+2024-12-01 17:15:40,770 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1003451
+2024-12-01 17:15:42,805 - INFO - Successfully scraped job: Lead Engineer - Materials Application Engineering
+2024-12-01 17:15:42,808 - INFO - Saved job: Lead Engineer - Materials Application Engineering - GE Renewable Energy Power and Aviation
+2024-12-01 17:15:44,628 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1003383
+2024-12-01 17:15:47,882 - INFO - Successfully scraped job: Electrical Engineer(System Service)
+2024-12-01 17:15:47,885 - INFO - Saved job: Electrical Engineer(System Service) - ABB
+2024-12-01 17:15:49,015 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/1003319
+2024-12-01 17:15:51,752 - INFO - Successfully scraped job: Electrical Maintenance Engineer
+2024-12-01 17:15:51,755 - INFO - Saved job: Electrical Maintenance Engineer - Engie
+2024-12-01 17:15:53,643 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1003220
+2024-12-01 17:16:06,833 - WARNING - Timeout waiting for company element
+2024-12-01 17:16:07,026 - INFO - Successfully scraped job: Telecom Engineer
+2024-12-01 17:16:07,029 - INFO - Saved job: Telecom Engineer - None
+2024-12-01 17:16:08,658 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1003202
