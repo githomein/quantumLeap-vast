@@ -12945,3 +12945,34 @@
 2024-12-01 19:57:57,356 - INFO - Successfully scraped job: Electromechanical Engineer
 2024-12-01 19:57:57,361 - INFO - Saved job: Electromechanical Engineer - Schneider Electric
 2024-12-01 19:57:58,364 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/988597
+2024-12-01 19:58:11,985 - WARNING - Timeout waiting for company element
+2024-12-01 19:58:12,182 - INFO - Successfully scraped job: IT Engineer M/F
+2024-12-01 19:58:12,190 - INFO - Saved job: IT Engineer M/F - None
+2024-12-01 19:58:13,674 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/administrative-or-secretarial-jobs/988579
+2024-12-01 19:58:17,080 - INFO - Successfully scraped job: Identity and Access Management (IAM) Security Engineer
+2024-12-01 19:58:17,085 - INFO - Saved job: Identity and Access Management (IAM) Security Engineer - Exxon Mobil
+2024-12-01 19:58:19,057 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/988526
+2024-12-01 19:58:31,967 - WARNING - Timeout waiting for company element
+2024-12-01 19:58:32,196 - INFO - Successfully scraped job: Utilities / Facilities Engineer (Pharma)
+2024-12-01 19:58:32,204 - INFO - Saved job: Utilities / Facilities Engineer (Pharma) - None
+2024-12-01 19:58:33,619 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/918137
+2024-12-01 19:58:35,646 - INFO - Successfully scraped job: Lead Semiconductor Reliability Engineer
+2024-12-01 19:58:35,650 - INFO - Saved job: Lead Semiconductor Reliability Engineer - Honeywell
+2024-12-01 19:58:36,987 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/918421
+2024-12-01 19:58:50,070 - WARNING - Timeout waiting for company element
+2024-12-01 19:58:50,172 - INFO - Successfully scraped job: Naval Engineer Lead
+2024-12-01 19:58:50,179 - INFO - Saved job: Naval Engineer Lead - None
+2024-12-01 19:58:51,701 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/988326
+2024-12-01 19:58:54,383 - INFO - Successfully scraped job: PE Lead Engineer
+2024-12-01 19:58:54,388 - INFO - Saved job: PE Lead Engineer - Vestas
+2024-12-01 19:58:55,414 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/988215
+2024-12-01 19:58:57,814 - DEBUG - No additional metadata found
+2024-12-01 19:58:57,828 - INFO - Successfully scraped job: Sr. Service Sales Engineer
+2024-12-01 19:58:57,833 - INFO - Saved job: Sr. Service Sales Engineer - Schneider Electric
+2024-12-01 19:58:58,870 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/988199
+2024-12-01 19:59:01,614 - INFO - Successfully scraped job: Tender Engineer
+2024-12-01 19:59:01,621 - INFO - Saved job: Tender Engineer - Schneider Electric
+2024-12-01 19:59:02,667 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/988058
+2024-12-01 19:59:05,325 - INFO - Successfully scraped job: Procurement Engineering Manager
+2024-12-01 19:59:05,332 - INFO - Saved job: Procurement Engineering Manager - AtkinsRéalis
+2024-12-01 19:59:06,774 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/988019

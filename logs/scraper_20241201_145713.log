@@ -12709,3 +12709,21 @@
 2024-12-01 19:58:04,805 - INFO - Successfully scraped job: Principal Applications Engineer (Choke Valves)
 2024-12-01 19:58:04,810 - INFO - Saved job: Principal Applications Engineer (Choke Valves) - NOV
 2024-12-01 19:58:05,836 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990061
+2024-12-01 19:58:19,528 - WARNING - Timeout waiting for company element
+2024-12-01 19:58:19,666 - INFO - Successfully scraped job: Senior Solar Engineer
+2024-12-01 19:58:19,672 - INFO - Saved job: Senior Solar Engineer - None
+2024-12-01 19:58:21,616 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/990027
+2024-12-01 19:58:25,011 - INFO - Successfully scraped job: Engineering Digitalization & Process Innovation Manager
+2024-12-01 19:58:25,016 - INFO - Saved job: Engineering Digitalization & Process Innovation Manager - Subsea 7
+2024-12-01 19:58:26,694 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/989879
+2024-12-01 19:58:30,125 - INFO - Successfully scraped job: Sr Reliability Engineer
+2024-12-01 19:58:30,130 - INFO - Saved job: Sr Reliability Engineer - Honeywell
+2024-12-01 19:58:31,451 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/989733
+2024-12-01 19:58:44,747 - WARNING - Timeout waiting for company element
+2024-12-01 19:58:44,867 - INFO - Successfully scraped job: Senior Stress Engineer - Piping & Layout
+2024-12-01 19:58:44,872 - INFO - Saved job: Senior Stress Engineer - Piping & Layout - None
+2024-12-01 19:58:46,332 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/989678
+2024-12-01 19:58:58,620 - WARNING - Timeout waiting for company element
+2024-12-01 19:58:58,743 - INFO - Successfully scraped job: Subsea Project Engineer - Jansz-Io Compression (J-IC)
+2024-12-01 19:58:58,748 - INFO - Saved job: Subsea Project Engineer - Jansz-Io Compression (J-IC) - None
+2024-12-01 19:59:00,559 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/920083
