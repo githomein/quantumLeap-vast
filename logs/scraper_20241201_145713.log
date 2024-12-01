@@ -13358,3 +13358,22 @@
 2024-12-01 20:14:52,423 - INFO - Successfully scraped job: Electro Engineer - Steel
 2024-12-01 20:14:52,428 - INFO - Saved job: Electro Engineer - Steel - None
 2024-12-01 20:14:54,240 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/oilfield-jobs/1005068
+2024-12-01 20:15:07,674 - WARNING - Timeout waiting for company element
+2024-12-01 20:15:07,752 - DEBUG - No additional metadata found
+2024-12-01 20:15:07,766 - INFO - Successfully scraped job: Sr. Project Engineer
+2024-12-01 20:15:07,772 - INFO - Saved job: Sr. Project Engineer - None
+2024-12-01 20:15:09,722 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/953533
+2024-12-01 20:15:23,948 - WARNING - Timeout waiting for company element
+2024-12-01 20:15:24,170 - INFO - Successfully scraped job: Senior Principal Engineer - Process
+2024-12-01 20:15:24,175 - INFO - Saved job: Senior Principal Engineer - Process - None
+2024-12-01 20:15:25,267 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/983783
+2024-12-01 20:15:38,457 - WARNING - Timeout waiting for company element
+2024-12-01 20:15:38,581 - INFO - Successfully scraped job: Project Engineer - Geotechnical
+2024-12-01 20:15:38,586 - INFO - Saved job: Project Engineer - Geotechnical - None
+2024-12-01 20:15:40,272 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/982915
+2024-12-01 20:15:53,325 - WARNING - Timeout waiting for company element
+2024-12-01 20:15:53,435 - INFO - Successfully scraped job: Senior ICSS Engineer x2
+2024-12-01 20:15:53,441 - INFO - Saved job: Senior ICSS Engineer x2 - None
+2024-12-01 20:15:54,607 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/912526
+2024-12-01 20:15:57,734 - INFO - Successfully scraped job: Electrical Engineer Cable Technology Offshore (f/m/d)
+2024-12-01 20:15:57,740 - INFO - Saved job: Electrical Engineer Cable Technology Offshore (f/m/d) - 50Hertz Transmission GmbH - ein Unternehmen der europäischen Elia Group
