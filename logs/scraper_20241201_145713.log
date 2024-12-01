@@ -11272,3 +11272,70 @@
 2024-12-01 19:23:35,115 - INFO - Successfully scraped job: Intern - Mining Engineer - Thornville, OH
 2024-12-01 19:23:35,120 - INFO - Saved job: Intern - Mining Engineer - Thornville, OH - CRH
 2024-12-01 19:23:37,099 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/933945
+2024-12-01 19:23:39,972 - INFO - Successfully scraped job: Nuclear Ship's Propulsion Systems Engineer
+2024-12-01 19:23:39,979 - INFO - Saved job: Nuclear Ship's Propulsion Systems Engineer - ManTech International
+2024-12-01 19:23:41,308 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/975995
+2024-12-01 19:23:45,154 - INFO - Successfully scraped job: Project Engineer, Energy Storage
+2024-12-01 19:23:45,159 - INFO - Saved job: Project Engineer, Energy Storage - Ameresco
+2024-12-01 19:23:46,484 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/928792
+2024-12-01 19:23:48,600 - INFO - Successfully scraped job: Energy Engineering Internship
+2024-12-01 19:23:48,604 - INFO - Saved job: Energy Engineering Internship - Ameresco
+2024-12-01 19:23:50,558 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/928783
+2024-12-01 19:23:53,339 - INFO - Successfully scraped job: Jr. Civil/Geological Engineer
+2024-12-01 19:23:53,344 - INFO - Saved job: Jr. Civil/Geological Engineer - TRC Companies, Inc.
+2024-12-01 19:23:54,932 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/928664
+2024-12-01 19:23:57,708 - INFO - Successfully scraped job: Intern / Co - Op Nuclear Engineers
+2024-12-01 19:23:57,712 - INFO - Saved job: Intern / Co - Op Nuclear Engineers - Framatome
+2024-12-01 19:23:58,973 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/934455
+2024-12-01 19:24:02,252 - INFO - Successfully scraped job: Senior Staff Product Quality Engineer - Clean Energy
+2024-12-01 19:24:02,257 - INFO - Saved job: Senior Staff Product Quality Engineer - Clean Energy - Generac Power Systems, Inc.
+2024-12-01 19:24:03,917 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/928428
+2024-12-01 19:24:06,124 - INFO - Successfully scraped job: Electrical Power Engineer IV
+2024-12-01 19:24:06,129 - INFO - Saved job: Electrical Power Engineer IV - CHA Consulting, Inc.
+2024-12-01 19:24:07,200 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/928185
+2024-12-01 19:24:09,454 - DEBUG - No additional metadata found
+2024-12-01 19:24:09,469 - INFO - Successfully scraped job: Energy Engineer
+2024-12-01 19:24:09,476 - INFO - Saved job: Energy Engineer - Seton Hall University
+2024-12-01 19:24:10,715 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/928047
+2024-12-01 19:24:13,208 - INFO - Successfully scraped job: Mechanical Engineer, Energy Systems
+2024-12-01 19:24:13,213 - INFO - Saved job: Mechanical Engineer, Energy Systems - Ramboll
+2024-12-01 19:24:14,625 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/927841
+2024-12-01 19:24:16,592 - INFO - Successfully scraped job: Intern - Power Engineering
+2024-12-01 19:24:16,596 - INFO - Saved job: Intern - Power Engineering - Gannett Fleming, Inc.
+2024-12-01 19:24:18,307 - INFO - Collected 2480 jobs so far
+2024-12-01 19:24:18,308 - INFO - Scraping page 125 of 389
+2024-12-01 19:24:21,698 - INFO - Getting job links from current page
+2024-12-01 19:24:24,732 - INFO - Found 20 job cards
+2024-12-01 19:24:24,745 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/928428
+2024-12-01 19:24:24,754 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/928185
+2024-12-01 19:24:24,763 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/928047
+2024-12-01 19:24:24,772 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/927841
+2024-12-01 19:24:24,781 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/927405
+2024-12-01 19:24:24,790 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/926972
+2024-12-01 19:24:24,799 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/926444
+2024-12-01 19:24:24,807 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/926404
+2024-12-01 19:24:24,816 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000660
+2024-12-01 19:24:24,825 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/926141
+2024-12-01 19:24:24,834 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/production-jobs/890075
+2024-12-01 19:24:24,843 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/851322
+2024-12-01 19:24:24,852 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/925975
+2024-12-01 19:24:24,861 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/890377
+2024-12-01 19:24:24,869 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000694
+2024-12-01 19:24:24,878 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000636
+2024-12-01 19:24:24,887 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000630
+2024-12-01 19:24:24,896 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/production-jobs/846503
+2024-12-01 19:24:24,905 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1000622
+2024-12-01 19:24:24,914 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/950682
+2024-12-01 19:24:24,914 - INFO - Successfully extracted 20 job links
+2024-12-01 19:24:24,914 - INFO - Found 20 jobs on page 125
+2024-12-01 19:24:24,914 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/928428
+2024-12-01 19:24:27,808 - INFO - Successfully scraped job: Electrical Power Engineer IV
+2024-12-01 19:24:27,813 - INFO - Saved job: Electrical Power Engineer IV - CHA Consulting, Inc.
+2024-12-01 19:24:29,725 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/928185
+2024-12-01 19:24:32,880 - DEBUG - No additional metadata found
+2024-12-01 19:24:32,893 - INFO - Successfully scraped job: Energy Engineer
+2024-12-01 19:24:32,899 - INFO - Saved job: Energy Engineer - Seton Hall University
+2024-12-01 19:24:34,885 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/928047
+2024-12-01 19:24:37,662 - INFO - Successfully scraped job: Mechanical Engineer, Energy Systems
+2024-12-01 19:24:37,667 - INFO - Saved job: Mechanical Engineer, Energy Systems - Ramboll
+2024-12-01 19:24:39,388 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/927841
