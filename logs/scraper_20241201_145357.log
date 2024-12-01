@@ -5149,3 +5149,63 @@
 2024-12-01 16:52:30,562 - INFO - Successfully scraped job: Senior Schedule Engineer
 2024-12-01 16:52:30,566 - INFO - Saved job: Senior Schedule Engineer - None
 2024-12-01 16:52:31,871 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/oil-rig-jobs/988461
+2024-12-01 16:52:45,287 - WARNING - Timeout waiting for company element
+2024-12-01 16:52:45,512 - INFO - Successfully scraped job: Machinery Diagnostics Field Engineer
+2024-12-01 16:52:45,517 - INFO - Saved job: Machinery Diagnostics Field Engineer - None
+2024-12-01 16:52:47,180 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/918673
+2024-12-01 16:52:49,362 - INFO - Successfully scraped job: Electrical Engineer, Sweeny Refinery
+2024-12-01 16:52:49,365 - INFO - Saved job: Electrical Engineer, Sweeny Refinery - Phillips 66
+2024-12-01 16:52:51,276 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/918461
+2024-12-01 16:52:54,697 - INFO - Successfully scraped job: Project Application Engineer / Automation Engineer - DCS and protection systems (f/m/d)
+2024-12-01 16:52:54,702 - INFO - Saved job: Project Application Engineer / Automation Engineer - DCS and protection systems (f/m/d) - ABB
+2024-12-01 16:52:56,121 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/918518
+2024-12-01 16:52:59,165 - INFO - Successfully scraped job: Senior I&C Engineer
+2024-12-01 16:52:59,168 - INFO - Saved job: Senior I&C Engineer - AtkinsRéalis
+2024-12-01 16:53:00,360 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/918652
+2024-12-01 16:53:03,485 - INFO - Successfully scraped job: Planning Engineer
+2024-12-01 16:53:03,489 - INFO - Saved job: Planning Engineer - Wood PLC
+2024-12-01 16:53:04,759 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/964806
+2024-12-01 16:53:06,725 - DEBUG - No additional metadata found
+2024-12-01 16:53:06,739 - INFO - Successfully scraped job: Senior Project Engineer I
+2024-12-01 16:53:06,742 - INFO - Saved job: Senior Project Engineer I - AtkinsRéalis
+2024-12-01 16:53:08,627 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/918536
+2024-12-01 16:53:12,225 - INFO - Successfully scraped job: Asset Operation Control and Monitoring Engineer (F/M)
+2024-12-01 16:53:12,228 - INFO - Saved job: Asset Operation Control and Monitoring Engineer (F/M) - Total Energies
+2024-12-01 16:53:13,666 - INFO - Collected 1140 jobs so far
+2024-12-01 16:53:13,666 - INFO - Scraping page 58 of 384
+2024-12-01 16:53:16,825 - INFO - Getting job links from current page
+2024-12-01 16:53:19,856 - INFO - Found 20 job cards
+2024-12-01 16:53:19,867 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/987910
+2024-12-01 16:53:19,877 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/987935
+2024-12-01 16:53:19,885 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/987886
+2024-12-01 16:53:19,894 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/853905
+2024-12-01 16:53:19,902 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/964261
+2024-12-01 16:53:19,911 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/964097
+2024-12-01 16:53:19,919 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/987878
+2024-12-01 16:53:19,927 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/818327
+2024-12-01 16:53:19,936 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/910534
+2024-12-01 16:53:19,944 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/987649
+2024-12-01 16:53:19,952 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/820694
+2024-12-01 16:53:19,961 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/848409
+2024-12-01 16:53:19,969 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/850119
+2024-12-01 16:53:19,977 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/962291
+2024-12-01 16:53:19,986 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/847679
+2024-12-01 16:53:19,996 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/962482
+2024-12-01 16:53:20,004 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/962459
+2024-12-01 16:53:20,013 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/962131
+2024-12-01 16:53:20,022 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/961526
+2024-12-01 16:53:20,030 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/961483
+2024-12-01 16:53:20,030 - INFO - Successfully extracted 20 job links
+2024-12-01 16:53:20,030 - INFO - Found 20 jobs on page 58
+2024-12-01 16:53:20,030 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/987910
+2024-12-01 16:53:21,965 - DEBUG - No additional metadata found
+2024-12-01 16:53:21,980 - INFO - Successfully scraped job: RD106-ESG-R&D Mechanical Engineer, Assoc
+2024-12-01 16:53:21,983 - INFO - Saved job: RD106-ESG-R&D Mechanical Engineer, Assoc - Halliburton
+2024-12-01 16:53:23,014 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/987935
+2024-12-01 16:53:26,218 - INFO - Successfully scraped job: Internship Engineer Belgium - 2025
+2024-12-01 16:53:26,221 - INFO - Saved job: Internship Engineer Belgium - 2025 - Exxon Mobil
+2024-12-01 16:53:27,413 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/987886
+2024-12-01 16:53:41,098 - WARNING - Timeout waiting for company element
+2024-12-01 16:53:41,246 - INFO - Successfully scraped job: SENIOR ENVIRONMENT MANGEMENT SYSTEM ENGINEER
+2024-12-01 16:53:41,249 - INFO - Saved job: SENIOR ENVIRONMENT MANGEMENT SYSTEM ENGINEER - None
+2024-12-01 16:53:42,463 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/853905
