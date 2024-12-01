@@ -10190,3 +10190,28 @@
 2024-12-01 18:58:28,165 - INFO - Successfully scraped job: Sales Engineer
 2024-12-01 18:58:28,169 - INFO - Saved job: Sales Engineer - None
 2024-12-01 18:58:29,383 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/963429
+2024-12-01 18:58:42,448 - WARNING - Timeout waiting for company element
+2024-12-01 18:58:42,618 - INFO - Successfully scraped job: Sales Engineer
+2024-12-01 18:58:42,622 - INFO - Saved job: Sales Engineer - None
+2024-12-01 18:58:44,347 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/988349
+2024-12-01 18:58:47,725 - INFO - Successfully scraped job: Project Tendering Technical Engineer
+2024-12-01 18:58:47,729 - INFO - Saved job: Project Tendering Technical Engineer - Schneider Electric
+2024-12-01 18:58:48,779 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/988075
+2024-12-01 18:58:51,256 - INFO - Successfully scraped job: R&D Senior Engineer - Backend Developement
+2024-12-01 18:58:51,261 - INFO - Saved job: R&D Senior Engineer - Backend Developement - ABB
+2024-12-01 18:58:52,350 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/988025
+2024-12-01 18:59:04,598 - WARNING - Timeout waiting for company element
+2024-12-01 18:59:04,712 - INFO - Successfully scraped job: Project Engineer Brownfield - Structural/Mechanical
+2024-12-01 18:59:04,716 - INFO - Saved job: Project Engineer Brownfield - Structural/Mechanical - None
+2024-12-01 18:59:06,337 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/987964
+2024-12-01 18:59:19,226 - WARNING - Timeout waiting for company element
+2024-12-01 18:59:19,374 - INFO - Successfully scraped job: Senior Electrical Engineer
+2024-12-01 18:59:19,378 - INFO - Saved job: Senior Electrical Engineer - None
+2024-12-01 18:59:20,494 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/environmental-jobs/987887
+2024-12-01 18:59:34,207 - WARNING - Timeout waiting for company element
+2024-12-01 18:59:34,429 - INFO - Successfully scraped job: SENIOR HSE RISKANALYST/ASSESSMENT ENGINEER
+2024-12-01 18:59:34,433 - INFO - Saved job: SENIOR HSE RISKANALYST/ASSESSMENT ENGINEER - None
+2024-12-01 18:59:36,147 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/898150
+2024-12-01 18:59:38,492 - INFO - Successfully scraped job: Engineering Students Seeking Internship / Co-op Opportunities
+2024-12-01 18:59:38,497 - INFO - Saved job: Engineering Students Seeking Internship / Co-op Opportunities - Exxon Mobil
+2024-12-01 18:59:40,214 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/987793
