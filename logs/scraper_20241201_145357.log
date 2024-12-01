@@ -13058,3 +13058,28 @@
 2024-12-01 20:01:12,052 - INFO - Successfully scraped job: Technical Engineering Manager - Reactivity Control Units
 2024-12-01 20:01:12,057 - INFO - Saved job: Technical Engineering Manager - Reactivity Control Units - AtkinsRéalis
 2024-12-01 20:01:13,534 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/988588
+2024-12-01 20:01:25,966 - WARNING - Timeout waiting for company element
+2024-12-01 20:01:26,103 - INFO - Successfully scraped job: Principal HVAC Engineer
+2024-12-01 20:01:26,110 - INFO - Saved job: Principal HVAC Engineer - None
+2024-12-01 20:01:27,918 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/988555
+2024-12-01 20:01:40,618 - WARNING - Timeout waiting for company element
+2024-12-01 20:01:40,714 - INFO - Successfully scraped job: Procurement Engineer (Oil and Gas)
+2024-12-01 20:01:40,719 - INFO - Saved job: Procurement Engineer (Oil and Gas) - None
+2024-12-01 20:01:42,708 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/862612
+2024-12-01 20:01:55,687 - WARNING - Timeout waiting for company element
+2024-12-01 20:01:55,851 - INFO - Successfully scraped job: Supervising Engineer Process
+2024-12-01 20:01:55,858 - INFO - Saved job: Supervising Engineer Process - None
+2024-12-01 20:01:57,683 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/918702
+2024-12-01 20:02:00,292 - INFO - Successfully scraped job: Engineer (II)
+2024-12-01 20:02:00,298 - INFO - Saved job: Engineer (II) - Engie
+2024-12-01 20:02:01,691 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/918510
+2024-12-01 20:02:03,684 - INFO - Successfully scraped job: Team Lead - Rock, Shaft & Tunnel Engineering
+2024-12-01 20:02:03,689 - INFO - Saved job: Team Lead - Rock, Shaft & Tunnel Engineering - AtkinsRéalis
+2024-12-01 20:02:04,893 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/918430
+2024-12-01 20:02:17,878 - WARNING - Timeout waiting for company element
+2024-12-01 20:02:18,041 - INFO - Successfully scraped job: Loss Prevention Engineer
+2024-12-01 20:02:18,049 - INFO - Saved job: Loss Prevention Engineer - None
+2024-12-01 20:02:19,369 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/988231
+2024-12-01 20:02:21,555 - DEBUG - No additional metadata found
+2024-12-01 20:02:21,570 - INFO - Successfully scraped job: Services Engineer
+2024-12-01 20:02:21,576 - INFO - Saved job: Services Engineer - Schneider Electric

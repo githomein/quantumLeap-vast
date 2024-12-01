@@ -12817,3 +12817,27 @@
 2024-12-01 20:01:16,348 - INFO - Successfully scraped job: Telecom Commissioning Engineer
 2024-12-01 20:01:16,353 - INFO - Saved job: Telecom Commissioning Engineer - None
 2024-12-01 20:01:17,905 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/989052
+2024-12-01 20:01:31,782 - WARNING - Timeout waiting for company element
+2024-12-01 20:01:31,947 - INFO - Successfully scraped job: Senior Instrument Engineer
+2024-12-01 20:01:31,952 - INFO - Saved job: Senior Instrument Engineer - None
+2024-12-01 20:01:33,651 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/988899
+2024-12-01 20:01:36,329 - INFO - Successfully scraped job: Network Engineer
+2024-12-01 20:01:36,334 - INFO - Saved job: Network Engineer - Vestas
+2024-12-01 20:01:37,953 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/science-or-research-jobs/988772
+2024-12-01 20:01:40,375 - INFO - Successfully scraped job: Ops Geoscience Reservoir Engineer
+2024-12-01 20:01:40,380 - INFO - Saved job: Ops Geoscience Reservoir Engineer - Weatherford
+2024-12-01 20:01:42,149 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/988681
+2024-12-01 20:01:45,371 - INFO - Successfully scraped job: Electromechanical Engineer
+2024-12-01 20:01:45,377 - INFO - Saved job: Electromechanical Engineer - Schneider Electric
+2024-12-01 20:01:47,312 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/988597
+2024-12-01 20:01:59,741 - WARNING - Timeout waiting for company element
+2024-12-01 20:01:59,940 - INFO - Successfully scraped job: IT Engineer M/F
+2024-12-01 20:01:59,946 - INFO - Saved job: IT Engineer M/F - None
+2024-12-01 20:02:01,402 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/administrative-or-secretarial-jobs/988579
+2024-12-01 20:02:04,799 - INFO - Successfully scraped job: Identity and Access Management (IAM) Security Engineer
+2024-12-01 20:02:04,804 - INFO - Saved job: Identity and Access Management (IAM) Security Engineer - Exxon Mobil
+2024-12-01 20:02:06,439 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/988526
+2024-12-01 20:02:19,428 - WARNING - Timeout waiting for company element
+2024-12-01 20:02:19,638 - INFO - Successfully scraped job: Utilities / Facilities Engineer (Pharma)
+2024-12-01 20:02:19,644 - INFO - Saved job: Utilities / Facilities Engineer (Pharma) - None
+2024-12-01 20:02:21,177 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/918137
