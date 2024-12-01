@@ -735,3 +735,35 @@
 2024-12-01 15:07:30,758 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/958358
 2024-12-01 15:07:33,564 - INFO - Successfully scraped job: Software Engineer
 2024-12-01 15:07:33,566 - INFO - Saved job: Software Engineer - Emerson
+2024-12-01 15:07:35,553 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/969266
+2024-12-01 15:07:39,246 - INFO - Successfully scraped job: Senior R&D Software Engineer
+2024-12-01 15:07:39,248 - INFO - Saved job: Senior R&D Software Engineer - Emerson
+2024-12-01 15:07:41,040 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/991480
+2024-12-01 15:07:44,866 - INFO - Successfully scraped job: Satellite Software Engineer
+2024-12-01 15:07:44,868 - INFO - Saved job: Satellite Software Engineer - Honeywell
+2024-12-01 15:07:46,653 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/920083
+2024-12-01 15:08:00,448 - WARNING - Timeout waiting for company element
+2024-12-01 15:08:00,562 - INFO - Successfully scraped job: Software Engineering Architect
+2024-12-01 15:08:00,566 - INFO - Saved job: Software Engineering Architect - None
+2024-12-01 15:08:01,967 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/961286
+2024-12-01 15:08:06,102 - INFO - Successfully scraped job: Sr Advanced Software Engineer - (C#, Java, Python, PowerShell, Avionics)
+2024-12-01 15:08:06,106 - INFO - Saved job: Sr Advanced Software Engineer - (C#, Java, Python, PowerShell, Avionics) - Honeywell
+2024-12-01 15:08:07,480 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/961148
+2024-12-01 15:08:11,354 - INFO - Successfully scraped job: Principal Software Engineer - ReactJS
+2024-12-01 15:08:11,357 - INFO - Saved job: Principal Software Engineer - ReactJS - ABB
+2024-12-01 15:08:12,807 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/964134
+2024-12-01 15:08:16,366 - INFO - Successfully scraped job: Avionics Embedded Software Advanced Lead Engineer - FLRAA
+2024-12-01 15:08:16,368 - INFO - Saved job: Avionics Embedded Software Advanced Lead Engineer - FLRAA - GE Renewable Energy Power and Aviation
+2024-12-01 15:08:17,802 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/987818
+2024-12-01 15:08:20,078 - INFO - Successfully scraped job: Software, Senior Test Engineer
+2024-12-01 15:08:20,080 - INFO - Saved job: Software, Senior Test Engineer - Schneider Electric
+2024-12-01 15:08:21,442 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1006031
+2024-12-01 15:08:24,790 - INFO - Successfully scraped job: Software Quality Assurance Engineer
+2024-12-01 15:08:24,792 - INFO - Saved job: Software Quality Assurance Engineer - Emerson
+2024-12-01 15:08:25,974 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/892543
+2024-12-01 15:08:28,126 - INFO - Successfully scraped job: Avionics Embedded Software Lead Engineer - FLRAA
+2024-12-01 15:08:28,129 - INFO - Saved job: Avionics Embedded Software Lead Engineer - FLRAA - GE Renewable Energy Power and Aviation
+2024-12-01 15:08:29,602 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/978225
+2024-12-01 15:08:33,166 - INFO - Successfully scraped job: ENGINEERING SOFTWARE MGR
+2024-12-01 15:08:33,168 - INFO - Saved job: ENGINEERING SOFTWARE MGR - Weatherford
+2024-12-01 15:08:34,502 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/935654
