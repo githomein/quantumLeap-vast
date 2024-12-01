@@ -7655,3 +7655,22 @@
 2024-12-01 18:00:33,964 - INFO - Successfully scraped job: Senior Engineer Instrumentation
 2024-12-01 18:00:33,968 - INFO - Saved job: Senior Engineer Instrumentation - None
 2024-12-01 18:00:34,998 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/960777
+2024-12-01 18:00:47,020 - WARNING - Timeout waiting for company element
+2024-12-01 18:00:47,162 - INFO - Successfully scraped job: Contract Engineer
+2024-12-01 18:00:47,166 - INFO - Saved job: Contract Engineer - None
+2024-12-01 18:00:48,889 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/960349
+2024-12-01 18:00:52,173 - DEBUG - No additional metadata found
+2024-12-01 18:00:52,186 - INFO - Successfully scraped job: Principal Engineer - Test CTH
+2024-12-01 18:00:52,190 - INFO - Saved job: Principal Engineer - Test CTH - GE Renewable Energy Power and Aviation
+2024-12-01 18:00:54,022 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/960239
+2024-12-01 18:00:56,801 - INFO - Successfully scraped job: Senior Clean Water Process Engineer
+2024-12-01 18:00:56,805 - INFO - Saved job: Senior Clean Water Process Engineer - AtkinsRéalis
+2024-12-01 18:00:58,583 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005912
+2024-12-01 18:01:11,889 - WARNING - Timeout waiting for company element
+2024-12-01 18:01:12,057 - INFO - Successfully scraped job: Engineering Management Services
+2024-12-01 18:01:12,060 - INFO - Saved job: Engineering Management Services - None
+2024-12-01 18:01:13,512 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005387
+2024-12-01 18:01:26,476 - WARNING - Timeout waiting for company element
+2024-12-01 18:01:26,969 - INFO - Successfully scraped job: Project Engineer ( Food /m Automotive / Medical / chemical manufacturing )
+2024-12-01 18:01:26,974 - INFO - Saved job: Project Engineer ( Food /m Automotive / Medical / chemical manufacturing ) - None
+2024-12-01 18:01:28,376 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000911
