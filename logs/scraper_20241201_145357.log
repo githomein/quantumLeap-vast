@@ -4190,3 +4190,31 @@
 2024-12-01 16:27:58,984 - INFO - Successfully scraped job: Field Service Engineer I
 2024-12-01 16:27:58,987 - INFO - Saved job: Field Service Engineer I - Honeywell
 2024-12-01 16:28:00,758 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/997979
+2024-12-01 16:28:12,874 - WARNING - Timeout waiting for company element
+2024-12-01 16:28:12,974 - INFO - Successfully scraped job: Senior Principal Structural Engineer
+2024-12-01 16:28:12,977 - INFO - Saved job: Senior Principal Structural Engineer - None
+2024-12-01 16:28:14,608 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/997941
+2024-12-01 16:28:28,522 - WARNING - Timeout waiting for company element
+2024-12-01 16:28:28,640 - INFO - Successfully scraped job: Coating Engineer
+2024-12-01 16:28:28,643 - INFO - Saved job: Coating Engineer - None
+2024-12-01 16:28:29,766 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/997913
+2024-12-01 16:28:33,594 - INFO - Successfully scraped job: Senior Product Development Engineer
+2024-12-01 16:28:33,596 - INFO - Saved job: Senior Product Development Engineer - Exxon Mobil
+2024-12-01 16:28:35,152 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/997912
+2024-12-01 16:28:37,825 - INFO - Successfully scraped job: Senior Customer and Application Development Engineer, Pultruded Composites
+2024-12-01 16:28:37,828 - INFO - Saved job: Senior Customer and Application Development Engineer, Pultruded Composites - Exxon Mobil
+2024-12-01 16:28:38,990 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/923576
+2024-12-01 16:28:42,805 - INFO - Successfully scraped job: Project Engineer - Water/Wastewater
+2024-12-01 16:28:42,809 - INFO - Saved job: Project Engineer - Water/Wastewater - Garver
+2024-12-01 16:28:43,840 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/923583
+2024-12-01 16:28:47,438 - INFO - Successfully scraped job: Senior Project Engineer - Water/Wastewater
+2024-12-01 16:28:47,441 - INFO - Saved job: Senior Project Engineer - Water/Wastewater - Garver
+2024-12-01 16:28:49,386 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/923660
+2024-12-01 16:29:03,000 - WARNING - Timeout waiting for company element
+2024-12-01 16:29:03,077 - DEBUG - No additional metadata found
+2024-12-01 16:29:03,090 - INFO - Successfully scraped job: Piping, Senior Engineer
+2024-12-01 16:29:03,094 - INFO - Saved job: Piping, Senior Engineer - None
+2024-12-01 16:29:05,079 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/924036
+2024-12-01 16:29:08,552 - INFO - Successfully scraped job: Quality Engineer III
+2024-12-01 16:29:08,556 - INFO - Saved job: Quality Engineer III - Honeywell
+2024-12-01 16:29:09,748 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/971612

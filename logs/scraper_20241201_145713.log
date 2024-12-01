@@ -3863,3 +3863,51 @@
 2024-12-01 16:28:07,073 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/924036
 2024-12-01 16:28:09,170 - INFO - Successfully scraped job: Quality Engineer III
 2024-12-01 16:28:09,173 - INFO - Saved job: Quality Engineer III - Honeywell
+2024-12-01 16:28:10,559 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/971612
+2024-12-01 16:28:13,935 - INFO - Successfully scraped job: SB Engineer (Class 2)
+2024-12-01 16:28:13,938 - INFO - Saved job: SB Engineer (Class 2) - Engie
+2024-12-01 16:28:15,227 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/971848
+2024-12-01 16:28:17,242 - DEBUG - No additional metadata found
+2024-12-01 16:28:17,255 - INFO - Successfully scraped job: Project Engineer
+2024-12-01 16:28:17,258 - INFO - Saved job: Project Engineer - Emerson
+2024-12-01 16:28:18,262 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/971541
+2024-12-01 16:28:21,252 - INFO - Successfully scraped job: R&D Associate Engineer
+2024-12-01 16:28:21,255 - INFO - Saved job: R&D Associate Engineer - ABB
+2024-12-01 16:28:22,761 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/906960
+2024-12-01 16:28:25,181 - INFO - Successfully scraped job: Network Security Operation Engineer(Checkpoint Firewall, F5 LTM, Microsoft Azure)
+2024-12-01 16:28:25,184 - INFO - Saved job: Network Security Operation Engineer(Checkpoint Firewall, F5 LTM, Microsoft Azure) - AtkinsRéalis
+2024-12-01 16:28:26,619 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/971492
+2024-12-01 16:28:30,180 - INFO - Successfully scraped job: Principal Engineer
+2024-12-01 16:28:30,183 - INFO - Saved job: Principal Engineer - AtkinsRéalis
+2024-12-01 16:28:32,181 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/906890
+2024-12-01 16:28:34,201 - INFO - Successfully scraped job: Associate Project Engineer
+2024-12-01 16:28:34,204 - INFO - Saved job: Associate Project Engineer - ABB
+2024-12-01 16:28:35,298 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/997854
+2024-12-01 16:28:38,716 - INFO - Successfully scraped job: Instrumentation & Controls Engineer - Senior-Level - Oil & Gas
+2024-12-01 16:28:38,718 - INFO - Saved job: Instrumentation & Controls Engineer - Senior-Level - Oil & Gas - Sargent & Lundy
+2024-12-01 16:28:40,412 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/996962
+2024-12-01 16:28:43,186 - INFO - Successfully scraped job: Drilling Engineer
+2024-12-01 16:28:43,189 - INFO - Saved job: Drilling Engineer - Select Energy Services
+2024-12-01 16:28:44,287 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/854338
+2024-12-01 16:28:46,293 - INFO - Successfully scraped job: Senior Systems Engineer
+2024-12-01 16:28:46,296 - INFO - Saved job: Senior Systems Engineer - GE Renewable Energy Power and Aviation
+2024-12-01 16:28:47,506 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/996548
+2024-12-01 16:28:49,562 - INFO - Successfully scraped job: Electromechanical Design Engineer
+2024-12-01 16:28:49,565 - INFO - Saved job: Electromechanical Design Engineer - Engie
+2024-12-01 16:28:51,244 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/996506
+2024-12-01 16:28:53,975 - INFO - Successfully scraped job: Sales Development Engineer (m/f/d)
+2024-12-01 16:28:53,978 - INFO - Saved job: Sales Development Engineer (m/f/d) - Emerson
+2024-12-01 16:28:55,289 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/996631
+2024-12-01 16:28:57,861 - INFO - Successfully scraped job: Field Sales Engineer
+2024-12-01 16:28:57,864 - INFO - Saved job: Field Sales Engineer - Schneider Electric
+2024-12-01 16:28:59,633 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/996609
+2024-12-01 16:29:01,617 - DEBUG - No additional metadata found
+2024-12-01 16:29:01,632 - INFO - Successfully scraped job: Electromechanics, Senior Design Engineer
+2024-12-01 16:29:01,635 - INFO - Saved job: Electromechanics, Senior Design Engineer - Schneider Electric
+2024-12-01 16:29:02,773 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/996587
+2024-12-01 16:29:05,974 - DEBUG - No additional metadata found
+2024-12-01 16:29:05,992 - INFO - Successfully scraped job: Energy Engineer
+2024-12-01 16:29:05,995 - INFO - Saved job: Energy Engineer - Schneider Electric
+2024-12-01 16:29:07,883 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/996442
+2024-12-01 16:29:10,372 - INFO - Successfully scraped job: Senior Project Engineer
+2024-12-01 16:29:10,375 - INFO - Saved job: Senior Project Engineer - ABB
