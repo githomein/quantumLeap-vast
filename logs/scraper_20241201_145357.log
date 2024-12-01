@@ -8425,3 +8425,40 @@
 2024-12-01 18:13:48,825 - INFO - Successfully scraped job: Process Engineer - Cameia
 2024-12-01 18:13:48,831 - INFO - Saved job: Process Engineer - Cameia - None
 2024-12-01 18:13:49,840 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/oilfield-jobs/1004127
+2024-12-01 18:14:03,538 - WARNING - Timeout waiting for company element
+2024-12-01 18:14:03,660 - DEBUG - No additional metadata found
+2024-12-01 18:14:03,677 - INFO - Successfully scraped job: Mechanical Engineer (Resident)
+2024-12-01 18:14:03,683 - INFO - Saved job: Mechanical Engineer (Resident) - None
+2024-12-01 18:14:04,921 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/952844
+2024-12-01 18:14:06,970 - INFO - Successfully scraped job: Water/Wastewater Engineering Intern - Summer 2025
+2024-12-01 18:14:06,974 - INFO - Saved job: Water/Wastewater Engineering Intern - Summer 2025 - HDR
+2024-12-01 18:14:08,057 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/oilfield-jobs/1004039
+2024-12-01 18:14:21,186 - WARNING - Timeout waiting for company element
+2024-12-01 18:14:21,272 - DEBUG - No additional metadata found
+2024-12-01 18:14:21,289 - INFO - Successfully scraped job: Piping Engineer - Valve Specialist (Resident)
+2024-12-01 18:14:21,296 - INFO - Saved job: Piping Engineer - Valve Specialist (Resident) - None
+2024-12-01 18:14:23,011 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/952659
+2024-12-01 18:14:26,296 - INFO - Successfully scraped job: Automation Engineer (Power Systems)
+2024-12-01 18:14:26,301 - INFO - Saved job: Automation Engineer (Power Systems) - Caterpillar
+2024-12-01 18:14:27,703 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/952459
+2024-12-01 18:14:29,826 - DEBUG - No additional metadata found
+2024-12-01 18:14:29,840 - INFO - Successfully scraped job: Staff Electrical Systems Engineer - Nuclear
+2024-12-01 18:14:29,845 - INFO - Saved job: Staff Electrical Systems Engineer - Nuclear - Public Service Enterprise Group
+2024-12-01 18:14:31,074 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/952463
+2024-12-01 18:14:33,270 - DEBUG - No additional metadata found
+2024-12-01 18:14:33,285 - INFO - Successfully scraped job: Lead Mechanical Design Engineer - Nuclear
+2024-12-01 18:14:33,289 - INFO - Saved job: Lead Mechanical Design Engineer - Nuclear - Public Service Enterprise Group
+2024-12-01 18:14:34,422 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/952437
+2024-12-01 18:14:36,686 - INFO - Successfully scraped job: Fluid Power Engineer
+2024-12-01 18:14:36,691 - INFO - Saved job: Fluid Power Engineer - 9012-Carolina Fluid Components, LLC
+2024-12-01 18:14:38,032 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/910898
+2024-12-01 18:14:40,448 - INFO - Successfully scraped job: Process Engineer (Oil, Gas, Produced water Treatment)
+2024-12-01 18:14:40,452 - INFO - Saved job: Process Engineer (Oil, Gas, Produced water Treatment) - NOV
+2024-12-01 18:14:42,212 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/977797
+2024-12-01 18:14:55,809 - WARNING - Timeout waiting for company element
+2024-12-01 18:14:55,960 - INFO - Successfully scraped job: Senior Engineer, Commercial and Sales Management
+2024-12-01 18:14:55,965 - INFO - Saved job: Senior Engineer, Commercial and Sales Management - None
+2024-12-01 18:14:57,612 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/977855
+2024-12-01 18:15:00,150 - INFO - Successfully scraped job: R&D Electrical Engineer, Sr-193697
+2024-12-01 18:15:00,154 - INFO - Saved job: R&D Electrical Engineer, Sr-193697 - Halliburton
+2024-12-01 18:15:01,937 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/952315
