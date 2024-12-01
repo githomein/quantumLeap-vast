@@ -391,3 +391,15 @@
 2024-12-01 15:01:13,670 - INFO - Successfully scraped job: Software Engineer
 2024-12-01 15:01:13,672 - INFO - Saved job: Software Engineer - Emerson
 2024-12-01 15:01:14,790 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/925891
+2024-12-01 15:01:17,968 - INFO - Successfully scraped job: Software Engineer Intern-Summer 2025
+2024-12-01 15:01:17,971 - INFO - Saved job: Software Engineer Intern-Summer 2025 - ABB
+2024-12-01 15:01:19,119 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/963244
+2024-12-01 15:01:23,236 - INFO - Successfully scraped job: Principal Software Engineer - C++
+2024-12-01 15:01:23,240 - INFO - Saved job: Principal Software Engineer - C++ - Emerson
+2024-12-01 15:01:24,877 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/963224
+2024-12-01 15:01:27,512 - INFO - Successfully scraped job: Senior Software Engineer - Systems R&D
+2024-12-01 15:01:27,515 - INFO - Saved job: Senior Software Engineer - Systems R&D - Emerson
+2024-12-01 15:01:29,121 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/961177
+2024-12-01 15:01:32,982 - INFO - Successfully scraped job: Principal Software Engineer (Team Lead)
+2024-12-01 15:01:32,985 - INFO - Saved job: Principal Software Engineer (Team Lead) - Emerson
+2024-12-01 15:01:34,359 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/991962
