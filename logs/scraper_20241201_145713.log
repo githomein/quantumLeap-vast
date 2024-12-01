@@ -3216,3 +3216,28 @@
 2024-12-01 16:12:47,948 - INFO - Successfully scraped job: Piping Engineering Designer IV (Checker)
 2024-12-01 16:12:47,953 - INFO - Saved job: Piping Engineering Designer IV (Checker) - Wood PLC
 2024-12-01 16:12:49,209 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/976537
+2024-12-01 16:12:52,113 - INFO - Successfully scraped job: TPE IV / Senior Offshore Instrumentation Engineer
+2024-12-01 16:12:52,116 - INFO - Saved job: TPE IV / Senior Offshore Instrumentation Engineer - Wood PLC
+2024-12-01 16:12:53,633 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/890698
+2024-12-01 16:12:56,223 - DEBUG - No additional metadata found
+2024-12-01 16:12:56,240 - INFO - Successfully scraped job: Mobile HVAC Engineer
+2024-12-01 16:12:56,243 - INFO - Saved job: Mobile HVAC Engineer - Integral UK
+2024-12-01 16:12:57,250 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/1001484
+2024-12-01 16:13:00,742 - DEBUG - No additional metadata found
+2024-12-01 16:13:00,755 - INFO - Successfully scraped job: Adjunct- Mechanical and Nuclear Engineering- Open Rank
+2024-12-01 16:13:00,758 - INFO - Saved job: Adjunct- Mechanical and Nuclear Engineering- Open Rank - Virginia Jobs
+2024-12-01 16:13:02,451 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001122
+2024-12-01 16:13:16,044 - WARNING - Timeout waiting for company element
+2024-12-01 16:13:16,178 - INFO - Successfully scraped job: Second Engineer
+2024-12-01 16:13:16,182 - INFO - Saved job: Second Engineer - None
+2024-12-01 16:13:17,512 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001109
+2024-12-01 16:13:29,958 - WARNING - Timeout waiting for company element
+2024-12-01 16:13:30,097 - INFO - Successfully scraped job: Project Engineer
+2024-12-01 16:13:30,101 - INFO - Saved job: Project Engineer - None
+2024-12-01 16:13:31,215 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1001013
+2024-12-01 16:13:34,319 - INFO - Successfully scraped job: Software Engineer - C++ with Electronics Background (2 to 5 years)
+2024-12-01 16:13:34,321 - INFO - Saved job: Software Engineer - C++ with Electronics Background (2 to 5 years) - Emerson
+2024-12-01 16:13:36,119 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1000927
+2024-12-01 16:13:39,466 - INFO - Successfully scraped job: (Senior) R&D Hardware Engineer (m/f/d)
+2024-12-01 16:13:39,468 - INFO - Saved job: (Senior) R&D Hardware Engineer (m/f/d) - ABB
+2024-12-01 16:13:41,019 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1000810
