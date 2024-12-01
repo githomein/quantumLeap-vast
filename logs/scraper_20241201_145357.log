@@ -2669,3 +2669,22 @@
 2024-12-01 15:49:07,025 - DEBUG - No additional metadata found
 2024-12-01 15:49:07,038 - INFO - Successfully scraped job: FIELD SERVICE ENGINEER (MEDICAL EQUIPEMENT) IRELAND
 2024-12-01 15:49:07,042 - INFO - Saved job: FIELD SERVICE ENGINEER (MEDICAL EQUIPEMENT) IRELAND - None
+2024-12-01 15:49:08,839 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/987841
+2024-12-01 15:49:21,521 - WARNING - Timeout waiting for company element
+2024-12-01 15:49:21,724 - INFO - Successfully scraped job: PAVEMENT ENGINEER : USA
+2024-12-01 15:49:21,728 - INFO - Saved job: PAVEMENT ENGINEER : USA - None
+2024-12-01 15:49:23,028 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1002053
+2024-12-01 15:49:35,365 - WARNING - Timeout waiting for company element
+2024-12-01 15:49:35,524 - INFO - Successfully scraped job: Welding Engineer
+2024-12-01 15:49:35,528 - INFO - Saved job: Welding Engineer - None
+2024-12-01 15:49:36,834 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001731
+2024-12-01 15:49:49,408 - WARNING - Timeout waiting for company element
+2024-12-01 15:49:49,626 - INFO - Successfully scraped job: Procurement QC Engineer
+2024-12-01 15:49:49,629 - INFO - Saved job: Procurement QC Engineer - None
+2024-12-01 15:49:51,320 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/991014
+2024-12-01 15:50:04,071 - WARNING - Timeout waiting for company element
+2024-12-01 15:50:04,246 - INFO - Successfully scraped job: Senior Structural Engineer - Milan
+2024-12-01 15:50:04,249 - INFO - Saved job: Senior Structural Engineer - Milan - None
+2024-12-01 15:50:05,924 - INFO - Collected 600 jobs so far
+2024-12-01 15:50:05,924 - INFO - Scraping page 31 of 384
+2024-12-01 15:50:09,124 - INFO - Getting job links from current page
