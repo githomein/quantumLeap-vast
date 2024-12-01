@@ -13065,3 +13065,30 @@
 2024-12-01 20:07:30,745 - INFO - Successfully extracted 20 job links
 2024-12-01 20:07:30,745 - INFO - Found 20 jobs on page 144
 2024-12-01 20:07:30,745 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/oilfield-jobs/1000975
+2024-12-01 20:07:44,696 - WARNING - Timeout waiting for company element
+2024-12-01 20:07:45,044 - INFO - Successfully scraped job: Engineering Manager Topside
+2024-12-01 20:07:45,051 - INFO - Saved job: Engineering Manager Topside - None
+2024-12-01 20:07:46,731 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000842
+2024-12-01 20:07:59,978 - WARNING - Timeout waiting for company element
+2024-12-01 20:08:00,234 - INFO - Successfully scraped job: Senior Electrical Engineer/Electrical Engineer
+2024-12-01 20:08:00,241 - INFO - Saved job: Senior Electrical Engineer/Electrical Engineer - None
+2024-12-01 20:08:02,002 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000839
+2024-12-01 20:08:14,837 - WARNING - Timeout waiting for company element
+2024-12-01 20:08:15,206 - INFO - Successfully scraped job: Process Engineer
+2024-12-01 20:08:15,212 - INFO - Saved job: Process Engineer - None
+2024-12-01 20:08:16,896 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/915862
+2024-12-01 20:08:20,731 - INFO - Successfully scraped job: Field Engineer III - Directional Drilling Services
+2024-12-01 20:08:20,738 - INFO - Saved job: Field Engineer III - Directional Drilling Services - Weatherford
+2024-12-01 20:08:22,242 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/986722
+2024-12-01 20:08:24,857 - INFO - Successfully scraped job: Hardware Engineer II
+2024-12-01 20:08:24,863 - INFO - Saved job: Hardware Engineer II - Honeywell
+2024-12-01 20:08:26,423 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/986714
+2024-12-01 20:08:28,825 - INFO - Successfully scraped job: Engineering PLM Manager
+2024-12-01 20:08:28,831 - INFO - Saved job: Engineering PLM Manager - Honeywell
+2024-12-01 20:08:29,856 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/986716
+2024-12-01 20:08:32,880 - INFO - Successfully scraped job: Sr Advanced EMC/EMI Design Engineer
+2024-12-01 20:08:32,886 - INFO - Saved job: Sr Advanced EMC/EMI Design Engineer - Honeywell
+2024-12-01 20:08:34,424 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/general-management-jobs/874885
+2024-12-01 20:08:36,251 - INFO - Successfully scraped job: Vice President Engineering - Bruce Power
+2024-12-01 20:08:36,257 - INFO - Saved job: Vice President Engineering - Bruce Power - AtkinsRéalis
+2024-12-01 20:08:37,531 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/915723
