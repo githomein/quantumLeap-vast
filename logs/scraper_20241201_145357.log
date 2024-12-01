@@ -2069,3 +2069,22 @@
 2024-12-01 15:32:51,373 - INFO - Successfully scraped job: Growth and Demand Generation Marketing Manager
 2024-12-01 15:32:51,377 - INFO - Saved job: Growth and Demand Generation Marketing Manager - Equus Software
 2024-12-01 15:32:52,494 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/988591
+2024-12-01 15:33:06,063 - WARNING - Timeout waiting for company element
+2024-12-01 15:33:06,192 - DEBUG - No additional metadata found
+2024-12-01 15:33:06,204 - INFO - Successfully scraped job: Telecoms Engineer
+2024-12-01 15:33:06,209 - INFO - Saved job: Telecoms Engineer - None
+2024-12-01 15:33:07,738 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/987054
+2024-12-01 15:33:20,275 - WARNING - Timeout waiting for company element
+2024-12-01 15:33:20,444 - DEBUG - No additional metadata found
+2024-12-01 15:33:20,457 - INFO - Successfully scraped job: Interface engineer
+2024-12-01 15:33:20,460 - INFO - Saved job: Interface engineer - None
+2024-12-01 15:33:22,309 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005404
+2024-12-01 15:33:35,831 - WARNING - Timeout waiting for company element
+2024-12-01 15:33:35,915 - DEBUG - No additional metadata found
+2024-12-01 15:33:35,928 - INFO - Successfully scraped job: Onshore Export Cable Engineer
+2024-12-01 15:33:35,931 - INFO - Saved job: Onshore Export Cable Engineer - None
+2024-12-01 15:33:37,580 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/987050
+2024-12-01 15:33:51,060 - WARNING - Timeout waiting for company element
+2024-12-01 15:33:51,302 - INFO - Successfully scraped job: LLS Civil Engineer
+2024-12-01 15:33:51,305 - INFO - Saved job: LLS Civil Engineer - None
+2024-12-01 15:33:52,355 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/999388

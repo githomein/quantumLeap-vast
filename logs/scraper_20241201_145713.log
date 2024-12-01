@@ -1654,3 +1654,22 @@
 2024-12-01 15:32:48,370 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/992875
 2024-12-01 15:32:51,143 - INFO - Successfully scraped job: Automation Engineer - Power Systems
 2024-12-01 15:32:51,146 - INFO - Saved job: Automation Engineer - Power Systems - Schweitzer Engineering Laboratories, Inc.
+2024-12-01 15:32:52,959 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/988591
+2024-12-01 15:33:06,669 - WARNING - Timeout waiting for company element
+2024-12-01 15:33:06,766 - DEBUG - No additional metadata found
+2024-12-01 15:33:06,780 - INFO - Successfully scraped job: Telecoms Engineer
+2024-12-01 15:33:06,783 - INFO - Saved job: Telecoms Engineer - None
+2024-12-01 15:33:08,305 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/987054
+2024-12-01 15:33:22,183 - WARNING - Timeout waiting for company element
+2024-12-01 15:33:22,353 - DEBUG - No additional metadata found
+2024-12-01 15:33:22,366 - INFO - Successfully scraped job: Interface engineer
+2024-12-01 15:33:22,369 - INFO - Saved job: Interface engineer - None
+2024-12-01 15:33:24,139 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005404
+2024-12-01 15:33:36,809 - WARNING - Timeout waiting for company element
+2024-12-01 15:33:36,925 - DEBUG - No additional metadata found
+2024-12-01 15:33:36,938 - INFO - Successfully scraped job: Onshore Export Cable Engineer
+2024-12-01 15:33:36,940 - INFO - Saved job: Onshore Export Cable Engineer - None
+2024-12-01 15:33:38,235 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/987050
+2024-12-01 15:33:51,714 - WARNING - Timeout waiting for company element
+2024-12-01 15:33:51,993 - INFO - Successfully scraped job: LLS Civil Engineer
+2024-12-01 15:33:51,996 - INFO - Saved job: LLS Civil Engineer - None
