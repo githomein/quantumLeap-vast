@@ -853,3 +853,33 @@
 2024-12-01 15:15:39,241 - WARNING - Timeout waiting for company element
 2024-12-01 15:15:39,365 - INFO - Successfully scraped job: Contract SAP Plant Maintenance Data Technician.
 2024-12-01 15:15:39,368 - INFO - Saved job: Contract SAP Plant Maintenance Data Technician. - None
+2024-12-01 15:15:41,330 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/988370
+2024-12-01 15:15:53,655 - WARNING - Timeout waiting for company element
+2024-12-01 15:15:53,764 - INFO - Successfully scraped job: Junior Workload Data Analyst H/F
+2024-12-01 15:15:53,766 - INFO - Saved job: Junior Workload Data Analyst H/F - None
+2024-12-01 15:15:55,385 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/988152
+2024-12-01 15:15:57,450 - INFO - Successfully scraped job: Team Lead - Customer master data
+2024-12-01 15:15:57,452 - INFO - Saved job: Team Lead - Customer master data - ABB
+2024-12-01 15:15:59,434 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/987033
+2024-12-01 15:16:01,519 - INFO - Successfully scraped job: Data Management Specialist (Associate - Senior)
+2024-12-01 15:16:01,521 - INFO - Saved job: Data Management Specialist (Associate - Senior) - Halliburton
+2024-12-01 15:16:02,922 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1006845
+2024-12-01 15:16:06,254 - INFO - Successfully scraped job: IS LAB and Data Center Lead
+2024-12-01 15:16:06,257 - INFO - Saved job: IS LAB and Data Center Lead - ABB
+2024-12-01 15:16:08,101 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/958023
+2024-12-01 15:16:11,551 - INFO - Successfully scraped job: Senior Data Scientist
+2024-12-01 15:16:11,554 - INFO - Saved job: Senior Data Scientist - AtkinsRéalis
+2024-12-01 15:16:13,231 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/981619
+2024-12-01 15:16:16,052 - INFO - Successfully scraped job: Staff Data Scientist
+2024-12-01 15:16:16,054 - INFO - Saved job: Staff Data Scientist - bp
+2024-12-01 15:16:17,256 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/891903
+2024-12-01 15:16:19,904 - INFO - Successfully scraped job: Data Scientist - Global Oil Markets (Hybrid - 3/2 Work Schedule)
+2024-12-01 15:16:19,907 - INFO - Saved job: Data Scientist - Global Oil Markets (Hybrid - 3/2 Work Schedule) - Castleton Commodities International, LLC
+2024-12-01 15:16:21,422 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1000617
+2024-12-01 15:16:25,086 - INFO - Successfully scraped job: STAGE BAC+5 - Data Science pour optimisation de la consommation énergétique des installations industrielles H/F
+2024-12-01 15:16:25,088 - INFO - Saved job: STAGE BAC+5 - Data Science pour optimisation de la consommation énergétique des installations industrielles H/F - Total Energies
+2024-12-01 15:16:26,105 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/971278
+2024-12-01 15:16:38,359 - WARNING - Timeout waiting for company element
+2024-12-01 15:16:38,492 - INFO - Successfully scraped job: Senior Data Architect - Azure/GCP
+2024-12-01 15:16:38,495 - INFO - Saved job: Senior Data Architect - Azure/GCP - None
+2024-12-01 15:16:40,163 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/991749
