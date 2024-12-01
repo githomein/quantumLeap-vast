@@ -8701,3 +8701,36 @@
 2024-12-01 18:19:09,558 - INFO - Successfully scraped job: Sales Engineer Supervisor
 2024-12-01 18:19:09,563 - INFO - Saved job: Sales Engineer Supervisor - Honeywell
 2024-12-01 18:19:10,676 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1001732
+2024-12-01 18:19:12,918 - INFO - Successfully scraped job: Junior Safety Analysis Engineer
+2024-12-01 18:19:12,923 - INFO - Saved job: Junior Safety Analysis Engineer - AtkinsRéalis
+2024-12-01 18:19:14,200 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1001849
+2024-12-01 18:19:17,275 - INFO - Successfully scraped job: Senior Firmware Engineer
+2024-12-01 18:19:17,280 - INFO - Saved job: Senior Firmware Engineer - ABB
+2024-12-01 18:19:19,114 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001844
+2024-12-01 18:19:21,411 - INFO - Successfully scraped job: Project Engineer
+2024-12-01 18:19:21,417 - INFO - Saved job: Project Engineer - ABB
+2024-12-01 18:19:22,480 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1001805
+2024-12-01 18:19:24,397 - INFO - Successfully scraped job: Sales Engineer
+2024-12-01 18:19:24,402 - INFO - Saved job: Sales Engineer - ABB
+2024-12-01 18:19:25,753 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001778
+2024-12-01 18:19:28,048 - INFO - Successfully scraped job: Production Engineer
+2024-12-01 18:19:28,052 - INFO - Saved job: Production Engineer - ABB
+2024-12-01 18:19:29,340 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/environmental-jobs/1001714
+2024-12-01 18:19:42,667 - WARNING - Timeout waiting for company element
+2024-12-01 18:19:42,874 - INFO - Successfully scraped job: Site Environmental Engineer
+2024-12-01 18:19:42,879 - INFO - Saved job: Site Environmental Engineer - None
+2024-12-01 18:19:43,894 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001713
+2024-12-01 18:19:57,344 - WARNING - Timeout waiting for company element
+2024-12-01 18:19:57,474 - INFO - Successfully scraped job: Lead Rotating Engineer
+2024-12-01 18:19:57,479 - INFO - Saved job: Lead Rotating Engineer - None
+2024-12-01 18:19:58,568 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/950566
+2024-12-01 18:20:02,594 - INFO - Successfully scraped job: Gas Turbine Intake and Exhaust Engineer
+2024-12-01 18:20:02,599 - INFO - Saved job: Gas Turbine Intake and Exhaust Engineer - System One Holdings, LLC
+2024-12-01 18:20:04,516 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/976553
+2024-12-01 18:20:06,472 - INFO - Successfully scraped job: DCS Field Service Engineer
+2024-12-01 18:20:06,476 - INFO - Saved job: DCS Field Service Engineer - Emerson
+2024-12-01 18:20:08,083 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/976558
+2024-12-01 18:20:11,497 - INFO - Successfully scraped job: PAS Lead Engineer
+2024-12-01 18:20:11,501 - INFO - Saved job: PAS Lead Engineer - Emerson
+2024-12-01 18:20:12,812 - INFO - Collected 1920 jobs so far
+2024-12-01 18:20:12,812 - INFO - Scraping page 97 of 384
