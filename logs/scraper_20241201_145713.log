@@ -3518,3 +3518,26 @@
 2024-12-01 16:19:46,593 - INFO - Successfully scraped job: Lead of Civil & Structure Engineering
 2024-12-01 16:19:46,596 - INFO - Saved job: Lead of Civil & Structure Engineering - None
 2024-12-01 16:19:47,829 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000142
+2024-12-01 16:20:00,383 - WARNING - Timeout waiting for company element
+2024-12-01 16:20:00,478 - DEBUG - No additional metadata found
+2024-12-01 16:20:00,492 - INFO - Successfully scraped job: I&C Design Engineer / Cyber
+2024-12-01 16:20:00,496 - INFO - Saved job: I&C Design Engineer / Cyber - None
+2024-12-01 16:20:02,094 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/925181
+2024-12-01 16:20:05,500 - INFO - Successfully scraped job: Senior Project Engineer - Water/Wastewater
+2024-12-01 16:20:05,503 - INFO - Saved job: Senior Project Engineer - Water/Wastewater - Garver
+2024-12-01 16:20:06,742 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/909362
+2024-12-01 16:20:09,881 - INFO - Successfully scraped job: FIELD APPLICATION ENGINEER NUCLEAR POWER PLANTS (M/W/D)
+2024-12-01 16:20:09,885 - INFO - Saved job: FIELD APPLICATION ENGINEER NUCLEAR POWER PLANTS (M/W/D) - AEG Power Solutions
+2024-12-01 16:20:11,442 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/818952
+2024-12-01 16:20:25,231 - WARNING - Timeout waiting for company element
+2024-12-01 16:20:25,353 - INFO - Successfully scraped job: Cost Control Engineer F/M
+2024-12-01 16:20:25,358 - INFO - Saved job: Cost Control Engineer F/M - None
+2024-12-01 16:20:27,114 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/818759
+2024-12-01 16:20:39,676 - WARNING - Timeout waiting for company element
+2024-12-01 16:20:39,822 - INFO - Successfully scraped job: Reliability, Availability and Maintainability (RAM) Engineer, Aberdeen
+2024-12-01 16:20:39,826 - INFO - Saved job: Reliability, Availability and Maintainability (RAM) Engineer, Aberdeen - None
+2024-12-01 16:20:41,767 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/818885
+2024-12-01 16:20:54,390 - WARNING - Timeout waiting for company element
+2024-12-01 16:20:54,533 - INFO - Successfully scraped job: Senior Process Engineer F/M
+2024-12-01 16:20:54,537 - INFO - Saved job: Senior Process Engineer F/M - None
+2024-12-01 16:20:56,452 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/818600

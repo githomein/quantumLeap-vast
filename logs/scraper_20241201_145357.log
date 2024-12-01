@@ -3862,3 +3862,22 @@
 2024-12-01 16:19:58,830 - INFO - Successfully scraped job: Cost Control Engineer F/M
 2024-12-01 16:19:58,834 - INFO - Saved job: Cost Control Engineer F/M - None
 2024-12-01 16:19:59,879 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/818759
+2024-12-01 16:20:12,751 - WARNING - Timeout waiting for company element
+2024-12-01 16:20:12,881 - INFO - Successfully scraped job: Reliability, Availability and Maintainability (RAM) Engineer, Aberdeen
+2024-12-01 16:20:12,888 - INFO - Saved job: Reliability, Availability and Maintainability (RAM) Engineer, Aberdeen - None
+2024-12-01 16:20:14,782 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/818885
+2024-12-01 16:20:28,287 - WARNING - Timeout waiting for company element
+2024-12-01 16:20:28,422 - INFO - Successfully scraped job: Senior Process Engineer F/M
+2024-12-01 16:20:28,426 - INFO - Saved job: Senior Process Engineer F/M - None
+2024-12-01 16:20:29,960 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/818600
+2024-12-01 16:20:43,136 - WARNING - Timeout waiting for company element
+2024-12-01 16:20:43,248 - INFO - Successfully scraped job: Ingénieur Machines Tournantes Expérimenté / Senior Rotating Engineer H/F
+2024-12-01 16:20:43,252 - INFO - Saved job: Ingénieur Machines Tournantes Expérimenté / Senior Rotating Engineer H/F - None
+2024-12-01 16:20:44,574 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/818390
+2024-12-01 16:20:57,849 - WARNING - Timeout waiting for company element
+2024-12-01 16:20:57,923 - DEBUG - No additional metadata found
+2024-12-01 16:20:57,937 - INFO - Successfully scraped job: Assistant Process Engineer
+2024-12-01 16:20:57,940 - INFO - Saved job: Assistant Process Engineer - None
+2024-12-01 16:20:59,183 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/975340
+2024-12-01 16:21:01,020 - INFO - Successfully scraped job: Data Engineer
+2024-12-01 16:21:01,023 - INFO - Saved job: Data Engineer - Chevron
