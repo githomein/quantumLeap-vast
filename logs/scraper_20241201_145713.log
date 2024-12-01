@@ -4432,3 +4432,65 @@
 2024-12-01 16:40:22,472 - INFO - Successfully scraped job: Mechanical Engineer HVAC
 2024-12-01 16:40:22,476 - INFO - Saved job: Mechanical Engineer HVAC - Kanadevia Inova
 2024-12-01 16:40:24,083 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/992561
+2024-12-01 16:40:27,860 - INFO - Successfully scraped job: Marine Engineer
+2024-12-01 16:40:27,865 - INFO - Saved job: Marine Engineer - Prysmian Group
+2024-12-01 16:40:29,580 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/992484
+2024-12-01 16:40:33,037 - INFO - Successfully scraped job: Mobile Water Treatment Engineer
+2024-12-01 16:40:33,040 - INFO - Saved job: Mobile Water Treatment Engineer - Bellrock
+2024-12-01 16:40:34,905 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/992446
+2024-12-01 16:40:38,558 - INFO - Successfully scraped job: Engineering Trades Apprenticeship - Welders, Pipefitters and Fabricators
+2024-12-01 16:40:38,562 - INFO - Saved job: Engineering Trades Apprenticeship - Welders, Pipefitters and Fabricators - Babcock International
+2024-12-01 16:40:40,315 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/992445
+2024-12-01 16:40:43,202 - INFO - Successfully scraped job: Design Lead (Water/Wastewater Engineering)
+2024-12-01 16:40:43,207 - INFO - Saved job: Design Lead (Water/Wastewater Engineering) - Stantec UK
+2024-12-01 16:40:44,785 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/992433
+2024-12-01 16:40:48,450 - INFO - Successfully scraped job: Principal / Senior Process Design Engineer (Water & Wastewater)
+2024-12-01 16:40:48,453 - INFO - Saved job: Principal / Senior Process Design Engineer (Water & Wastewater) - Arcadis
+2024-12-01 16:40:49,731 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/992327
+2024-12-01 16:40:52,058 - DEBUG - No additional metadata found
+2024-12-01 16:40:52,073 - INFO - Successfully scraped job: Gas Service & Breakdown Engineer - Kilmarnock
+2024-12-01 16:40:52,078 - INFO - Saved job: Gas Service & Breakdown Engineer - Kilmarnock - Kingsley Consulting Ltd
+2024-12-01 16:40:53,757 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/992230
+2024-12-01 16:40:56,862 - INFO - Successfully scraped job: Smart Energy Engineer
+2024-12-01 16:40:56,865 - INFO - Saved job: Smart Energy Engineer - Centrica plc
+2024-12-01 16:40:58,671 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/992259
+2024-12-01 16:41:01,883 - INFO - Successfully scraped job: Rolls-Royce Nuclear Engineering Degree Apprenticeship - Raynesway, UK
+2024-12-01 16:41:01,886 - INFO - Saved job: Rolls-Royce Nuclear Engineering Degree Apprenticeship - Raynesway, UK - Rolls-Royce
+2024-12-01 16:41:03,796 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/992247
+2024-12-01 16:41:06,311 - INFO - Successfully scraped job: Nuclear Safety Case Engineer (Multiple Locations)
+2024-12-01 16:41:06,313 - INFO - Saved job: Nuclear Safety Case Engineer (Multiple Locations) - Jacobs
+2024-12-01 16:41:07,795 - INFO - Collected 980 jobs so far
+2024-12-01 16:41:07,796 - INFO - Scraping page 50 of 389
+2024-12-01 16:41:11,818 - INFO - Getting job links from current page
+2024-12-01 16:41:14,852 - INFO - Found 20 job cards
+2024-12-01 16:41:14,866 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/990893
+2024-12-01 16:41:14,876 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/990833
+2024-12-01 16:41:14,885 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/990842
+2024-12-01 16:41:14,894 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/990851
+2024-12-01 16:41:14,904 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/990782
+2024-12-01 16:41:14,914 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/990686
+2024-12-01 16:41:14,924 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/990683
+2024-12-01 16:41:14,933 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/825375
+2024-12-01 16:41:14,944 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/970162
+2024-12-01 16:41:14,953 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/970074
+2024-12-01 16:41:14,962 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/905872
+2024-12-01 16:41:14,972 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/879386
+2024-12-01 16:41:14,982 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/969918
+2024-12-01 16:41:14,991 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/990579
+2024-12-01 16:41:15,001 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/969020
+2024-12-01 16:41:15,010 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/969014
+2024-12-01 16:41:15,020 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/858554
+2024-12-01 16:41:15,030 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/969502
+2024-12-01 16:41:15,039 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/855561
+2024-12-01 16:41:15,048 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/production-jobs/855854
+2024-12-01 16:41:15,048 - INFO - Successfully extracted 20 job links
+2024-12-01 16:41:15,048 - INFO - Found 20 jobs on page 50
+2024-12-01 16:41:15,048 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990893
+2024-12-01 16:41:18,132 - INFO - Successfully scraped job: Advanced Process Controls and Optimization Engineer, Borger Refinery
+2024-12-01 16:41:18,135 - INFO - Saved job: Advanced Process Controls and Optimization Engineer, Borger Refinery - Phillips 66
+2024-12-01 16:41:19,236 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990833
+2024-12-01 16:41:21,053 - INFO - Successfully scraped job: Material Planning Engineer
+2024-12-01 16:41:21,055 - INFO - Saved job: Material Planning Engineer - Wood PLC
+2024-12-01 16:41:22,980 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/990842
+2024-12-01 16:41:25,673 - INFO - Successfully scraped job: Senior Structural Engineer
+2024-12-01 16:41:25,676 - INFO - Saved job: Senior Structural Engineer - Wood PLC
