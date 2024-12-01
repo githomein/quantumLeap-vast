@@ -3130,3 +3130,37 @@
 2024-12-01 16:03:29,744 - INFO - Successfully scraped job: Principal Packages Engineer
 2024-12-01 16:03:29,748 - INFO - Saved job: Principal Packages Engineer - None
 2024-12-01 16:03:31,022 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/953841
+2024-12-01 16:03:44,302 - WARNING - Timeout waiting for company element
+2024-12-01 16:03:44,460 - INFO - Successfully scraped job: Geotechnical Engineering Project Manager
+2024-12-01 16:03:44,462 - INFO - Saved job: Geotechnical Engineering Project Manager - None
+2024-12-01 16:03:45,679 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/912490
+2024-12-01 16:03:49,215 - INFO - Successfully scraped job: HVAC Engineer
+2024-12-01 16:03:49,218 - INFO - Saved job: HVAC Engineer - ASSYSTEM
+2024-12-01 16:03:50,898 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/983585
+2024-12-01 16:03:53,584 - INFO - Successfully scraped job: ENGINEER HVAC
+2024-12-01 16:03:53,587 - INFO - Saved job: ENGINEER HVAC - Engie
+2024-12-01 16:03:54,991 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/983063
+2024-12-01 16:03:57,480 - INFO - Successfully scraped job: Sr. HSE Engineer
+2024-12-01 16:03:57,482 - INFO - Saved job: Sr. HSE Engineer - Honeywell
+2024-12-01 16:03:58,625 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/983789
+2024-12-01 16:04:01,692 - INFO - Successfully scraped job: Internship Electrical Engineer ID59
+2024-12-01 16:04:01,695 - INFO - Saved job: Internship Electrical Engineer ID59 - Schlumberger
+2024-12-01 16:04:03,569 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/983071
+2024-12-01 16:04:06,777 - INFO - Successfully scraped job: Electrical Design Engineer
+2024-12-01 16:04:06,780 - INFO - Saved job: Electrical Design Engineer - ABB
+2024-12-01 16:04:08,066 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/983053
+2024-12-01 16:04:20,454 - WARNING - Timeout waiting for company element
+2024-12-01 16:04:20,573 - INFO - Successfully scraped job: Instrument Systems Engineer M/F
+2024-12-01 16:04:20,575 - INFO - Saved job: Instrument Systems Engineer M/F - None
+2024-12-01 16:04:21,801 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/983061
+2024-12-01 16:04:25,233 - INFO - Successfully scraped job: Senior Service Engineer
+2024-12-01 16:04:25,236 - INFO - Saved job: Senior Service Engineer - ABB
+2024-12-01 16:04:26,474 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/982986
+2024-12-01 16:04:30,165 - INFO - Successfully scraped job: Control Engineering
+2024-12-01 16:04:30,167 - INFO - Saved job: Control Engineering - ABB
+2024-12-01 16:04:31,823 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/872366
+2024-12-01 16:04:35,619 - INFO - Successfully scraped job: Principal Fire Engineer
+2024-12-01 16:04:35,623 - INFO - Saved job: Principal Fire Engineer - AtkinsRéalis
+2024-12-01 16:04:37,556 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005058
+2024-12-01 16:04:41,112 - INFO - Successfully scraped job: Senior Renewable Energy Engineer
+2024-12-01 16:04:41,116 - INFO - Saved job: Senior Renewable Energy Engineer - Sargent & Lundy

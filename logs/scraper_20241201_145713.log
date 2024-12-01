@@ -2798,3 +2798,29 @@
 2024-12-01 16:03:37,692 - INFO - Successfully scraped job: Engineer II | Renewable Generation Engineering
 2024-12-01 16:03:37,694 - INFO - Saved job: Engineer II | Renewable Generation Engineering - Arizona Public Service
 2024-12-01 16:03:38,894 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/892440
+2024-12-01 16:03:42,231 - INFO - Successfully scraped job: Construction Field Engineer - Oil, Gas, & Chemical
+2024-12-01 16:03:42,233 - INFO - Saved job: Construction Field Engineer - Oil, Gas, & Chemical - Kiewit
+2024-12-01 16:03:43,398 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/981645
+2024-12-01 16:03:56,473 - WARNING - Timeout waiting for company element
+2024-12-01 16:03:56,578 - INFO - Successfully scraped job: Static Equipment Engineer
+2024-12-01 16:03:56,580 - INFO - Saved job: Static Equipment Engineer - None
+2024-12-01 16:03:57,823 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/981768
+2024-12-01 16:04:10,214 - WARNING - Timeout waiting for company element
+2024-12-01 16:04:10,310 - INFO - Successfully scraped job: Crane / Mechanical Preparation Engineer M/F
+2024-12-01 16:04:10,313 - INFO - Saved job: Crane / Mechanical Preparation Engineer M/F - None
+2024-12-01 16:04:12,080 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/981803
+2024-12-01 16:04:24,857 - WARNING - Timeout waiting for company element
+2024-12-01 16:04:24,952 - INFO - Successfully scraped job: Asset Integrity Engineer M/F
+2024-12-01 16:04:24,955 - INFO - Saved job: Asset Integrity Engineer M/F - None
+2024-12-01 16:04:26,541 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/911700
+2024-12-01 16:04:29,551 - INFO - Successfully scraped job: Supplier Quality Engineer
+2024-12-01 16:04:29,554 - INFO - Saved job: Supplier Quality Engineer - ABB
+2024-12-01 16:04:30,950 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/911711
+2024-12-01 16:04:33,002 - INFO - Successfully scraped job: Ingénieure Génie Civil (Civil Engineer)
+2024-12-01 16:04:33,005 - INFO - Saved job: Ingénieure Génie Civil (Civil Engineer) - AtkinsRéalis
+2024-12-01 16:04:34,040 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/892502
+2024-12-01 16:04:37,278 - INFO - Successfully scraped job: Senior / Principal Stress Engineer - Nuclear
+2024-12-01 16:04:37,281 - INFO - Saved job: Senior / Principal Stress Engineer - Nuclear - AtkinsRéalis
+2024-12-01 16:04:39,059 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1004758
+2024-12-01 16:04:42,345 - INFO - Successfully scraped job: HVAC Building Engineer (Mobile)
+2024-12-01 16:04:42,348 - INFO - Saved job: HVAC Building Engineer (Mobile) - CBRE
