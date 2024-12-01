@@ -13188,3 +13188,33 @@
 2024-12-01 20:10:41,075 - INFO - Successfully scraped job: Cybersecurity Engineer
 2024-12-01 20:10:41,082 - INFO - Saved job: Cybersecurity Engineer - Emerson
 2024-12-01 20:10:43,062 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1006836
+2024-12-01 20:10:46,043 - INFO - Successfully scraped job: Technical Sales Engineer with French (2 years)
+2024-12-01 20:10:46,049 - INFO - Saved job: Technical Sales Engineer with French (2 years) - Emerson
+2024-12-01 20:10:47,916 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006825
+2024-12-01 20:10:50,283 - INFO - Successfully scraped job: Performance Engineer
+2024-12-01 20:10:50,288 - INFO - Saved job: Performance Engineer - Engie
+2024-12-01 20:10:51,467 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1006750
+2024-12-01 20:10:55,332 - INFO - Successfully scraped job: Electrical Engineer - Low Voltage & Medium Voltage
+2024-12-01 20:10:55,338 - INFO - Saved job: Electrical Engineer - Low Voltage & Medium Voltage - AtkinsRéalis
+2024-12-01 20:10:56,775 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1006758
+2024-12-01 20:11:00,490 - INFO - Successfully scraped job: Nuclear & Power Senior Process Engineer (Full-time / Part-time)
+2024-12-01 20:11:00,495 - INFO - Saved job: Nuclear & Power Senior Process Engineer (Full-time / Part-time) - AtkinsRéalis
+2024-12-01 20:11:01,581 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1006883
+2024-12-01 20:11:03,955 - INFO - Successfully scraped job: Cyber Security Architect/Engineer I - UAE Nationals Only
+2024-12-01 20:11:03,961 - INFO - Saved job: Cyber Security Architect/Engineer I - UAE Nationals Only - Honeywell
+2024-12-01 20:11:05,953 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006760
+2024-12-01 20:11:07,971 - INFO - Successfully scraped job: Associate Principal Engineer
+2024-12-01 20:11:07,975 - INFO - Saved job: Associate Principal Engineer - ABB
+2024-12-01 20:11:09,245 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1006730
+2024-12-01 20:11:12,232 - INFO - Successfully scraped job: Quality Engineer - Mechanical Engineering
+2024-12-01 20:11:12,238 - INFO - Saved job: Quality Engineer - Mechanical Engineering - ABB
+2024-12-01 20:11:13,517 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1006717
+2024-12-01 20:11:26,979 - WARNING - Timeout waiting for company element
+2024-12-01 20:11:27,267 - INFO - Successfully scraped job: Pipelay Analysis Engineer
+2024-12-01 20:11:27,273 - INFO - Saved job: Pipelay Analysis Engineer - None
+2024-12-01 20:11:28,555 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006714
+2024-12-01 20:11:42,734 - WARNING - Timeout waiting for company element
+2024-12-01 20:11:42,840 - INFO - Successfully scraped job: Join Aker Solutions as an Architect Engineer in Stavanger!
+2024-12-01 20:11:42,845 - INFO - Saved job: Join Aker Solutions as an Architect Engineer in Stavanger! - None
+2024-12-01 20:11:44,692 - INFO - Collected 2900 jobs so far
+2024-12-01 20:11:44,692 - INFO - Scraping page 146 of 389

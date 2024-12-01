@@ -13423,3 +13423,39 @@
 2024-12-01 20:10:40,468 - INFO - Successfully scraped job: Construction Project Engineer
 2024-12-01 20:10:40,475 - INFO - Saved job: Construction Project Engineer - AtkinsRéalis
 2024-12-01 20:10:41,906 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/984950
+2024-12-01 20:10:44,553 - INFO - Successfully scraped job: R&D Associate Engineer
+2024-12-01 20:10:44,558 - INFO - Saved job: R&D Associate Engineer - ABB
+2024-12-01 20:10:46,408 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/1005763
+2024-12-01 20:10:49,379 - INFO - Successfully scraped job: Mechanical Field Service Engineer
+2024-12-01 20:10:49,385 - INFO - Saved job: Mechanical Field Service Engineer - NOV
+2024-12-01 20:10:50,978 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1005676
+2024-12-01 20:10:53,601 - INFO - Successfully scraped job: Firmware Engineer
+2024-12-01 20:10:53,606 - INFO - Saved job: Firmware Engineer - Honeywell
+2024-12-01 20:10:55,457 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/869704
+2024-12-01 20:10:59,121 - INFO - Successfully scraped job: Field service Engineer
+2024-12-01 20:10:59,127 - INFO - Saved job: Field service Engineer - Emerson
+2024-12-01 20:11:00,472 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1005431
+2024-12-01 20:11:03,105 - INFO - Successfully scraped job: ITS/Traffic Engineering Intern - Summer 2025
+2024-12-01 20:11:03,110 - INFO - Saved job: ITS/Traffic Engineering Intern - Summer 2025 - AtkinsRéalis
+2024-12-01 20:11:05,075 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005552
+2024-12-01 20:11:08,060 - INFO - Successfully scraped job: Project Engineer
+2024-12-01 20:11:08,065 - INFO - Saved job: Project Engineer - Engie
+2024-12-01 20:11:09,589 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005537
+2024-12-01 20:11:12,168 - INFO - Successfully scraped job: Computer Vision and Perception Engineer
+2024-12-01 20:11:12,173 - INFO - Saved job: Computer Vision and Perception Engineer - ABB
+2024-12-01 20:11:14,086 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005301
+2024-12-01 20:11:17,339 - INFO - Successfully scraped job: Engineer- Inspection
+2024-12-01 20:11:17,345 - INFO - Saved job: Engineer- Inspection - Shell
+2024-12-01 20:11:18,637 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/983911
+2024-12-01 20:11:21,374 - INFO - Successfully scraped job: Automation Engineer (m/w/d) Offshore-Anlagen
+2024-12-01 20:11:21,378 - INFO - Saved job: Automation Engineer (m/w/d) Offshore-Anlagen - Bertrandt
+2024-12-01 20:11:23,374 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/983884
+2024-12-01 20:11:27,313 - INFO - Successfully scraped job: Integration & Certification Engineer (f/m/d) Battery Energy Storage System
+2024-12-01 20:11:27,320 - INFO - Saved job: Integration & Certification Engineer (f/m/d) Battery Energy Storage System - Siemens Energy
+2024-12-01 20:11:28,944 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/984162
+2024-12-01 20:11:42,369 - WARNING - Timeout waiting for company element
+2024-12-01 20:11:42,484 - INFO - Successfully scraped job: Senior Safety Engineer
+2024-12-01 20:11:42,490 - INFO - Saved job: Senior Safety Engineer - None
+2024-12-01 20:11:43,546 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005238
+2024-12-01 20:11:45,607 - INFO - Successfully scraped job: Drilling Engineer Advisor, Senior
+2024-12-01 20:11:45,612 - INFO - Saved job: Drilling Engineer Advisor, Senior - Helmerich & Payne, Inc.
