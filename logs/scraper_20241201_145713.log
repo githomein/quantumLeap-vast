@@ -15170,3 +15170,22 @@
 2024-12-01 20:57:51,451 - INFO - Successfully scraped job: Precommissioning Engineer
 2024-12-01 20:57:51,458 - INFO - Saved job: Precommissioning Engineer - None
 2024-12-01 20:57:53,155 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/991162
+2024-12-01 20:58:05,464 - WARNING - Timeout waiting for company element
+2024-12-01 20:58:05,657 - INFO - Successfully scraped job: Senior Mechanical/Piping Engineer
+2024-12-01 20:58:05,663 - INFO - Saved job: Senior Mechanical/Piping Engineer - None
+2024-12-01 20:58:07,046 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991160
+2024-12-01 20:58:19,909 - WARNING - Timeout waiting for company element
+2024-12-01 20:58:20,052 - INFO - Successfully scraped job: Transmission Line Principal Engineer
+2024-12-01 20:58:20,059 - INFO - Saved job: Transmission Line Principal Engineer - None
+2024-12-01 20:58:21,776 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991130
+2024-12-01 20:58:35,998 - WARNING - Timeout waiting for company element
+2024-12-01 20:58:36,274 - INFO - Successfully scraped job: Planning Engineer and Planning Manager
+2024-12-01 20:58:36,280 - INFO - Saved job: Planning Engineer and Planning Manager - None
+2024-12-01 20:58:38,267 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/837358
+2024-12-01 20:58:50,796 - WARNING - Timeout waiting for company element
+2024-12-01 20:58:50,958 - INFO - Successfully scraped job: Graduate Process Engineer
+2024-12-01 20:58:50,967 - INFO - Saved job: Graduate Process Engineer - None
+2024-12-01 20:58:52,508 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/882526
+2024-12-01 20:58:55,537 - INFO - Successfully scraped job: Principles Testing Engineer
+2024-12-01 20:58:55,543 - INFO - Saved job: Principles Testing Engineer - AtkinsRéalis
+2024-12-01 20:58:56,747 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990790

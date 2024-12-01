@@ -15354,3 +15354,63 @@
 2024-12-01 20:57:59,215 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/967961
 2024-12-01 20:58:02,948 - INFO - Successfully scraped job: Senior Cost Engineer
 2024-12-01 20:58:02,953 - INFO - Saved job: Senior Cost Engineer - Wood PLC
+2024-12-01 20:58:04,675 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/967858
+2024-12-01 20:58:08,725 - INFO - Successfully scraped job: Associate Director Electrical Engineering
+2024-12-01 20:58:08,731 - INFO - Saved job: Associate Director Electrical Engineering - AtkinsRéalis
+2024-12-01 20:58:10,456 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/967901
+2024-12-01 20:58:14,548 - INFO - Successfully scraped job: Senior Civil Water Engineer
+2024-12-01 20:58:14,554 - INFO - Saved job: Senior Civil Water Engineer - AtkinsRéalis
+2024-12-01 20:58:16,325 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/967946
+2024-12-01 20:58:19,795 - INFO - Successfully scraped job: Radiological Protection Engineer
+2024-12-01 20:58:19,801 - INFO - Saved job: Radiological Protection Engineer - AtkinsRéalis
+2024-12-01 20:58:21,601 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/967924
+2024-12-01 20:58:23,854 - INFO - Successfully scraped job: Principal Waste Water Process Engineer
+2024-12-01 20:58:23,860 - INFO - Saved job: Principal Waste Water Process Engineer - AtkinsRéalis
+2024-12-01 20:58:25,731 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/967934
+2024-12-01 20:58:29,266 - INFO - Successfully scraped job: Associate Director Electrical Engineering
+2024-12-01 20:58:29,272 - INFO - Saved job: Associate Director Electrical Engineering - AtkinsRéalis
+2024-12-01 20:58:30,854 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/967936
+2024-12-01 20:58:33,344 - INFO - Successfully scraped job: Associate Director Mechanical Engineering
+2024-12-01 20:58:33,349 - INFO - Saved job: Associate Director Mechanical Engineering - AtkinsRéalis
+2024-12-01 20:58:35,211 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/967852
+2024-12-01 20:58:39,124 - INFO - Successfully scraped job: Construction Engineer (Riyadh, Dammam)
+2024-12-01 20:58:39,132 - INFO - Saved job: Construction Engineer (Riyadh, Dammam) - AtkinsRéalis
+2024-12-01 20:58:40,503 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/967918
+2024-12-01 20:58:42,661 - INFO - Successfully scraped job: Senior Clean Water Process Engineer
+2024-12-01 20:58:42,667 - INFO - Saved job: Senior Clean Water Process Engineer - AtkinsRéalis
+2024-12-01 20:58:43,699 - INFO - Collected 3380 jobs so far
+2024-12-01 20:58:43,700 - INFO - Scraping page 170 of 384
+2024-12-01 20:58:48,102 - INFO - Getting job links from current page
+2024-12-01 20:58:51,138 - INFO - Found 20 job cards
+2024-12-01 20:58:51,152 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/991907
+2024-12-01 20:58:51,162 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/991804
+2024-12-01 20:58:51,172 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/991746
+2024-12-01 20:58:51,181 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/991686
+2024-12-01 20:58:51,192 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/991321
+2024-12-01 20:58:51,201 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/991164
+2024-12-01 20:58:51,210 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/922582
+2024-12-01 20:58:51,218 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/857795
+2024-12-01 20:58:51,227 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/990984
+2024-12-01 20:58:51,235 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/990773
+2024-12-01 20:58:51,244 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/969884
+2024-12-01 20:58:51,254 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/858710
+2024-12-01 20:58:51,263 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/860474
+2024-12-01 20:58:51,272 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/969427
+2024-12-01 20:58:51,282 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/production-jobs/969070
+2024-12-01 20:58:51,291 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/990465
+2024-12-01 20:58:51,300 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/968019
+2024-12-01 20:58:51,308 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/966788
+2024-12-01 20:58:51,318 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/903745
+2024-12-01 20:58:51,327 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/853784
+2024-12-01 20:58:51,327 - INFO - Successfully extracted 20 job links
+2024-12-01 20:58:51,327 - INFO - Found 20 jobs on page 170
+2024-12-01 20:58:51,327 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/991907
+2024-12-01 20:58:54,803 - INFO - Successfully scraped job: Senior Sales Engineer
+2024-12-01 20:58:54,809 - INFO - Saved job: Senior Sales Engineer - Emerson
+2024-12-01 20:58:56,445 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991804
+2024-12-01 20:58:58,533 - INFO - Successfully scraped job: Design Engineer - Nuclear
+2024-12-01 20:58:58,540 - INFO - Saved job: Design Engineer - Nuclear - Emerson
+2024-12-01 20:59:00,119 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991746
+2024-12-01 20:59:03,147 - INFO - Successfully scraped job: Senior Engineer / AM - Disruptor Sales for Rosemount Wireless/Tank Gauging/Corrosion Product Solutions
+2024-12-01 20:59:03,153 - INFO - Saved job: Senior Engineer / AM - Disruptor Sales for Rosemount Wireless/Tank Gauging/Corrosion Product Solutions - Emerson
+2024-12-01 20:59:04,411 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991686
