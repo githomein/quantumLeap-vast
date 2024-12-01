@@ -12976,3 +12976,29 @@
 2024-12-01 19:59:05,325 - INFO - Successfully scraped job: Procurement Engineering Manager
 2024-12-01 19:59:05,332 - INFO - Saved job: Procurement Engineering Manager - AtkinsRéalis
 2024-12-01 19:59:06,774 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/988019
+2024-12-01 19:59:20,314 - WARNING - Timeout waiting for company element
+2024-12-01 19:59:20,384 - DEBUG - No additional metadata found
+2024-12-01 19:59:20,398 - INFO - Successfully scraped job: Engineering - Mechanical / Piping
+2024-12-01 19:59:20,403 - INFO - Saved job: Engineering - Mechanical / Piping - None
+2024-12-01 19:59:21,917 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/risk-management-jobs/988007
+2024-12-01 19:59:35,331 - WARNING - Timeout waiting for company element
+2024-12-01 19:59:35,447 - INFO - Successfully scraped job: Senior OT Networks Engineer
+2024-12-01 19:59:35,453 - INFO - Saved job: Senior OT Networks Engineer - None
+2024-12-01 19:59:36,789 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/environmental-jobs/987930
+2024-12-01 19:59:38,667 - INFO - Successfully scraped job: Environmental Engineer
+2024-12-01 19:59:38,672 - INFO - Saved job: Environmental Engineer - Shell
+2024-12-01 19:59:40,445 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/917745
+2024-12-01 19:59:42,212 - INFO - Successfully scraped job: Campus Hire - Process Engineer
+2024-12-01 19:59:42,217 - INFO - Saved job: Campus Hire - Process Engineer - Exxon Mobil
+2024-12-01 19:59:43,907 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/917863
+2024-12-01 19:59:56,667 - WARNING - Timeout waiting for company element
+2024-12-01 19:59:56,813 - INFO - Successfully scraped job: QHSE Engineer Junior
+2024-12-01 19:59:56,819 - INFO - Saved job: QHSE Engineer Junior - None
+2024-12-01 19:59:58,570 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/853920
+2024-12-01 20:00:00,938 - INFO - Successfully scraped job: Electromagnetic Engineer
+2024-12-01 20:00:00,943 - INFO - Saved job: Electromagnetic Engineer - GE Renewable Energy Power and Aviation
+2024-12-01 20:00:02,224 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/964033
+2024-12-01 20:00:04,391 - DEBUG - No additional metadata found
+2024-12-01 20:00:04,407 - INFO - Successfully scraped job: Tech Prof - Drilling Engineering Solutions, I
+2024-12-01 20:00:04,412 - INFO - Saved job: Tech Prof - Drilling Engineering Solutions, I - Halliburton
+2024-12-01 20:00:05,720 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/818566

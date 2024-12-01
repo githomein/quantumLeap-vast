@@ -12727,3 +12727,37 @@
 2024-12-01 19:58:58,743 - INFO - Successfully scraped job: Subsea Project Engineer - Jansz-Io Compression (J-IC)
 2024-12-01 19:58:58,748 - INFO - Saved job: Subsea Project Engineer - Jansz-Io Compression (J-IC) - None
 2024-12-01 19:59:00,559 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/920083
+2024-12-01 19:59:13,904 - WARNING - Timeout waiting for company element
+2024-12-01 19:59:14,039 - INFO - Successfully scraped job: Software Engineering Architect
+2024-12-01 19:59:14,045 - INFO - Saved job: Software Engineering Architect - None
+2024-12-01 19:59:15,470 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/965660
+2024-12-01 19:59:17,431 - INFO - Successfully scraped job: Field Engineer IV - Completions
+2024-12-01 19:59:17,436 - INFO - Saved job: Field Engineer IV - Completions - Weatherford
+2024-12-01 19:59:18,855 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/965892
+2024-12-01 19:59:21,492 - INFO - Successfully scraped job: Sr Advanced Quality Engineer
+2024-12-01 19:59:21,497 - INFO - Saved job: Sr Advanced Quality Engineer - Honeywell
+2024-12-01 19:59:22,960 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/965472
+2024-12-01 19:59:35,787 - WARNING - Timeout waiting for company element
+2024-12-01 19:59:35,958 - INFO - Successfully scraped job: Mechanical Design Engineer
+2024-12-01 19:59:35,965 - INFO - Saved job: Mechanical Design Engineer - None
+2024-12-01 19:59:37,526 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/965528
+2024-12-01 19:59:41,332 - INFO - Successfully scraped job: Senior Engineer - Bridges and Civils
+2024-12-01 19:59:41,338 - INFO - Saved job: Senior Engineer - Bridges and Civils - AtkinsRéalis
+2024-12-01 19:59:42,587 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/989205
+2024-12-01 19:59:55,341 - WARNING - Timeout waiting for company element
+2024-12-01 19:59:55,470 - INFO - Successfully scraped job: Integrity Engineer
+2024-12-01 19:59:55,476 - INFO - Saved job: Integrity Engineer - None
+2024-12-01 19:59:56,929 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/989406
+2024-12-01 19:59:59,299 - DEBUG - No additional metadata found
+2024-12-01 19:59:59,314 - INFO - Successfully scraped job: FIELD ENGINEER II
+2024-12-01 19:59:59,319 - INFO - Saved job: FIELD ENGINEER II - Weatherford
+2024-12-01 20:00:00,646 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/989551
+2024-12-01 20:00:02,794 - INFO - Successfully scraped job: Customer Project Engineer
+2024-12-01 20:00:02,799 - INFO - Saved job: Customer Project Engineer - Schneider Electric
+2024-12-01 20:00:04,130 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/989173
+2024-12-01 20:00:07,883 - INFO - Successfully scraped job: Infrastructure Operations Engineer (Windows and VMware)
+2024-12-01 20:00:07,888 - INFO - Saved job: Infrastructure Operations Engineer (Windows and VMware) - AtkinsRéalis
+2024-12-01 20:00:09,755 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/989176
+2024-12-01 20:00:11,667 - INFO - Successfully scraped job: Senior Infrastructure Operations Engineer
+2024-12-01 20:00:11,673 - INFO - Saved job: Senior Infrastructure Operations Engineer - AtkinsRéalis
+2024-12-01 20:00:13,493 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/989188
