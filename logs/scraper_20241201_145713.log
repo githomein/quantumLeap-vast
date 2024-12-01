@@ -3698,3 +3698,33 @@
 2024-12-01 16:24:00,380 - INFO - Successfully scraped job: Staff Engineer; Maintainability
 2024-12-01 16:24:00,387 - INFO - Saved job: Staff Engineer; Maintainability - GE Renewable Energy Power and Aviation
 2024-12-01 16:24:02,012 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/974626
+2024-12-01 16:24:05,634 - INFO - Successfully scraped job: Multidisciplinary Engineering Coordinator
+2024-12-01 16:24:05,640 - INFO - Saved job: Multidisciplinary Engineering Coordinator - AtkinsRéalis
+2024-12-01 16:24:06,983 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/999760
+2024-12-01 16:24:10,794 - INFO - Successfully scraped job: Senior Mechanical Engineer (Nuclear Projects)
+2024-12-01 16:24:10,797 - INFO - Saved job: Senior Mechanical Engineer (Nuclear Projects) - Sargent & Lundy
+2024-12-01 16:24:12,533 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/999752
+2024-12-01 16:24:16,549 - INFO - Successfully scraped job: Lead Electrical Engineer -- Energy & Industrial Group
+2024-12-01 16:24:16,552 - INFO - Saved job: Lead Electrical Engineer -- Energy & Industrial Group - Sargent & Lundy
+2024-12-01 16:24:17,715 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/999689
+2024-12-01 16:24:20,634 - DEBUG - No additional metadata found
+2024-12-01 16:24:20,648 - INFO - Successfully scraped job: Principal Electrical Design Engineer - Nuclear
+2024-12-01 16:24:20,650 - INFO - Saved job: Principal Electrical Design Engineer - Nuclear - PSEG
+2024-12-01 16:24:21,984 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/972851
+2024-12-01 16:24:24,065 - INFO - Successfully scraped job: Senior Onshore Pipelines Engineer
+2024-12-01 16:24:24,067 - INFO - Saved job: Senior Onshore Pipelines Engineer - Worley
+2024-12-01 16:24:25,091 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/972804
+2024-12-01 16:24:29,104 - INFO - Successfully scraped job: REMOTE - Senior Engineer, Generator Modeling
+2024-12-01 16:24:29,107 - INFO - Saved job: REMOTE - Senior Engineer, Generator Modeling - The AES Corporation
+2024-12-01 16:24:30,279 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/972729
+2024-12-01 16:24:33,037 - INFO - Successfully scraped job: Planning Engineer - Power System Dynamics
+2024-12-01 16:24:33,039 - INFO - Saved job: Planning Engineer - Power System Dynamics - The Electric Reliability Council of Texas (ERCOT)
+2024-12-01 16:24:34,808 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/974060
+2024-12-01 16:24:48,774 - WARNING - Timeout waiting for company element
+2024-12-01 16:24:48,890 - INFO - Successfully scraped job: Internship : Industrial Project Planning Engineer Assistant - F/M
+2024-12-01 16:24:48,893 - INFO - Saved job: Internship : Industrial Project Planning Engineer Assistant - F/M - None
+2024-12-01 16:24:49,927 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/973490
+2024-12-01 16:25:02,238 - WARNING - Timeout waiting for company element
+2024-12-01 16:25:02,424 - INFO - Successfully scraped job: Senior Civil Engineer
+2024-12-01 16:25:02,426 - INFO - Saved job: Senior Civil Engineer - None
+2024-12-01 16:25:03,675 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/973609
