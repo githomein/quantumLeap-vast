@@ -13718,3 +13718,48 @@
 2024-12-01 20:23:16,985 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/870165
 2024-12-01 20:23:19,003 - INFO - Successfully scraped job: Business Engineer in DAUT
 2024-12-01 20:23:19,008 - INFO - Saved job: Business Engineer in DAUT - Emerson
+2024-12-01 20:23:20,202 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/870072
+2024-12-01 20:23:22,555 - DEBUG - No additional metadata found
+2024-12-01 20:23:22,570 - INFO - Successfully scraped job: Service Engineer
+2024-12-01 20:23:22,575 - INFO - Saved job: Service Engineer - Emerson
+2024-12-01 20:23:24,290 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/866013
+2024-12-01 20:23:27,817 - INFO - Successfully scraped job: Senior HVAC and Building Services Engineer
+2024-12-01 20:23:27,822 - INFO - Saved job: Senior HVAC and Building Services Engineer - AtkinsRéalis
+2024-12-01 20:23:29,337 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/865555
+2024-12-01 20:23:31,963 - INFO - Successfully scraped job: Pavement Engineer
+2024-12-01 20:23:31,968 - INFO - Saved job: Pavement Engineer - AtkinsRéalis
+2024-12-01 20:23:33,878 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/977992
+2024-12-01 20:23:35,939 - INFO - Successfully scraped job: R&D Senior Engineer - Firmware Architect (Industry 4.0 PLC Solutions) (m/f/d)
+2024-12-01 20:23:35,944 - INFO - Saved job: R&D Senior Engineer - Firmware Architect (Industry 4.0 PLC Solutions) (m/f/d) - ABB
+2024-12-01 20:23:37,908 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/867111
+2024-12-01 20:23:41,033 - INFO - Successfully scraped job: Principal HV Cable Design Engineer - Net Zero
+2024-12-01 20:23:41,040 - INFO - Saved job: Principal HV Cable Design Engineer - Net Zero - AtkinsRéalis
+2024-12-01 20:23:42,942 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/977965
+2024-12-01 20:23:46,293 - INFO - Successfully scraped job: Principal Civil Water Engineer
+2024-12-01 20:23:46,298 - INFO - Saved job: Principal Civil Water Engineer - AtkinsRéalis
+2024-12-01 20:23:47,522 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/863609
+2024-12-01 20:23:49,924 - INFO - Successfully scraped job: Sales Engineer (m/f/d) Service Medium and Low Voltage - Southern Germany Region
+2024-12-01 20:23:49,930 - INFO - Saved job: Sales Engineer (m/f/d) Service Medium and Low Voltage - Southern Germany Region - ABB
+2024-12-01 20:23:51,365 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/866097
+2024-12-01 20:23:53,665 - INFO - Successfully scraped job: Assistant Engineer to Lead Design Engineer - River Modelling - Tuflow
+2024-12-01 20:23:53,670 - INFO - Saved job: Assistant Engineer to Lead Design Engineer - River Modelling - Tuflow - AtkinsRéalis
+2024-12-01 20:23:55,148 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/866095
+2024-12-01 20:23:58,668 - INFO - Successfully scraped job: Associate Group Engineer to Senior Group Engineer - Waste Water Modelling (Infoworks ICM)
+2024-12-01 20:23:58,676 - INFO - Saved job: Associate Group Engineer to Senior Group Engineer - Waste Water Modelling (Infoworks ICM) - AtkinsRéalis
+2024-12-01 20:24:00,321 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/866784
+2024-12-01 20:24:02,403 - INFO - Successfully scraped job: Senior Structural Engineer (Bridges)
+2024-12-01 20:24:02,408 - INFO - Saved job: Senior Structural Engineer (Bridges) - AtkinsRéalis
+2024-12-01 20:24:03,685 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/865993
+2024-12-01 20:24:06,040 - INFO - Successfully scraped job: Senior Electrical Engineer/Project Manager - Buildings
+2024-12-01 20:24:06,046 - INFO - Saved job: Senior Electrical Engineer/Project Manager - Buildings - AtkinsRéalis
+2024-12-01 20:24:07,480 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/867013
+2024-12-01 20:24:11,173 - INFO - Successfully scraped job: Senior Bridge Engineer
+2024-12-01 20:24:11,178 - INFO - Saved job: Senior Bridge Engineer - AtkinsRéalis
+2024-12-01 20:24:12,253 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/866793
+2024-12-01 20:24:15,062 - INFO - Successfully scraped job: Senior Structural Engineer
+2024-12-01 20:24:15,067 - INFO - Saved job: Senior Structural Engineer - AtkinsRéalis
+2024-12-01 20:24:16,250 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1004036
+2024-12-01 20:24:19,805 - INFO - Successfully scraped job: Energy Systems Engineer - Planning & Facilities Management - Georgetown University
+2024-12-01 20:24:19,811 - INFO - Saved job: Energy Systems Engineer - Planning & Facilities Management - Georgetown University - Georgetown University
+2024-12-01 20:24:21,061 - INFO - Collected 3020 jobs so far
+2024-12-01 20:24:21,061 - INFO - Scraping page 152 of 389

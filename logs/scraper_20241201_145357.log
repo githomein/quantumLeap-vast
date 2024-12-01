@@ -13965,3 +13965,42 @@
 2024-12-01 20:23:12,421 - INFO - Successfully scraped job: DIRECTOR OF THE NUCLEAR ENGINEERING PROGRAM & ASSOCIATE/FULL PROFESSOR
 2024-12-01 20:23:12,426 - INFO - Saved job: DIRECTOR OF THE NUCLEAR ENGINEERING PROGRAM & ASSOCIATE/FULL PROFESSOR - University of Florida
 2024-12-01 20:23:13,587 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/977174
+2024-12-01 20:23:27,173 - WARNING - Timeout waiting for company element
+2024-12-01 20:23:27,332 - INFO - Successfully scraped job: Packaging ISTA PDP Associate Test Engineer
+2024-12-01 20:23:27,340 - INFO - Saved job: Packaging ISTA PDP Associate Test Engineer - None
+2024-12-01 20:23:29,104 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/977069
+2024-12-01 20:23:33,280 - INFO - Successfully scraped job: Werkvoorbereider engineering bouwkunde
+2024-12-01 20:23:33,285 - INFO - Saved job: Werkvoorbereider engineering bouwkunde - Engie
+2024-12-01 20:23:34,339 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/891281
+2024-12-01 20:23:36,487 - INFO - Successfully scraped job: Project Engineer - Oil & Gas
+2024-12-01 20:23:36,492 - INFO - Saved job: Project Engineer - Oil & Gas - Aggreko
+2024-12-01 20:23:37,990 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/951883
+2024-12-01 20:23:41,375 - INFO - Successfully scraped job: Principal Engineer / Senior Engineer, Geotechnical
+2024-12-01 20:23:41,380 - INFO - Saved job: Principal Engineer / Senior Engineer, Geotechnical - AtkinsRéalis
+2024-12-01 20:23:42,879 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1003071
+2024-12-01 20:23:46,715 - INFO - Successfully scraped job: Energy Engineering Manager
+2024-12-01 20:23:46,720 - INFO - Saved job: Energy Engineering Manager - Moss Adams LLP
+2024-12-01 20:23:48,183 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1002336
+2024-12-01 20:23:51,269 - INFO - Successfully scraped job: Solar Electrical Engineer (Remote)
+2024-12-01 20:23:51,275 - INFO - Saved job: Solar Electrical Engineer (Remote) - Higher Talents
+2024-12-01 20:23:52,770 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1002323
+2024-12-01 20:23:55,638 - INFO - Successfully scraped job: Sr. Generation Engineer - Mechanical
+2024-12-01 20:23:55,644 - INFO - Saved job: Sr. Generation Engineer - Mechanical - Oglethorpe Power Corporation
+2024-12-01 20:23:56,854 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1002222
+2024-12-01 20:23:59,704 - INFO - Successfully scraped job: Power Generation Engineering Director
+2024-12-01 20:23:59,710 - INFO - Saved job: Power Generation Engineering Director - PF Holdings
+2024-12-01 20:24:01,308 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1002192
+2024-12-01 20:24:03,608 - INFO - Successfully scraped job: Senior Project Engineer, Onshore Wind Due Diligence Services (Italy or Poland)
+2024-12-01 20:24:03,615 - INFO - Saved job: Senior Project Engineer, Onshore Wind Due Diligence Services (Italy or Poland) - UL Solutions
+2024-12-01 20:24:05,129 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1002160
+2024-12-01 20:24:08,502 - INFO - Successfully scraped job: Gas Engineer
+2024-12-01 20:24:08,508 - INFO - Saved job: Gas Engineer - OCS Group
+2024-12-01 20:24:09,717 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1002144
+2024-12-01 20:24:12,704 - INFO - Successfully scraped job: Graduate Energy Engineer - Edinburgh (Immediate start)
+2024-12-01 20:24:12,710 - INFO - Saved job: Graduate Energy Engineer - Edinburgh (Immediate start) - AECOM
+2024-12-01 20:24:14,457 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1002140
+2024-12-01 20:24:16,983 - INFO - Successfully scraped job: Gas Engineer - Service & Repair (Worcester/ Gloucester)
+2024-12-01 20:24:16,989 - INFO - Saved job: Gas Engineer - Service & Repair (Worcester/ Gloucester) - Platform Housing Group
+2024-12-01 20:24:18,411 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1002025
+2024-12-01 20:24:21,601 - INFO - Successfully scraped job: Automation Senior Engineer
+2024-12-01 20:24:21,608 - INFO - Saved job: Automation Senior Engineer - Emerson
