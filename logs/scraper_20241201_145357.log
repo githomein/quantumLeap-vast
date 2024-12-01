@@ -8308,3 +8308,40 @@
 2024-12-01 18:10:43,156 - INFO - Successfully extracted 20 job links
 2024-12-01 18:10:43,156 - INFO - Found 20 jobs on page 92
 2024-12-01 18:10:43,156 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005820
+2024-12-01 18:10:55,695 - WARNING - Timeout waiting for company element
+2024-12-01 18:10:55,813 - INFO - Successfully scraped job: Lead Rotating Engineer
+2024-12-01 18:10:55,818 - INFO - Saved job: Lead Rotating Engineer - None
+2024-12-01 18:10:57,426 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/956326
+2024-12-01 18:11:00,094 - INFO - Successfully scraped job: Lead Engineer - Electrical Component
+2024-12-01 18:11:00,098 - INFO - Saved job: Lead Engineer - Electrical Component - GE Renewable Energy Power and Aviation
+2024-12-01 18:11:01,363 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/955788
+2024-12-01 18:11:04,218 - INFO - Successfully scraped job: Civil Engineer
+2024-12-01 18:11:04,223 - INFO - Saved job: Civil Engineer - Engie
+2024-12-01 18:11:05,711 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1005693
+2024-12-01 18:11:09,406 - INFO - Successfully scraped job: Chemical Engineer II - Production
+2024-12-01 18:11:09,413 - INFO - Saved job: Chemical Engineer II - Production - Honeywell
+2024-12-01 18:11:11,376 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005669
+2024-12-01 18:11:14,346 - INFO - Successfully scraped job: RTE - Electricity Engineer
+2024-12-01 18:11:14,350 - INFO - Saved job: RTE - Electricity Engineer - Honeywell
+2024-12-01 18:11:16,332 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/977102
+2024-12-01 18:11:19,289 - INFO - Successfully scraped job: Inside Sales Engineer (m/w/d)
+2024-12-01 18:11:19,293 - INFO - Saved job: Inside Sales Engineer (m/w/d) - Emerson
+2024-12-01 18:11:20,956 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005625
+2024-12-01 18:11:22,870 - INFO - Successfully scraped job: Lead Blade Engineer
+2024-12-01 18:11:22,874 - INFO - Saved job: Lead Blade Engineer - Vestas
+2024-12-01 18:11:24,587 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005610
+2024-12-01 18:11:28,154 - INFO - Successfully scraped job: Materials Repair Development Lead Engineer
+2024-12-01 18:11:28,159 - INFO - Saved job: Materials Repair Development Lead Engineer - GE Renewable Energy Power and Aviation
+2024-12-01 18:11:29,329 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005478
+2024-12-01 18:11:31,493 - INFO - Successfully scraped job: SW Engineer
+2024-12-01 18:11:31,497 - INFO - Saved job: SW Engineer - ABB
+2024-12-01 18:11:32,570 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1005324
+2024-12-01 18:11:36,051 - INFO - Successfully scraped job: PE Customer Application Development Engineer
+2024-12-01 18:11:36,056 - INFO - Saved job: PE Customer Application Development Engineer - Exxon Mobil
+2024-12-01 18:11:37,661 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/984266
+2024-12-01 18:11:41,227 - INFO - Successfully scraped job: Mfg Engineering Intern
+2024-12-01 18:11:41,232 - INFO - Saved job: Mfg Engineering Intern - Honeywell
+2024-12-01 18:11:42,394 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/913066
+2024-12-01 18:11:55,632 - WARNING - Timeout waiting for company element
+2024-12-01 18:11:55,784 - INFO - Successfully scraped job: Staff Civil Engineer - Construction
+2024-12-01 18:11:55,788 - INFO - Saved job: Staff Civil Engineer - Construction - None
