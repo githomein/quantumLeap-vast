@@ -4654,3 +4654,29 @@
 2024-12-01 16:39:20,490 - INFO - Successfully scraped job: Senior Engineer / Assistant Manager Sales
 2024-12-01 16:39:20,493 - INFO - Saved job: Senior Engineer / Assistant Manager Sales - Emerson
 2024-12-01 16:39:22,216 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/957070
+2024-12-01 16:39:25,466 - INFO - Successfully scraped job: Senior Engineer / Engineer Firmware Developer
+2024-12-01 16:39:25,470 - INFO - Saved job: Senior Engineer / Engineer Firmware Developer - Emerson
+2024-12-01 16:39:27,461 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/922019
+2024-12-01 16:39:29,809 - INFO - Successfully scraped job: Control Systems Engineer
+2024-12-01 16:39:29,812 - INFO - Saved job: Control Systems Engineer - Emerson
+2024-12-01 16:39:31,776 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/965775
+2024-12-01 16:39:33,917 - INFO - Successfully scraped job: Manufacturing Engineering Manager
+2024-12-01 16:39:33,921 - INFO - Saved job: Manufacturing Engineering Manager - Emerson
+2024-12-01 16:39:35,517 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/883392
+2024-12-01 16:39:38,199 - INFO - Successfully scraped job: Lead Engineer Electrical
+2024-12-01 16:39:38,203 - INFO - Saved job: Lead Engineer Electrical - Bilfinger
+2024-12-01 16:39:39,461 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/869349
+2024-12-01 16:39:42,475 - INFO - Successfully scraped job: Lead Qualification Engineer (m/f/d)
+2024-12-01 16:39:42,478 - INFO - Saved job: Lead Qualification Engineer (m/f/d) - Bilfinger
+2024-12-01 16:39:43,773 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/820499
+2024-12-01 16:39:56,232 - WARNING - Timeout waiting for company element
+2024-12-01 16:39:56,333 - INFO - Successfully scraped job: Sr. Project Engineer (piping Layout) (epc Oil/gas...
+2024-12-01 16:39:56,338 - INFO - Saved job: Sr. Project Engineer (piping Layout) (epc Oil/gas... - None
+2024-12-01 16:39:57,610 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/820457
+2024-12-01 16:40:10,458 - WARNING - Timeout waiting for company element
+2024-12-01 16:40:10,594 - INFO - Successfully scraped job: Senior Process Engineer (oil/ Gas
+2024-12-01 16:40:10,598 - INFO - Saved job: Senior Process Engineer (oil/ Gas - None
+2024-12-01 16:40:12,570 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/820514
+2024-12-01 16:40:25,247 - WARNING - Timeout waiting for company element
+2024-12-01 16:40:25,361 - INFO - Successfully scraped job: Telecommunication Engineer (epc Oil/gas Offshore)
+2024-12-01 16:40:25,366 - INFO - Saved job: Telecommunication Engineer (epc Oil/gas Offshore) - None
