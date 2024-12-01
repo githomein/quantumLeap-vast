@@ -12614,3 +12614,40 @@
 2024-12-01 19:56:02,465 - INFO - Successfully scraped job: Environmental Design Engineer Sr
 2024-12-01 19:56:02,470 - INFO - Saved job: Environmental Design Engineer Sr - None
 2024-12-01 19:56:03,989 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/903997
+2024-12-01 19:56:07,352 - INFO - Successfully scraped job: Tech Service Engineer I
+2024-12-01 19:56:07,357 - INFO - Saved job: Tech Service Engineer I - NOV
+2024-12-01 19:56:08,610 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/851863
+2024-12-01 19:56:12,109 - INFO - Successfully scraped job: Fire Safety Engineer
+2024-12-01 19:56:12,113 - INFO - Saved job: Fire Safety Engineer - Engie
+2024-12-01 19:56:13,754 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/851407
+2024-12-01 19:56:17,335 - INFO - Successfully scraped job: Mechanical Project Engineer - Spent Nuclear Fuel & Decommissioning
+2024-12-01 19:56:17,340 - INFO - Saved job: Mechanical Project Engineer - Spent Nuclear Fuel & Decommissioning - Engie
+2024-12-01 19:56:18,763 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/872900
+2024-12-01 19:56:21,145 - INFO - Successfully scraped job: (Senior) R&D Firmware Engineer (m/f/d)
+2024-12-01 19:56:21,150 - INFO - Saved job: (Senior) R&D Firmware Engineer (m/f/d) - ABB
+2024-12-01 19:56:22,524 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/920967
+2024-12-01 19:56:25,461 - INFO - Successfully scraped job: Senior Resident Engineer
+2024-12-01 19:56:25,466 - INFO - Saved job: Senior Resident Engineer - AtkinsRéalis
+2024-12-01 19:56:26,586 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/878387
+2024-12-01 19:56:29,858 - INFO - Successfully scraped job: Senior Project Engineer
+2024-12-01 19:56:29,865 - INFO - Saved job: Senior Project Engineer - ABB
+2024-12-01 19:56:31,391 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/967874
+2024-12-01 19:56:34,374 - INFO - Successfully scraped job: Associate Director Electrical Engineering
+2024-12-01 19:56:34,380 - INFO - Saved job: Associate Director Electrical Engineering - AtkinsRéalis
+2024-12-01 19:56:36,000 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/967929
+2024-12-01 19:56:38,238 - INFO - Successfully scraped job: Associate Director ICA Engineering
+2024-12-01 19:56:38,243 - INFO - Saved job: Associate Director ICA Engineering - AtkinsRéalis
+2024-12-01 19:56:39,622 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/878416
+2024-12-01 19:56:41,953 - INFO - Successfully scraped job: Senior Lighting Engineer
+2024-12-01 19:56:41,959 - INFO - Saved job: Senior Lighting Engineer - AtkinsRéalis
+2024-12-01 19:56:43,758 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/967859
+2024-12-01 19:56:46,022 - INFO - Successfully scraped job: Senior Mechanical Engineer
+2024-12-01 19:56:46,027 - INFO - Saved job: Senior Mechanical Engineer - AtkinsRéalis
+2024-12-01 19:56:47,810 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/967941
+2024-12-01 19:56:50,512 - INFO - Successfully scraped job: Senior Civil Structural Engineer (Part-time)
+2024-12-01 19:56:50,518 - INFO - Saved job: Senior Civil Structural Engineer (Part-time) - AtkinsRéalis
+2024-12-01 19:56:51,599 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/990410
+2024-12-01 19:57:04,230 - WARNING - Timeout waiting for company element
+2024-12-01 19:57:04,398 - INFO - Successfully scraped job: Construction Engineer (New Grad)
+2024-12-01 19:57:04,405 - INFO - Saved job: Construction Engineer (New Grad) - None
+2024-12-01 19:57:05,823 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/990357
