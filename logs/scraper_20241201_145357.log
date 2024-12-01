@@ -15137,3 +15137,23 @@
 2024-12-01 20:51:28,688 - INFO - Successfully scraped job: Project Engineer (technical Building & Hvac) (epc...
 2024-12-01 20:51:28,696 - INFO - Saved job: Project Engineer (technical Building & Hvac) (epc... - None
 2024-12-01 20:51:30,435 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/820496
+2024-12-01 20:51:45,091 - WARNING - Timeout waiting for company element
+2024-12-01 20:51:45,218 - INFO - Successfully scraped job: Senior Structural Engineer (epc Oil/gas Offshore)
+2024-12-01 20:51:45,225 - INFO - Saved job: Senior Structural Engineer (epc Oil/gas Offshore) - None
+2024-12-01 20:51:46,714 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/820350
+2024-12-01 20:52:00,094 - WARNING - Timeout waiting for company element
+2024-12-01 20:52:00,182 - INFO - Successfully scraped job: Lead Electrical Engineer (epc Oil/gas Commissioning)
+2024-12-01 20:52:00,188 - INFO - Saved job: Lead Electrical Engineer (epc Oil/gas Commissioning) - None
+2024-12-01 20:52:01,812 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/836414
+2024-12-01 20:52:15,611 - WARNING - Timeout waiting for company element
+2024-12-01 20:52:15,748 - INFO - Successfully scraped job: Senior Project Control Engineer (process)
+2024-12-01 20:52:15,754 - INFO - Saved job: Senior Project Control Engineer (process) - None
+2024-12-01 20:52:17,087 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/820388
+2024-12-01 20:52:30,988 - WARNING - Timeout waiting for company element
+2024-12-01 20:52:31,069 - INFO - Successfully scraped job: Senior Instrument Engineer (oil/ Gas Commissioning)
+2024-12-01 20:52:31,076 - INFO - Saved job: Senior Instrument Engineer (oil/ Gas Commissioning) - None
+2024-12-01 20:52:32,738 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/917554
+2024-12-01 20:52:45,806 - WARNING - Timeout waiting for company element
+2024-12-01 20:52:45,956 - INFO - Successfully scraped job: Mechanical Project Engineer
+2024-12-01 20:52:45,963 - INFO - Saved job: Mechanical Project Engineer - None
+2024-12-01 20:52:47,556 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/995698
