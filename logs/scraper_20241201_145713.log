@@ -1673,3 +1673,26 @@
 2024-12-01 15:33:51,714 - WARNING - Timeout waiting for company element
 2024-12-01 15:33:51,993 - INFO - Successfully scraped job: LLS Civil Engineer
 2024-12-01 15:33:51,996 - INFO - Saved job: LLS Civil Engineer - None
+2024-12-01 15:33:53,968 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006226
+2024-12-01 15:34:07,478 - WARNING - Timeout waiting for company element
+2024-12-01 15:34:07,671 - INFO - Successfully scraped job: Head of Topside & Pipeline Execution
+2024-12-01 15:34:07,674 - INFO - Saved job: Head of Topside & Pipeline Execution - None
+2024-12-01 15:34:09,487 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/consulting-jobs/1001719
+2024-12-01 15:34:23,594 - WARNING - Timeout waiting for company element
+2024-12-01 15:34:23,838 - INFO - Successfully scraped job: Senior Endur Developer
+2024-12-01 15:34:23,841 - INFO - Saved job: Senior Endur Developer - None
+2024-12-01 15:34:25,334 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991131
+2024-12-01 15:34:37,715 - WARNING - Timeout waiting for company element
+2024-12-01 15:34:37,804 - DEBUG - No additional metadata found
+2024-12-01 15:34:37,817 - INFO - Successfully scraped job: QA/QC Lead IHUC
+2024-12-01 15:34:37,820 - INFO - Saved job: QA/QC Lead IHUC - None
+2024-12-01 15:34:38,908 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/general-management-jobs/926596
+2024-12-01 15:34:41,686 - INFO - Successfully scraped job: Associate Vice President, Water/Wastewater
+2024-12-01 15:34:41,688 - INFO - Saved job: Associate Vice President, Water/Wastewater - Pape-Dawson Engineers
+2024-12-01 15:34:43,063 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/975199
+2024-12-01 15:34:46,735 - INFO - Successfully scraped job: Driller's Helper
+2024-12-01 15:34:46,738 - INFO - Saved job: Driller's Helper - Universal Engineering Sciences
+2024-12-01 15:34:48,614 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/888800
+2024-12-01 15:34:50,886 - INFO - Successfully scraped job: HVAC Service Sales
+2024-12-01 15:34:50,889 - INFO - Saved job: HVAC Service Sales - HTS Engineering Ltd
+2024-12-01 15:34:52,885 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/887800

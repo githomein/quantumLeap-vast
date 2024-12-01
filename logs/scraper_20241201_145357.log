@@ -2088,3 +2088,22 @@
 2024-12-01 15:33:51,302 - INFO - Successfully scraped job: LLS Civil Engineer
 2024-12-01 15:33:51,305 - INFO - Saved job: LLS Civil Engineer - None
 2024-12-01 15:33:52,355 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/999388
+2024-12-01 15:33:56,037 - INFO - Successfully scraped job: Demand Generation Lead
+2024-12-01 15:33:56,042 - INFO - Saved job: Demand Generation Lead - Orchestry Software Inc
+2024-12-01 15:33:57,625 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/998723
+2024-12-01 15:34:00,076 - INFO - Successfully scraped job: Account Manager - Oil & Gas and Renewable Natural Gas Automation (791)
+2024-12-01 15:34:00,079 - INFO - Saved job: Account Manager - Oil & Gas and Renewable Natural Gas Automation (791) - ECI Software Solutions
+2024-12-01 15:34:01,891 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006226
+2024-12-01 15:34:14,608 - WARNING - Timeout waiting for company element
+2024-12-01 15:34:14,795 - INFO - Successfully scraped job: Head of Topside & Pipeline Execution
+2024-12-01 15:34:14,798 - INFO - Saved job: Head of Topside & Pipeline Execution - None
+2024-12-01 15:34:16,661 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/consulting-jobs/1001719
+2024-12-01 15:34:30,220 - WARNING - Timeout waiting for company element
+2024-12-01 15:34:30,497 - INFO - Successfully scraped job: Senior Endur Developer
+2024-12-01 15:34:30,501 - INFO - Saved job: Senior Endur Developer - None
+2024-12-01 15:34:31,862 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991131
+2024-12-01 15:34:44,921 - WARNING - Timeout waiting for company element
+2024-12-01 15:34:45,028 - DEBUG - No additional metadata found
+2024-12-01 15:34:45,041 - INFO - Successfully scraped job: QA/QC Lead IHUC
+2024-12-01 15:34:45,044 - INFO - Saved job: QA/QC Lead IHUC - None
+2024-12-01 15:34:46,564 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/987725
