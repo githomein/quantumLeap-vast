@@ -1447,3 +1447,41 @@
 2024-12-01 15:20:39,282 - INFO - Successfully scraped job: Electrical & Software Innovation Lead
 2024-12-01 15:20:39,287 - INFO - Saved job: Electrical & Software Innovation Lead - ABB
 2024-12-01 15:20:40,757 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/988823
+2024-12-01 15:20:44,319 - INFO - Successfully scraped job: Flight Management Systems Software Sub-Section Manager
+2024-12-01 15:20:44,323 - INFO - Saved job: Flight Management Systems Software Sub-Section Manager - GE Renewable Energy Power and Aviation
+2024-12-01 15:20:46,315 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/988550
+2024-12-01 15:20:59,862 - WARNING - Timeout waiting for company element
+2024-12-01 15:20:59,980 - INFO - Successfully scraped job: Software or Java Developer (Retail \u0026 Corporate)
+2024-12-01 15:20:59,983 - INFO - Saved job: Software or Java Developer (Retail \u0026 Corporate) - None
+2024-12-01 15:21:01,842 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/986279
+2024-12-01 15:21:05,202 - INFO - Successfully scraped job: Software Engr II
+2024-12-01 15:21:05,205 - INFO - Saved job: Software Engr II - Honeywell
+2024-12-01 15:21:07,138 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1006877
+2024-12-01 15:21:09,874 - INFO - Successfully scraped job: Advanced Software Engr
+2024-12-01 15:21:09,877 - INFO - Saved job: Advanced Software Engr - Honeywell
+2024-12-01 15:21:11,112 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1006182
+2024-12-01 15:21:13,146 - INFO - Successfully scraped job: Sr Advanced Software Engr
+2024-12-01 15:21:13,149 - INFO - Saved job: Sr Advanced Software Engr - Honeywell
+2024-12-01 15:21:14,784 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1006165
+2024-12-01 15:21:17,014 - INFO - Successfully scraped job: Software Engr II
+2024-12-01 15:21:17,017 - INFO - Saved job: Software Engr II - Honeywell
+2024-12-01 15:21:18,291 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1003425
+2024-12-01 15:21:21,099 - INFO - Successfully scraped job: Dezvoltator Software (Telemuncă, RO)
+2024-12-01 15:21:21,102 - INFO - Saved job: Dezvoltator Software (Telemuncă, RO) - E.ON
+2024-12-01 15:21:22,564 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/996689
+2024-12-01 15:21:26,122 - INFO - Successfully scraped job: Embedded Software Technical Manager
+2024-12-01 15:21:26,125 - INFO - Saved job: Embedded Software Technical Manager - GE Renewable Energy Power and Aviation
+2024-12-01 15:21:27,666 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/970185
+2024-12-01 15:21:30,085 - INFO - Successfully scraped job: Software Enginner
+2024-12-01 15:21:30,088 - INFO - Saved job: Software Enginner - Emerson
+2024-12-01 15:21:32,052 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/969285
+2024-12-01 15:21:34,124 - INFO - Successfully scraped job: Software Developer
+2024-12-01 15:21:34,127 - INFO - Saved job: Software Developer - Emerson
+2024-12-01 15:21:35,823 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/990597
+2024-12-01 15:21:38,558 - DEBUG - No additional metadata found
+2024-12-01 15:21:38,571 - INFO - Successfully scraped job: Senior Software Project Manager
+2024-12-01 15:21:38,574 - INFO - Saved job: Senior Software Project Manager - Schneider Electric
+2024-12-01 15:21:39,691 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/990299
+2024-12-01 15:21:42,624 - DEBUG - No additional metadata found
+2024-12-01 15:21:42,637 - INFO - Successfully scraped job: Sales Leader for Enterprise Software
+2024-12-01 15:21:42,640 - INFO - Saved job: Sales Leader for Enterprise Software - Schneider Electric
