@@ -14577,3 +14577,32 @@
 2024-12-01 20:36:55,596 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/998275
 2024-12-01 20:36:59,069 - INFO - Successfully scraped job: Sr. Automation Business Engineer in DAUT
 2024-12-01 20:36:59,076 - INFO - Saved job: Sr. Automation Business Engineer in DAUT - Emerson
+2024-12-01 20:37:00,209 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/998236
+2024-12-01 20:37:03,234 - INFO - Successfully scraped job: Universal Enclosures Sales Engineer - North
+2024-12-01 20:37:03,239 - INFO - Saved job: Universal Enclosures Sales Engineer - North - Schneider Electric
+2024-12-01 20:37:05,223 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/997956
+2024-12-01 20:37:18,976 - WARNING - Timeout waiting for company element
+2024-12-01 20:37:19,101 - INFO - Successfully scraped job: Mechanical Field Engineer
+2024-12-01 20:37:19,106 - INFO - Saved job: Mechanical Field Engineer - None
+2024-12-01 20:37:20,864 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/997926
+2024-12-01 20:37:33,433 - WARNING - Timeout waiting for company element
+2024-12-01 20:37:33,667 - INFO - Successfully scraped job: Mechanical Engineer
+2024-12-01 20:37:33,674 - INFO - Saved job: Mechanical Engineer - None
+2024-12-01 20:37:35,436 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/997905
+2024-12-01 20:37:39,192 - INFO - Successfully scraped job: Project Engineer
+2024-12-01 20:37:39,197 - INFO - Saved job: Project Engineer - Exxon Mobil
+2024-12-01 20:37:40,228 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/923527
+2024-12-01 20:37:43,683 - INFO - Successfully scraped job: Water/Wastewater Engineering Specialist
+2024-12-01 20:37:43,688 - INFO - Saved job: Water/Wastewater Engineering Specialist - STV Incorporated
+2024-12-01 20:37:44,963 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/923468
+2024-12-01 20:37:48,492 - INFO - Successfully scraped job: Natural Gas Utility Engineer - Transportation Market
+2024-12-01 20:37:48,498 - INFO - Saved job: Natural Gas Utility Engineer - Transportation Market - Gresham Smith
+2024-12-01 20:37:49,587 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/971646
+2024-12-01 20:37:53,079 - INFO - Successfully scraped job: Engineer - Testing
+2024-12-01 20:37:53,085 - INFO - Saved job: Engineer - Testing - GE Renewable Energy Power and Aviation
+2024-12-01 20:37:55,079 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/883436
+2024-12-01 20:37:57,493 - INFO - Successfully scraped job: Petroleum Production Engineer
+2024-12-01 20:37:57,498 - INFO - Saved job: Petroleum Production Engineer - Exxon Mobil
+2024-12-01 20:37:59,249 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/883453
+2024-12-01 20:38:02,551 - INFO - Successfully scraped job: Sr. Pipeline Engineer - TSI
+2024-12-01 20:38:02,556 - INFO - Saved job: Sr. Pipeline Engineer - TSI - bp
