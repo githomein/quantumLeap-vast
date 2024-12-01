@@ -6758,3 +6758,35 @@
 2024-12-01 17:31:39,504 - INFO - Successfully scraped job: R&D Senior RF Sustaining Engineer
 2024-12-01 17:31:39,508 - INFO - Saved job: R&D Senior RF Sustaining Engineer - Emerson
 2024-12-01 17:31:41,253 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/859730
+2024-12-01 17:31:45,026 - INFO - Successfully scraped job: ELECTRONIC TEST ENGINEER
+2024-12-01 17:31:45,029 - INFO - Saved job: ELECTRONIC TEST ENGINEER - Weatherford
+2024-12-01 17:31:46,226 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/907521
+2024-12-01 17:31:49,278 - INFO - Successfully scraped job: Instrumentation and Controls Engineer
+2024-12-01 17:31:49,283 - INFO - Saved job: Instrumentation and Controls Engineer - Exxon Mobil
+2024-12-01 17:31:50,731 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/972467
+2024-12-01 17:31:53,501 - INFO - Successfully scraped job: R&D Engineer
+2024-12-01 17:31:53,505 - INFO - Saved job: R&D Engineer - ABB
+2024-12-01 17:31:54,902 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/907677
+2024-12-01 17:31:58,185 - INFO - Successfully scraped job: Red Hat Ansible Developer Engineer
+2024-12-01 17:31:58,189 - INFO - Saved job: Red Hat Ansible Developer Engineer - ABB
+2024-12-01 17:31:59,395 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/971977
+2024-12-01 17:32:01,485 - INFO - Successfully scraped job: VIE _ Solar R&D Engineer (M/F) _ QATAR (Doha)
+2024-12-01 17:32:01,489 - INFO - Saved job: VIE _ Solar R&D Engineer (M/F) _ QATAR (Doha) - Total Energies
+2024-12-01 17:32:03,374 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/998149
+2024-12-01 17:32:06,185 - INFO - Successfully scraped job: Well Engineer III - Integrated Services and Projects
+2024-12-01 17:32:06,188 - INFO - Saved job: Well Engineer III - Integrated Services and Projects - Weatherford
+2024-12-01 17:32:07,614 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/998158
+2024-12-01 17:32:10,102 - INFO - Successfully scraped job: Field Service Engineer I
+2024-12-01 17:32:10,107 - INFO - Saved job: Field Service Engineer I - Honeywell
+2024-12-01 17:32:11,702 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/997979
+2024-12-01 17:32:24,143 - WARNING - Timeout waiting for company element
+2024-12-01 17:32:24,249 - INFO - Successfully scraped job: Senior Principal Structural Engineer
+2024-12-01 17:32:24,254 - INFO - Saved job: Senior Principal Structural Engineer - None
+2024-12-01 17:32:25,716 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/997941
+2024-12-01 17:32:38,776 - WARNING - Timeout waiting for company element
+2024-12-01 17:32:38,916 - INFO - Successfully scraped job: Coating Engineer
+2024-12-01 17:32:38,921 - INFO - Saved job: Coating Engineer - None
+2024-12-01 17:32:40,605 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/997913
+2024-12-01 17:32:43,580 - INFO - Successfully scraped job: Senior Product Development Engineer
+2024-12-01 17:32:43,585 - INFO - Saved job: Senior Product Development Engineer - Exxon Mobil
+2024-12-01 17:32:44,644 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/997912
