@@ -8779,3 +8779,39 @@
 2024-12-01 18:21:04,252 - INFO - Successfully scraped job: PAS Lead Engineer
 2024-12-01 18:21:04,256 - INFO - Saved job: PAS Lead Engineer - Emerson
 2024-12-01 18:21:06,241 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/951200
+2024-12-01 18:21:19,910 - WARNING - Timeout waiting for company element
+2024-12-01 18:21:20,023 - INFO - Successfully scraped job: Senior Engineer-Mechanical (Static / Rotary), Civil & Structural, and Project Control
+2024-12-01 18:21:20,028 - INFO - Saved job: Senior Engineer-Mechanical (Static / Rotary), Civil & Structural, and Project Control - None
+2024-12-01 18:21:21,407 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/842376
+2024-12-01 18:21:33,643 - WARNING - Timeout waiting for company element
+2024-12-01 18:21:33,776 - INFO - Successfully scraped job: Proposal, Senior Engineer
+2024-12-01 18:21:33,782 - INFO - Saved job: Proposal, Senior Engineer - None
+2024-12-01 18:21:35,670 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/950842
+2024-12-01 18:21:38,585 - INFO - Successfully scraped job: Civil/Structural Engineer
+2024-12-01 18:21:38,590 - INFO - Saved job: Civil/Structural Engineer - Wood PLC
+2024-12-01 18:21:40,527 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/890876
+2024-12-01 18:21:42,694 - DEBUG - No additional metadata found
+2024-12-01 18:21:42,708 - INFO - Successfully scraped job: US Carrolton: R&D Firmware Engineer (Senior - Principal) Testing and Subsea
+2024-12-01 18:21:42,712 - INFO - Saved job: US Carrolton: R&D Firmware Engineer (Senior - Principal) Testing and Subsea - Halliburton
+2024-12-01 18:21:43,810 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/910049
+2024-12-01 18:21:47,129 - INFO - Successfully scraped job: Senior Energy Engineer
+2024-12-01 18:21:47,133 - INFO - Saved job: Senior Energy Engineer - AECOM
+2024-12-01 18:21:48,754 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/950856
+2024-12-01 18:21:51,614 - INFO - Successfully scraped job: Senior Project Engineer
+2024-12-01 18:21:51,620 - INFO - Saved job: Senior Project Engineer - ABB
+2024-12-01 18:21:53,013 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1001612
+2024-12-01 18:21:56,828 - INFO - Successfully scraped job: HVAC Engineer
+2024-12-01 18:21:56,832 - INFO - Saved job: HVAC Engineer - CBRE
+2024-12-01 18:21:58,408 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001286
+2024-12-01 18:22:01,236 - INFO - Successfully scraped job: Gas Engineer
+2024-12-01 18:22:01,241 - INFO - Saved job: Gas Engineer - Sureserve
+2024-12-01 18:22:02,755 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001267
+2024-12-01 18:22:04,579 - INFO - Successfully scraped job: Gas Engineer
+2024-12-01 18:22:04,582 - INFO - Saved job: Gas Engineer - Sureserve
+2024-12-01 18:22:05,738 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001154
+2024-12-01 18:22:09,456 - INFO - Successfully scraped job: Engineer -Sr Export Compliance Officer
+2024-12-01 18:22:09,460 - INFO - Saved job: Engineer -Sr Export Compliance Officer - Honeywell
+2024-12-01 18:22:10,961 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/1001050
+2024-12-01 18:22:13,009 - INFO - Successfully scraped job: Manager - Manufacturing Engineering, Heat Treatment & Furnace Brazing
+2024-12-01 18:22:13,014 - INFO - Saved job: Manager - Manufacturing Engineering, Heat Treatment & Furnace Brazing - GE Renewable Energy Power and Aviation
+2024-12-01 18:22:14,780 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1001024
