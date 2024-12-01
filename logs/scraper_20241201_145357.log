@@ -8185,3 +8185,53 @@
 2024-12-01 18:07:45,125 - INFO - Successfully scraped job: Principal Rolling Stock Engineer - Structures
 2024-12-01 18:07:45,131 - INFO - Saved job: Principal Rolling Stock Engineer - Structures - AtkinsRéalis
 2024-12-01 18:07:46,540 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005100
+2024-12-01 18:07:58,960 - WARNING - Timeout waiting for company element
+2024-12-01 18:07:59,067 - DEBUG - No additional metadata found
+2024-12-01 18:07:59,082 - INFO - Successfully scraped job: Mechanical Engineer - Ammonia and Utilities & Offsite / Urea
+2024-12-01 18:07:59,086 - INFO - Saved job: Mechanical Engineer - Ammonia and Utilities & Offsite / Urea - None
+2024-12-01 18:08:00,617 - INFO - Collected 1800 jobs so far
+2024-12-01 18:08:00,617 - INFO - Scraping page 91 of 384
+2024-12-01 18:08:04,396 - INFO - Getting job links from current page
+2024-12-01 18:08:07,432 - INFO - Found 20 job cards
+2024-12-01 18:08:07,448 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006760
+2024-12-01 18:08:07,464 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1006730
+2024-12-01 18:08:07,476 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1006717
+2024-12-01 18:08:07,487 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006714
+2024-12-01 18:08:07,496 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006662
+2024-12-01 18:08:07,507 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006658
+2024-12-01 18:08:07,518 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/985589
+2024-12-01 18:08:07,528 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/914482
+2024-12-01 18:08:07,538 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/985399
+2024-12-01 18:08:07,549 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/914450
+2024-12-01 18:08:07,562 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006557
+2024-12-01 18:08:07,578 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006490
+2024-12-01 18:08:07,588 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1006403
+2024-12-01 18:08:07,598 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006319
+2024-12-01 18:08:07,606 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/957513
+2024-12-01 18:08:07,615 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006227
+2024-12-01 18:08:07,623 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/879447
+2024-12-01 18:08:07,633 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/legal-jobs/1005935
+2024-12-01 18:08:07,646 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1006208
+2024-12-01 18:08:07,666 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006151
+2024-12-01 18:08:07,666 - INFO - Successfully extracted 20 job links
+2024-12-01 18:08:07,666 - INFO - Found 20 jobs on page 91
+2024-12-01 18:08:07,666 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006760
+2024-12-01 18:08:09,679 - INFO - Successfully scraped job: Associate Principal Engineer
+2024-12-01 18:08:09,685 - INFO - Saved job: Associate Principal Engineer - ABB
+2024-12-01 18:08:10,695 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1006730
+2024-12-01 18:08:12,885 - INFO - Successfully scraped job: Quality Engineer - Mechanical Engineering
+2024-12-01 18:08:12,889 - INFO - Saved job: Quality Engineer - Mechanical Engineering - ABB
+2024-12-01 18:08:14,015 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1006717
+2024-12-01 18:08:26,936 - WARNING - Timeout waiting for company element
+2024-12-01 18:08:27,201 - INFO - Successfully scraped job: Pipelay Analysis Engineer
+2024-12-01 18:08:27,206 - INFO - Saved job: Pipelay Analysis Engineer - None
+2024-12-01 18:08:28,514 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006714
+2024-12-01 18:08:42,077 - WARNING - Timeout waiting for company element
+2024-12-01 18:08:42,213 - INFO - Successfully scraped job: Join Aker Solutions as an Architect Engineer in Stavanger!
+2024-12-01 18:08:42,219 - INFO - Saved job: Join Aker Solutions as an Architect Engineer in Stavanger! - None
+2024-12-01 18:08:43,921 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006662
+2024-12-01 18:08:46,178 - INFO - Successfully scraped job: Project Engineer
+2024-12-01 18:08:46,183 - INFO - Saved job: Project Engineer - Exxon Mobil
+2024-12-01 18:08:47,552 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006658
+2024-12-01 18:08:49,583 - INFO - Successfully scraped job: Project Design Engineer
+2024-12-01 18:08:49,588 - INFO - Saved job: Project Design Engineer - Exxon Mobil
