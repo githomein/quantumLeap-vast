@@ -666,3 +666,39 @@
 2024-12-01 15:11:35,658 - WARNING - Timeout waiting for company element
 2024-12-01 15:11:35,779 - INFO - Successfully scraped job: Contract SAP Plant Maintenance Data Technician.
 2024-12-01 15:11:35,781 - INFO - Saved job: Contract SAP Plant Maintenance Data Technician. - None
+2024-12-01 15:11:37,557 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/988370
+2024-12-01 15:11:51,074 - WARNING - Timeout waiting for company element
+2024-12-01 15:11:51,195 - INFO - Successfully scraped job: Junior Workload Data Analyst H/F
+2024-12-01 15:11:51,198 - INFO - Saved job: Junior Workload Data Analyst H/F - None
+2024-12-01 15:11:52,897 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/988152
+2024-12-01 15:11:56,578 - INFO - Successfully scraped job: Team Lead - Customer master data
+2024-12-01 15:11:56,580 - INFO - Saved job: Team Lead - Customer master data - ABB
+2024-12-01 15:11:57,839 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/987033
+2024-12-01 15:12:01,264 - INFO - Successfully scraped job: Data Management Specialist (Associate - Senior)
+2024-12-01 15:12:01,266 - INFO - Saved job: Data Management Specialist (Associate - Senior) - Halliburton
+2024-12-01 15:12:02,959 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/986612
+2024-12-01 15:12:04,867 - INFO - Successfully scraped job: Data Analyst Intern
+2024-12-01 15:12:04,869 - INFO - Saved job: Data Analyst Intern - ABB
+2024-12-01 15:12:06,510 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/915626
+2024-12-01 15:12:08,665 - INFO - Successfully scraped job: Senior Data Analyst
+2024-12-01 15:12:08,668 - INFO - Saved job: Senior Data Analyst - bp
+2024-12-01 15:12:10,020 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/958740
+2024-12-01 15:12:12,531 - INFO - Successfully scraped job: Internship/Master's Thesis (m/f/d) in Big Data Analytics for the Process Industry
+2024-12-01 15:12:12,535 - INFO - Saved job: Internship/Master's Thesis (m/f/d) in Big Data Analytics for the Process Industry - ABB
+2024-12-01 15:12:14,055 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/986423
+2024-12-01 15:12:17,689 - INFO - Successfully scraped job: VIE _ DATA SCIENTIST (M/F) _ DENMARK
+2024-12-01 15:12:17,692 - INFO - Saved job: VIE _ DATA SCIENTIST (M/F) _ DENMARK - Total Energies
+2024-12-01 15:12:19,328 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1005643
+2024-12-01 15:12:22,080 - INFO - Successfully scraped job: Data Scientist F/H
+2024-12-01 15:12:22,083 - INFO - Saved job: Data Scientist F/H - Total Energies
+2024-12-01 15:12:23,167 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/982809
+2024-12-01 15:12:25,137 - DEBUG - No additional metadata found
+2024-12-01 15:12:25,150 - INFO - Successfully scraped job: Sr. Marketing Data Scientist, AWS Marketplace Demand Generation & Lifecycle Engagement
+2024-12-01 15:12:25,153 - INFO - Saved job: Sr. Marketing Data Scientist, AWS Marketplace Demand Generation & Lifecycle Engagement - Amazon
+2024-12-01 15:12:26,239 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1003371
+2024-12-01 15:12:29,990 - INFO - Successfully scraped job: Master Data-EL Sales Support
+2024-12-01 15:12:29,997 - INFO - Saved job: Master Data-EL Sales Support - ABB
+2024-12-01 15:12:31,784 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1003395
+2024-12-01 15:12:35,319 - INFO - Successfully scraped job: Personalreferent Data Analytics & Reporting (m/w/d)
+2024-12-01 15:12:35,321 - INFO - Saved job: Personalreferent Data Analytics & Reporting (m/w/d) - Engie
+2024-12-01 15:12:37,042 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/976825
