@@ -7878,3 +7878,23 @@
 2024-12-01 17:59:29,965 - INFO - Successfully scraped job: Engineering Students Seeking Internship / Co-op Opportunities
 2024-12-01 17:59:29,969 - INFO - Saved job: Engineering Students Seeking Internship / Co-op Opportunities - Exxon Mobil
 2024-12-01 17:59:31,385 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/987793
+2024-12-01 17:59:34,442 - DEBUG - No additional metadata found
+2024-12-01 17:59:34,457 - INFO - Successfully scraped job: Project Engineer
+2024-12-01 17:59:34,460 - INFO - Saved job: Project Engineer - Schneider Electric
+2024-12-01 17:59:35,704 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/oilfield-jobs/987759
+2024-12-01 17:59:49,537 - WARNING - Timeout waiting for company element
+2024-12-01 17:59:49,773 - DEBUG - No additional metadata found
+2024-12-01 17:59:49,788 - INFO - Successfully scraped job: Senior Planning Engineer
+2024-12-01 17:59:49,792 - INFO - Saved job: Senior Planning Engineer - None
+2024-12-01 17:59:51,764 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/oilfield-jobs/987758
+2024-12-01 18:00:05,623 - WARNING - Timeout waiting for company element
+2024-12-01 18:00:05,870 - DEBUG - No additional metadata found
+2024-12-01 18:00:05,883 - INFO - Successfully scraped job: Control Systems Engineer
+2024-12-01 18:00:05,888 - INFO - Saved job: Control Systems Engineer - None
+2024-12-01 18:00:07,748 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/oilfield-jobs/987750
+2024-12-01 18:00:21,051 - WARNING - Timeout waiting for company element
+2024-12-01 18:00:21,364 - DEBUG - No additional metadata found
+2024-12-01 18:00:21,382 - INFO - Successfully scraped job: Senior Mechanical Engineer
+2024-12-01 18:00:21,387 - INFO - Saved job: Senior Mechanical Engineer - None
+2024-12-01 18:00:22,510 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/987723
+2024-12-01 18:00:35,156 - WARNING - Timeout waiting for company element

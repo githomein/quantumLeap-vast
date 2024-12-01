@@ -7634,3 +7634,24 @@
 2024-12-01 17:59:29,503 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/987254
 2024-12-01 17:59:32,856 - INFO - Successfully scraped job: Senior Electrical Design Engineer
 2024-12-01 17:59:32,860 - INFO - Saved job: Senior Electrical Design Engineer - GE Renewable Energy Power and Aviation
+2024-12-01 17:59:33,936 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/987164
+2024-12-01 17:59:36,640 - INFO - Successfully scraped job: Software Engineering Manager
+2024-12-01 17:59:36,644 - INFO - Saved job: Software Engineering Manager - Honeywell
+2024-12-01 17:59:38,072 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/987048
+2024-12-01 17:59:50,947 - WARNING - Timeout waiting for company element
+2024-12-01 17:59:51,027 - DEBUG - No additional metadata found
+2024-12-01 17:59:51,041 - INFO - Successfully scraped job: Consultant - Tech Safety Engineer
+2024-12-01 17:59:51,045 - INFO - Saved job: Consultant - Tech Safety Engineer - None
+2024-12-01 17:59:52,768 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/960752
+2024-12-01 18:00:04,868 - WARNING - Timeout waiting for company element
+2024-12-01 18:00:04,997 - INFO - Successfully scraped job: Principal Engineer - Control System
+2024-12-01 18:00:05,001 - INFO - Saved job: Principal Engineer - Control System - None
+2024-12-01 18:00:06,106 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/960771
+2024-12-01 18:00:19,409 - WARNING - Timeout waiting for company element
+2024-12-01 18:00:19,569 - INFO - Successfully scraped job: Senior Principal Engineer - Control System
+2024-12-01 18:00:19,574 - INFO - Saved job: Senior Principal Engineer - Control System - None
+2024-12-01 18:00:20,635 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/960725
+2024-12-01 18:00:33,812 - WARNING - Timeout waiting for company element
+2024-12-01 18:00:33,964 - INFO - Successfully scraped job: Senior Engineer Instrumentation
+2024-12-01 18:00:33,968 - INFO - Saved job: Senior Engineer Instrumentation - None
+2024-12-01 18:00:34,998 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/960777
