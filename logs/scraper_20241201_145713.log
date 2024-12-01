@@ -3343,3 +3343,70 @@
 2024-12-01 16:15:50,037 - INFO - Successfully scraped job: Senior Staff Engineer, Product Reliability - Clean Energy
 2024-12-01 16:15:50,041 - INFO - Saved job: Senior Staff Engineer, Product Reliability - Clean Energy - Generac Power Systems, Inc.
 2024-12-01 16:15:52,018 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/975982
+2024-12-01 16:15:54,958 - DEBUG - No additional metadata found
+2024-12-01 16:15:54,973 - INFO - Successfully scraped job: Assistant/associate/full Professor-nuclear Engineering & Engineering Physics
+2024-12-01 16:15:54,977 - INFO - Saved job: Assistant/associate/full Professor-nuclear Engineering & Engineering Physics - University of Wisconsin-Madison
+2024-12-01 16:15:56,185 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/934534
+2024-12-01 16:16:00,095 - INFO - Successfully scraped job: Senior Engineer, Failure Analysis and Component Engineering - Clean Energy
+2024-12-01 16:16:00,098 - INFO - Saved job: Senior Engineer, Failure Analysis and Component Engineering - Clean Energy - Generac Power Systems, Inc.
+2024-12-01 16:16:01,954 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/927955
+2024-12-01 16:16:05,306 - INFO - Successfully scraped job: Project Engineer II - Substation/Relaying/Generation
+2024-12-01 16:16:05,309 - INFO - Saved job: Project Engineer II - Substation/Relaying/Generation - Booth and Associates
+2024-12-01 16:16:06,682 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/927401
+2024-12-01 16:16:08,538 - INFO - Successfully scraped job: Senior Power Systems Engineer
+2024-12-01 16:16:08,541 - INFO - Saved job: Senior Power Systems Engineer - e2Companies
+2024-12-01 16:16:10,211 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/927467
+2024-12-01 16:16:13,601 - INFO - Successfully scraped job: Geological Engineer
+2024-12-01 16:16:13,604 - INFO - Saved job: Geological Engineer - WSP
+2024-12-01 16:16:15,282 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/927237
+2024-12-01 16:16:18,977 - INFO - Successfully scraped job: Modeling and Simulation, Core Design & Methods, and Nuclear Engineering Internship - Summer 2025
+2024-12-01 16:16:18,981 - INFO - Saved job: Modeling and Simulation, Core Design & Methods, and Nuclear Engineering Internship - Summer 2025 - Kairos Power
+2024-12-01 16:16:20,664 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/927283
+2024-12-01 16:16:23,851 - INFO - Successfully scraped job: Senior Electrical Power Systems Engineer
+2024-12-01 16:16:23,855 - INFO - Saved job: Senior Electrical Power Systems Engineer - Integer Technologies
+2024-12-01 16:16:25,287 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/926969
+2024-12-01 16:16:27,724 - DEBUG - No additional metadata found
+2024-12-01 16:16:27,738 - INFO - Successfully scraped job: Thermal Engineer
+2024-12-01 16:16:27,741 - INFO - Saved job: Thermal Engineer - Apple
+2024-12-01 16:16:28,892 - INFO - Collected 740 jobs so far
+2024-12-01 16:16:28,892 - INFO - Scraping page 38 of 389
+2024-12-01 16:16:31,631 - INFO - Getting job links from current page
+2024-12-01 16:16:34,663 - INFO - Found 20 job cards
+2024-12-01 16:16:34,674 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/976106
+2024-12-01 16:16:34,682 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/934108
+2024-12-01 16:16:34,690 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/933835
+2024-12-01 16:16:34,698 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/production-jobs/933865
+2024-12-01 16:16:34,706 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/933960
+2024-12-01 16:16:34,714 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/933856
+2024-12-01 16:16:34,721 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/933925
+2024-12-01 16:16:34,729 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/933893
+2024-12-01 16:16:34,738 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/933528
+2024-12-01 16:16:34,746 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/933096
+2024-12-01 16:16:34,754 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/932952
+2024-12-01 16:16:34,761 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/932957
+2024-12-01 16:16:34,769 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/production-jobs/931955
+2024-12-01 16:16:34,776 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/932017
+2024-12-01 16:16:34,784 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/931735
+2024-12-01 16:16:34,792 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/production-jobs/931778
+2024-12-01 16:16:34,800 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/931714
+2024-12-01 16:16:34,808 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000586
+2024-12-01 16:16:34,815 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000540
+2024-12-01 16:16:34,823 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1000452
+2024-12-01 16:16:34,823 - INFO - Successfully extracted 20 job links
+2024-12-01 16:16:34,823 - INFO - Found 20 jobs on page 38
+2024-12-01 16:16:34,823 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/976106
+2024-12-01 16:16:37,743 - DEBUG - No additional metadata found
+2024-12-01 16:16:37,756 - INFO - Successfully scraped job: Open Rank Professor 9 Month Salaried (Power, Energy, and Power Systems in the Department of Electrical and Computer Engineering -Florida A&M University - Florida State University College of Engine)
+2024-12-01 16:16:37,759 - INFO - Saved job: Open Rank Professor 9 Month Salaried (Power, Energy, and Power Systems in the Department of Electrical and Computer Engineering -Florida A&M University - Florida State University College of Engine) - Florida State University
+2024-12-01 16:16:39,329 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/934108
+2024-12-01 16:16:41,599 - INFO - Successfully scraped job: Gas Utility Engineer
+2024-12-01 16:16:41,602 - INFO - Saved job: Gas Utility Engineer - PS&S
+2024-12-01 16:16:43,448 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/933835
+2024-12-01 16:16:47,136 - INFO - Successfully scraped job: Structural Design Intern - Kiewit Power Engineering (Summer 2025)
+2024-12-01 16:16:47,139 - INFO - Saved job: Structural Design Intern - Kiewit Power Engineering (Summer 2025) - Kiewit
+2024-12-01 16:16:48,768 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/933865
+2024-12-01 16:16:50,989 - INFO - Successfully scraped job: Mechanical Designer - Kiewit Power Engineering
+2024-12-01 16:16:50,991 - INFO - Saved job: Mechanical Designer - Kiewit Power Engineering - Kiewit
+2024-12-01 16:16:52,439 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/933960
+2024-12-01 16:16:55,307 - INFO - Successfully scraped job: Sr. Project Controller - Kiewit Power Engineering
+2024-12-01 16:16:55,311 - INFO - Saved job: Sr. Project Controller - Kiewit Power Engineering - Kiewit
