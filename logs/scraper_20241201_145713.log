@@ -2189,3 +2189,31 @@
 2024-12-01 15:45:00,625 - INFO - Successfully scraped job: Field Service Energy Specialist
 2024-12-01 15:45:00,629 - INFO - Saved job: Field Service Energy Specialist - City Building Engineering Services
 2024-12-01 15:45:02,403 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/993146
+2024-12-01 15:45:05,840 - INFO - Successfully scraped job: HVAC Service Technician
+2024-12-01 15:45:05,844 - INFO - Saved job: HVAC Service Technician - HTS Engineering Ltd
+2024-12-01 15:45:07,516 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/987735
+2024-12-01 15:45:20,572 - WARNING - Timeout waiting for company element
+2024-12-01 15:45:20,832 - INFO - Successfully scraped job: Rotating Mechanical Maintenance Senior Technician
+2024-12-01 15:45:20,835 - INFO - Saved job: Rotating Mechanical Maintenance Senior Technician - None
+2024-12-01 15:45:22,255 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006929
+2024-12-01 15:45:34,775 - WARNING - Timeout waiting for company element
+2024-12-01 15:45:34,956 - INFO - Successfully scraped job: Senior Planner
+2024-12-01 15:45:34,959 - INFO - Saved job: Senior Planner - None
+2024-12-01 15:45:36,814 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001639
+2024-12-01 15:45:49,742 - WARNING - Timeout waiting for company element
+2024-12-01 15:45:49,857 - DEBUG - No additional metadata found
+2024-12-01 15:45:49,870 - INFO - Successfully scraped job: Head of Cost Control
+2024-12-01 15:45:49,873 - INFO - Saved job: Head of Cost Control - None
+2024-12-01 15:45:51,634 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/999433
+2024-12-01 15:45:55,087 - DEBUG - No additional metadata found
+2024-12-01 15:45:55,102 - INFO - Successfully scraped job: Principal Nuclear Product Mgr. - Tech, Datacenter Engineering, Power Generation Solutions
+2024-12-01 15:45:55,104 - INFO - Saved job: Principal Nuclear Product Mgr. - Tech, Datacenter Engineering, Power Generation Solutions - Amazon
+2024-12-01 15:45:56,293 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/934550
+2024-12-01 15:45:59,914 - DEBUG - No additional metadata found
+2024-12-01 15:45:59,927 - INFO - Successfully scraped job: Principal Nuclear Engineer, Datacenter Engineering, Power Generation Solutions
+2024-12-01 15:45:59,929 - INFO - Saved job: Principal Nuclear Engineer, Datacenter Engineering, Power Generation Solutions - Amazon
+2024-12-01 15:46:00,931 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/989827
+2024-12-01 15:46:03,155 - DEBUG - No additional metadata found
+2024-12-01 15:46:03,167 - INFO - Successfully scraped job: Electrical Engineer Critical Infrastructure & Datacenter project (on site)
+2024-12-01 15:46:03,170 - INFO - Saved job: Electrical Engineer Critical Infrastructure & Datacenter project (on site) - Engie
+2024-12-01 15:46:04,541 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/989828
