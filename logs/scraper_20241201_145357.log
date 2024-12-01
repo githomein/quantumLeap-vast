@@ -3791,3 +3791,51 @@
 2024-12-01 16:17:54,137 - INFO - Saved job: Senior Engineer, Global Facilities - Gas FAC - Micron Technology
 2024-12-01 16:17:55,292 - INFO - Collected 840 jobs so far
 2024-12-01 16:17:55,292 - INFO - Scraping page 43 of 384
+2024-12-01 16:17:58,474 - INFO - Getting job links from current page
+2024-12-01 16:18:01,507 - INFO - Found 20 job cards
+2024-12-01 16:18:01,518 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/864990
+2024-12-01 16:18:01,528 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/899610
+2024-12-01 16:18:01,537 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000459
+2024-12-01 16:18:01,546 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000312
+2024-12-01 16:18:01,555 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000478
+2024-12-01 16:18:01,565 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000176
+2024-12-01 16:18:01,575 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000175
+2024-12-01 16:18:01,585 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1000166
+2024-12-01 16:18:01,594 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1000134
+2024-12-01 16:18:01,603 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000142
+2024-12-01 16:18:01,614 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/925181
+2024-12-01 16:18:01,623 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/909362
+2024-12-01 16:18:01,633 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/818952
+2024-12-01 16:18:01,642 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/818759
+2024-12-01 16:18:01,651 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/818885
+2024-12-01 16:18:01,660 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/818600
+2024-12-01 16:18:01,670 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/818390
+2024-12-01 16:18:01,681 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/975340
+2024-12-01 16:18:01,691 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/925535
+2024-12-01 16:18:01,700 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/925569
+2024-12-01 16:18:01,700 - INFO - Successfully extracted 20 job links
+2024-12-01 16:18:01,700 - INFO - Found 20 jobs on page 43
+2024-12-01 16:18:01,700 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/864990
+2024-12-01 16:18:05,459 - INFO - Successfully scraped job: Electrical Design Engineer (Distribution Solutions)
+2024-12-01 16:18:05,463 - INFO - Saved job: Electrical Design Engineer (Distribution Solutions) - ABB
+2024-12-01 16:18:07,271 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/899610
+2024-12-01 16:18:09,721 - INFO - Successfully scraped job: Quality Engineer
+2024-12-01 16:18:09,724 - INFO - Saved job: Quality Engineer - ABB
+2024-12-01 16:18:10,840 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000459
+2024-12-01 16:18:14,643 - INFO - Successfully scraped job: Project Engineer
+2024-12-01 16:18:14,647 - INFO - Saved job: Project Engineer - Engie
+2024-12-01 16:18:16,450 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000312
+2024-12-01 16:18:18,388 - INFO - Successfully scraped job: Engineer I Technical Support Proposals
+2024-12-01 16:18:18,391 - INFO - Saved job: Engineer I Technical Support Proposals - Emerson
+2024-12-01 16:18:19,973 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000478
+2024-12-01 16:18:21,926 - INFO - Successfully scraped job: Automation Engineer 2 EMCS India
+2024-12-01 16:18:21,929 - INFO - Saved job: Automation Engineer 2 EMCS India - Schneider Electric
+2024-12-01 16:18:23,579 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000176
+2024-12-01 16:18:37,111 - WARNING - Timeout waiting for company element
+2024-12-01 16:18:37,298 - INFO - Successfully scraped job: Sr. Commissioning System Responsible Engineer SAS
+2024-12-01 16:18:37,302 - INFO - Saved job: Sr. Commissioning System Responsible Engineer SAS - None
+2024-12-01 16:18:38,451 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000175
+2024-12-01 16:18:50,704 - WARNING - Timeout waiting for company element
+2024-12-01 16:18:50,830 - INFO - Successfully scraped job: Senior Engineer - Onshore Wind
+2024-12-01 16:18:50,833 - INFO - Saved job: Senior Engineer - Onshore Wind - None
+2024-12-01 16:18:51,887 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1000166

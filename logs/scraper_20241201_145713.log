@@ -3448,3 +3448,57 @@
 2024-12-01 16:17:48,653 - INFO - Successfully scraped job: Design Engineer - Gas - Expression of Interest
 2024-12-01 16:17:48,656 - INFO - Saved job: Design Engineer - Gas - Expression of Interest - Cordoba Corporation
 2024-12-01 16:17:49,805 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000586
+2024-12-01 16:18:03,347 - WARNING - Timeout waiting for company element
+2024-12-01 16:18:03,483 - INFO - Successfully scraped job: Senior Project Engineer - Construction
+2024-12-01 16:18:03,487 - INFO - Saved job: Senior Project Engineer - Construction - None
+2024-12-01 16:18:04,658 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000540
+2024-12-01 16:18:06,643 - INFO - Successfully scraped job: IP Strategist, Intellectual Property Engineer
+2024-12-01 16:18:06,646 - INFO - Saved job: IP Strategist, Intellectual Property Engineer - GE Renewable Energy Power and Aviation
+2024-12-01 16:18:08,281 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1000452
+2024-12-01 16:18:11,002 - INFO - Successfully scraped job: Senior Advanced Systems Engineer
+2024-12-01 16:18:11,006 - INFO - Saved job: Senior Advanced Systems Engineer - Honeywell
+2024-12-01 16:18:12,688 - INFO - Collected 760 jobs so far
+2024-12-01 16:18:12,688 - INFO - Scraping page 39 of 389
+2024-12-01 16:18:16,773 - INFO - Getting job links from current page
+2024-12-01 16:18:19,806 - INFO - Found 20 job cards
+2024-12-01 16:18:19,818 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000598
+2024-12-01 16:18:19,827 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/864990
+2024-12-01 16:18:19,835 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/899610
+2024-12-01 16:18:19,844 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000459
+2024-12-01 16:18:19,853 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000312
+2024-12-01 16:18:19,862 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000478
+2024-12-01 16:18:19,870 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000176
+2024-12-01 16:18:19,878 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000175
+2024-12-01 16:18:19,887 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1000166
+2024-12-01 16:18:19,896 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1000134
+2024-12-01 16:18:19,905 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000142
+2024-12-01 16:18:19,913 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/925181
+2024-12-01 16:18:19,922 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/909362
+2024-12-01 16:18:19,930 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/818952
+2024-12-01 16:18:19,940 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/818759
+2024-12-01 16:18:19,949 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/818885
+2024-12-01 16:18:19,958 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/818600
+2024-12-01 16:18:19,967 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/818390
+2024-12-01 16:18:19,978 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/925535
+2024-12-01 16:18:19,988 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/925569
+2024-12-01 16:18:19,989 - INFO - Successfully extracted 20 job links
+2024-12-01 16:18:19,989 - INFO - Found 20 jobs on page 39
+2024-12-01 16:18:19,989 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000598
+2024-12-01 16:18:23,792 - INFO - Successfully scraped job: Junior Design Engineer
+2024-12-01 16:18:23,796 - INFO - Saved job: Junior Design Engineer - NOV
+2024-12-01 16:18:25,285 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/864990
+2024-12-01 16:18:28,864 - INFO - Successfully scraped job: Electrical Design Engineer (Distribution Solutions)
+2024-12-01 16:18:28,868 - INFO - Saved job: Electrical Design Engineer (Distribution Solutions) - ABB
+2024-12-01 16:18:30,670 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/899610
+2024-12-01 16:18:33,812 - INFO - Successfully scraped job: Quality Engineer
+2024-12-01 16:18:33,814 - INFO - Saved job: Quality Engineer - ABB
+2024-12-01 16:18:35,399 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000459
+2024-12-01 16:18:37,693 - INFO - Successfully scraped job: Project Engineer
+2024-12-01 16:18:37,696 - INFO - Saved job: Project Engineer - Engie
+2024-12-01 16:18:39,575 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000312
+2024-12-01 16:18:41,890 - INFO - Successfully scraped job: Engineer I Technical Support Proposals
+2024-12-01 16:18:41,893 - INFO - Saved job: Engineer I Technical Support Proposals - Emerson
+2024-12-01 16:18:43,224 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000478
+2024-12-01 16:18:45,907 - INFO - Successfully scraped job: Automation Engineer 2 EMCS India
+2024-12-01 16:18:45,911 - INFO - Saved job: Automation Engineer 2 EMCS India - Schneider Electric
+2024-12-01 16:18:47,827 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000176
