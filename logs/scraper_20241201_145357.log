@@ -767,3 +767,67 @@
 2024-12-01 15:08:33,166 - INFO - Successfully scraped job: ENGINEERING SOFTWARE MGR
 2024-12-01 15:08:33,168 - INFO - Saved job: ENGINEERING SOFTWARE MGR - Weatherford
 2024-12-01 15:08:34,502 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/935654
+2024-12-01 15:08:36,678 - DEBUG - No additional metadata found
+2024-12-01 15:08:36,695 - INFO - Successfully scraped job: Software Power Systems Engineer
+2024-12-01 15:08:36,698 - INFO - Saved job: Software Power Systems Engineer - Apple
+2024-12-01 15:08:38,539 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/998266
+2024-12-01 15:08:41,311 - INFO - Successfully scraped job: Requirements and Verification Engineer: Avionics Software
+2024-12-01 15:08:41,314 - INFO - Saved job: Requirements and Verification Engineer: Avionics Software - GE Renewable Energy Power and Aviation
+2024-12-01 15:08:42,767 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/966226
+2024-12-01 15:08:45,407 - INFO - Successfully scraped job: Senior Realtime Digital Control System Software/Systems Designer/Engineer
+2024-12-01 15:08:45,409 - INFO - Saved job: Senior Realtime Digital Control System Software/Systems Designer/Engineer - AtkinsRéalis
+2024-12-01 15:08:46,889 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/909732
+2024-12-01 15:08:49,424 - INFO - Successfully scraped job: Advanced Lead Engineer - Embedded Software Development
+2024-12-01 15:08:49,426 - INFO - Saved job: Advanced Lead Engineer - Embedded Software Development - GE Renewable Energy Power and Aviation
+2024-12-01 15:08:50,833 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1001151
+2024-12-01 15:08:52,841 - INFO - Successfully scraped job: Advanced Software Test Engineer - Honeywell Smart Energy
+2024-12-01 15:08:52,843 - INFO - Saved job: Advanced Software Test Engineer - Honeywell Smart Energy - Honeywell
+2024-12-01 15:08:54,190 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/963207
+2024-12-01 15:08:56,686 - INFO - Successfully scraped job: Lead Engineer - Embedded Software
+2024-12-01 15:08:56,688 - INFO - Saved job: Lead Engineer - Embedded Software - GE Renewable Energy Power and Aviation
+2024-12-01 15:08:58,582 - INFO - Collected 180 jobs so far
+2024-12-01 15:08:58,582 - INFO - Scraping page 10 of 384
+2024-12-01 15:09:01,889 - INFO - Getting job links from current page
+2024-12-01 15:09:04,922 - INFO - Found 20 job cards
+2024-12-01 15:09:04,934 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/978225
+2024-12-01 15:09:04,944 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/935654
+2024-12-01 15:09:04,953 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/998266
+2024-12-01 15:09:04,962 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/966226
+2024-12-01 15:09:04,971 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/991375
+2024-12-01 15:09:04,980 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/990093
+2024-12-01 15:09:04,989 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1006105
+2024-12-01 15:09:04,997 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1000397
+2024-12-01 15:09:05,006 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/897144
+2024-12-01 15:09:05,016 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/994824
+2024-12-01 15:09:05,026 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/897878
+2024-12-01 15:09:05,035 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/988274
+2024-12-01 15:09:05,045 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/871571
+2024-12-01 15:09:05,054 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1001036
+2024-12-01 15:09:05,062 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/959488
+2024-12-01 15:09:05,071 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/898320
+2024-12-01 15:09:05,081 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1006959
+2024-12-01 15:09:05,090 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/996653
+2024-12-01 15:09:05,099 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/871528
+2024-12-01 15:09:05,108 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/974009
+2024-12-01 15:09:05,108 - INFO - Successfully extracted 20 job links
+2024-12-01 15:09:05,108 - INFO - Found 20 jobs on page 10
+2024-12-01 15:09:05,108 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/978225
+2024-12-01 15:09:07,724 - INFO - Successfully scraped job: ENGINEERING SOFTWARE MGR
+2024-12-01 15:09:07,727 - INFO - Saved job: ENGINEERING SOFTWARE MGR - Weatherford
+2024-12-01 15:09:09,004 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/935654
+2024-12-01 15:09:11,029 - DEBUG - No additional metadata found
+2024-12-01 15:09:11,042 - INFO - Successfully scraped job: Software Power Systems Engineer
+2024-12-01 15:09:11,045 - INFO - Saved job: Software Power Systems Engineer - Apple
+2024-12-01 15:09:12,461 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/998266
+2024-12-01 15:09:15,804 - INFO - Successfully scraped job: Requirements and Verification Engineer: Avionics Software
+2024-12-01 15:09:15,807 - INFO - Saved job: Requirements and Verification Engineer: Avionics Software - GE Renewable Energy Power and Aviation
+2024-12-01 15:09:17,545 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/966226
+2024-12-01 15:09:21,748 - INFO - Successfully scraped job: Senior Realtime Digital Control System Software/Systems Designer/Engineer
+2024-12-01 15:09:21,751 - INFO - Saved job: Senior Realtime Digital Control System Software/Systems Designer/Engineer - AtkinsRéalis
+2024-12-01 15:09:22,918 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/991375
+2024-12-01 15:09:26,812 - INFO - Successfully scraped job: Software Test Engineer
+2024-12-01 15:09:26,815 - INFO - Saved job: Software Test Engineer - Schneider Electric
+2024-12-01 15:09:28,723 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990093
+2024-12-01 15:09:31,329 - INFO - Successfully scraped job: Design Engineer, Software
+2024-12-01 15:09:31,331 - INFO - Saved job: Design Engineer, Software - NOV
+2024-12-01 15:09:33,207 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1006105
