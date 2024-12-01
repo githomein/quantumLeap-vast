@@ -8620,3 +8620,34 @@
 2024-12-01 18:22:13,770 - INFO - Successfully scraped job: Adjunct - Power Systems Engineering Technology
 2024-12-01 18:22:13,776 - INFO - Saved job: Adjunct - Power Systems Engineering Technology - Cincinnati State Technical & Community College
 2024-12-01 18:22:15,728 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/976467
+2024-12-01 18:22:29,423 - WARNING - Timeout waiting for company element
+2024-12-01 18:22:29,505 - DEBUG - No additional metadata found
+2024-12-01 18:22:29,521 - INFO - Successfully scraped job: Project Controls, Senior Engineer
+2024-12-01 18:22:29,528 - INFO - Saved job: Project Controls, Senior Engineer - None
+2024-12-01 18:22:31,323 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/910307
+2024-12-01 18:22:44,703 - WARNING - Timeout waiting for company element
+2024-12-01 18:22:44,910 - INFO - Successfully scraped job: Electrical Engineer - Safety
+2024-12-01 18:22:44,916 - INFO - Saved job: Electrical Engineer - Safety - None
+2024-12-01 18:22:46,421 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/976180
+2024-12-01 18:22:50,127 - INFO - Successfully scraped job: Commissioning Engineer - Energy Storage Solutions
+2024-12-01 18:22:50,131 - INFO - Saved job: Commissioning Engineer - Energy Storage Solutions - Delta Electronics
+2024-12-01 18:22:51,951 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/885529
+2024-12-01 18:22:54,198 - INFO - Successfully scraped job: Senior Electrical Engineer - Hydropower and Dams
+2024-12-01 18:22:54,202 - INFO - Saved job: Senior Electrical Engineer - Hydropower and Dams - Stantec
+2024-12-01 18:22:55,429 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/919519
+2024-12-01 18:22:59,155 - INFO - Successfully scraped job: Generator Engineer
+2024-12-01 18:22:59,159 - INFO - Saved job: Generator Engineer - Sunbelt Rentals Careers
+2024-12-01 18:23:00,371 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/950298
+2024-12-01 18:23:03,948 - DEBUG - No additional metadata found
+2024-12-01 18:23:03,963 - INFO - Successfully scraped job: Renewable and Electrical Energy Graduate Engineer
+2024-12-01 18:23:03,967 - INFO - Saved job: Renewable and Electrical Energy Graduate Engineer - Arcadis
+2024-12-01 18:23:05,061 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/890926
+2024-12-01 18:23:08,183 - INFO - Successfully scraped job: Project Engineer for Canada
+2024-12-01 18:23:08,187 - INFO - Saved job: Project Engineer for Canada - ABB
+2024-12-01 18:23:10,070 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001600
+2024-12-01 18:23:12,878 - INFO - Successfully scraped job: Lead Gas Insulated Substation Engineer
+2024-12-01 18:23:12,882 - INFO - Saved job: Lead Gas Insulated Substation Engineer - Sargent & Lundy
+2024-12-01 18:23:14,159 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1001461
+2024-12-01 18:23:17,091 - INFO - Successfully scraped job: Power Generation Engineering Manager 1
+2024-12-01 18:23:17,094 - INFO - Saved job: Power Generation Engineering Manager 1 - GAI Consultants
+2024-12-01 18:23:18,366 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001328
