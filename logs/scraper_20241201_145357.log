@@ -13245,3 +13245,32 @@
 2024-12-01 20:06:30,794 - INFO - Successfully scraped job: Staff Engineer - Systems Engineering Advanced Technologies
 2024-12-01 20:06:30,799 - INFO - Saved job: Staff Engineer - Systems Engineering Advanced Technologies - GE Renewable Energy Power and Aviation
 2024-12-01 20:06:32,292 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/959538
+2024-12-01 20:06:35,389 - INFO - Successfully scraped job: Mechanical Engineer Energy
+2024-12-01 20:06:35,395 - INFO - Saved job: Mechanical Engineer Energy - AtkinsRéalis
+2024-12-01 20:06:36,738 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006999
+2024-12-01 20:06:40,258 - INFO - Successfully scraped job: Subsea Engineer - Life of Field
+2024-12-01 20:06:40,263 - INFO - Saved job: Subsea Engineer - Life of Field - Wood PLC
+2024-12-01 20:06:41,975 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/985932
+2024-12-01 20:06:55,600 - WARNING - Timeout waiting for company element
+2024-12-01 20:06:55,707 - INFO - Successfully scraped job: Contract Engineer
+2024-12-01 20:06:55,712 - INFO - Saved job: Contract Engineer - None
+2024-12-01 20:06:57,413 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/environmental-jobs/874198
+2024-12-01 20:07:10,392 - WARNING - Timeout waiting for company element
+2024-12-01 20:07:10,597 - INFO - Successfully scraped job: Environmental and Sustainability Engineer
+2024-12-01 20:07:10,603 - INFO - Saved job: Environmental and Sustainability Engineer - None
+2024-12-01 20:07:11,720 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/986115
+2024-12-01 20:07:14,730 - INFO - Successfully scraped job: Corporate Project Engineer
+2024-12-01 20:07:14,734 - INFO - Saved job: Corporate Project Engineer - Engie
+2024-12-01 20:07:15,785 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/958677
+2024-12-01 20:07:18,411 - INFO - Successfully scraped job: Assistant Engineer - Tool & Fixtures
+2024-12-01 20:07:18,417 - INFO - Saved job: Assistant Engineer - Tool & Fixtures - GE Renewable Energy Power and Aviation
+2024-12-01 20:07:19,454 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/915208
+2024-12-01 20:07:21,679 - INFO - Successfully scraped job: Aerospace Development Program - Engineering - Summer 2025 Intern (URDP) (US Person Required)
+2024-12-01 20:07:21,684 - INFO - Saved job: Aerospace Development Program - Engineering - Summer 2025 Intern (URDP) (US Person Required) - Honeywell
+2024-12-01 20:07:23,051 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/915195
+2024-12-01 20:07:26,807 - INFO - Successfully scraped job: Information Systems, IT, Cyber Engineer & Data Science - Recent Grad/Full Time (US Person Required)
+2024-12-01 20:07:26,814 - INFO - Saved job: Information Systems, IT, Cyber Engineer & Data Science - Recent Grad/Full Time (US Person Required) - Honeywell
+2024-12-01 20:07:28,666 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/915212
+2024-12-01 20:07:32,582 - INFO - Successfully scraped job: Manufacturing & Industrial Engineering - Recent Grad/Full Time (US Person Required)
+2024-12-01 20:07:32,588 - INFO - Saved job: Manufacturing & Industrial Engineering - Recent Grad/Full Time (US Person Required) - Honeywell
+2024-12-01 20:07:33,784 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/874504
