@@ -14326,3 +14326,35 @@
 2024-12-01 20:31:40,473 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/975459
 2024-12-01 20:31:43,664 - INFO - Successfully scraped job: Facilities - Mechanical Engineer - Aerospace Research
 2024-12-01 20:31:43,670 - INFO - Saved job: Facilities - Mechanical Engineer - Aerospace Research - GE Renewable Energy Power and Aviation
+2024-12-01 20:31:45,438 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/975413
+2024-12-01 20:31:48,985 - INFO - Successfully scraped job: Engineering/Manufacturing Electronics Assembly Technician
+2024-12-01 20:31:48,993 - INFO - Saved job: Engineering/Manufacturing Electronics Assembly Technician - GE Renewable Energy Power and Aviation
+2024-12-01 20:31:50,263 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/975400
+2024-12-01 20:32:04,399 - WARNING - Timeout waiting for company element
+2024-12-01 20:32:04,536 - INFO - Successfully scraped job: Installation Analysis Engineer (Pipeline)
+2024-12-01 20:32:04,543 - INFO - Saved job: Installation Analysis Engineer (Pipeline) - None
+2024-12-01 20:32:06,473 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/936031
+2024-12-01 20:32:09,943 - INFO - Successfully scraped job: Water/Wastewater Project Engineer EI
+2024-12-01 20:32:09,948 - INFO - Saved job: Water/Wastewater Project Engineer EI - Keller Associates, Inc.
+2024-12-01 20:32:11,560 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/935762
+2024-12-01 20:32:15,371 - INFO - Successfully scraped job: Lead Power Systems Engineer - US Hybrid
+2024-12-01 20:32:15,376 - INFO - Saved job: Lead Power Systems Engineer - US Hybrid - Black and Veatch
+2024-12-01 20:32:16,823 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/935411
+2024-12-01 20:32:20,467 - INFO - Successfully scraped job: Intern/Co-op - Gathering and Processing Mechanical/Civil/Electrical/Petroleum/Chemical Engineer (Spring 2025)
+2024-12-01 20:32:20,472 - INFO - Saved job: Intern/Co-op - Gathering and Processing Mechanical/Civil/Electrical/Petroleum/Chemical Engineer (Spring 2025) - Marathon Petroleum Corporation (MPC)
+2024-12-01 20:32:21,673 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/935452
+2024-12-01 20:32:24,831 - INFO - Successfully scraped job: Balance of Plant Mechanical Engineer - Project Lead (Nuclear Projects)
+2024-12-01 20:32:24,836 - INFO - Saved job: Balance of Plant Mechanical Engineer - Project Lead (Nuclear Projects) - Sargent & Lundy
+2024-12-01 20:32:26,821 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/935134
+2024-12-01 20:32:30,353 - INFO - Successfully scraped job: Manufacturing Engineer, Solar
+2024-12-01 20:32:30,358 - INFO - Saved job: Manufacturing Engineer, Solar - Sierra Space Corporation
+2024-12-01 20:32:32,299 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/934720
+2024-12-01 20:32:36,020 - INFO - Successfully scraped job: Electrical Engineer - Advanced Power System Studies
+2024-12-01 20:32:36,026 - INFO - Saved job: Electrical Engineer - Advanced Power System Studies - David Evans & Associates Inc
+2024-12-01 20:32:37,338 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/934687
+2024-12-01 20:32:40,711 - INFO - Successfully scraped job: eVinci Nuclear Design Engineer I
+2024-12-01 20:32:40,717 - INFO - Saved job: eVinci Nuclear Design Engineer I - Westinghouse Electric Company, LLC
+2024-12-01 20:32:42,279 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/934191
+2024-12-01 20:32:44,264 - INFO - Successfully scraped job: Engineering & Construction Manager - Renewable Energy
+2024-12-01 20:32:44,270 - INFO - Saved job: Engineering & Construction Manager - Renewable Energy - FirstLight Power
+2024-12-01 20:32:45,903 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/999919
