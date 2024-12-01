@@ -14833,3 +14833,19 @@
 2024-12-01 20:48:27,599 - INFO - Successfully scraped job: Project Engineer-24006397
 2024-12-01 20:48:27,605 - INFO - Saved job: Project Engineer-24006397 - Emerson
 2024-12-01 20:48:28,680 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/820504
+2024-12-01 20:48:42,585 - WARNING - Timeout waiting for company element
+2024-12-01 20:48:42,679 - INFO - Successfully scraped job: Sr. Project Engineer (pmt) (epc Oil/gas Offshore)
+2024-12-01 20:48:42,686 - INFO - Saved job: Sr. Project Engineer (pmt) (epc Oil/gas Offshore) - None
+2024-12-01 20:48:44,044 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/820545
+2024-12-01 20:48:58,187 - WARNING - Timeout waiting for company element
+2024-12-01 20:48:58,326 - INFO - Successfully scraped job: Qa Qc Engineer/inspector(dredging / Civil Marine)
+2024-12-01 20:48:58,334 - INFO - Saved job: Qa Qc Engineer/inspector(dredging / Civil Marine) - None
+2024-12-01 20:49:00,212 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/820506
+2024-12-01 20:49:14,261 - WARNING - Timeout waiting for company element
+2024-12-01 20:49:14,417 - INFO - Successfully scraped job: Project Engineer (spdp) (epc Oil/gas Offshore)
+2024-12-01 20:49:14,427 - INFO - Saved job: Project Engineer (spdp) (epc Oil/gas Offshore) - None
+2024-12-01 20:49:16,024 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/820500
+2024-12-01 20:49:30,148 - WARNING - Timeout waiting for company element
+2024-12-01 20:49:30,260 - INFO - Successfully scraped job: Sr. Project Engineer (structural) (epc Oil/gas Offshore)
+2024-12-01 20:49:30,265 - INFO - Saved job: Sr. Project Engineer (structural) (epc Oil/gas Offshore) - None
+2024-12-01 20:49:32,112 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/820540
