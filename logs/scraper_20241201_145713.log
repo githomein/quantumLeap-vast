@@ -11829,3 +11829,62 @@
 2024-12-01 19:35:07,193 - INFO - Successfully scraped job: Commercial Gas Engineer
 2024-12-01 19:35:07,198 - INFO - Saved job: Commercial Gas Engineer - Liberty Group Investments Ltd
 2024-12-01 19:35:08,337 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/998991
+2024-12-01 19:35:11,374 - INFO - Successfully scraped job: Grid Engineer/Technical Project Support (M/F) Paris
+2024-12-01 19:35:11,379 - INFO - Saved job: Grid Engineer/Technical Project Support (M/F) Paris - Vestas
+2024-12-01 19:35:12,795 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/999018
+2024-12-01 19:35:16,575 - INFO - Successfully scraped job: Engineering Technician Thermal Spray - Coatings Lean Lab
+2024-12-01 19:35:16,580 - INFO - Saved job: Engineering Technician Thermal Spray - Coatings Lean Lab - GE Renewable Energy Power and Aviation
+2024-12-01 19:35:18,400 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/998822
+2024-12-01 19:35:31,457 - WARNING - Timeout waiting for company element
+2024-12-01 19:35:31,600 - INFO - Successfully scraped job: Lead Structural Engineer
+2024-12-01 19:35:31,607 - INFO - Saved job: Lead Structural Engineer - None
+2024-12-01 19:35:33,303 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/972102
+2024-12-01 19:35:35,552 - INFO - Successfully scraped job: Energy Engineer III
+2024-12-01 19:35:35,558 - INFO - Saved job: Energy Engineer III - AECOM
+2024-12-01 19:35:36,610 - INFO - Collected 2600 jobs so far
+2024-12-01 19:35:36,610 - INFO - Scraping page 131 of 389
+2024-12-01 19:35:39,749 - INFO - Getting job links from current page
+2024-12-01 19:35:42,782 - INFO - Found 20 job cards
+2024-12-01 19:35:42,794 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/924176
+2024-12-01 19:35:42,802 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/972282
+2024-12-01 19:35:42,811 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/production-jobs/859730
+2024-12-01 19:35:42,820 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/907521
+2024-12-01 19:35:42,829 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/972467
+2024-12-01 19:35:42,838 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/907677
+2024-12-01 19:35:42,847 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/971977
+2024-12-01 19:35:42,856 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/998149
+2024-12-01 19:35:42,865 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/998158
+2024-12-01 19:35:42,874 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/997979
+2024-12-01 19:35:42,882 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/997941
+2024-12-01 19:35:42,890 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/997913
+2024-12-01 19:35:42,898 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/997912
+2024-12-01 19:35:42,906 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/923576
+2024-12-01 19:35:42,914 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/923583
+2024-12-01 19:35:42,922 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/923660
+2024-12-01 19:35:42,930 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/924036
+2024-12-01 19:35:42,938 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/971612
+2024-12-01 19:35:42,946 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/971848
+2024-12-01 19:35:42,955 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/971541
+2024-12-01 19:35:42,955 - INFO - Successfully extracted 20 job links
+2024-12-01 19:35:42,955 - INFO - Found 20 jobs on page 131
+2024-12-01 19:35:42,955 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/924176
+2024-12-01 19:35:46,034 - INFO - Successfully scraped job: Energy Management Engineer - North West
+2024-12-01 19:35:46,039 - INFO - Saved job: Energy Management Engineer - North West - Pdsl
+2024-12-01 19:35:47,282 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/972282
+2024-12-01 19:35:49,385 - INFO - Successfully scraped job: R&D Senior RF Sustaining Engineer
+2024-12-01 19:35:49,390 - INFO - Saved job: R&D Senior RF Sustaining Engineer - Emerson
+2024-12-01 19:35:50,477 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/859730
+2024-12-01 19:35:54,013 - INFO - Successfully scraped job: ELECTRONIC TEST ENGINEER
+2024-12-01 19:35:54,018 - INFO - Saved job: ELECTRONIC TEST ENGINEER - Weatherford
+2024-12-01 19:35:55,529 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/907521
+2024-12-01 19:35:57,565 - INFO - Successfully scraped job: Instrumentation and Controls Engineer
+2024-12-01 19:35:57,570 - INFO - Saved job: Instrumentation and Controls Engineer - Exxon Mobil
+2024-12-01 19:35:59,062 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/972467
+2024-12-01 19:36:01,719 - INFO - Successfully scraped job: R&D Engineer
+2024-12-01 19:36:01,723 - INFO - Saved job: R&D Engineer - ABB
+2024-12-01 19:36:02,885 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/907677
+2024-12-01 19:36:05,871 - INFO - Successfully scraped job: Red Hat Ansible Developer Engineer
+2024-12-01 19:36:05,876 - INFO - Saved job: Red Hat Ansible Developer Engineer - ABB
+2024-12-01 19:36:07,788 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/971977
+2024-12-01 19:36:10,889 - INFO - Successfully scraped job: VIE _ Solar R&D Engineer (M/F) _ QATAR (Doha)
+2024-12-01 19:36:10,893 - INFO - Saved job: VIE _ Solar R&D Engineer (M/F) _ QATAR (Doha) - Total Energies
