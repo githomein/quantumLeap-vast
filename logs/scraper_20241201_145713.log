@@ -7282,3 +7282,60 @@
 2024-12-01 17:50:12,766 - INFO - Successfully scraped job: Principal DSEAR Engineer
 2024-12-01 17:50:12,769 - INFO - Saved job: Principal DSEAR Engineer - AtkinsRéalis
 2024-12-01 17:50:14,700 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/967947
+2024-12-01 17:50:18,599 - INFO - Successfully scraped job: Senior Electrical Engineer
+2024-12-01 17:50:18,602 - INFO - Saved job: Senior Electrical Engineer - AtkinsRéalis
+2024-12-01 17:50:19,881 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/967933
+2024-12-01 17:50:22,659 - INFO - Successfully scraped job: Principal Electrical Engineer
+2024-12-01 17:50:22,663 - INFO - Saved job: Principal Electrical Engineer - AtkinsRéalis
+2024-12-01 17:50:24,547 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/878353
+2024-12-01 17:50:27,968 - INFO - Successfully scraped job: Senior Project Lead Engineer
+2024-12-01 17:50:27,971 - INFO - Saved job: Senior Project Lead Engineer - ABB
+2024-12-01 17:50:29,334 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990217
+2024-12-01 17:50:31,768 - INFO - Successfully scraped job: R&D Engineer
+2024-12-01 17:50:31,772 - INFO - Saved job: R&D Engineer - ABB
+2024-12-01 17:50:33,724 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/990215
+2024-12-01 17:50:36,051 - INFO - Successfully scraped job: Power Electronics Engineer for global Traction projects (80 - 100%)
+2024-12-01 17:50:36,054 - INFO - Saved job: Power Electronics Engineer for global Traction projects (80 - 100%) - ABB
+2024-12-01 17:50:37,183 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990198
+2024-12-01 17:50:39,837 - INFO - Successfully scraped job: R&D Associate Engineer
+2024-12-01 17:50:39,841 - INFO - Saved job: R&D Associate Engineer - ABB
+2024-12-01 17:50:40,843 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/966684
+2024-12-01 17:50:53,374 - WARNING - Timeout waiting for company element
+2024-12-01 17:50:53,585 - INFO - Successfully scraped job: Senior Principal Engineer - Electrical
+2024-12-01 17:50:53,588 - INFO - Saved job: Senior Principal Engineer - Electrical - None
+2024-12-01 17:50:55,507 - INFO - Collected 1600 jobs so far
+2024-12-01 17:50:55,507 - INFO - Scraping page 81 of 389
+2024-12-01 17:50:58,473 - INFO - Getting job links from current page
+2024-12-01 17:51:01,506 - INFO - Found 20 job cards
+2024-12-01 17:51:01,517 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/967863
+2024-12-01 17:51:01,524 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/920953
+2024-12-01 17:51:01,532 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/874347
+2024-12-01 17:51:01,540 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/967902
+2024-12-01 17:51:01,547 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/990336
+2024-12-01 17:51:01,555 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/990291
+2024-12-01 17:51:01,563 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/990203
+2024-12-01 17:51:01,571 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/899271
+2024-12-01 17:51:01,579 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/966287
+2024-12-01 17:51:01,589 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/966125
+2024-12-01 17:51:01,597 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/900025
+2024-12-01 17:51:01,604 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/900007
+2024-12-01 17:51:01,612 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/899870
+2024-12-01 17:51:01,620 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/966330
+2024-12-01 17:51:01,628 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/966232
+2024-12-01 17:51:01,635 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/899785
+2024-12-01 17:51:01,643 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/966224
+2024-12-01 17:51:01,650 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/900121
+2024-12-01 17:51:01,658 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/961112
+2024-12-01 17:51:01,665 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/989844
+2024-12-01 17:51:01,665 - INFO - Successfully extracted 20 job links
+2024-12-01 17:51:01,665 - INFO - Found 20 jobs on page 81
+2024-12-01 17:51:01,665 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/967863
+2024-12-01 17:51:04,564 - INFO - Successfully scraped job: Senior Mechanical Engineer
+2024-12-01 17:51:04,567 - INFO - Saved job: Senior Mechanical Engineer - AtkinsRéalis
+2024-12-01 17:51:06,551 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/920953
+2024-12-01 17:51:09,928 - INFO - Successfully scraped job: Project Engineering Manager
+2024-12-01 17:51:09,933 - INFO - Saved job: Project Engineering Manager - AtkinsRéalis
+2024-12-01 17:51:11,232 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/874347
+2024-12-01 17:51:14,371 - INFO - Successfully scraped job: 2nd shift R&D Associate Engineer
+2024-12-01 17:51:14,375 - INFO - Saved job: 2nd shift R&D Associate Engineer - ABB
+2024-12-01 17:51:15,541 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/967902

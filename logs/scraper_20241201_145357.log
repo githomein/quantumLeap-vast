@@ -7494,3 +7494,33 @@
 2024-12-01 17:50:06,709 - INFO - Successfully scraped job: Senior Project Engineer - Low Voltage
 2024-12-01 17:50:06,713 - INFO - Saved job: Senior Project Engineer - Low Voltage - ABB
 2024-12-01 17:50:08,165 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/921885
+2024-12-01 17:50:20,351 - WARNING - Timeout waiting for company element
+2024-12-01 17:50:20,570 - INFO - Successfully scraped job: Product Safety Engineer
+2024-12-01 17:50:20,574 - INFO - Saved job: Product Safety Engineer - None
+2024-12-01 17:50:21,576 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/905900
+2024-12-01 17:50:24,996 - INFO - Successfully scraped job: Sr Process Engineer
+2024-12-01 17:50:24,999 - INFO - Saved job: Sr Process Engineer - Honeywell
+2024-12-01 17:50:26,145 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/970110
+2024-12-01 17:50:28,806 - INFO - Successfully scraped job: Quality Engineer
+2024-12-01 17:50:28,810 - INFO - Saved job: Quality Engineer - GE Renewable Energy Power and Aviation
+2024-12-01 17:50:30,625 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/848073
+2024-12-01 17:50:34,333 - INFO - Successfully scraped job: Geotechnical Engineer
+2024-12-01 17:50:34,337 - INFO - Saved job: Geotechnical Engineer - Wood PLC
+2024-12-01 17:50:36,227 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/864178
+2024-12-01 17:50:39,163 - INFO - Successfully scraped job: Design Engineer
+2024-12-01 17:50:39,167 - INFO - Saved job: Design Engineer - ABB
+2024-12-01 17:50:40,483 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990648
+2024-12-01 17:50:53,229 - WARNING - Timeout waiting for company element
+2024-12-01 17:50:53,394 - INFO - Successfully scraped job: Senior Facility Engineer
+2024-12-01 17:50:53,397 - INFO - Saved job: Senior Facility Engineer - None
+2024-12-01 17:50:54,680 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/990617
+2024-12-01 17:50:57,555 - INFO - Successfully scraped job: Quality Control Senior Engineer
+2024-12-01 17:50:57,559 - INFO - Saved job: Quality Control Senior Engineer - Schneider Electric
+2024-12-01 17:50:58,742 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990533
+2024-12-01 17:51:12,603 - WARNING - Timeout waiting for company element
+2024-12-01 17:51:12,764 - INFO - Successfully scraped job: Instrument Engineer Valves
+2024-12-01 17:51:12,769 - INFO - Saved job: Instrument Engineer Valves - None
+2024-12-01 17:51:14,365 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/consulting-jobs/990518
+2024-12-01 17:51:16,518 - DEBUG - No additional metadata found
+2024-12-01 17:51:16,534 - INFO - Successfully scraped job: Electrical Engineer
+2024-12-01 17:51:16,538 - INFO - Saved job: Electrical Engineer - -
