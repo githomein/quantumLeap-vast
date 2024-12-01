@@ -14149,3 +14149,35 @@
 2024-12-01 20:32:42,830 - INFO - Successfully extracted 20 job links
 2024-12-01 20:32:42,830 - INFO - Found 20 jobs on page 156
 2024-12-01 20:32:42,830 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/oilfield-jobs/1000079
+2024-12-01 20:32:55,797 - WARNING - Timeout waiting for company element
+2024-12-01 20:32:55,903 - DEBUG - No additional metadata found
+2024-12-01 20:32:55,917 - INFO - Successfully scraped job: NLQ Architect Engineer
+2024-12-01 20:32:55,923 - INFO - Saved job: NLQ Architect Engineer - None
+2024-12-01 20:32:57,460 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/975204
+2024-12-01 20:32:59,499 - INFO - Successfully scraped job: Nuclear Engineering Intern (IL)
+2024-12-01 20:32:59,504 - INFO - Saved job: Nuclear Engineering Intern (IL) - Constellation Energy Generation, LLC.
+2024-12-01 20:33:00,735 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/975193
+2024-12-01 20:33:02,760 - INFO - Successfully scraped job: Nuclear Engineering Intern (PA)
+2024-12-01 20:33:02,765 - INFO - Saved job: Nuclear Engineering Intern (PA) - Constellation Energy Generation, LLC.
+2024-12-01 20:33:04,069 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/975085
+2024-12-01 20:33:08,019 - INFO - Successfully scraped job: Mining Engineer Summer Intern
+2024-12-01 20:33:08,026 - INFO - Saved job: Mining Engineer Summer Intern - The Chemours Company
+2024-12-01 20:33:09,949 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/818797
+2024-12-01 20:33:22,945 - WARNING - Timeout waiting for company element
+2024-12-01 20:33:23,052 - DEBUG - No additional metadata found
+2024-12-01 20:33:23,066 - INFO - Successfully scraped job: Operation and Maintenance Engineer
+2024-12-01 20:33:23,074 - INFO - Saved job: Operation and Maintenance Engineer - None
+2024-12-01 20:33:24,837 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/818569
+2024-12-01 20:33:37,193 - WARNING - Timeout waiting for company element
+2024-12-01 20:33:37,386 - INFO - Successfully scraped job: HO Construction Engineer
+2024-12-01 20:33:37,393 - INFO - Saved job: HO Construction Engineer - None
+2024-12-01 20:33:38,477 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/925289
+2024-12-01 20:33:40,762 - INFO - Successfully scraped job: BOM Engineer,Pressure Management,Emerson,Chennai
+2024-12-01 20:33:40,767 - INFO - Saved job: BOM Engineer,Pressure Management,Emerson,Chennai - Emerson
+2024-12-01 20:33:41,893 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/975459
+2024-12-01 20:33:44,968 - INFO - Successfully scraped job: Facilities - Mechanical Engineer - Aerospace Research
+2024-12-01 20:33:44,973 - INFO - Saved job: Facilities - Mechanical Engineer - Aerospace Research - GE Renewable Energy Power and Aviation
+2024-12-01 20:33:45,980 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/975413
+2024-12-01 20:33:48,092 - INFO - Successfully scraped job: Engineering/Manufacturing Electronics Assembly Technician
+2024-12-01 20:33:48,097 - INFO - Saved job: Engineering/Manufacturing Electronics Assembly Technician - GE Renewable Energy Power and Aviation
+2024-12-01 20:33:49,981 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/975400
