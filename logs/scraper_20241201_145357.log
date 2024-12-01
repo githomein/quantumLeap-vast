@@ -9815,3 +9815,71 @@
 2024-12-01 18:45:03,322 - INFO - Successfully scraped job: Junior Mine Engineer
 2024-12-01 18:45:03,326 - INFO - Saved job: Junior Mine Engineer - KGHM, International Ltd
 2024-12-01 18:45:04,844 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/994704
+2024-12-01 18:45:08,285 - INFO - Successfully scraped job: Senior Offshore Cable Engineer
+2024-12-01 18:45:08,290 - INFO - Saved job: Senior Offshore Cable Engineer - Iberdrola
+2024-12-01 18:45:09,472 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/994641
+2024-12-01 18:45:11,499 - DEBUG - No additional metadata found
+2024-12-01 18:45:11,513 - INFO - Successfully scraped job: CAD Design Engineer - Electric Power
+2024-12-01 18:45:11,517 - INFO - Saved job: CAD Design Engineer - Electric Power - Caterpillar
+2024-12-01 18:45:13,300 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/994505
+2024-12-01 18:45:16,431 - INFO - Successfully scraped job: Energy Engineer I
+2024-12-01 18:45:16,435 - INFO - Saved job: Energy Engineer I - CLEAResult
+2024-12-01 18:45:17,783 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/994486
+2024-12-01 18:45:21,531 - DEBUG - No additional metadata found
+2024-12-01 18:45:21,549 - INFO - Successfully scraped job: Engineer V I&C - Nuclear
+2024-12-01 18:45:21,555 - INFO - Saved job: Engineer V I&C - Nuclear - Zachry Group
+2024-12-01 18:45:23,268 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/994447
+2024-12-01 18:45:26,274 - INFO - Successfully scraped job: Assistant Professor, Department of Mechanical Engineering and Nuclear Science & Engineering Program
+2024-12-01 18:45:26,279 - INFO - Saved job: Assistant Professor, Department of Mechanical Engineering and Nuclear Science & Engineering Program - State of Colorado
+2024-12-01 18:45:27,583 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/994359
+2024-12-01 18:45:30,705 - INFO - Successfully scraped job: 79080 Principal Controls Design Engineer-Nuclear
+2024-12-01 18:45:30,711 - INFO - Saved job: 79080 Principal Controls Design Engineer-Nuclear - PSEG
+2024-12-01 18:45:32,049 - INFO - Collected 2160 jobs so far
+2024-12-01 18:45:32,049 - INFO - Scraping page 109 of 384
+2024-12-01 18:45:35,298 - INFO - Getting job links from current page
+2024-12-01 18:45:38,338 - INFO - Found 20 job cards
+2024-12-01 18:45:38,353 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/994359
+2024-12-01 18:45:38,361 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/993989
+2024-12-01 18:45:38,370 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/993961
+2024-12-01 18:45:38,380 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/993900
+2024-12-01 18:45:38,390 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/993759
+2024-12-01 18:45:38,399 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/administrative-or-secretarial-jobs/993559
+2024-12-01 18:45:38,408 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/993532
+2024-12-01 18:45:38,418 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/993526
+2024-12-01 18:45:38,426 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/993503
+2024-12-01 18:45:38,436 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/993479
+2024-12-01 18:45:38,445 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/993360
+2024-12-01 18:45:38,455 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/993259
+2024-12-01 18:45:38,467 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/993104
+2024-12-01 18:45:38,477 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/993068
+2024-12-01 18:45:38,486 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/production-jobs/993032
+2024-12-01 18:45:38,494 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/993052
+2024-12-01 18:45:38,503 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/993024
+2024-12-01 18:45:38,512 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/992838
+2024-12-01 18:45:38,521 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/production-jobs/992770
+2024-12-01 18:45:38,529 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/992660
+2024-12-01 18:45:38,529 - INFO - Successfully extracted 20 job links
+2024-12-01 18:45:38,529 - INFO - Found 20 jobs on page 109
+2024-12-01 18:45:38,529 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/994359
+2024-12-01 18:45:42,011 - INFO - Successfully scraped job: 79080 Principal Controls Design Engineer-Nuclear
+2024-12-01 18:45:42,017 - INFO - Saved job: 79080 Principal Controls Design Engineer-Nuclear - PSEG
+2024-12-01 18:45:43,846 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/993989
+2024-12-01 18:45:46,565 - INFO - Successfully scraped job: Sr RNG Engineer: Diversified Energy & Renewables
+2024-12-01 18:45:46,569 - INFO - Saved job: Sr RNG Engineer: Diversified Energy & Renewables - Campos EPC
+2024-12-01 18:45:48,248 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/993961
+2024-12-01 18:45:50,640 - INFO - Successfully scraped job: Project Engineer III - Substation/Relaying/Generation
+2024-12-01 18:45:50,645 - INFO - Saved job: Project Engineer III - Substation/Relaying/Generation - Relevante, Inc.
+2024-12-01 18:45:52,418 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/993900
+2024-12-01 18:45:54,741 - DEBUG - No additional metadata found
+2024-12-01 18:45:54,756 - INFO - Successfully scraped job: Sr Mine Engineer
+2024-12-01 18:45:54,760 - INFO - Saved job: Sr Mine Engineer - Asarco LLC
+2024-12-01 18:45:55,796 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/993759
+2024-12-01 18:45:58,418 - INFO - Successfully scraped job: Nuclear Facility Safety Engineer
+2024-12-01 18:45:58,422 - INFO - Saved job: Nuclear Facility Safety Engineer - Oak Ridge National Laboratory
+2024-12-01 18:45:59,573 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/administrative-or-secretarial-jobs/993559
+2024-12-01 18:46:02,556 - INFO - Successfully scraped job: Assistant Vice President, Mining Engineering
+2024-12-01 18:46:02,561 - INFO - Saved job: Assistant Vice President, Mining Engineering - WSP
+2024-12-01 18:46:03,575 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/993532
+2024-12-01 18:46:06,446 - INFO - Successfully scraped job: Project Enginer (Nuclear Facilities Engineer 3)
+2024-12-01 18:46:06,451 - INFO - Saved job: Project Enginer (Nuclear Facilities Engineer 3) - Los Alamos National Laboratory
+2024-12-01 18:46:07,534 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/993526
