@@ -14905,3 +14905,33 @@
 2024-12-01 20:50:39,709 - DEBUG - No additional metadata found
 2024-12-01 20:50:39,724 - INFO - Successfully scraped job: Construction Engineer - HVAC
 2024-12-01 20:50:39,730 - INFO - Saved job: Construction Engineer - HVAC - HPC Jobs Service
+2024-12-01 20:50:41,557 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/964383
+2024-12-01 20:50:45,324 - INFO - Successfully scraped job: Senior Mechanical Design Engineer (Water & Wastewater)
+2024-12-01 20:50:45,330 - INFO - Saved job: Senior Mechanical Design Engineer (Water & Wastewater) - Arcadis
+2024-12-01 20:50:46,698 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/969559
+2024-12-01 20:50:49,873 - INFO - Successfully scraped job: Principal Waste Water Process Engineer
+2024-12-01 20:50:49,878 - INFO - Saved job: Principal Waste Water Process Engineer - AtkinsRéalis
+2024-12-01 20:50:51,496 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/969555
+2024-12-01 20:50:54,405 - INFO - Successfully scraped job: Principal Waste Water Process Engineer
+2024-12-01 20:50:54,410 - INFO - Saved job: Principal Waste Water Process Engineer - AtkinsRéalis
+2024-12-01 20:50:55,446 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/920261
+2024-12-01 20:50:58,166 - INFO - Successfully scraped job: Subsea & Pipelines Consultant Engineer
+2024-12-01 20:50:58,171 - INFO - Saved job: Subsea & Pipelines Consultant Engineer - Xodus Group
+2024-12-01 20:50:59,596 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/818728
+2024-12-01 20:51:12,131 - WARNING - Timeout waiting for company element
+2024-12-01 20:51:12,316 - INFO - Successfully scraped job: Subcontract Engineer Home Office/Site
+2024-12-01 20:51:12,323 - INFO - Saved job: Subcontract Engineer Home Office/Site - None
+2024-12-01 20:51:13,877 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/968399
+2024-12-01 20:51:17,573 - INFO - Successfully scraped job: Graduate Power System Engineer - Warwick - NESO
+2024-12-01 20:51:17,579 - INFO - Saved job: Graduate Power System Engineer - Warwick - NESO - National Grid
+2024-12-01 20:51:19,473 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/916045
+2024-12-01 20:51:22,309 - INFO - Successfully scraped job: Battery Energy Storage Engineer
+2024-12-01 20:51:22,315 - INFO - Saved job: Battery Energy Storage Engineer - GHD Group
+2024-12-01 20:51:23,685 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/869208
+2024-12-01 20:51:25,860 - DEBUG - No additional metadata found
+2024-12-01 20:51:25,874 - INFO - Successfully scraped job: Inbetriebnahmeingenieur / Commissioning Engineer (w/m/d)
+2024-12-01 20:51:25,880 - INFO - Saved job: Inbetriebnahmeingenieur / Commissioning Engineer (w/m/d) - Bilfinger
+2024-12-01 20:51:27,302 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/895086
+2024-12-01 20:51:29,864 - INFO - Successfully scraped job: Senior/Principal Electrical / Power Engineer
+2024-12-01 20:51:29,870 - INFO - Saved job: Senior/Principal Electrical / Power Engineer - AtkinsRéalis
+2024-12-01 20:51:31,220 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/957985

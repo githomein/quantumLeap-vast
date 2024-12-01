@@ -15100,3 +15100,40 @@
 2024-12-01 20:50:36,297 - INFO - Saved job: Engineering Manager - Water/Wastewater - Black and Veatch
 2024-12-01 20:50:37,778 - INFO - Collected 3320 jobs so far
 2024-12-01 20:50:37,779 - INFO - Scraping page 167 of 384
+2024-12-01 20:50:41,485 - INFO - Getting job links from current page
+2024-12-01 20:50:44,524 - INFO - Found 20 job cards
+2024-12-01 20:50:44,536 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/820455
+2024-12-01 20:50:44,546 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/820485
+2024-12-01 20:50:44,555 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/820505
+2024-12-01 20:50:44,563 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/820496
+2024-12-01 20:50:44,573 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/820350
+2024-12-01 20:50:44,582 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/836414
+2024-12-01 20:50:44,590 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/820388
+2024-12-01 20:50:44,599 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/production-jobs/917554
+2024-12-01 20:50:44,608 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/995698
+2024-12-01 20:50:44,617 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/995586
+2024-12-01 20:50:44,626 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/995448
+2024-12-01 20:50:44,635 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/995394
+2024-12-01 20:50:44,644 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/995269
+2024-12-01 20:50:44,652 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/995036
+2024-12-01 20:50:44,661 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/995054
+2024-12-01 20:50:44,669 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/995023
+2024-12-01 20:50:44,678 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/994863
+2024-12-01 20:50:44,687 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/994786
+2024-12-01 20:50:44,696 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/994642
+2024-12-01 20:50:44,705 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/994518
+2024-12-01 20:50:44,705 - INFO - Successfully extracted 20 job links
+2024-12-01 20:50:44,705 - INFO - Found 20 jobs on page 167
+2024-12-01 20:50:44,705 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/820455
+2024-12-01 20:50:58,674 - WARNING - Timeout waiting for company element
+2024-12-01 20:50:58,771 - INFO - Successfully scraped job: Civil Engineer (oil/ Gas Co.)
+2024-12-01 20:50:58,779 - INFO - Saved job: Civil Engineer (oil/ Gas Co.) - None
+2024-12-01 20:51:00,525 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/820485
+2024-12-01 20:51:13,581 - WARNING - Timeout waiting for company element
+2024-12-01 20:51:13,665 - INFO - Successfully scraped job: Sr. Construction Engineer (epc Oil/gas Onshore)
+2024-12-01 20:51:13,672 - INFO - Saved job: Sr. Construction Engineer (epc Oil/gas Onshore) - None
+2024-12-01 20:51:15,089 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/820505
+2024-12-01 20:51:28,589 - WARNING - Timeout waiting for company element
+2024-12-01 20:51:28,688 - INFO - Successfully scraped job: Project Engineer (technical Building & Hvac) (epc...
+2024-12-01 20:51:28,696 - INFO - Saved job: Project Engineer (technical Building & Hvac) (epc... - None
+2024-12-01 20:51:30,435 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/820496
