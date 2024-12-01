@@ -12513,3 +12513,65 @@
 2024-12-01 19:46:36,383 - INFO - Successfully scraped job: Applications Engineering Sr Group Manager
 2024-12-01 19:46:36,390 - INFO - Saved job: Applications Engineering Sr Group Manager - Emerson
 2024-12-01 19:46:37,684 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991850
+2024-12-01 19:46:41,277 - INFO - Successfully scraped job: Industrial Automation Business Engineer
+2024-12-01 19:46:41,283 - INFO - Saved job: Industrial Automation Business Engineer - Emerson
+2024-12-01 19:46:42,649 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991666
+2024-12-01 19:46:45,494 - INFO - Successfully scraped job: Senior / Manufacturing Engineer
+2024-12-01 19:46:45,499 - INFO - Saved job: Senior / Manufacturing Engineer - Emerson
+2024-12-01 19:46:47,432 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/991702
+2024-12-01 19:46:49,544 - INFO - Successfully scraped job: Senior Electrical Engineer
+2024-12-01 19:46:49,549 - INFO - Saved job: Senior Electrical Engineer - Emerson
+2024-12-01 19:46:51,405 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991763
+2024-12-01 19:46:53,571 - INFO - Successfully scraped job: Lead / Senior Engineer - Product Design, B5/B4
+2024-12-01 19:46:53,576 - INFO - Saved job: Lead / Senior Engineer - Product Design, B5/B4 - Emerson
+2024-12-01 19:46:55,336 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991453
+2024-12-01 19:46:59,100 - INFO - Successfully scraped job: Field Service Engineer I
+2024-12-01 19:46:59,104 - INFO - Saved job: Field Service Engineer I - Honeywell
+2024-12-01 19:47:00,684 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991438
+2024-12-01 19:47:04,344 - INFO - Successfully scraped job: Sr HSE Engineer - Safety
+2024-12-01 19:47:04,348 - INFO - Saved job: Sr HSE Engineer - Safety - Honeywell
+2024-12-01 19:47:05,501 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991392
+2024-12-01 19:47:08,226 - INFO - Successfully scraped job: Advanced Technical Support Engineer - Low voltage, metering and eMobility products
+2024-12-01 19:47:08,231 - INFO - Saved job: Advanced Technical Support Engineer - Low voltage, metering and eMobility products - Schneider Electric
+2024-12-01 19:47:09,626 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991307
+2024-12-01 19:47:12,137 - INFO - Successfully scraped job: Principal Engineer (CRA Products)
+2024-12-01 19:47:12,142 - INFO - Saved job: Principal Engineer (CRA Products) - Subsea 7
+2024-12-01 19:47:13,389 - INFO - Collected 2760 jobs so far
+2024-12-01 19:47:13,389 - INFO - Scraping page 139 of 384
+2024-12-01 19:47:16,942 - INFO - Getting job links from current page
+2024-12-01 19:47:19,976 - INFO - Found 20 job cards
+2024-12-01 19:47:19,990 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/991453
+2024-12-01 19:47:20,000 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/991438
+2024-12-01 19:47:20,009 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/991392
+2024-12-01 19:47:20,019 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/991307
+2024-12-01 19:47:20,027 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/991161
+2024-12-01 19:47:20,036 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/991154
+2024-12-01 19:47:20,049 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/991126
+2024-12-01 19:47:20,058 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/874637
+2024-12-01 19:47:20,067 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/906320
+2024-12-01 19:47:20,075 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/922604
+2024-12-01 19:47:20,084 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/970754
+2024-12-01 19:47:20,093 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/991121
+2024-12-01 19:47:20,102 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/991000
+2024-12-01 19:47:20,111 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/990898
+2024-12-01 19:47:20,120 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/990889
+2024-12-01 19:47:20,129 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/990837
+2024-12-01 19:47:20,137 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/990763
+2024-12-01 19:47:20,147 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/990778
+2024-12-01 19:47:20,156 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/990687
+2024-12-01 19:47:20,165 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/851368
+2024-12-01 19:47:20,165 - INFO - Successfully extracted 20 job links
+2024-12-01 19:47:20,165 - INFO - Found 20 jobs on page 139
+2024-12-01 19:47:20,165 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991453
+2024-12-01 19:47:23,676 - INFO - Successfully scraped job: Field Service Engineer I
+2024-12-01 19:47:23,685 - INFO - Saved job: Field Service Engineer I - Honeywell
+2024-12-01 19:47:25,374 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991438
+2024-12-01 19:47:28,714 - INFO - Successfully scraped job: Sr HSE Engineer - Safety
+2024-12-01 19:47:28,719 - INFO - Saved job: Sr HSE Engineer - Safety - Honeywell
+2024-12-01 19:47:30,278 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991392
+2024-12-01 19:47:32,940 - INFO - Successfully scraped job: Advanced Technical Support Engineer - Low voltage, metering and eMobility products
+2024-12-01 19:47:32,945 - INFO - Saved job: Advanced Technical Support Engineer - Low voltage, metering and eMobility products - Schneider Electric
+2024-12-01 19:47:34,594 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991307
+2024-12-01 19:47:37,537 - INFO - Successfully scraped job: Principal Engineer (CRA Products)
+2024-12-01 19:47:37,541 - INFO - Saved job: Principal Engineer (CRA Products) - Subsea 7
+2024-12-01 19:47:38,948 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991161
