@@ -4103,3 +4103,39 @@
 2024-12-01 16:25:56,401 - INFO - Successfully scraped job: Electrical Engineer
 2024-12-01 16:25:56,405 - INFO - Saved job: Electrical Engineer - None
 2024-12-01 16:25:58,070 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/973489
+2024-12-01 16:26:10,269 - WARNING - Timeout waiting for company element
+2024-12-01 16:26:10,370 - DEBUG - No additional metadata found
+2024-12-01 16:26:10,384 - INFO - Successfully scraped job: Head of ICSS and Instrumentation Engineering
+2024-12-01 16:26:10,387 - INFO - Saved job: Head of ICSS and Instrumentation Engineering - None
+2024-12-01 16:26:11,971 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/973864
+2024-12-01 16:26:15,962 - INFO - Successfully scraped job: Junior Engineer Waterbouw
+2024-12-01 16:26:15,967 - INFO - Saved job: Junior Engineer Waterbouw - Engie
+2024-12-01 16:26:17,859 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/924687
+2024-12-01 16:26:21,453 - INFO - Successfully scraped job: Associate Principal Structural Engineer
+2024-12-01 16:26:21,456 - INFO - Saved job: Associate Principal Structural Engineer - AtkinsRéalis
+2024-12-01 16:26:23,418 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/973219
+2024-12-01 16:26:26,966 - INFO - Successfully scraped job: Lab Technician, Materials Engineering
+2024-12-01 16:26:26,969 - INFO - Saved job: Lab Technician, Materials Engineering - AtkinsRéalis
+2024-12-01 16:26:28,367 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/908290
+2024-12-01 16:26:30,566 - INFO - Successfully scraped job: Field Service Engineer - Advanced Mobile Leak Detection (Methane)
+2024-12-01 16:26:30,570 - INFO - Saved job: Field Service Engineer - Advanced Mobile Leak Detection (Methane) - ABB
+2024-12-01 16:26:32,242 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/973084
+2024-12-01 16:26:36,017 - INFO - Successfully scraped job: Industrialization Engineer
+2024-12-01 16:26:36,020 - INFO - Saved job: Industrialization Engineer - ABB
+2024-12-01 16:26:37,310 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/999318
+2024-12-01 16:26:39,803 - INFO - Successfully scraped job: Power Plant Engineering Specialist - RICE
+2024-12-01 16:26:39,806 - INFO - Saved job: Power Plant Engineering Specialist - RICE - WEC Energy Group
+2024-12-01 16:26:41,603 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/999322
+2024-12-01 16:26:44,635 - INFO - Successfully scraped job: Power Plant Engineer - RICE
+2024-12-01 16:26:44,638 - INFO - Saved job: Power Plant Engineer - RICE - WEC Energy Group
+2024-12-01 16:26:46,151 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/998940
+2024-12-01 16:26:48,872 - INFO - Successfully scraped job: Senior Planning Engineer
+2024-12-01 16:26:48,875 - INFO - Saved job: Senior Planning Engineer - Wood PLC
+2024-12-01 16:26:50,434 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/998901
+2024-12-01 16:26:52,533 - INFO - Successfully scraped job: Senior Manufacturing Engineer
+2024-12-01 16:26:52,542 - INFO - Saved job: Senior Manufacturing Engineer - Schneider Electric
+2024-12-01 16:26:53,678 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/998818
+2024-12-01 16:27:06,239 - WARNING - Timeout waiting for company element
+2024-12-01 16:27:06,415 - INFO - Successfully scraped job: Senior Electrical Engineer
+2024-12-01 16:27:06,418 - INFO - Saved job: Senior Electrical Engineer - None
+2024-12-01 16:27:07,740 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/972059
