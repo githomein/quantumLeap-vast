@@ -8155,3 +8155,33 @@
 2024-12-01 18:06:42,091 - INFO - Successfully scraped job: Field Civil Engineer
 2024-12-01 18:06:42,096 - INFO - Saved job: Field Civil Engineer - None
 2024-12-01 18:06:43,384 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1005372
+2024-12-01 18:06:57,322 - WARNING - Timeout waiting for company element
+2024-12-01 18:06:57,408 - DEBUG - No additional metadata found
+2024-12-01 18:06:57,426 - INFO - Successfully scraped job: Senior QA/QC Engineer
+2024-12-01 18:06:57,433 - INFO - Saved job: Senior QA/QC Engineer - None
+2024-12-01 18:06:59,063 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/912058
+2024-12-01 18:07:01,258 - INFO - Successfully scraped job: Advanced Lead Engineer - Mechanical Component
+2024-12-01 18:07:01,262 - INFO - Saved job: Advanced Lead Engineer - Mechanical Component - GE Renewable Energy Power and Aviation
+2024-12-01 18:07:02,403 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/983822
+2024-12-01 18:07:05,479 - INFO - Successfully scraped job: Graduate Civil or Structural Engineer Renewable Energy - Edinburgh, Glasgow or Bristol - start date August 25 onwards
+2024-12-01 18:07:05,483 - INFO - Saved job: Graduate Civil or Structural Engineer Renewable Energy - Edinburgh, Glasgow or Bristol - start date August 25 onwards - AECOM
+2024-12-01 18:07:07,314 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/983814
+2024-12-01 18:07:10,960 - INFO - Successfully scraped job: Senior / Principal Mechanical Handling Engineer - Nuclear
+2024-12-01 18:07:10,964 - INFO - Saved job: Senior / Principal Mechanical Handling Engineer - Nuclear - AtkinsRéalis
+2024-12-01 18:07:12,683 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/984154
+2024-12-01 18:07:25,965 - WARNING - Timeout waiting for company element
+2024-12-01 18:07:26,141 - INFO - Successfully scraped job: Project Manager / Project Engineer
+2024-12-01 18:07:26,144 - INFO - Saved job: Project Manager / Project Engineer - None
+2024-12-01 18:07:27,957 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/954285
+2024-12-01 18:07:30,119 - INFO - Successfully scraped job: Front End Sales Engineer - Drive Products
+2024-12-01 18:07:30,126 - INFO - Saved job: Front End Sales Engineer - Drive Products - ABB
+2024-12-01 18:07:32,107 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/875437
+2024-12-01 18:07:35,894 - INFO - Successfully scraped job: Nuclear Safety Engineer
+2024-12-01 18:07:35,899 - INFO - Saved job: Nuclear Safety Engineer - AtkinsRéalis
+2024-12-01 18:07:37,397 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1005142
+2024-12-01 18:07:40,582 - INFO - Successfully scraped job: Sr. Application Engineer - ASA
+2024-12-01 18:07:40,585 - INFO - Saved job: Sr. Application Engineer - ASA - Weatherford
+2024-12-01 18:07:42,532 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1005130
+2024-12-01 18:07:45,125 - INFO - Successfully scraped job: Principal Rolling Stock Engineer - Structures
+2024-12-01 18:07:45,131 - INFO - Saved job: Principal Rolling Stock Engineer - Structures - AtkinsRéalis
+2024-12-01 18:07:46,540 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005100
