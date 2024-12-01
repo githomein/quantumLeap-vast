@@ -7988,3 +7988,41 @@
 2024-12-01 18:08:39,811 - INFO - Successfully scraped job: Process Engineer
 2024-12-01 18:08:39,815 - INFO - Saved job: Process Engineer - Shell
 2024-12-01 18:08:41,414 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005824
+2024-12-01 18:08:54,693 - WARNING - Timeout waiting for company element
+2024-12-01 18:08:54,803 - DEBUG - No additional metadata found
+2024-12-01 18:08:54,818 - INFO - Successfully scraped job: System Control Instrumentation Engineer
+2024-12-01 18:08:54,824 - INFO - Saved job: System Control Instrumentation Engineer - None
+2024-12-01 18:08:56,140 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/955867
+2024-12-01 18:08:59,393 - INFO - Successfully scraped job: Gas Field Service Engineer
+2024-12-01 18:08:59,397 - INFO - Saved job: Gas Field Service Engineer - Honeywell
+2024-12-01 18:09:01,112 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/892543
+2024-12-01 18:09:03,770 - INFO - Successfully scraped job: Avionics Embedded Software Lead Engineer - FLRAA
+2024-12-01 18:09:03,775 - INFO - Saved job: Avionics Embedded Software Lead Engineer - FLRAA - GE Renewable Energy Power and Aviation
+2024-12-01 18:09:05,585 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/893032
+2024-12-01 18:09:08,398 - INFO - Successfully scraped job: Military DOD SkillBridge Internship- Test System Operations/Engine & Component Test
+2024-12-01 18:09:08,403 - INFO - Saved job: Military DOD SkillBridge Internship- Test System Operations/Engine & Component Test - GE Renewable Energy Power and Aviation
+2024-12-01 18:09:10,107 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/861196
+2024-12-01 18:09:12,544 - INFO - Successfully scraped job: GE Aerospace Engines Engineering Intern - Fall 2025
+2024-12-01 18:09:12,547 - INFO - Saved job: GE Aerospace Engines Engineering Intern - Fall 2025 - GE Renewable Energy Power and Aviation
+2024-12-01 18:09:14,139 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/956350
+2024-12-01 18:09:16,046 - INFO - Successfully scraped job: Lead Software Engineer
+2024-12-01 18:09:16,050 - INFO - Saved job: Lead Software Engineer - GE Renewable Energy Power and Aviation
+2024-12-01 18:09:17,887 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/913432
+2024-12-01 18:09:20,689 - INFO - Successfully scraped job: QA Engineer
+2024-12-01 18:09:20,693 - INFO - Saved job: QA Engineer - GE Renewable Energy Power and Aviation
+2024-12-01 18:09:21,765 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/862677
+2024-12-01 18:09:25,410 - INFO - Successfully scraped job: GE9X High Pressure Turbine (HPT) Stage 1 Blade- Advanced Lead Engineer
+2024-12-01 18:09:25,415 - INFO - Saved job: GE9X High Pressure Turbine (HPT) Stage 1 Blade- Advanced Lead Engineer - GE Renewable Energy Power and Aviation
+2024-12-01 18:09:27,027 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/956501
+2024-12-01 18:09:29,670 - INFO - Successfully scraped job: Service & Commissioning Engineer
+2024-12-01 18:09:29,675 - INFO - Saved job: Service & Commissioning Engineer - NOV
+2024-12-01 18:09:31,227 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/984932
+2024-12-01 18:09:33,323 - INFO - Successfully scraped job: Senior Electrical Engineer
+2024-12-01 18:09:33,327 - INFO - Saved job: Senior Electrical Engineer - AtkinsRéalis
+2024-12-01 18:09:34,360 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005737
+2024-12-01 18:09:37,108 - INFO - Successfully scraped job: Field Service Engineer - BMS
+2024-12-01 18:09:37,111 - INFO - Saved job: Field Service Engineer - BMS - Honeywell
+2024-12-01 18:09:38,553 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005670
+2024-12-01 18:09:40,638 - INFO - Successfully scraped job: Electricity - Style Creation Support Engineer
+2024-12-01 18:09:40,642 - INFO - Saved job: Electricity - Style Creation Support Engineer - Honeywell
+2024-12-01 18:09:42,046 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/science-or-research-jobs/1005642
