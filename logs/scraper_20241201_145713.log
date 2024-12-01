@@ -2876,3 +2876,32 @@
 2024-12-01 16:05:37,389 - INFO - Successfully scraped job: Field Service Engineer
 2024-12-01 16:05:37,392 - INFO - Saved job: Field Service Engineer - ABB
 2024-12-01 16:05:38,490 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1004190
+2024-12-01 16:05:51,251 - WARNING - Timeout waiting for company element
+2024-12-01 16:05:51,389 - INFO - Successfully scraped job: Lead Mechanical Engineer
+2024-12-01 16:05:51,392 - INFO - Saved job: Lead Mechanical Engineer - None
+2024-12-01 16:05:53,153 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1004185
+2024-12-01 16:06:06,602 - WARNING - Timeout waiting for company element
+2024-12-01 16:06:06,799 - INFO - Successfully scraped job: Senior Electrical Engineer
+2024-12-01 16:06:06,801 - INFO - Saved job: Senior Electrical Engineer - None
+2024-12-01 16:06:07,965 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1004166
+2024-12-01 16:06:11,555 - INFO - Successfully scraped job: Machinery Rotating Engineer
+2024-12-01 16:06:11,558 - INFO - Saved job: Machinery Rotating Engineer - Shell
+2024-12-01 16:06:12,656 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/oil-rig-jobs/1004099
+2024-12-01 16:06:26,584 - WARNING - Timeout waiting for company element
+2024-12-01 16:06:26,671 - DEBUG - No additional metadata found
+2024-12-01 16:06:26,685 - INFO - Successfully scraped job: Electrical Engineer (Resident)
+2024-12-01 16:06:26,689 - INFO - Saved job: Electrical Engineer (Resident) - None
+2024-12-01 16:06:27,781 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/952658
+2024-12-01 16:06:29,604 - INFO - Successfully scraped job: Automation Engineer (Power Systems)
+2024-12-01 16:06:29,607 - INFO - Saved job: Automation Engineer (Power Systems) - Caterpillar
+2024-12-01 16:06:31,338 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/952528
+2024-12-01 16:06:34,083 - INFO - Successfully scraped job: Mine Engineer II
+2024-12-01 16:06:34,086 - INFO - Saved job: Mine Engineer II - Asarco LLC
+2024-12-01 16:06:35,864 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/952513
+2024-12-01 16:06:38,540 - INFO - Successfully scraped job: Project Engineer, Renewable Engineering (Solar)
+2024-12-01 16:06:38,542 - INFO - Saved job: Project Engineer, Renewable Engineering (Solar) - Invenergy LLC
+2024-12-01 16:06:40,407 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/952494
+2024-12-01 16:06:43,140 - DEBUG - No additional metadata found
+2024-12-01 16:06:43,154 - INFO - Successfully scraped job: Electrical Engineer - Solar PV Specialty
+2024-12-01 16:06:43,157 - INFO - Saved job: Electrical Engineer - Solar PV Specialty - River City Paving
+2024-12-01 16:06:44,361 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/952457

@@ -3225,3 +3225,25 @@
 2024-12-01 16:05:39,534 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/1004851
 2024-12-01 16:05:42,144 - INFO - Successfully scraped job: Satellite Mechanical and Thermal Engineer
 2024-12-01 16:05:42,147 - INFO - Saved job: Satellite Mechanical and Thermal Engineer - EUTELSAT SA
+2024-12-01 16:05:44,003 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/981417
+2024-12-01 16:05:47,555 - INFO - Successfully scraped job: Engineer II | Renewable Generation Engineering
+2024-12-01 16:05:47,557 - INFO - Saved job: Engineer II | Renewable Generation Engineering - Arizona Public Service
+2024-12-01 16:05:49,088 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/892440
+2024-12-01 16:05:52,791 - INFO - Successfully scraped job: Construction Field Engineer - Oil, Gas, & Chemical
+2024-12-01 16:05:52,794 - INFO - Saved job: Construction Field Engineer - Oil, Gas, & Chemical - Kiewit
+2024-12-01 16:05:54,780 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/981645
+2024-12-01 16:06:08,091 - WARNING - Timeout waiting for company element
+2024-12-01 16:06:08,191 - INFO - Successfully scraped job: Static Equipment Engineer
+2024-12-01 16:06:08,194 - INFO - Saved job: Static Equipment Engineer - None
+2024-12-01 16:06:09,330 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/981768
+2024-12-01 16:06:23,263 - WARNING - Timeout waiting for company element
+2024-12-01 16:06:23,363 - INFO - Successfully scraped job: Crane / Mechanical Preparation Engineer M/F
+2024-12-01 16:06:23,366 - INFO - Saved job: Crane / Mechanical Preparation Engineer M/F - None
+2024-12-01 16:06:24,373 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/981803
+2024-12-01 16:06:37,376 - WARNING - Timeout waiting for company element
+2024-12-01 16:06:37,472 - INFO - Successfully scraped job: Asset Integrity Engineer M/F
+2024-12-01 16:06:37,474 - INFO - Saved job: Asset Integrity Engineer M/F - None
+2024-12-01 16:06:38,751 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/911700
+2024-12-01 16:06:42,500 - INFO - Successfully scraped job: Supplier Quality Engineer
+2024-12-01 16:06:42,503 - INFO - Saved job: Supplier Quality Engineer - ABB
+2024-12-01 16:06:44,366 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/911711
