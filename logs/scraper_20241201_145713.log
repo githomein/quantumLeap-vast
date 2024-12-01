@@ -3968,3 +3968,46 @@
 2024-12-01 16:30:08,087 - INFO - Successfully scraped job: Senior Cementing Engineer
 2024-12-01 16:30:08,091 - INFO - Saved job: Senior Cementing Engineer - None
 2024-12-01 16:30:09,142 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/general-management-jobs/995864
+2024-12-01 16:30:13,049 - INFO - Successfully scraped job: Quality Assurance Engineer
+2024-12-01 16:30:13,052 - INFO - Saved job: Quality Assurance Engineer - NOV
+2024-12-01 16:30:14,789 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/959873
+2024-12-01 16:30:17,063 - DEBUG - No additional metadata found
+2024-12-01 16:30:17,077 - INFO - Successfully scraped job: Electrical Engineer 6- Power Systems Analyst
+2024-12-01 16:30:17,080 - INFO - Saved job: Electrical Engineer 6- Power Systems Analyst - CDM Smith
+2024-12-01 16:30:18,131 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/970720
+2024-12-01 16:30:21,828 - INFO - Successfully scraped job: Principal Energy Engineer / Project Manager, Site Services
+2024-12-01 16:30:21,832 - INFO - Saved job: Principal Energy Engineer / Project Manager, Site Services - F. Hoffmann-La Roche Ltd
+2024-12-01 16:30:23,269 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/959868
+2024-12-01 16:30:25,361 - INFO - Successfully scraped job: HVAC Engineer Consultant - Nuclear Projects
+2024-12-01 16:30:25,364 - INFO - Saved job: HVAC Engineer Consultant - Nuclear Projects - Sargent & Lundy
+2024-12-01 16:30:26,406 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/962917
+2024-12-01 16:30:29,117 - INFO - Successfully scraped job: 2025 Gas Engineering Co-op
+2024-12-01 16:30:29,119 - INFO - Saved job: 2025 Gas Engineering Co-op - Eversource Energy
+2024-12-01 16:30:30,322 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/959462
+2024-12-01 16:30:33,935 - INFO - Successfully scraped job: Project Controls Engineer, Energy Storage
+2024-12-01 16:30:33,938 - INFO - Saved job: Project Controls Engineer, Energy Storage - PRIMORIS USA
+2024-12-01 16:30:35,304 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/968844
+2024-12-01 16:30:38,634 - DEBUG - No additional metadata found
+2024-12-01 16:30:38,650 - INFO - Successfully scraped job: Power Systems Engineering Consultant - 3-Month Contract On Site/Hybrid
+2024-12-01 16:30:38,653 - INFO - Saved job: Power Systems Engineering Consultant - 3-Month Contract On Site/Hybrid - MWResource, Inc.
+2024-12-01 16:30:39,965 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/964717
+2024-12-01 16:30:42,196 - INFO - Successfully scraped job: Regional Engineering Manager - Kiewit Power Engineering
+2024-12-01 16:30:42,199 - INFO - Saved job: Regional Engineering Manager - Kiewit Power Engineering - Kiewit
+2024-12-01 16:30:44,190 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/970666
+2024-12-01 16:30:46,266 - INFO - Successfully scraped job: Regional Project Manager - Kiewit Power Engineering
+2024-12-01 16:30:46,272 - INFO - Saved job: Regional Project Manager - Kiewit Power Engineering - Kiewit
+2024-12-01 16:30:48,009 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/964721
+2024-12-01 16:30:51,707 - INFO - Successfully scraped job: Commissioning Estimator - Kiewit Power Engineering
+2024-12-01 16:30:51,710 - INFO - Saved job: Commissioning Estimator - Kiewit Power Engineering - Kiewit
+2024-12-01 16:30:53,520 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/957826
+2024-12-01 16:30:56,167 - INFO - Successfully scraped job: Structural Design Engineer - Solar
+2024-12-01 16:30:56,169 - INFO - Saved job: Structural Design Engineer - Solar - Valmont Industries, Inc.
+2024-12-01 16:30:57,627 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/959840
+2024-12-01 16:31:01,271 - INFO - Successfully scraped job: Energy Engineer
+2024-12-01 16:31:01,274 - INFO - Saved job: Energy Engineer - Leidos
+2024-12-01 16:31:02,855 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/959325
+2024-12-01 16:31:06,505 - INFO - Successfully scraped job: Lead Renewable Energy Engineer - Solar
+2024-12-01 16:31:06,508 - INFO - Saved job: Lead Renewable Energy Engineer - Solar - Arcadis
+2024-12-01 16:31:08,450 - INFO - Collected 880 jobs so far
+2024-12-01 16:31:08,450 - INFO - Scraping page 45 of 389
+2024-12-01 16:31:11,359 - INFO - Getting job links from current page

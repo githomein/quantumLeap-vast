@@ -4281,3 +4281,34 @@
 2024-12-01 16:30:10,746 - INFO - Successfully scraped job: Senior Nuclear Safety Engineer
 2024-12-01 16:30:10,750 - INFO - Saved job: Senior Nuclear Safety Engineer - AtkinsRéalis
 2024-12-01 16:30:11,895 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/996332
+2024-12-01 16:30:14,350 - INFO - Successfully scraped job: Senior Dry Utilities Engineer
+2024-12-01 16:30:14,353 - INFO - Saved job: Senior Dry Utilities Engineer - AtkinsRéalis
+2024-12-01 16:30:15,826 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/996267
+2024-12-01 16:30:28,063 - WARNING - Timeout waiting for company element
+2024-12-01 16:30:28,182 - INFO - Successfully scraped job: Facilities Engineer
+2024-12-01 16:30:28,186 - INFO - Saved job: Facilities Engineer - None
+2024-12-01 16:30:29,766 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/996241
+2024-12-01 16:30:43,812 - WARNING - Timeout waiting for company element
+2024-12-01 16:30:43,906 - DEBUG - No additional metadata found
+2024-12-01 16:30:43,920 - INFO - Successfully scraped job: Senior Facilities Engineer
+2024-12-01 16:30:43,923 - INFO - Saved job: Senior Facilities Engineer - None
+2024-12-01 16:30:45,141 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/970824
+2024-12-01 16:30:47,132 - INFO - Successfully scraped job: HVAC Service Engineer
+2024-12-01 16:30:47,135 - INFO - Saved job: HVAC Service Engineer - Johnson Controls
+2024-12-01 16:30:48,994 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/849739
+2024-12-01 16:30:52,125 - INFO - Successfully scraped job: Drilling Engineer
+2024-12-01 16:30:52,128 - INFO - Saved job: Drilling Engineer - Weatherford
+2024-12-01 16:30:53,312 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/923131
+2024-12-01 16:30:57,125 - INFO - Successfully scraped job: Senior Technical Safety Engineer
+2024-12-01 16:30:57,129 - INFO - Saved job: Senior Technical Safety Engineer - Wood PLC
+2024-12-01 16:30:58,876 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/883048
+2024-12-01 16:31:01,679 - INFO - Successfully scraped job: Civil Engineering Manager
+2024-12-01 16:31:01,681 - INFO - Saved job: Civil Engineering Manager - AtkinsRéalis
+2024-12-01 16:31:03,046 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/environmental-jobs/995955
+2024-12-01 16:31:06,569 - INFO - Successfully scraped job: Environmental Engineer - Agg/Mining Operations | San Antonio, TX
+2024-12-01 16:31:06,572 - INFO - Saved job: Environmental Engineer - Agg/Mining Operations | San Antonio, TX - Martin Marietta
+2024-12-01 16:31:07,603 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/environmental-jobs/995921
+2024-12-01 16:31:10,134 - DEBUG - No additional metadata found
+2024-12-01 16:31:10,149 - INFO - Successfully scraped job: Environmental/Civil Engineer - Renewable Energy
+2024-12-01 16:31:10,159 - INFO - Saved job: Environmental/Civil Engineer - Renewable Energy - Sólida Energías Renovables SL
+2024-12-01 16:31:11,948 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/995889
