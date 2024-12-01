@@ -4959,3 +4959,26 @@
 2024-12-01 16:53:30,721 - INFO - Successfully scraped job: Principal Engineer - Control System
 2024-12-01 16:53:30,723 - INFO - Saved job: Principal Engineer - Control System - None
 2024-12-01 16:53:32,252 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/960771
+2024-12-01 16:53:45,656 - WARNING - Timeout waiting for company element
+2024-12-01 16:53:45,814 - INFO - Successfully scraped job: Senior Principal Engineer - Control System
+2024-12-01 16:53:45,816 - INFO - Saved job: Senior Principal Engineer - Control System - None
+2024-12-01 16:53:47,354 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/960725
+2024-12-01 16:54:00,745 - WARNING - Timeout waiting for company element
+2024-12-01 16:54:00,876 - INFO - Successfully scraped job: Senior Engineer Instrumentation
+2024-12-01 16:54:00,878 - INFO - Saved job: Senior Engineer Instrumentation - None
+2024-12-01 16:54:02,369 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/960777
+2024-12-01 16:54:16,254 - WARNING - Timeout waiting for company element
+2024-12-01 16:54:16,389 - INFO - Successfully scraped job: Contract Engineer
+2024-12-01 16:54:16,391 - INFO - Saved job: Contract Engineer - None
+2024-12-01 16:54:17,868 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/960349
+2024-12-01 16:54:20,539 - DEBUG - No additional metadata found
+2024-12-01 16:54:20,553 - INFO - Successfully scraped job: Principal Engineer - Test CTH
+2024-12-01 16:54:20,556 - INFO - Saved job: Principal Engineer - Test CTH - GE Renewable Energy Power and Aviation
+2024-12-01 16:54:22,006 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/960239
+2024-12-01 16:54:24,600 - INFO - Successfully scraped job: Senior Clean Water Process Engineer
+2024-12-01 16:54:24,602 - INFO - Saved job: Senior Clean Water Process Engineer - AtkinsRéalis
+2024-12-01 16:54:26,076 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005913
+2024-12-01 16:54:39,293 - WARNING - Timeout waiting for company element
+2024-12-01 16:54:39,542 - INFO - Successfully scraped job: Principle Subsea Engineer
+2024-12-01 16:54:39,546 - INFO - Saved job: Principle Subsea Engineer - None
+2024-12-01 16:54:41,493 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005906

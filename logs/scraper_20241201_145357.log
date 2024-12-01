@@ -5209,3 +5209,27 @@
 2024-12-01 16:53:41,246 - INFO - Successfully scraped job: SENIOR ENVIRONMENT MANGEMENT SYSTEM ENGINEER
 2024-12-01 16:53:41,249 - INFO - Saved job: SENIOR ENVIRONMENT MANGEMENT SYSTEM ENGINEER - None
 2024-12-01 16:53:42,463 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/853905
+2024-12-01 16:53:45,580 - INFO - Successfully scraped job: Senior Engineer - FPGA Design
+2024-12-01 16:53:45,583 - INFO - Saved job: Senior Engineer - FPGA Design - GE Renewable Energy Power and Aviation
+2024-12-01 16:53:46,807 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/964261
+2024-12-01 16:53:49,778 - INFO - Successfully scraped job: DevOps Engineer II
+2024-12-01 16:53:49,781 - INFO - Saved job: DevOps Engineer II - Honeywell
+2024-12-01 16:53:51,745 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/964097
+2024-12-01 16:53:54,761 - INFO - Successfully scraped job: Field Service Engineer
+2024-12-01 16:53:54,764 - INFO - Saved job: Field Service Engineer - ABB
+2024-12-01 16:53:56,375 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/987878
+2024-12-01 16:54:09,605 - WARNING - Timeout waiting for company element
+2024-12-01 16:54:09,736 - INFO - Successfully scraped job: Sr. Process Control Engineer
+2024-12-01 16:54:09,739 - INFO - Saved job: Sr. Process Control Engineer - None
+2024-12-01 16:54:11,221 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/818327
+2024-12-01 16:54:23,766 - WARNING - Timeout waiting for company element
+2024-12-01 16:54:23,881 - INFO - Successfully scraped job: Principal Offshore Structural Engineer
+2024-12-01 16:54:23,884 - INFO - Saved job: Principal Offshore Structural Engineer - None
+2024-12-01 16:54:25,304 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/910534
+2024-12-01 16:54:38,576 - WARNING - Timeout waiting for company element
+2024-12-01 16:54:38,832 - INFO - Successfully scraped job: Principal Civil Engineer
+2024-12-01 16:54:38,837 - INFO - Saved job: Principal Civil Engineer - None
+2024-12-01 16:54:40,616 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/987649
+2024-12-01 16:54:43,832 - INFO - Successfully scraped job: Safety Assurance Engineer
+2024-12-01 16:54:43,835 - INFO - Saved job: Safety Assurance Engineer - AtkinsRéalis
+2024-12-01 16:54:45,222 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/820694
