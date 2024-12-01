@@ -6465,3 +6465,39 @@
 2024-12-01 17:24:28,689 - INFO - Successfully extracted 20 job links
 2024-12-01 17:24:28,689 - INFO - Found 20 jobs on page 72
 2024-12-01 17:24:28,689 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/818920
+2024-12-01 17:24:42,567 - WARNING - Timeout waiting for company element
+2024-12-01 17:24:42,720 - INFO - Successfully scraped job: Hydrogen and Ammonia Process Engineer F/H
+2024-12-01 17:24:42,725 - INFO - Saved job: Hydrogen and Ammonia Process Engineer F/H - None
+2024-12-01 17:24:44,285 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/975639
+2024-12-01 17:24:46,290 - INFO - Successfully scraped job: Lead Field Service Engineer
+2024-12-01 17:24:46,293 - INFO - Saved job: Lead Field Service Engineer - Honeywell
+2024-12-01 17:24:47,580 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/925393
+2024-12-01 17:24:50,978 - INFO - Successfully scraped job: Senior Safety Engineering Analyst
+2024-12-01 17:24:50,981 - INFO - Saved job: Senior Safety Engineering Analyst - AtkinsRéalis
+2024-12-01 17:24:52,177 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/925492
+2024-12-01 17:24:54,870 - INFO - Successfully scraped job: Senior Engineer - Subsea Pipeline
+2024-12-01 17:24:54,874 - INFO - Saved job: Senior Engineer - Subsea Pipeline - Wood PLC
+2024-12-01 17:24:56,241 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1000032
+2024-12-01 17:24:59,271 - INFO - Successfully scraped job: Nuclear Eng III or Senior Nuclear Engineer - I&C Brunswick Nuclear Plant
+2024-12-01 17:24:59,275 - INFO - Saved job: Nuclear Eng III or Senior Nuclear Engineer - I&C Brunswick Nuclear Plant - Duke Energy Corporation
+2024-12-01 17:25:00,384 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/935958
+2024-12-01 17:25:02,923 - INFO - Successfully scraped job: Water Treatment Design / Process Engineer
+2024-12-01 17:25:02,926 - INFO - Saved job: Water Treatment Design / Process Engineer - Keller Associates, Inc.
+2024-12-01 17:25:04,383 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/935836
+2024-12-01 17:25:07,100 - INFO - Successfully scraped job: Water/Wastewater Engineer
+2024-12-01 17:25:07,104 - INFO - Saved job: Water/Wastewater Engineer - HDR
+2024-12-01 17:25:08,829 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/975330
+2024-12-01 17:25:12,503 - INFO - Successfully scraped job: Wastewater Engineer
+2024-12-01 17:25:12,506 - INFO - Saved job: Wastewater Engineer - HDR
+2024-12-01 17:25:13,672 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/935702
+2024-12-01 17:25:17,271 - INFO - Successfully scraped job: Summer 2025 Internship - Electrical and Pulsed Power Engineering
+2024-12-01 17:25:17,275 - INFO - Saved job: Summer 2025 Internship - Electrical and Pulsed Power Engineering - Xcimer Energy
+2024-12-01 17:25:18,673 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/935504
+2024-12-01 17:25:21,608 - INFO - Successfully scraped job: Nuclear Nonproliferation Engineer
+2024-12-01 17:25:21,612 - INFO - Saved job: Nuclear Nonproliferation Engineer - Argonne National Laboratory
+2024-12-01 17:25:22,881 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/935614
+2024-12-01 17:25:25,993 - INFO - Successfully scraped job: Principal Design Engineer, Gas Insulated Switchgear (GIS)
+2024-12-01 17:25:25,997 - INFO - Saved job: Principal Design Engineer, Gas Insulated Switchgear (GIS) - Eaton
+2024-12-01 17:25:27,520 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/975315
+2024-12-01 17:25:30,755 - INFO - Successfully scraped job: Facilities Gas & Chemical Process Engineer
+2024-12-01 17:25:30,760 - INFO - Saved job: Facilities Gas & Chemical Process Engineer - Wolfspeed, Inc.

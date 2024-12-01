@@ -6195,3 +6195,63 @@
 2024-12-01 17:24:26,853 - INFO - Successfully scraped job: Assistant Process Engineer
 2024-12-01 17:24:26,857 - INFO - Saved job: Assistant Process Engineer - None
 2024-12-01 17:24:28,723 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/925535
+2024-12-01 17:24:31,849 - INFO - Successfully scraped job: Engineer II
+2024-12-01 17:24:31,853 - INFO - Saved job: Engineer II - Engie
+2024-12-01 17:24:33,188 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/925569
+2024-12-01 17:24:36,426 - INFO - Successfully scraped job: Sr PSM (Process Safety Management) Engineer
+2024-12-01 17:24:36,430 - INFO - Saved job: Sr PSM (Process Safety Management) Engineer - Honeywell
+2024-12-01 17:24:37,543 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/889727
+2024-12-01 17:24:39,910 - INFO - Successfully scraped job: Senior Civil Structural Engineer
+2024-12-01 17:24:39,913 - INFO - Saved job: Senior Civil Structural Engineer - AtkinsRéalis
+2024-12-01 17:24:41,202 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1000027
+2024-12-01 17:24:43,431 - INFO - Successfully scraped job: Nuclear Engineer III or Senior Nuclear Engineer - Digital Program Owner
+2024-12-01 17:24:43,435 - INFO - Saved job: Nuclear Engineer III or Senior Nuclear Engineer - Digital Program Owner - Duke Energy Corporation
+2024-12-01 17:24:45,192 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/999975
+2024-12-01 17:24:57,346 - WARNING - Timeout waiting for company element
+2024-12-01 17:24:57,455 - INFO - Successfully scraped job: Senior Modular Engineer - Houston
+2024-12-01 17:24:57,458 - INFO - Saved job: Senior Modular Engineer - Houston - None
+2024-12-01 17:24:58,602 - INFO - Collected 1360 jobs so far
+2024-12-01 17:24:58,602 - INFO - Scraping page 69 of 389
+2024-12-01 17:25:01,039 - INFO - Getting job links from current page
+2024-12-01 17:25:04,076 - INFO - Found 20 job cards
+2024-12-01 17:25:04,088 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/975330
+2024-12-01 17:25:04,097 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/935702
+2024-12-01 17:25:04,105 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/935504
+2024-12-01 17:25:04,114 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/935614
+2024-12-01 17:25:04,122 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/975315
+2024-12-01 17:25:04,130 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/935416
+2024-12-01 17:25:04,139 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/935276
+2024-12-01 17:25:04,147 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/935091
+2024-12-01 17:25:04,156 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/999948
+2024-12-01 17:25:04,164 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/999943
+2024-12-01 17:25:04,173 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/888977
+2024-12-01 17:25:04,182 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/888622
+2024-12-01 17:25:04,190 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/908703
+2024-12-01 17:25:04,198 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/886481
+2024-12-01 17:25:04,207 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/924789
+2024-12-01 17:25:04,216 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/886493
+2024-12-01 17:25:04,224 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/885587
+2024-12-01 17:25:04,233 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/974135
+2024-12-01 17:25:04,241 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/909185
+2024-12-01 17:25:04,251 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/974506
+2024-12-01 17:25:04,251 - INFO - Successfully extracted 20 job links
+2024-12-01 17:25:04,251 - INFO - Found 20 jobs on page 69
+2024-12-01 17:25:04,251 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/975330
+2024-12-01 17:25:07,803 - INFO - Successfully scraped job: Wastewater Engineer
+2024-12-01 17:25:07,807 - INFO - Saved job: Wastewater Engineer - HDR
+2024-12-01 17:25:09,108 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/935702
+2024-12-01 17:25:11,572 - INFO - Successfully scraped job: Summer 2025 Internship - Electrical and Pulsed Power Engineering
+2024-12-01 17:25:11,575 - INFO - Saved job: Summer 2025 Internship - Electrical and Pulsed Power Engineering - Xcimer Energy
+2024-12-01 17:25:12,685 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/935504
+2024-12-01 17:25:15,758 - INFO - Successfully scraped job: Nuclear Nonproliferation Engineer
+2024-12-01 17:25:15,761 - INFO - Saved job: Nuclear Nonproliferation Engineer - Argonne National Laboratory
+2024-12-01 17:25:16,784 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/935614
+2024-12-01 17:25:19,303 - INFO - Successfully scraped job: Principal Design Engineer, Gas Insulated Switchgear (GIS)
+2024-12-01 17:25:19,306 - INFO - Saved job: Principal Design Engineer, Gas Insulated Switchgear (GIS) - Eaton
+2024-12-01 17:25:21,065 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/975315
+2024-12-01 17:25:23,737 - INFO - Successfully scraped job: Facilities Gas & Chemical Process Engineer
+2024-12-01 17:25:23,744 - INFO - Saved job: Facilities Gas & Chemical Process Engineer - Wolfspeed, Inc.
+2024-12-01 17:25:25,164 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/935416
+2024-12-01 17:25:28,853 - INFO - Successfully scraped job: Senior Engineer - Power Plant Performance
+2024-12-01 17:25:28,856 - INFO - Saved job: Senior Engineer - Power Plant Performance - NovaSource Power
+2024-12-01 17:25:30,218 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/935276
