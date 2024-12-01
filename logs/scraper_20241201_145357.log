@@ -14974,3 +14974,22 @@
 2024-12-01 20:47:21,964 - INFO - Successfully scraped job: Senior Electrical Engineer (oil/ Gas
 2024-12-01 20:47:21,970 - INFO - Saved job: Senior Electrical Engineer (oil/ Gas - None
 2024-12-01 20:47:23,573 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/820340
+2024-12-01 20:47:36,321 - WARNING - Timeout waiting for company element
+2024-12-01 20:47:36,414 - INFO - Successfully scraped job: Process Engineer (epc Oil/gas Commissioning)
+2024-12-01 20:47:36,419 - INFO - Saved job: Process Engineer (epc Oil/gas Commissioning) - None
+2024-12-01 20:47:38,120 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/820348
+2024-12-01 20:47:50,916 - WARNING - Timeout waiting for company element
+2024-12-01 20:47:51,013 - INFO - Successfully scraped job: Instrumentation Engineer (epc Oil/gas Commissioning)
+2024-12-01 20:47:51,023 - INFO - Saved job: Instrumentation Engineer (epc Oil/gas Commissioning) - None
+2024-12-01 20:47:53,009 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/820317
+2024-12-01 20:48:05,645 - WARNING - Timeout waiting for company element
+2024-12-01 20:48:05,742 - INFO - Successfully scraped job: Senior Process Engineer (epc Oil/gas Offshore)
+2024-12-01 20:48:05,750 - INFO - Saved job: Senior Process Engineer (epc Oil/gas Offshore) - None
+2024-12-01 20:48:06,830 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/820318
+2024-12-01 20:48:20,532 - WARNING - Timeout waiting for company element
+2024-12-01 20:48:20,650 - INFO - Successfully scraped job: Sr. Construction Engineers (epc Oil/gas Offshore)
+2024-12-01 20:48:20,656 - INFO - Saved job: Sr. Construction Engineers (epc Oil/gas Offshore) - None
+2024-12-01 20:48:21,928 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/820288
+2024-12-01 20:48:34,350 - WARNING - Timeout waiting for company element
+2024-12-01 20:48:34,504 - INFO - Successfully scraped job: Piping Qc Welding Engineer (oil/ Gas)
+2024-12-01 20:48:34,510 - INFO - Saved job: Piping Qc Welding Engineer (oil/ Gas) - None
