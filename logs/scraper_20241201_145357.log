@@ -12386,3 +12386,31 @@
 2024-12-01 19:43:27,701 - INFO - Successfully extracted 20 job links
 2024-12-01 19:43:27,702 - INFO - Found 20 jobs on page 137
 2024-12-01 19:43:27,702 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/820351
+2024-12-01 19:43:41,081 - WARNING - Timeout waiting for company element
+2024-12-01 19:43:41,155 - INFO - Successfully scraped job: Senior Electrical Engineer (epc Oil/gas Commissioning)
+2024-12-01 19:43:41,161 - INFO - Saved job: Senior Electrical Engineer (epc Oil/gas Commissioning) - None
+2024-12-01 19:43:42,460 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/820341
+2024-12-01 19:43:54,679 - WARNING - Timeout waiting for company element
+2024-12-01 19:43:54,792 - INFO - Successfully scraped job: Senior Offshore Structural Engineer (epc Oil/gas Commissioning)
+2024-12-01 19:43:54,798 - INFO - Saved job: Senior Offshore Structural Engineer (epc Oil/gas Commissioning) - None
+2024-12-01 19:43:56,423 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/896513
+2024-12-01 19:44:10,294 - WARNING - Timeout waiting for company element
+2024-12-01 19:44:10,422 - INFO - Successfully scraped job: Electrical/instrumentation Engineer
+2024-12-01 19:44:10,429 - INFO - Saved job: Electrical/instrumentation Engineer - None
+2024-12-01 19:44:11,520 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/995647
+2024-12-01 19:44:14,232 - INFO - Successfully scraped job: Thermal Engineering Manager
+2024-12-01 19:44:14,237 - INFO - Saved job: Thermal Engineering Manager - Varda Space Industries
+2024-12-01 19:44:15,729 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/995661
+2024-12-01 19:44:18,400 - INFO - Successfully scraped job: HVAC Building Engineer
+2024-12-01 19:44:18,405 - INFO - Saved job: HVAC Building Engineer - CBRE
+2024-12-01 19:44:19,548 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/995625
+2024-12-01 19:44:22,270 - INFO - Successfully scraped job: HVAC Building Engineer (Mobile)
+2024-12-01 19:44:22,275 - INFO - Saved job: HVAC Building Engineer (Mobile) - CBRE
+2024-12-01 19:44:23,530 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/995073
+2024-12-01 19:44:25,836 - DEBUG - No additional metadata found
+2024-12-01 19:44:25,850 - INFO - Successfully scraped job: Kiewit Nuclear Solutions-EPC Project Engineer-Lenexa, KS
+2024-12-01 19:44:25,855 - INFO - Saved job: Kiewit Nuclear Solutions-EPC Project Engineer-Lenexa, KS - Kiewit
+2024-12-01 19:44:27,159 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/995038
+2024-12-01 19:44:30,212 - INFO - Successfully scraped job: Senior Civil Engineer- Power Engineering
+2024-12-01 19:44:30,217 - INFO - Saved job: Senior Civil Engineer- Power Engineering - Kiewit
+2024-12-01 19:44:31,291 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/995042
