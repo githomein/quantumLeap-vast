@@ -2687,3 +2687,34 @@
 2024-12-01 16:00:34,316 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005342
 2024-12-01 16:00:37,661 - INFO - Successfully scraped job: Sand Control, Assoc Engineer
 2024-12-01 16:00:37,663 - INFO - Saved job: Sand Control, Assoc Engineer - Halliburton
+2024-12-01 16:00:38,784 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/983936
+2024-12-01 16:00:42,700 - INFO - Successfully scraped job: Power System Engineer Senior (DER)
+2024-12-01 16:00:42,703 - INFO - Saved job: Power System Engineer Senior (DER) - City of Austin
+2024-12-01 16:00:43,723 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/953906
+2024-12-01 16:00:46,945 - INFO - Successfully scraped job: C&I Energy Engineer, Tool Development
+2024-12-01 16:00:46,948 - INFO - Saved job: C&I Energy Engineer, Tool Development - CLEAResult
+2024-12-01 16:00:48,093 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/954412
+2024-12-01 16:00:51,559 - INFO - Successfully scraped job: Sr Software Engineer
+2024-12-01 16:00:51,562 - INFO - Saved job: Sr Software Engineer - Honeywell
+2024-12-01 16:00:52,839 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/984235
+2024-12-01 16:00:55,430 - INFO - Successfully scraped job: Principal ASIC Digital Design Engineer.
+2024-12-01 16:00:55,432 - INFO - Saved job: Principal ASIC Digital Design Engineer. - Honeywell
+2024-12-01 16:00:56,701 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/984247
+2024-12-01 16:01:00,552 - INFO - Successfully scraped job: Senior Process Engineer
+2024-12-01 16:01:00,554 - INFO - Saved job: Senior Process Engineer - Wood PLC
+2024-12-01 16:01:01,736 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/984263
+2024-12-01 16:01:03,710 - INFO - Successfully scraped job: Project Engineer - Nuclear Fluid Systems
+2024-12-01 16:01:03,712 - INFO - Saved job: Project Engineer - Nuclear Fluid Systems - Engie
+2024-12-01 16:01:05,658 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/913293
+2024-12-01 16:01:08,698 - INFO - Successfully scraped job: Engineering Delivery Platform Manager (EDP) Mexico
+2024-12-01 16:01:08,701 - INFO - Saved job: Engineering Delivery Platform Manager (EDP) Mexico - ABB
+2024-12-01 16:01:10,356 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005193
+2024-12-01 16:01:23,208 - WARNING - Timeout waiting for company element
+2024-12-01 16:01:23,279 - DEBUG - No additional metadata found
+2024-12-01 16:01:23,293 - INFO - Successfully scraped job: Facilities Engineer III
+2024-12-01 16:01:23,296 - INFO - Saved job: Facilities Engineer III - None
+2024-12-01 16:01:24,822 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1004990
+2024-12-01 16:01:38,350 - WARNING - Timeout waiting for company element
+2024-12-01 16:01:38,426 - DEBUG - No additional metadata found
+2024-12-01 16:01:38,441 - INFO - Successfully scraped job: Senior QA/QC Engineer
+2024-12-01 16:01:38,443 - INFO - Saved job: Senior QA/QC Engineer - None

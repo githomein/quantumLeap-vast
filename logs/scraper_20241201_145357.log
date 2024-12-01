@@ -3015,3 +3015,44 @@
 2024-12-01 16:00:32,981 - INFO - Successfully scraped job: Subsea Controls Engineer - TSI
 2024-12-01 16:00:32,984 - INFO - Saved job: Subsea Controls Engineer - TSI - bp
 2024-12-01 16:00:34,277 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005823
+2024-12-01 16:00:48,363 - WARNING - Timeout waiting for company element
+2024-12-01 16:00:48,536 - INFO - Successfully scraped job: Contract Engineer
+2024-12-01 16:00:48,538 - INFO - Saved job: Contract Engineer - None
+2024-12-01 16:00:49,789 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/905857
+2024-12-01 16:00:52,154 - INFO - Successfully scraped job: Compression Aerodynamics Lead Engineer
+2024-12-01 16:00:52,156 - INFO - Saved job: Compression Aerodynamics Lead Engineer - GE Renewable Energy Power and Aviation
+2024-12-01 16:00:53,889 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/878798
+2024-12-01 16:00:56,931 - INFO - Successfully scraped job: Principal Engineer - Embedded Cybersecurity - GE Aerospace Research
+2024-12-01 16:00:56,933 - INFO - Saved job: Principal Engineer - Embedded Cybersecurity - GE Aerospace Research - GE Renewable Energy Power and Aviation
+2024-12-01 16:00:58,226 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/956212
+2024-12-01 16:01:01,270 - INFO - Successfully scraped job: Applications Operations Engineer
+2024-12-01 16:01:01,273 - INFO - Saved job: Applications Operations Engineer - GE Renewable Energy Power and Aviation
+2024-12-01 16:01:02,735 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/955767
+2024-12-01 16:01:04,522 - DEBUG - No additional metadata found
+2024-12-01 16:01:04,536 - INFO - Successfully scraped job: Electrical Engineer - Substation
+2024-12-01 16:01:04,538 - INFO - Saved job: Electrical Engineer - Substation - Engie
+2024-12-01 16:01:06,442 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/955778
+2024-12-01 16:01:08,585 - INFO - Successfully scraped job: Director of Engineering
+2024-12-01 16:01:08,588 - INFO - Saved job: Director of Engineering - Engie
+2024-12-01 16:01:10,051 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/913740
+2024-12-01 16:01:11,937 - INFO - Successfully scraped job: Intermediate Project Manager in Electrical Engineering
+2024-12-01 16:01:11,940 - INFO - Saved job: Intermediate Project Manager in Electrical Engineering - AtkinsRéalis
+2024-12-01 16:01:13,093 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/867433
+2024-12-01 16:01:15,144 - INFO - Successfully scraped job: Duales Studium Elektrotechnik - Bachelor of Engineering (2025) (Niederzier, DE)
+2024-12-01 16:01:15,147 - INFO - Saved job: Duales Studium Elektrotechnik - Bachelor of Engineering (2025) (Niederzier, DE) - E.ON
+2024-12-01 16:01:16,867 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/954603
+2024-12-01 16:01:19,792 - INFO - Successfully scraped job: Postdoctoral R&D researcher in private law: Reliability and Performance Engineer, New Photovoltaic Technologies M/F
+2024-12-01 16:01:19,795 - INFO - Saved job: Postdoctoral R&D researcher in private law: Reliability and Performance Engineer, New Photovoltaic Technologies M/F - Total Energies
+2024-12-01 16:01:21,566 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/893387
+2024-12-01 16:01:23,665 - INFO - Successfully scraped job: Concrete Senior Structure Engineer
+2024-12-01 16:01:23,668 - INFO - Saved job: Concrete Senior Structure Engineer - AtkinsRéalis
+2024-12-01 16:01:25,332 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005754
+2024-12-01 16:01:27,952 - INFO - Successfully scraped job: Advanced Systems Project Engineer Intern
+2024-12-01 16:01:27,954 - INFO - Saved job: Advanced Systems Project Engineer Intern - Honeywell
+2024-12-01 16:01:29,584 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005747
+2024-12-01 16:01:31,650 - INFO - Successfully scraped job: Advanced Engineer Support Specialist
+2024-12-01 16:01:31,654 - INFO - Saved job: Advanced Engineer Support Specialist - Honeywell
+2024-12-01 16:01:32,769 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005721
+2024-12-01 16:01:36,406 - INFO - Successfully scraped job: Field Service Engineer - BMS
+2024-12-01 16:01:36,409 - INFO - Saved job: Field Service Engineer - BMS - Honeywell
+2024-12-01 16:01:38,197 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1005678
