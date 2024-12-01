@@ -6227,3 +6227,39 @@
 2024-12-01 17:19:19,062 - INFO - Successfully scraped job: Junior Logistics Engineer
 2024-12-01 17:19:19,066 - INFO - Saved job: Junior Logistics Engineer - Total Energies
 2024-12-01 17:19:20,349 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1001430
+2024-12-01 17:19:23,651 - INFO - Successfully scraped job: Power Systems Electrical Engineer
+2024-12-01 17:19:23,655 - INFO - Saved job: Power Systems Electrical Engineer - Electrical Consultants, Inc.
+2024-12-01 17:19:24,767 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1001356
+2024-12-01 17:19:28,419 - INFO - Successfully scraped job: Field Application Engineer - Energy Storage Systems (ESS)
+2024-12-01 17:19:28,423 - INFO - Saved job: Field Application Engineer - Energy Storage Systems (ESS) - Delta Electronics
+2024-12-01 17:19:30,060 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1001340
+2024-12-01 17:19:32,151 - INFO - Successfully scraped job: Senior HVAC Engineer - hybrid
+2024-12-01 17:19:32,155 - INFO - Saved job: Senior HVAC Engineer - hybrid - Jacobs
+2024-12-01 17:19:33,207 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1001338
+2024-12-01 17:19:35,398 - INFO - Successfully scraped job: Mobile Hvac Engineer (FM)
+2024-12-01 17:19:35,401 - INFO - Saved job: Mobile Hvac Engineer (FM) - Carbon60
+2024-12-01 17:19:36,576 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1001329
+2024-12-01 17:19:39,983 - INFO - Successfully scraped job: Lecturer in Gas Engineering and Renewables
+2024-12-01 17:19:39,987 - INFO - Saved job: Lecturer in Gas Engineering and Renewables - South Devon College
+2024-12-01 17:19:41,500 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001277
+2024-12-01 17:19:44,763 - INFO - Successfully scraped job: Gas Engineer
+2024-12-01 17:19:44,767 - INFO - Saved job: Gas Engineer - Sureserve
+2024-12-01 17:19:46,260 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1001210
+2024-12-01 17:19:49,808 - INFO - Successfully scraped job: Senior IT Engineer - End User Compute
+2024-12-01 17:19:49,812 - INFO - Saved job: Senior IT Engineer - End User Compute - Honeywell
+2024-12-01 17:19:50,971 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/876071
+2024-12-01 17:19:52,873 - INFO - Successfully scraped job: Lead Engineer (Automation)
+2024-12-01 17:19:52,877 - INFO - Saved job: Lead Engineer (Automation) - Bilfinger
+2024-12-01 17:19:54,484 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1001101
+2024-12-01 17:20:07,658 - WARNING - Timeout waiting for company element
+2024-12-01 17:20:07,776 - INFO - Successfully scraped job: Internship - Data & BI Engineer - F/M
+2024-12-01 17:20:07,781 - INFO - Saved job: Internship - Data & BI Engineer - F/M - None
+2024-12-01 17:20:09,406 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1001084
+2024-12-01 17:20:12,448 - INFO - Successfully scraped job: Structural Engineer
+2024-12-01 17:20:12,452 - INFO - Saved job: Structural Engineer - Vestas
+2024-12-01 17:20:13,532 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001087
+2024-12-01 17:20:15,993 - INFO - Successfully scraped job: (Lead) Technical Bid Engineer (m/w/d)
+2024-12-01 17:20:15,997 - INFO - Saved job: (Lead) Technical Bid Engineer (m/w/d) - Vestas
+2024-12-01 17:20:17,839 - INFO - Collected 1380 jobs so far
+2024-12-01 17:20:17,839 - INFO - Scraping page 70 of 384
+2024-12-01 17:20:21,500 - INFO - Getting job links from current page
