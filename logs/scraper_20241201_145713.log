@@ -9537,3 +9537,26 @@
 2024-12-01 18:42:52,965 - INFO - Successfully scraped job: Process Engineer (epc Oil/gas Commissioning)
 2024-12-01 18:42:52,969 - INFO - Saved job: Process Engineer (epc Oil/gas Commissioning) - None
 2024-12-01 18:42:54,257 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/820348
+2024-12-01 18:43:07,866 - WARNING - Timeout waiting for company element
+2024-12-01 18:43:07,969 - INFO - Successfully scraped job: Instrumentation Engineer (epc Oil/gas Commissioning)
+2024-12-01 18:43:07,973 - INFO - Saved job: Instrumentation Engineer (epc Oil/gas Commissioning) - None
+2024-12-01 18:43:09,612 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/820317
+2024-12-01 18:43:22,582 - WARNING - Timeout waiting for company element
+2024-12-01 18:43:22,699 - INFO - Successfully scraped job: Senior Process Engineer (epc Oil/gas Offshore)
+2024-12-01 18:43:22,704 - INFO - Saved job: Senior Process Engineer (epc Oil/gas Offshore) - None
+2024-12-01 18:43:24,015 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/820318
+2024-12-01 18:43:37,088 - WARNING - Timeout waiting for company element
+2024-12-01 18:43:37,173 - INFO - Successfully scraped job: Sr. Construction Engineers (epc Oil/gas Offshore)
+2024-12-01 18:43:37,178 - INFO - Saved job: Sr. Construction Engineers (epc Oil/gas Offshore) - None
+2024-12-01 18:43:38,710 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/820288
+2024-12-01 18:43:51,485 - WARNING - Timeout waiting for company element
+2024-12-01 18:43:51,601 - INFO - Successfully scraped job: Piping Qc Welding Engineer (oil/ Gas)
+2024-12-01 18:43:51,605 - INFO - Saved job: Piping Qc Welding Engineer (oil/ Gas) - None
+2024-12-01 18:43:53,238 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/995640
+2024-12-01 18:43:56,137 - INFO - Successfully scraped job: HVAC Mobile Engineer
+2024-12-01 18:43:56,141 - INFO - Saved job: HVAC Mobile Engineer - CBRE
+2024-12-01 18:43:57,163 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/995612
+2024-12-01 18:44:00,591 - DEBUG - No additional metadata found
+2024-12-01 18:44:00,609 - INFO - Successfully scraped job: ASIC Power Engineer
+2024-12-01 18:44:00,615 - INFO - Saved job: ASIC Power Engineer - Apple
+2024-12-01 18:44:01,675 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/995382
