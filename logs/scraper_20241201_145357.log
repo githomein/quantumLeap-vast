@@ -11946,3 +11946,46 @@
 2024-12-01 19:34:00,290 - INFO - Successfully scraped job: Sr Quality Engineering Technician
 2024-12-01 19:34:00,294 - INFO - Saved job: Sr Quality Engineering Technician - Honeywell
 2024-12-01 19:34:01,643 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/974097
+2024-12-01 19:34:14,384 - WARNING - Timeout waiting for company element
+2024-12-01 19:34:14,593 - INFO - Successfully scraped job: Senior Project Engineer - HVAC Safety, Cortland, NY
+2024-12-01 19:34:14,598 - INFO - Saved job: Senior Project Engineer - HVAC Safety, Cortland, NY - None
+2024-12-01 19:34:16,180 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/924685
+2024-12-01 19:34:18,283 - INFO - Successfully scraped job: Graduate Water Engineer
+2024-12-01 19:34:18,288 - INFO - Saved job: Graduate Water Engineer - AtkinsRéalis
+2024-12-01 19:34:19,715 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/844500
+2024-12-01 19:34:22,581 - INFO - Successfully scraped job: Engineering Advisor - Process Safety
+2024-12-01 19:34:22,587 - INFO - Saved job: Engineering Advisor - Process Safety - Total Energies
+2024-12-01 19:34:23,736 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/999471
+2024-12-01 19:34:27,203 - INFO - Successfully scraped job: Mobile Engineer - HVAC/Facilities Maintenance
+2024-12-01 19:34:27,208 - INFO - Saved job: Mobile Engineer - HVAC/Facilities Maintenance - CBRE
+2024-12-01 19:34:28,429 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/999465
+2024-12-01 19:34:31,868 - DEBUG - No additional metadata found
+2024-12-01 19:34:31,882 - INFO - Successfully scraped job: HVAC Mobile Engineer
+2024-12-01 19:34:31,887 - INFO - Saved job: HVAC Mobile Engineer - CBRE
+2024-12-01 19:34:33,441 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/999453
+2024-12-01 19:34:36,644 - INFO - Successfully scraped job: Lead Gas Insulated Substation Engineer
+2024-12-01 19:34:36,649 - INFO - Saved job: Lead Gas Insulated Substation Engineer - Sargent & Lundy
+2024-12-01 19:34:37,753 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/999433
+2024-12-01 19:34:41,196 - DEBUG - No additional metadata found
+2024-12-01 19:34:41,210 - INFO - Successfully scraped job: Principal Nuclear Product Mgr. - Tech, Datacenter Engineering, Power Generation Solutions
+2024-12-01 19:34:41,215 - INFO - Saved job: Principal Nuclear Product Mgr. - Tech, Datacenter Engineering, Power Generation Solutions - Amazon
+2024-12-01 19:34:42,693 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/999280
+2024-12-01 19:34:44,864 - DEBUG - No additional metadata found
+2024-12-01 19:34:44,878 - INFO - Successfully scraped job: Associate Nuclear Engineer - Salem
+2024-12-01 19:34:44,883 - INFO - Saved job: Associate Nuclear Engineer - Salem - Public Service Enterprise Group
+2024-12-01 19:34:46,717 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/999256
+2024-12-01 19:34:49,287 - INFO - Successfully scraped job: Sr. Manager, Thermal Engineering GPU
+2024-12-01 19:34:49,292 - INFO - Saved job: Sr. Manager, Thermal Engineering GPU - Advanced Micro Devices, Inc
+2024-12-01 19:34:50,769 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/999158
+2024-12-01 19:34:53,988 - INFO - Successfully scraped job: HVAC Engineer
+2024-12-01 19:34:53,992 - INFO - Saved job: HVAC Engineer - OCS Group
+2024-12-01 19:34:55,038 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/999130
+2024-12-01 19:34:58,729 - INFO - Successfully scraped job: Gas & Combustion Engineer
+2024-12-01 19:34:58,734 - INFO - Saved job: Gas & Combustion Engineer - BGIS
+2024-12-01 19:35:00,477 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/999088
+2024-12-01 19:35:03,271 - INFO - Successfully scraped job: Engineering Manager
+2024-12-01 19:35:03,275 - INFO - Saved job: Engineering Manager - NOV
+2024-12-01 19:35:04,878 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/999007
+2024-12-01 19:35:07,281 - INFO - Successfully scraped job: Installation Aerodynamics Advanced Lead Engineer
+2024-12-01 19:35:07,286 - INFO - Saved job: Installation Aerodynamics Advanced Lead Engineer - GE Renewable Energy Power and Aviation
+2024-12-01 19:35:08,685 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/971987

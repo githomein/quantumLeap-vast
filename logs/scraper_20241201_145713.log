@@ -11788,3 +11788,44 @@
 2024-12-01 19:33:59,859 - INFO - Successfully scraped job: Water Technical Engineer/Lead
 2024-12-01 19:33:59,864 - INFO - Saved job: Water Technical Engineer/Lead - None
 2024-12-01 19:34:01,074 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/973508
+2024-12-01 19:34:14,730 - WARNING - Timeout waiting for company element
+2024-12-01 19:34:14,971 - INFO - Successfully scraped job: Senior Contract Engineer
+2024-12-01 19:34:14,976 - INFO - Saved job: Senior Contract Engineer - None
+2024-12-01 19:34:16,384 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/974019
+2024-12-01 19:34:19,627 - INFO - Successfully scraped job: Senior Engineer
+2024-12-01 19:34:19,633 - INFO - Saved job: Senior Engineer - Emerson
+2024-12-01 19:34:20,639 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/973114
+2024-12-01 19:34:24,307 - INFO - Successfully scraped job: Engineering Manager - Thermal Systems Design ATO
+2024-12-01 19:34:24,311 - INFO - Saved job: Engineering Manager - Thermal Systems Design ATO - GE Renewable Energy Power and Aviation
+2024-12-01 19:34:26,049 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/973075
+2024-12-01 19:34:28,918 - INFO - Successfully scraped job: Sr Engineering Manager - SMS
+2024-12-01 19:34:28,923 - INFO - Saved job: Sr Engineering Manager - SMS - GE Renewable Energy Power and Aviation
+2024-12-01 19:34:30,333 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/908339
+2024-12-01 19:34:32,586 - INFO - Successfully scraped job: Roads Design Engineer
+2024-12-01 19:34:32,591 - INFO - Saved job: Roads Design Engineer - AtkinsRéalis
+2024-12-01 19:34:33,628 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/908292
+2024-12-01 19:34:37,059 - INFO - Successfully scraped job: Project Engineer - SCADA Systems
+2024-12-01 19:34:37,064 - INFO - Saved job: Project Engineer - SCADA Systems - ABB
+2024-12-01 19:34:38,543 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/972994
+2024-12-01 19:34:40,479 - INFO - Successfully scraped job: Senior Platform Engineer
+2024-12-01 19:34:40,484 - INFO - Saved job: Senior Platform Engineer - bp
+2024-12-01 19:34:42,151 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/999470
+2024-12-01 19:34:45,688 - INFO - Successfully scraped job: HVAC Mobile Engineer
+2024-12-01 19:34:45,693 - INFO - Saved job: HVAC Mobile Engineer - CBRE
+2024-12-01 19:34:47,243 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/999435
+2024-12-01 19:34:50,135 - INFO - Successfully scraped job: Nuclear Senior Mechanical Engineer
+2024-12-01 19:34:50,140 - INFO - Saved job: Nuclear Senior Mechanical Engineer - Westinghouse Electric Company, LLC
+2024-12-01 19:34:51,163 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/999368
+2024-12-01 19:34:54,815 - INFO - Successfully scraped job: Mining Engineering Professional - Senior
+2024-12-01 19:34:54,820 - INFO - Saved job: Mining Engineering Professional - Senior - Peabody Energy, Inc.
+2024-12-01 19:34:55,922 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/999299
+2024-12-01 19:34:58,191 - INFO - Successfully scraped job: Sr. Mechanical Power Generation Engineer
+2024-12-01 19:34:58,195 - INFO - Saved job: Sr. Mechanical Power Generation Engineer - GPD Group
+2024-12-01 19:34:59,510 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/999120
+2024-12-01 19:35:02,511 - INFO - Successfully scraped job: Senior Energy Engineer
+2024-12-01 19:35:02,516 - INFO - Saved job: Senior Energy Engineer - AECOM
+2024-12-01 19:35:03,687 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/999099
+2024-12-01 19:35:07,179 - DEBUG - No additional metadata found
+2024-12-01 19:35:07,193 - INFO - Successfully scraped job: Commercial Gas Engineer
+2024-12-01 19:35:07,198 - INFO - Saved job: Commercial Gas Engineer - Liberty Group Investments Ltd
+2024-12-01 19:35:08,337 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/998991
