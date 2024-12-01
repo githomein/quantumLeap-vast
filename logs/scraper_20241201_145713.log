@@ -12976,3 +12976,35 @@
 2024-12-01 20:05:21,974 - INFO - Successfully extracted 20 job links
 2024-12-01 20:05:21,974 - INFO - Found 20 jobs on page 143
 2024-12-01 20:05:21,974 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/963028
+2024-12-01 20:05:35,936 - WARNING - Timeout waiting for company element
+2024-12-01 20:05:36,091 - INFO - Successfully scraped job: Mechanical engineer (Utilities)
+2024-12-01 20:05:36,099 - INFO - Saved job: Mechanical engineer (Utilities) - None
+2024-12-01 20:05:37,537 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/987677
+2024-12-01 20:05:51,541 - WARNING - Timeout waiting for company element
+2024-12-01 20:05:51,649 - INFO - Successfully scraped job: Renewable Energy Project Engineer
+2024-12-01 20:05:51,656 - INFO - Saved job: Renewable Energy Project Engineer - None
+2024-12-01 20:05:53,109 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/963462
+2024-12-01 20:05:55,452 - INFO - Successfully scraped job: Embedded Software Engineer Intern (12 months) - Starting Summer 2025
+2024-12-01 20:05:55,457 - INFO - Saved job: Embedded Software Engineer Intern (12 months) - Starting Summer 2025 - Schlumberger
+2024-12-01 20:05:56,752 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/963180
+2024-12-01 20:06:00,618 - INFO - Successfully scraped job: GE Aerospace US Engineering Intern - Muskegon, MI - Summer 2025
+2024-12-01 20:06:00,623 - INFO - Saved job: GE Aerospace US Engineering Intern - Muskegon, MI - Summer 2025 - GE Renewable Energy Power and Aviation
+2024-12-01 20:06:01,794 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/846901
+2024-12-01 20:06:04,794 - INFO - Successfully scraped job: Senior Manufacturing Process Engineer
+2024-12-01 20:06:04,801 - INFO - Saved job: Senior Manufacturing Process Engineer - Exxon Mobil
+2024-12-01 20:06:06,057 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/846724
+2024-12-01 20:06:09,661 - INFO - Successfully scraped job: Senior Technical Engineer (Gas Processing / Distillation / Energy)
+2024-12-01 20:06:09,666 - INFO - Saved job: Senior Technical Engineer (Gas Processing / Distillation / Energy) - Exxon Mobil
+2024-12-01 20:06:11,225 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/848171
+2024-12-01 20:06:14,583 - INFO - Successfully scraped job: Senior Engineer - Electrical
+2024-12-01 20:06:14,587 - INFO - Saved job: Senior Engineer - Electrical - Wood PLC
+2024-12-01 20:06:16,583 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/896665
+2024-12-01 20:06:19,918 - INFO - Successfully scraped job: Graduate Electrical Engineer
+2024-12-01 20:06:19,923 - INFO - Saved job: Graduate Electrical Engineer - Wood PLC
+2024-12-01 20:06:21,256 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/848172
+2024-12-01 20:06:24,859 - INFO - Successfully scraped job: Lead Engineer - Renewables
+2024-12-01 20:06:24,864 - INFO - Saved job: Lead Engineer - Renewables - Wood PLC
+2024-12-01 20:06:26,462 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/962151
+2024-12-01 20:06:28,375 - INFO - Successfully scraped job: Mechanical Equipment Engineer
+2024-12-01 20:06:28,380 - INFO - Saved job: Mechanical Equipment Engineer - Wood PLC
+2024-12-01 20:06:29,672 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/848091
