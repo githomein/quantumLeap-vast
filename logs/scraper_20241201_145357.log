@@ -2849,3 +2849,32 @@
 2024-12-01 15:56:22,166 - INFO - Successfully scraped job: Senior Project Engineer
 2024-12-01 15:56:22,169 - INFO - Saved job: Senior Project Engineer - None
 2024-12-01 15:56:23,191 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990727
+2024-12-01 15:56:36,220 - WARNING - Timeout waiting for company element
+2024-12-01 15:56:36,395 - INFO - Successfully scraped job: Senior Digital Roll-Out Engineer
+2024-12-01 15:56:36,398 - INFO - Saved job: Senior Digital Roll-Out Engineer - None
+2024-12-01 15:56:37,426 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/oilfield-jobs/1007106
+2024-12-01 15:56:50,433 - WARNING - Timeout waiting for company element
+2024-12-01 15:56:50,589 - INFO - Successfully scraped job: Process Engineer
+2024-12-01 15:56:50,593 - INFO - Saved job: Process Engineer - None
+2024-12-01 15:56:52,271 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/915623
+2024-12-01 15:56:54,664 - INFO - Successfully scraped job: Intern - Instrumentation & Controls Engineer (July - December 2025)
+2024-12-01 15:56:54,667 - INFO - Saved job: Intern - Instrumentation & Controls Engineer (July - December 2025) - Exxon Mobil
+2024-12-01 15:56:55,888 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/846588
+2024-12-01 15:56:59,295 - INFO - Successfully scraped job: Mechanical (Project) Engineer
+2024-12-01 15:56:59,298 - INFO - Saved job: Mechanical (Project) Engineer - Chevron
+2024-12-01 15:57:00,503 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/1007035
+2024-12-01 15:57:04,236 - INFO - Successfully scraped job: Internship Production Engineering Specialist
+2024-12-01 15:57:04,239 - INFO - Saved job: Internship Production Engineering Specialist - ABB
+2024-12-01 15:57:05,790 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006969
+2024-12-01 15:57:09,058 - INFO - Successfully scraped job: Rotating Equipment Engineer - Central - TSI
+2024-12-01 15:57:09,061 - INFO - Saved job: Rotating Equipment Engineer - Central - TSI - bp
+2024-12-01 15:57:10,773 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/985954
+2024-12-01 15:57:24,756 - WARNING - Timeout waiting for company element
+2024-12-01 15:57:24,861 - INFO - Successfully scraped job: Project Engineer
+2024-12-01 15:57:24,863 - INFO - Saved job: Project Engineer - None
+2024-12-01 15:57:26,632 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/895471
+2024-12-01 15:57:28,794 - INFO - Successfully scraped job: Advanced Lead Engineer - Systems Engineer
+2024-12-01 15:57:28,796 - INFO - Saved job: Advanced Lead Engineer - Systems Engineer - GE Renewable Energy Power and Aviation
+2024-12-01 15:57:30,489 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/915230
+2024-12-01 15:57:34,176 - INFO - Successfully scraped job: Mechanical Engineering - Recent Grad/Full Time (US Person Required)
+2024-12-01 15:57:34,179 - INFO - Saved job: Mechanical Engineering - Recent Grad/Full Time (US Person Required) - Honeywell
