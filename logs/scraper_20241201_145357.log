@@ -8126,3 +8126,32 @@
 2024-12-01 18:05:41,878 - INFO - Successfully scraped job: Lead Design Quality Assurance Engineer - Dowty Propellers
 2024-12-01 18:05:41,884 - INFO - Saved job: Lead Design Quality Assurance Engineer - Dowty Propellers - GE Renewable Energy Power and Aviation
 2024-12-01 18:05:42,903 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/955516
+2024-12-01 18:05:45,097 - INFO - Successfully scraped job: Project Engineer - Water/Wastewater - Roseville
+2024-12-01 18:05:45,102 - INFO - Saved job: Project Engineer - Water/Wastewater - Roseville - Spencer Ogden
+2024-12-01 18:05:46,915 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/868239
+2024-12-01 18:05:50,042 - INFO - Successfully scraped job: SMART Meter Engineer Support Agent - Dual Fuel Newbury & Swindon (Flexible, GB)
+2024-12-01 18:05:50,046 - INFO - Saved job: SMART Meter Engineer Support Agent - Dual Fuel Newbury & Swindon (Flexible, GB) - E.ON
+2024-12-01 18:05:51,265 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/955616
+2024-12-01 18:05:54,315 - INFO - Successfully scraped job: Senior Field Service Engineer
+2024-12-01 18:05:54,319 - INFO - Saved job: Senior Field Service Engineer - ABB
+2024-12-01 18:05:55,967 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005777
+2024-12-01 18:06:09,609 - WARNING - Timeout waiting for company element
+2024-12-01 18:06:09,819 - INFO - Successfully scraped job: Senior Forensics Engineer
+2024-12-01 18:06:09,827 - INFO - Saved job: Senior Forensics Engineer - None
+2024-12-01 18:06:11,801 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1005677
+2024-12-01 18:06:14,644 - INFO - Successfully scraped job: PCB CAD Design Engineer
+2024-12-01 18:06:14,648 - INFO - Saved job: PCB CAD Design Engineer - Honeywell
+2024-12-01 18:06:15,901 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005578
+2024-12-01 18:06:18,836 - INFO - Successfully scraped job: System Design Engineer (m/f/d)
+2024-12-01 18:06:18,840 - INFO - Saved job: System Design Engineer (m/f/d) - Emerson
+2024-12-01 18:06:20,205 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005594
+2024-12-01 18:06:22,526 - INFO - Successfully scraped job: Computer System Validation Lead Engineer
+2024-12-01 18:06:22,530 - INFO - Saved job: Computer System Validation Lead Engineer - Emerson
+2024-12-01 18:06:23,666 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/1005611
+2024-12-01 18:06:26,827 - INFO - Successfully scraped job: Edison Works Manufacturing Engineering & Technology Leader
+2024-12-01 18:06:26,832 - INFO - Saved job: Edison Works Manufacturing Engineering & Technology Leader - GE Renewable Energy Power and Aviation
+2024-12-01 18:06:27,892 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1005376
+2024-12-01 18:06:41,694 - WARNING - Timeout waiting for company element
+2024-12-01 18:06:42,091 - INFO - Successfully scraped job: Field Civil Engineer
+2024-12-01 18:06:42,096 - INFO - Saved job: Field Civil Engineer - None
+2024-12-01 18:06:43,384 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1005372
