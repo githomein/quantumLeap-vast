@@ -9521,3 +9521,19 @@
 2024-12-01 18:41:57,109 - INFO - Successfully extracted 20 job links
 2024-12-01 18:41:57,109 - INFO - Found 20 jobs on page 105
 2024-12-01 18:41:57,109 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/820470
+2024-12-01 18:42:10,130 - WARNING - Timeout waiting for company element
+2024-12-01 18:42:10,230 - INFO - Successfully scraped job: Sr Preservation Engineer (oil/ Gas Commissioning)
+2024-12-01 18:42:10,236 - INFO - Saved job: Sr Preservation Engineer (oil/ Gas Commissioning) - None
+2024-12-01 18:42:11,459 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/820493
+2024-12-01 18:42:23,922 - WARNING - Timeout waiting for company element
+2024-12-01 18:42:24,013 - INFO - Successfully scraped job: Senior Electrical Engineer (epc Oil/gas Offshore)
+2024-12-01 18:42:24,017 - INFO - Saved job: Senior Electrical Engineer (epc Oil/gas Offshore) - None
+2024-12-01 18:42:25,613 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/820463
+2024-12-01 18:42:38,391 - WARNING - Timeout waiting for company element
+2024-12-01 18:42:38,520 - INFO - Successfully scraped job: Senior Electrical Engineer (oil/ Gas
+2024-12-01 18:42:38,524 - INFO - Saved job: Senior Electrical Engineer (oil/ Gas - None
+2024-12-01 18:42:39,937 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/820340
+2024-12-01 18:42:52,859 - WARNING - Timeout waiting for company element
+2024-12-01 18:42:52,965 - INFO - Successfully scraped job: Process Engineer (epc Oil/gas Commissioning)
+2024-12-01 18:42:52,969 - INFO - Saved job: Process Engineer (epc Oil/gas Commissioning) - None
+2024-12-01 18:42:54,257 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/820348
