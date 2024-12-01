@@ -7166,3 +7166,24 @@
 2024-12-01 17:47:06,797 - INFO - Successfully scraped job: Advanced Process Controls and Optimization Engineer, Borger Refinery
 2024-12-01 17:47:06,800 - INFO - Saved job: Advanced Process Controls and Optimization Engineer, Borger Refinery - Phillips 66
 2024-12-01 17:47:08,533 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990833
+2024-12-01 17:47:12,156 - INFO - Successfully scraped job: Material Planning Engineer
+2024-12-01 17:47:12,160 - INFO - Saved job: Material Planning Engineer - Wood PLC
+2024-12-01 17:47:13,662 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/990842
+2024-12-01 17:47:16,163 - INFO - Successfully scraped job: Senior Structural Engineer
+2024-12-01 17:47:16,167 - INFO - Saved job: Senior Structural Engineer - Wood PLC
+2024-12-01 17:47:17,549 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/990851
+2024-12-01 17:47:19,783 - INFO - Successfully scraped job: Senior ICSS Network Cyber Security Engineer
+2024-12-01 17:47:19,787 - INFO - Saved job: Senior ICSS Network Cyber Security Engineer - ABB
+2024-12-01 17:47:21,401 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/990782
+2024-12-01 17:47:33,962 - WARNING - Timeout waiting for company element
+2024-12-01 17:47:34,080 - INFO - Successfully scraped job: Sr Civil/Structural Engineer
+2024-12-01 17:47:34,085 - INFO - Saved job: Sr Civil/Structural Engineer - None
+2024-12-01 17:47:35,764 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990686
+2024-12-01 17:47:48,057 - WARNING - Timeout waiting for company element
+2024-12-01 17:47:48,186 - INFO - Successfully scraped job: Sr. Mechanical engineer
+2024-12-01 17:47:48,191 - INFO - Saved job: Sr. Mechanical engineer - None
+2024-12-01 17:47:49,816 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990683
+2024-12-01 17:48:01,928 - WARNING - Timeout waiting for company element
+2024-12-01 17:48:02,070 - INFO - Successfully scraped job: Senior Civil Engineer
+2024-12-01 17:48:02,074 - INFO - Saved job: Senior Civil Engineer - None
+2024-12-01 17:48:03,532 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/825375

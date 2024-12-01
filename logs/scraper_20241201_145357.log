@@ -7404,3 +7404,20 @@
 2024-12-01 17:47:06,221 - INFO - Successfully scraped job: Senior Qa/qc Engineer
 2024-12-01 17:47:06,224 - INFO - Saved job: Senior Qa/qc Engineer - None
 2024-12-01 17:47:07,538 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991232
+2024-12-01 17:47:21,076 - WARNING - Timeout waiting for company element
+2024-12-01 17:47:21,207 - INFO - Successfully scraped job: Planning Engineer (T&I)
+2024-12-01 17:47:21,211 - INFO - Saved job: Planning Engineer (T&I) - None
+2024-12-01 17:47:23,094 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991230
+2024-12-01 17:47:37,159 - WARNING - Timeout waiting for company element
+2024-12-01 17:47:37,233 - DEBUG - No additional metadata found
+2024-12-01 17:47:37,247 - INFO - Successfully scraped job: Pipeline Installation Senior Engineer Methods
+2024-12-01 17:47:37,252 - INFO - Saved job: Pipeline Installation Senior Engineer Methods - None
+2024-12-01 17:47:38,845 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/837359
+2024-12-01 17:47:52,551 - WARNING - Timeout waiting for company element
+2024-12-01 17:47:52,668 - INFO - Successfully scraped job: Graduate Process Engineer
+2024-12-01 17:47:52,673 - INFO - Saved job: Graduate Process Engineer - None
+2024-12-01 17:47:54,604 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/818719
+2024-12-01 17:48:08,550 - WARNING - Timeout waiting for company element
+2024-12-01 17:48:08,666 - INFO - Successfully scraped job: Risk Analysis Junior Engineer F/M
+2024-12-01 17:48:08,671 - INFO - Saved job: Risk Analysis Junior Engineer F/M - None
+2024-12-01 17:48:10,138 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/922344
