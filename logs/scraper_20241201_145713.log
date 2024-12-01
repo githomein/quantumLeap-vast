@@ -10902,3 +10902,42 @@
 2024-12-01 19:16:17,216 - INFO - Successfully scraped job: Technical Sales Support Engineer M/F
 2024-12-01 19:16:17,221 - INFO - Saved job: Technical Sales Support Engineer M/F - None
 2024-12-01 19:16:18,759 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1004655
+2024-12-01 19:16:22,156 - INFO - Successfully scraped job: Power Engineering Technologist I- CC
+2024-12-01 19:16:22,161 - INFO - Saved job: Power Engineering Technologist I- CC - Pike Corporation
+2024-12-01 19:16:23,568 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1004621
+2024-12-01 19:16:26,210 - INFO - Successfully scraped job: ENGINEER MANAGER-STEAM GENERATION & DISTRIBUTION
+2024-12-01 19:16:26,215 - INFO - Saved job: ENGINEER MANAGER-STEAM GENERATION & DISTRIBUTION - UAB NOVA RENT
+2024-12-01 19:16:27,737 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1004268
+2024-12-01 19:16:31,442 - INFO - Successfully scraped job: Sr Systems Performance Scalability Test Engineer
+2024-12-01 19:16:31,449 - INFO - Saved job: Sr Systems Performance Scalability Test Engineer - Honeywell
+2024-12-01 19:16:32,459 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1004311
+2024-12-01 19:16:36,365 - INFO - Successfully scraped job: Controls Engineer
+2024-12-01 19:16:36,370 - INFO - Saved job: Controls Engineer - ABB
+2024-12-01 19:16:37,484 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1004210
+2024-12-01 19:16:39,646 - INFO - Successfully scraped job: Construction Sales Engineer
+2024-12-01 19:16:39,652 - INFO - Saved job: Construction Sales Engineer - ABB
+2024-12-01 19:16:40,956 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/953394
+2024-12-01 19:16:44,303 - INFO - Successfully scraped job: Sr. Project Electrical Engineer (Energy/ Power Generation and Delivery)
+2024-12-01 19:16:44,307 - INFO - Saved job: Sr. Project Electrical Engineer (Energy/ Power Generation and Delivery) - H2M
+2024-12-01 19:16:45,309 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/953347
+2024-12-01 19:16:49,149 - INFO - Successfully scraped job: Energy Engineer
+2024-12-01 19:16:49,154 - INFO - Saved job: Energy Engineer - Leidos
+2024-12-01 19:16:50,729 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/952686
+2024-12-01 19:16:53,503 - INFO - Successfully scraped job: Power Systems Engineer
+2024-12-01 19:16:53,508 - INFO - Saved job: Power Systems Engineer - The Aerospace Corporation
+2024-12-01 19:16:55,309 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/oilfield-jobs/1003942
+2024-12-01 19:17:08,080 - WARNING - Timeout waiting for company element
+2024-12-01 19:17:08,155 - DEBUG - No additional metadata found
+2024-12-01 19:17:08,169 - INFO - Successfully scraped job: Senior Planning Engineer (Resident)
+2024-12-01 19:17:08,175 - INFO - Saved job: Senior Planning Engineer (Resident) - None
+2024-12-01 19:17:09,626 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/927980
+2024-12-01 19:17:12,096 - INFO - Successfully scraped job: Civil Engineer I - Oil and Gas
+2024-12-01 19:17:12,100 - INFO - Saved job: Civil Engineer I - Oil and Gas - KLJ
+2024-12-01 19:17:13,818 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/952448
+2024-12-01 19:17:17,527 - DEBUG - No additional metadata found
+2024-12-01 19:17:17,542 - INFO - Successfully scraped job: Principal Controls Design Engineer - Nuclear
+2024-12-01 19:17:17,546 - INFO - Saved job: Principal Controls Design Engineer - Nuclear - Public Service Enterprise Group
+2024-12-01 19:17:18,949 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/952484
+2024-12-01 19:17:22,164 - DEBUG - No additional metadata found
+2024-12-01 19:17:22,179 - INFO - Successfully scraped job: Lead Controls Systems Commissioning Engineer - BOP, Nuclear
+2024-12-01 19:17:22,183 - INFO - Saved job: Lead Controls Systems Commissioning Engineer - BOP, Nuclear - Public Service Enterprise Group
