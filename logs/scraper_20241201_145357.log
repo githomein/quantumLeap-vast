@@ -10804,3 +10804,66 @@
 2024-12-01 19:10:01,363 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006027
 2024-12-01 19:10:03,962 - INFO - Successfully scraped job: Staff Technical Support Engineer (Singapore)
 2024-12-01 19:10:03,967 - INFO - Saved job: Staff Technical Support Engineer (Singapore) - Emerson
+2024-12-01 19:10:04,987 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1006007
+2024-12-01 19:10:06,809 - INFO - Successfully scraped job: Welding Engineer
+2024-12-01 19:10:06,813 - INFO - Saved job: Welding Engineer - Subsea 7
+2024-12-01 19:10:08,611 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005947
+2024-12-01 19:10:11,981 - INFO - Successfully scraped job: Quantity Engineer/Kalkulatør
+2024-12-01 19:10:11,986 - INFO - Saved job: Quantity Engineer/Kalkulatør - Aker Solutions
+2024-12-01 19:10:13,255 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005928
+2024-12-01 19:10:15,791 - INFO - Successfully scraped job: Field Service Engineer
+2024-12-01 19:10:15,796 - INFO - Saved job: Field Service Engineer - ABB
+2024-12-01 19:10:17,189 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/956390
+2024-12-01 19:10:20,298 - INFO - Successfully scraped job: Staff Engineer - Engine Systems (Mechanical - Tech Mat)
+2024-12-01 19:10:20,303 - INFO - Saved job: Staff Engineer - Engine Systems (Mechanical - Tech Mat) - GE Renewable Energy Power and Aviation
+2024-12-01 19:10:21,814 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/893033
+2024-12-01 19:10:25,196 - INFO - Successfully scraped job: Military DOD SkillBridge Internship- Test System Operations/Engine & Component Test
+2024-12-01 19:10:25,200 - INFO - Saved job: Military DOD SkillBridge Internship- Test System Operations/Engine & Component Test - GE Renewable Energy Power and Aviation
+2024-12-01 19:10:26,611 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/956171
+2024-12-01 19:10:29,619 - INFO - Successfully scraped job: Advanced Lead Aerospace Engineer
+2024-12-01 19:10:29,626 - INFO - Saved job: Advanced Lead Aerospace Engineer - GE Renewable Energy Power and Aviation
+2024-12-01 19:10:31,547 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/907225
+2024-12-01 19:10:35,141 - INFO - Successfully scraped job: Lead Engineer - Regional & Business Aviation Fleet Management
+2024-12-01 19:10:35,145 - INFO - Saved job: Lead Engineer - Regional & Business Aviation Fleet Management - GE Renewable Energy Power and Aviation
+2024-12-01 19:10:36,801 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/900942
+2024-12-01 19:10:40,367 - INFO - Successfully scraped job: Senior Design Engineer
+2024-12-01 19:10:40,372 - INFO - Saved job: Senior Design Engineer - Engie
+2024-12-01 19:10:42,276 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/955513
+2024-12-01 19:10:44,776 - INFO - Successfully scraped job: Project/Senior Engineer - Land Development - Irvine
+2024-12-01 19:10:44,780 - INFO - Saved job: Project/Senior Engineer - Land Development - Irvine - Spencer Ogden
+2024-12-01 19:10:46,003 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/867584
+2024-12-01 19:10:49,382 - INFO - Successfully scraped job: SMART Meter Engineer Support Agent - Dual Fuel - London (Home Address, GB)
+2024-12-01 19:10:49,386 - INFO - Saved job: SMART Meter Engineer Support Agent - Dual Fuel - London (Home Address, GB) - E.ON
+2024-12-01 19:10:50,638 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005674
+2024-12-01 19:10:52,526 - INFO - Successfully scraped job: Sr. Advanced R&D Engineer Scientist - Crystallization Process
+2024-12-01 19:10:52,530 - INFO - Saved job: Sr. Advanced R&D Engineer Scientist - Crystallization Process - Honeywell
+2024-12-01 19:10:54,348 - INFO - Collected 2380 jobs so far
+2024-12-01 19:10:54,349 - INFO - Scraping page 120 of 384
+2024-12-01 19:10:58,007 - INFO - Getting job links from current page
+2024-12-01 19:11:01,041 - INFO - Found 20 job cards
+2024-12-01 19:11:01,053 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/867584
+2024-12-01 19:11:01,061 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005674
+2024-12-01 19:11:01,071 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005673
+2024-12-01 19:11:01,080 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/911672
+2024-12-01 19:11:01,088 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005584
+2024-12-01 19:11:01,097 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005571
+2024-12-01 19:11:01,106 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005560
+2024-12-01 19:11:01,115 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1005418
+2024-12-01 19:11:01,123 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/904910
+2024-12-01 19:11:01,132 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1005366
+2024-12-01 19:11:01,140 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/983959
+2024-12-01 19:11:01,149 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/983945
+2024-12-01 19:11:01,158 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/983932
+2024-12-01 19:11:01,166 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/983877
+2024-12-01 19:11:01,174 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/production-jobs/983816
+2024-12-01 19:11:01,183 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/872627
+2024-12-01 19:11:01,192 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/872967
+2024-12-01 19:11:01,201 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/954184
+2024-12-01 19:11:01,210 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005245
+2024-12-01 19:11:01,218 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005222
+2024-12-01 19:11:01,219 - INFO - Successfully extracted 20 job links
+2024-12-01 19:11:01,219 - INFO - Found 20 jobs on page 120
+2024-12-01 19:11:01,219 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/867584
+2024-12-01 19:11:04,847 - INFO - Successfully scraped job: SMART Meter Engineer Support Agent - Dual Fuel - London (Home Address, GB)
+2024-12-01 19:11:04,852 - INFO - Saved job: SMART Meter Engineer Support Agent - Dual Fuel - London (Home Address, GB) - E.ON
+2024-12-01 19:11:06,572 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005674

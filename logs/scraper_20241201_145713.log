@@ -10645,3 +10645,34 @@
 2024-12-01 19:10:01,838 - INFO - Successfully scraped job: Project Engineer
 2024-12-01 19:10:01,843 - INFO - Saved job: Project Engineer - ABB
 2024-12-01 19:10:02,955 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005584
+2024-12-01 19:10:06,216 - INFO - Successfully scraped job: Lead Engineer
+2024-12-01 19:10:06,221 - INFO - Saved job: Lead Engineer - Emerson
+2024-12-01 19:10:08,172 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005571
+2024-12-01 19:10:10,815 - INFO - Successfully scraped job: Lead Engineer - Systems Engineering
+2024-12-01 19:10:10,820 - INFO - Saved job: Lead Engineer - Systems Engineering - GE Renewable Energy Power and Aviation
+2024-12-01 19:10:12,364 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005560
+2024-12-01 19:10:16,182 - INFO - Successfully scraped job: Junior Piping Engineer
+2024-12-01 19:10:16,187 - INFO - Saved job: Junior Piping Engineer - Wood PLC
+2024-12-01 19:10:18,087 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1005418
+2024-12-01 19:10:30,591 - WARNING - Timeout waiting for company element
+2024-12-01 19:10:30,739 - INFO - Successfully scraped job: OFFSHORE STRUCTURAL ENGINEER
+2024-12-01 19:10:30,745 - INFO - Saved job: OFFSHORE STRUCTURAL ENGINEER - None
+2024-12-01 19:10:32,020 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/904910
+2024-12-01 19:10:35,495 - INFO - Successfully scraped job: Fire and Gas Engineer
+2024-12-01 19:10:35,499 - INFO - Saved job: Fire and Gas Engineer - bp
+2024-12-01 19:10:36,578 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1005366
+2024-12-01 19:10:50,630 - WARNING - Timeout waiting for company element
+2024-12-01 19:10:50,819 - INFO - Successfully scraped job: Lead Civil Engineering Services
+2024-12-01 19:10:50,824 - INFO - Saved job: Lead Civil Engineering Services - None
+2024-12-01 19:10:52,371 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/983959
+2024-12-01 19:10:54,466 - INFO - Successfully scraped job: Mechanical Engineer/HVAC: New Building Construction
+2024-12-01 19:10:54,470 - INFO - Saved job: Mechanical Engineer/HVAC: New Building Construction - X-Bow Systems
+2024-12-01 19:10:55,566 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/983945
+2024-12-01 19:10:58,165 - INFO - Successfully scraped job: Control Systems Engineer (14x14 Offshore)
+2024-12-01 19:10:58,169 - INFO - Saved job: Control Systems Engineer (14x14 Offshore) - Tetra Tech
+2024-12-01 19:10:59,709 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/983932
+2024-12-01 19:11:02,072 - INFO - Successfully scraped job: Power Engineering Technologist - Senior -
+2024-12-01 19:11:02,076 - INFO - Saved job: Power Engineering Technologist - Senior - - Pike Corporation
+2024-12-01 19:11:04,008 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/983877
+2024-12-01 19:11:06,761 - INFO - Successfully scraped job: Electrical Onshore Substation Package Engineer
+2024-12-01 19:11:06,765 - INFO - Saved job: Electrical Onshore Substation Package Engineer - Parkwind NV
