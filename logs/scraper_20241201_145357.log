@@ -9976,3 +9976,36 @@
 2024-12-01 18:48:04,848 - INFO - Successfully scraped job: Senior Project Engineering Manager - Inside of IR35
 2024-12-01 18:48:04,853 - INFO - Saved job: Senior Project Engineering Manager - Inside of IR35 - None
 2024-12-01 18:48:05,930 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/820267
+2024-12-01 18:48:18,619 - WARNING - Timeout waiting for company element
+2024-12-01 18:48:18,730 - INFO - Successfully scraped job: Wh Lead Engineer (energy Co.)
+2024-12-01 18:48:18,735 - INFO - Saved job: Wh Lead Engineer (energy Co.) - None
+2024-12-01 18:48:20,322 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991915
+2024-12-01 18:48:24,087 - INFO - Successfully scraped job: Lead/Senior Process Engineer - Nuclear
+2024-12-01 18:48:24,092 - INFO - Saved job: Lead/Senior Process Engineer - Nuclear - Bilfinger
+2024-12-01 18:48:25,387 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/991875
+2024-12-01 18:48:28,774 - INFO - Successfully scraped job: Outside Sales Engineer
+2024-12-01 18:48:28,779 - INFO - Saved job: Outside Sales Engineer - Emerson
+2024-12-01 18:48:30,136 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/991711
+2024-12-01 18:48:32,547 - INFO - Successfully scraped job: Digital Sales Engineer
+2024-12-01 18:48:32,557 - INFO - Saved job: Digital Sales Engineer - Emerson
+2024-12-01 18:48:34,026 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/general-management-jobs/991455
+2024-12-01 18:48:35,895 - INFO - Successfully scraped job: Senior Director General Manager, Engines
+2024-12-01 18:48:35,899 - INFO - Saved job: Senior Director General Manager, Engines - Honeywell
+2024-12-01 18:48:37,344 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991564
+2024-12-01 18:48:40,562 - DEBUG - No additional metadata found
+2024-12-01 18:48:40,577 - INFO - Successfully scraped job: Project Engineer
+2024-12-01 18:48:40,583 - INFO - Saved job: Project Engineer - Schneider Electric
+2024-12-01 18:48:41,663 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991395
+2024-12-01 18:48:44,236 - INFO - Successfully scraped job: Project Development Engineer
+2024-12-01 18:48:44,240 - INFO - Saved job: Project Development Engineer - Schneider Electric
+2024-12-01 18:48:45,244 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991253
+2024-12-01 18:48:48,530 - INFO - Successfully scraped job: Senior Planning Engineer
+2024-12-01 18:48:48,535 - INFO - Saved job: Senior Planning Engineer - AtkinsRéalis
+2024-12-01 18:48:50,451 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991323
+2024-12-01 18:48:52,644 - INFO - Successfully scraped job: Senior Design Engineer, simulation specialist (Power Electronics)
+2024-12-01 18:48:52,649 - INFO - Saved job: Senior Design Engineer, simulation specialist (Power Electronics) - ABB
+2024-12-01 18:48:53,781 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/991242
+2024-12-01 18:49:06,950 - WARNING - Timeout waiting for company element
+2024-12-01 18:49:07,080 - INFO - Successfully scraped job: Senior Electrical Engineer
+2024-12-01 18:49:07,085 - INFO - Saved job: Senior Electrical Engineer - None
+2024-12-01 18:49:08,181 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991213
