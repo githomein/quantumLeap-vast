@@ -2127,3 +2127,65 @@
 2024-12-01 15:44:00,149 - INFO - Successfully scraped job: HVAC Service Technician
 2024-12-01 15:44:00,152 - INFO - Saved job: HVAC Service Technician - HTS Engineering Ltd
 2024-12-01 15:44:02,110 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/888802
+2024-12-01 15:44:05,146 - INFO - Successfully scraped job: HVAC Service Sales - Houston
+2024-12-01 15:44:05,148 - INFO - Saved job: HVAC Service Sales - Houston - HTS Engineering Ltd
+2024-12-01 15:44:06,600 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/908109
+2024-12-01 15:44:08,938 - INFO - Successfully scraped job: Geotechnical Driller
+2024-12-01 15:44:08,940 - INFO - Saved job: Geotechnical Driller - Universal Engineering Sciences
+2024-12-01 15:44:10,054 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/895232
+2024-12-01 15:44:11,896 - INFO - Successfully scraped job: HVAC Service Technician II - San Antonio
+2024-12-01 15:44:11,898 - INFO - Saved job: HVAC Service Technician II - San Antonio - HTS Engineering Ltd
+2024-12-01 15:44:13,317 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/994588
+2024-12-01 15:44:16,924 - INFO - Successfully scraped job: Driller's Helper
+2024-12-01 15:44:16,927 - INFO - Saved job: Driller's Helper - Universal Engineering Sciences
+2024-12-01 15:44:18,759 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/993592
+2024-12-01 15:44:21,662 - INFO - Successfully scraped job: Senior Certified Petroleum Testing Technician
+2024-12-01 15:44:21,664 - INFO - Saved job: Senior Certified Petroleum Testing Technician - Bunnell-Lammons Engineering, Inc
+2024-12-01 15:44:23,124 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/993174
+2024-12-01 15:44:26,846 - INFO - Successfully scraped job: HVAC/ Chiller Tech
+2024-12-01 15:44:26,848 - INFO - Saved job: HVAC/ Chiller Tech - HTS Engineering Ltd
+2024-12-01 15:44:28,758 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/930177
+2024-12-01 15:44:31,475 - INFO - Successfully scraped job: Drill Rig Operator
+2024-12-01 15:44:31,478 - INFO - Saved job: Drill Rig Operator - U.S. Army Corps of Engineers
+2024-12-01 15:44:32,761 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/935785
+2024-12-01 15:44:35,137 - INFO - Successfully scraped job: Marine Electrician
+2024-12-01 15:44:35,140 - INFO - Saved job: Marine Electrician - PROPULSION CONTROLS ENGINEERING
+2024-12-01 15:44:36,482 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/924940
+2024-12-01 15:44:39,136 - INFO - Successfully scraped job: HVAC Service Technician
+2024-12-01 15:44:39,139 - INFO - Saved job: HVAC Service Technician - HTS Engineering Ltd
+2024-12-01 15:44:40,869 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/968574
+2024-12-01 15:44:42,915 - INFO - Successfully scraped job: Driller w/CDL - Test Boring Rig - Riverside
+2024-12-01 15:44:42,917 - INFO - Saved job: Driller w/CDL - Test Boring Rig - Riverside - SW Cole Engineering, Inc.
+2024-12-01 15:44:44,845 - INFO - Collected 480 jobs so far
+2024-12-01 15:44:44,845 - INFO - Scraping page 25 of 389
+2024-12-01 15:44:48,637 - INFO - Getting job links from current page
+2024-12-01 15:44:51,670 - INFO - Found 20 job cards
+2024-12-01 15:44:51,684 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/994514
+2024-12-01 15:44:51,693 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/993593
+2024-12-01 15:44:51,701 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/993146
+2024-12-01 15:44:51,710 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/987735
+2024-12-01 15:44:51,719 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006929
+2024-12-01 15:44:51,727 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001639
+2024-12-01 15:44:51,735 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/999433
+2024-12-01 15:44:51,744 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/934550
+2024-12-01 15:44:51,752 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/989827
+2024-12-01 15:44:51,761 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/989828
+2024-12-01 15:44:51,769 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/production-jobs/989810
+2024-12-01 15:44:51,778 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/962878
+2024-12-01 15:44:51,786 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005393
+2024-12-01 15:44:51,795 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005386
+2024-12-01 15:44:51,803 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1002073
+2024-12-01 15:44:51,811 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000256
+2024-12-01 15:44:51,819 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/999491
+2024-12-01 15:44:51,828 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/987841
+2024-12-01 15:44:51,837 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005899
+2024-12-01 15:44:51,845 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005112
+2024-12-01 15:44:51,845 - INFO - Successfully extracted 20 job links
+2024-12-01 15:44:51,845 - INFO - Found 20 jobs on page 25
+2024-12-01 15:44:51,845 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/994514
+2024-12-01 15:44:54,884 - INFO - Successfully scraped job: Electric Power Distribution Designer
+2024-12-01 15:44:54,887 - INFO - Saved job: Electric Power Distribution Designer - E2 Consulting Engineers, Inc.
+2024-12-01 15:44:56,777 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/993593
+2024-12-01 15:45:00,625 - INFO - Successfully scraped job: Field Service Energy Specialist
+2024-12-01 15:45:00,629 - INFO - Saved job: Field Service Energy Specialist - City Building Engineering Services
+2024-12-01 15:45:02,403 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/993146
