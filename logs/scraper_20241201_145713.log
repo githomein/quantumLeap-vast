@@ -9352,3 +9352,44 @@
 2024-12-01 18:38:49,078 - INFO - Successfully scraped job: Principal Energy Engineer / Project Manager, Site Services
 2024-12-01 18:38:49,083 - INFO - Saved job: Principal Energy Engineer / Project Manager, Site Services - Genentech, Inc.
 2024-12-01 18:38:50,767 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/970577
+2024-12-01 18:38:54,483 - INFO - Successfully scraped job: Sr Thermal Energy Engineer
+2024-12-01 18:38:54,488 - INFO - Saved job: Sr Thermal Energy Engineer - Skyven Technologies
+2024-12-01 18:38:55,530 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/962773
+2024-12-01 18:38:58,928 - INFO - Successfully scraped job: Drilling Engineer - ASRC Talent Solutions
+2024-12-01 18:38:58,934 - INFO - Saved job: Drilling Engineer - ASRC Talent Solutions - Arctic Slope Regional Corporation
+2024-12-01 18:39:00,165 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/970504
+2024-12-01 18:39:02,801 - INFO - Successfully scraped job: Mechanical Engineer (Industrial or Power Plant experience)
+2024-12-01 18:39:02,807 - INFO - Saved job: Mechanical Engineer (Industrial or Power Plant experience) - Dragados
+2024-12-01 18:39:04,303 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/959765
+2024-12-01 18:39:06,542 - DEBUG - No additional metadata found
+2024-12-01 18:39:06,556 - INFO - Successfully scraped job: Principal Mechanical Systems Commissioning Engineer - NSSS, Nuclear
+2024-12-01 18:39:06,560 - INFO - Saved job: Principal Mechanical Systems Commissioning Engineer - NSSS, Nuclear - Public Service Enterprise Group
+2024-12-01 18:39:07,908 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/891374
+2024-12-01 18:39:10,296 - INFO - Successfully scraped job: Senior Water/Wastewater Engineer
+2024-12-01 18:39:10,300 - INFO - Saved job: Senior Water/Wastewater Engineer - Arcadis
+2024-12-01 18:39:11,997 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/920900
+2024-12-01 18:39:15,448 - INFO - Successfully scraped job: Mobile HVAC/Maintenance Engineer
+2024-12-01 18:39:15,452 - INFO - Saved job: Mobile HVAC/Maintenance Engineer - Jones Lang LaSalle IP, Inc.
+2024-12-01 18:39:17,143 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/964908
+2024-12-01 18:39:19,828 - INFO - Successfully scraped job: Water/Wastewater Project Engineer
+2024-12-01 18:39:19,832 - INFO - Saved job: Water/Wastewater Project Engineer - HDR
+2024-12-01 18:39:21,173 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/918906
+2024-12-01 18:39:24,443 - INFO - Successfully scraped job: Power Systems Engineering Intern (Available June 2025)
+2024-12-01 18:39:24,447 - INFO - Saved job: Power Systems Engineering Intern (Available June 2025) - Arup
+2024-12-01 18:39:26,049 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/888283
+2024-12-01 18:39:28,301 - INFO - Successfully scraped job: Regional Project Manager - Kiewit Power Engineering
+2024-12-01 18:39:28,306 - INFO - Saved job: Regional Project Manager - Kiewit Power Engineering - Kiewit
+2024-12-01 18:39:29,580 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/915556
+2024-12-01 18:39:32,116 - INFO - Successfully scraped job: Civil Engineer/Transmission Line Engineer - Kiewit Power Engineering
+2024-12-01 18:39:32,120 - INFO - Saved job: Civil Engineer/Transmission Line Engineer - Kiewit Power Engineering - Kiewit
+2024-12-01 18:39:33,188 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/895756
+2024-12-01 18:39:35,200 - INFO - Successfully scraped job: Petroleum Engineer
+2024-12-01 18:39:35,204 - INFO - Saved job: Petroleum Engineer - Mewbourne Oil Company
+2024-12-01 18:39:36,675 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/992846
+2024-12-01 18:39:48,769 - WARNING - Timeout waiting for company element
+2024-12-01 18:39:48,915 - INFO - Successfully scraped job: UFR Material and Welding Engineer- London / Paris
+2024-12-01 18:39:48,918 - INFO - Saved job: UFR Material and Welding Engineer- London / Paris - None
+2024-12-01 18:39:50,055 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/969600
+2024-12-01 18:39:52,414 - INFO - Successfully scraped job: Field Engineering Program - Technical Field Advisor - Gas Turbine
+2024-12-01 18:39:52,418 - INFO - Saved job: Field Engineering Program - Technical Field Advisor - Gas Turbine - FieldCore
+2024-12-01 18:39:53,588 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/969603
