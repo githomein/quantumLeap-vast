@@ -12901,3 +12901,29 @@
 2024-12-01 20:03:21,313 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/987818
 2024-12-01 20:03:23,812 - INFO - Successfully scraped job: Software, Senior Test Engineer
 2024-12-01 20:03:23,817 - INFO - Saved job: Software, Senior Test Engineer - Schneider Electric
+2024-12-01 20:03:25,438 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/987767
+2024-12-01 20:03:27,548 - INFO - Successfully scraped job: Electrical Engineer - Low Voltage & Medium Voltage
+2024-12-01 20:03:27,553 - INFO - Saved job: Electrical Engineer - Low Voltage & Medium Voltage - AtkinsRéalis
+2024-12-01 20:03:29,552 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/oilfield-jobs/987700
+2024-12-01 20:03:42,486 - WARNING - Timeout waiting for company element
+2024-12-01 20:03:42,569 - DEBUG - No additional metadata found
+2024-12-01 20:03:42,583 - INFO - Successfully scraped job: Procurement Engineer
+2024-12-01 20:03:42,587 - INFO - Saved job: Procurement Engineer - None
+2024-12-01 20:03:44,373 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/987708
+2024-12-01 20:03:57,071 - WARNING - Timeout waiting for company element
+2024-12-01 20:03:57,221 - INFO - Successfully scraped job: Control System Engineer (Petrochemical)
+2024-12-01 20:03:57,228 - INFO - Saved job: Control System Engineer (Petrochemical) - None
+2024-12-01 20:03:58,926 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/987707
+2024-12-01 20:04:11,303 - WARNING - Timeout waiting for company element
+2024-12-01 20:04:11,459 - INFO - Successfully scraped job: Telecom Engineer (Petrochemical)
+2024-12-01 20:04:11,465 - INFO - Saved job: Telecom Engineer (Petrochemical) - None
+2024-12-01 20:04:13,260 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/963552
+2024-12-01 20:04:15,525 - INFO - Successfully scraped job: Field Service Engineer II
+2024-12-01 20:04:15,529 - INFO - Saved job: Field Service Engineer II - Honeywell
+2024-12-01 20:04:17,235 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/963209
+2024-12-01 20:04:19,743 - INFO - Successfully scraped job: Manufacturing Engineer- Production Processes and Equipment
+2024-12-01 20:04:19,747 - INFO - Saved job: Manufacturing Engineer- Production Processes and Equipment - GE Renewable Energy Power and Aviation
+2024-12-01 20:04:21,683 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/963196
+2024-12-01 20:04:23,950 - INFO - Successfully scraped job: Advanced Lead Engineer - Testing
+2024-12-01 20:04:23,955 - INFO - Saved job: Advanced Lead Engineer - Testing - GE Renewable Energy Power and Aviation
+2024-12-01 20:04:25,804 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/963472

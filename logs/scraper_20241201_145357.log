@@ -13134,3 +13134,28 @@
 2024-12-01 20:03:19,833 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/896032
 2024-12-01 20:03:22,796 - INFO - Successfully scraped job: R&D Mechanical/Automation Engineer or System Engineer (Subsea Engineer)
 2024-12-01 20:03:22,800 - INFO - Saved job: R&D Mechanical/Automation Engineer or System Engineer (Subsea Engineer) - Halliburton
+2024-12-01 20:03:24,697 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/912899
+2024-12-01 20:03:26,603 - INFO - Successfully scraped job: Senior/Principal Electrical Engineers - Staff
+2024-12-01 20:03:26,608 - INFO - Saved job: Senior/Principal Electrical Engineers - Staff - Wood PLC
+2024-12-01 20:03:28,094 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/960932
+2024-12-01 20:03:30,500 - INFO - Successfully scraped job: Senior Riser and Pipeline Engineer - TSI
+2024-12-01 20:03:30,505 - INFO - Saved job: Senior Riser and Pipeline Engineer - TSI - bp
+2024-12-01 20:03:31,979 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/895979
+2024-12-01 20:03:34,681 - INFO - Successfully scraped job: Flow Assurance and Well Performance Engineer.
+2024-12-01 20:03:34,686 - INFO - Saved job: Flow Assurance and Well Performance Engineer. - Total Energies
+2024-12-01 20:03:35,912 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/987294
+2024-12-01 20:03:39,399 - INFO - Successfully scraped job: Electrical Engineer
+2024-12-01 20:03:39,404 - INFO - Saved job: Electrical Engineer - NOV
+2024-12-01 20:03:40,564 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/987254
+2024-12-01 20:03:44,148 - INFO - Successfully scraped job: Senior Electrical Design Engineer
+2024-12-01 20:03:44,153 - INFO - Saved job: Senior Electrical Design Engineer - GE Renewable Energy Power and Aviation
+2024-12-01 20:03:46,039 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/987048
+2024-12-01 20:03:59,004 - WARNING - Timeout waiting for company element
+2024-12-01 20:03:59,079 - DEBUG - No additional metadata found
+2024-12-01 20:03:59,094 - INFO - Successfully scraped job: Consultant - Tech Safety Engineer
+2024-12-01 20:03:59,099 - INFO - Saved job: Consultant - Tech Safety Engineer - None
+2024-12-01 20:04:00,725 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/960752
+2024-12-01 20:04:12,933 - WARNING - Timeout waiting for company element
+2024-12-01 20:04:13,052 - INFO - Successfully scraped job: Principal Engineer - Control System
+2024-12-01 20:04:13,057 - INFO - Saved job: Principal Engineer - Control System - None
+2024-12-01 20:04:14,176 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/960771
