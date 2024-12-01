@@ -2749,3 +2749,19 @@
 2024-12-01 15:52:24,649 - INFO - Successfully scraped job: Welding Engineer
 2024-12-01 15:52:24,654 - INFO - Saved job: Welding Engineer - None
 2024-12-01 15:52:25,853 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001731
+2024-12-01 15:52:37,867 - WARNING - Timeout waiting for company element
+2024-12-01 15:52:38,064 - INFO - Successfully scraped job: Procurement QC Engineer
+2024-12-01 15:52:38,068 - INFO - Saved job: Procurement QC Engineer - None
+2024-12-01 15:52:39,130 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005388
+2024-12-01 15:52:51,148 - WARNING - Timeout waiting for company element
+2024-12-01 15:52:51,474 - INFO - Successfully scraped job: Development Engineer UK Remote Energy Solutions
+2024-12-01 15:52:51,477 - INFO - Saved job: Development Engineer UK Remote Energy Solutions - None
+2024-12-01 15:52:53,463 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005111
+2024-12-01 15:53:06,221 - WARNING - Timeout waiting for company element
+2024-12-01 15:53:06,447 - INFO - Successfully scraped job: Lead Subsea Control Engineer
+2024-12-01 15:53:06,450 - INFO - Saved job: Lead Subsea Control Engineer - None
+2024-12-01 15:53:07,935 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000553
+2024-12-01 15:53:21,882 - WARNING - Timeout waiting for company element
+2024-12-01 15:53:22,102 - INFO - Successfully scraped job: RBI Engineer
+2024-12-01 15:53:22,105 - INFO - Saved job: RBI Engineer - None
+2024-12-01 15:53:23,918 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/991014
