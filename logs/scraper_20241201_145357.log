@@ -1006,3 +1006,42 @@
 2024-12-01 15:12:34,104 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/administrative-or-secretarial-jobs/870019
 2024-12-01 15:12:36,431 - INFO - Successfully scraped job: Assistant Manager Lead Software I
 2024-12-01 15:12:36,433 - INFO - Saved job: Assistant Manager Lead Software I - Emerson
+2024-12-01 15:12:38,366 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/general-management-jobs/991673
+2024-12-01 15:12:41,554 - INFO - Successfully scraped job: Business Analyst, Software Operations & Analytics
+2024-12-01 15:12:41,557 - INFO - Saved job: Business Analyst, Software Operations & Analytics - Emerson
+2024-12-01 15:12:42,601 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/991011
+2024-12-01 15:12:45,253 - DEBUG - No additional metadata found
+2024-12-01 15:12:45,266 - INFO - Successfully scraped job: Expert, Software Test Lead
+2024-12-01 15:12:45,268 - INFO - Saved job: Expert, Software Test Lead - Schneider Electric
+2024-12-01 15:12:46,682 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/990994
+2024-12-01 15:12:48,897 - INFO - Successfully scraped job: Sr. Manager - Software
+2024-12-01 15:12:48,899 - INFO - Saved job: Sr. Manager - Software - Schneider Electric
+2024-12-01 15:12:50,085 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/989457
+2024-12-01 15:12:53,020 - INFO - Successfully scraped job: Software Solutions Sales
+2024-12-01 15:12:53,024 - INFO - Saved job: Software Solutions Sales - Schneider Electric
+2024-12-01 15:12:54,293 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/957473
+2024-12-01 15:12:56,731 - INFO - Successfully scraped job: Software Engr I
+2024-12-01 15:12:56,734 - INFO - Saved job: Software Engr I - Honeywell
+2024-12-01 15:12:57,825 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1005755
+2024-12-01 15:13:01,855 - INFO - Successfully scraped job: Sr Advanced Software Engr
+2024-12-01 15:13:01,858 - INFO - Saved job: Sr Advanced Software Engr - Honeywell
+2024-12-01 15:13:03,180 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/976764
+2024-12-01 15:13:06,742 - DEBUG - No additional metadata found
+2024-12-01 15:13:06,755 - INFO - Successfully scraped job: Tech Prof-Software Development
+2024-12-01 15:13:06,757 - INFO - Saved job: Tech Prof-Software Development - Halliburton
+2024-12-01 15:13:07,909 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1001022
+2024-12-01 15:13:10,302 - INFO - Successfully scraped job: R&D Software Group Manager
+2024-12-01 15:13:10,305 - INFO - Saved job: R&D Software Group Manager - Emerson
+2024-12-01 15:13:12,297 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/974811
+2024-12-01 15:13:14,963 - INFO - Successfully scraped job: Intern Bachelors Software Eng
+2024-12-01 15:13:14,966 - INFO - Saved job: Intern Bachelors Software Eng - Honeywell
+2024-12-01 15:13:16,511 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/974870
+2024-12-01 15:13:29,247 - WARNING - Timeout waiting for company element
+2024-12-01 15:13:29,349 - INFO - Successfully scraped job: Internship: Development of software for modeling fertilizer chemistry processes - F/M
+2024-12-01 15:13:29,352 - INFO - Saved job: Internship: Development of software for modeling fertilizer chemistry processes - F/M - None
+2024-12-01 15:13:30,551 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/972275
+2024-12-01 15:13:34,140 - INFO - Successfully scraped job: Software Developer - SMS Guardian
+2024-12-01 15:13:34,143 - INFO - Saved job: Software Developer - SMS Guardian - Emerson
+2024-12-01 15:13:35,692 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/996565
+2024-12-01 15:13:37,599 - INFO - Successfully scraped job: Technischer Vertriebsinnendienst - Software Service Sales (w/m/d)
+2024-12-01 15:13:37,602 - INFO - Saved job: Technischer Vertriebsinnendienst - Software Service Sales (w/m/d) - Schneider Electric
