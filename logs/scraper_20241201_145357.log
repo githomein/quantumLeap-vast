@@ -11319,3 +11319,32 @@
 2024-12-01 19:20:26,171 - INFO - Successfully scraped job: Electrical Engineer Substation Technology / Offshore (f/m/d)
 2024-12-01 19:20:26,175 - INFO - Saved job: Electrical Engineer Substation Technology / Offshore (f/m/d) - 50Hertz Transmission GmbH - ein Unternehmen der europäischen Elia Group
 2024-12-01 19:20:27,950 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1003644
+2024-12-01 19:20:30,648 - INFO - Successfully scraped job: Mobile Gas Engineer
+2024-12-01 19:20:30,652 - INFO - Saved job: Mobile Gas Engineer - CBRE
+2024-12-01 19:20:31,962 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/877586
+2024-12-01 19:20:35,270 - INFO - Successfully scraped job: Integrity Engineer
+2024-12-01 19:20:35,274 - INFO - Saved job: Integrity Engineer - Wood PLC
+2024-12-01 19:20:36,665 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1003453
+2024-12-01 19:20:38,544 - INFO - Successfully scraped job: Senior FLIGHT DECK Leader - GE Programs, Commercial Engines and Services
+2024-12-01 19:20:38,548 - INFO - Saved job: Senior FLIGHT DECK Leader - GE Programs, Commercial Engines and Services - GE Renewable Energy Power and Aviation
+2024-12-01 19:20:40,363 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1003306
+2024-12-01 19:20:53,163 - WARNING - Timeout waiting for company element
+2024-12-01 19:20:53,242 - DEBUG - No additional metadata found
+2024-12-01 19:20:53,256 - INFO - Successfully scraped job: E&I Engineer
+2024-12-01 19:20:53,261 - INFO - Saved job: E&I Engineer - None
+2024-12-01 19:20:54,400 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1003201
+2024-12-01 19:21:07,774 - WARNING - Timeout waiting for company element
+2024-12-01 19:21:08,009 - INFO - Successfully scraped job: Senior Measurement Engineer
+2024-12-01 19:21:08,017 - INFO - Saved job: Senior Measurement Engineer - None
+2024-12-01 19:21:09,095 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1003241
+2024-12-01 19:21:21,666 - WARNING - Timeout waiting for company element
+2024-12-01 19:21:21,803 - INFO - Successfully scraped job: Lead Electrical Engineer
+2024-12-01 19:21:21,809 - INFO - Saved job: Lead Electrical Engineer - None
+2024-12-01 19:21:23,137 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/952798
+2024-12-01 19:21:25,217 - DEBUG - No additional metadata found
+2024-12-01 19:21:25,232 - INFO - Successfully scraped job: Power Engineer, Integrated Rack Power Team Sustaining Engineering
+2024-12-01 19:21:25,237 - INFO - Saved job: Power Engineer, Integrated Rack Power Team Sustaining Engineering - Amazon
+2024-12-01 19:21:26,820 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/975685
+2024-12-01 19:21:29,733 - INFO - Successfully scraped job: Water Treatment Engineer Supervisor
+2024-12-01 19:21:29,737 - INFO - Saved job: Water Treatment Engineer Supervisor - SMS Environmental
+2024-12-01 19:21:30,896 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/976734
