@@ -14255,3 +14255,27 @@
 2024-12-01 20:29:32,649 - INFO - Successfully scraped job: Senior Natural Gas Engineer
 2024-12-01 20:29:32,657 - INFO - Saved job: Senior Natural Gas Engineer - NV5
 2024-12-01 20:29:33,782 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000390
+2024-12-01 20:29:46,266 - WARNING - Timeout waiting for company element
+2024-12-01 20:29:46,356 - INFO - Successfully scraped job: Senior Project Engineer
+2024-12-01 20:29:46,363 - INFO - Saved job: Senior Project Engineer - None
+2024-12-01 20:29:48,257 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1000239
+2024-12-01 20:29:51,717 - INFO - Successfully scraped job: TPE V / Principal Civil Engineer
+2024-12-01 20:29:51,722 - INFO - Saved job: TPE V / Principal Civil Engineer - Wood PLC
+2024-12-01 20:29:52,982 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1000477
+2024-12-01 20:29:56,378 - INFO - Successfully scraped job: Quality Engineer Internship (Spring 2025)
+2024-12-01 20:29:56,383 - INFO - Saved job: Quality Engineer Internship (Spring 2025) - Schneider Electric
+2024-12-01 20:29:58,138 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/1000401
+2024-12-01 20:30:01,551 - INFO - Successfully scraped job: Power Electronics Design & Development Engineer (F/M)
+2024-12-01 20:30:01,557 - INFO - Saved job: Power Electronics Design & Development Engineer (F/M) - Schneider Electric
+2024-12-01 20:30:03,464 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000403
+2024-12-01 20:30:06,982 - INFO - Successfully scraped job: Site Based HV and LV Engineer
+2024-12-01 20:30:06,987 - INFO - Saved job: Site Based HV and LV Engineer - Schneider Electric
+2024-12-01 20:30:08,508 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000182
+2024-12-01 20:30:20,996 - WARNING - Timeout waiting for company element
+2024-12-01 20:30:21,102 - INFO - Successfully scraped job: Project Engineer
+2024-12-01 20:30:21,109 - INFO - Saved job: Project Engineer - None
+2024-12-01 20:30:23,096 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1000179
+2024-12-01 20:30:36,067 - WARNING - Timeout waiting for company element
+2024-12-01 20:30:36,217 - INFO - Successfully scraped job: Tetra Engineer
+2024-12-01 20:30:36,224 - INFO - Saved job: Tetra Engineer - None
+2024-12-01 20:30:37,845 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/969013
