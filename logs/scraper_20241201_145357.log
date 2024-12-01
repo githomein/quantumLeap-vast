@@ -12575,3 +12575,22 @@
 2024-12-01 19:47:37,537 - INFO - Successfully scraped job: Principal Engineer (CRA Products)
 2024-12-01 19:47:37,541 - INFO - Saved job: Principal Engineer (CRA Products) - Subsea 7
 2024-12-01 19:47:38,948 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991161
+2024-12-01 19:47:51,304 - WARNING - Timeout waiting for company element
+2024-12-01 19:47:51,453 - INFO - Successfully scraped job: Senior Flexible & Umbilical Engineer
+2024-12-01 19:47:51,458 - INFO - Saved job: Senior Flexible & Umbilical Engineer - None
+2024-12-01 19:47:52,819 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/991154
+2024-12-01 19:48:06,673 - WARNING - Timeout waiting for company element
+2024-12-01 19:48:06,835 - INFO - Successfully scraped job: Structural Engineering Specialist
+2024-12-01 19:48:06,842 - INFO - Saved job: Structural Engineering Specialist - None
+2024-12-01 19:48:08,787 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991126
+2024-12-01 19:48:22,162 - WARNING - Timeout waiting for company element
+2024-12-01 19:48:22,308 - DEBUG - No additional metadata found
+2024-12-01 19:48:22,323 - INFO - Successfully scraped job: Lead Project Engineer
+2024-12-01 19:48:22,332 - INFO - Saved job: Lead Project Engineer - None
+2024-12-01 19:48:24,080 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/874637
+2024-12-01 19:48:26,565 - INFO - Successfully scraped job: WL Field Engineer
+2024-12-01 19:48:26,570 - INFO - Saved job: WL Field Engineer - Schlumberger
+2024-12-01 19:48:27,954 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/906320
+2024-12-01 19:48:30,715 - INFO - Successfully scraped job: Senior Engineer, Water
+2024-12-01 19:48:30,720 - INFO - Saved job: Senior Engineer, Water - AtkinsRéalis
+2024-12-01 19:48:32,396 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/922604
