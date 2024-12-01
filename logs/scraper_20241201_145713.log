@@ -9001,3 +9001,41 @@
 2024-12-01 18:30:33,428 - INFO - Successfully scraped job: Lead Project Engineer
 2024-12-01 18:30:33,432 - INFO - Saved job: Lead Project Engineer - Honeywell
 2024-12-01 18:30:35,386 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/885142
+2024-12-01 18:30:38,289 - INFO - Successfully scraped job: Commercial Gas Engineer
+2024-12-01 18:30:38,294 - INFO - Saved job: Commercial Gas Engineer - JBT Corporation
+2024-12-01 18:30:39,352 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/884707
+2024-12-01 18:30:41,989 - INFO - Successfully scraped job: Nuclear Safety Engineer
+2024-12-01 18:30:41,994 - INFO - Saved job: Nuclear Safety Engineer - AtkinsRéalis
+2024-12-01 18:30:43,005 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/884421
+2024-12-01 18:30:45,469 - DEBUG - No additional metadata found
+2024-12-01 18:30:45,488 - INFO - Successfully scraped job: Mobile Gas Engineer
+2024-12-01 18:30:45,492 - INFO - Saved job: Mobile Gas Engineer - BAM
+2024-12-01 18:30:47,379 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/884402
+2024-12-01 18:30:49,272 - INFO - Successfully scraped job: Commerical Gas Engineer - South West
+2024-12-01 18:30:49,276 - INFO - Saved job: Commerical Gas Engineer - South West - ARH Group Ltd
+2024-12-01 18:30:50,969 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/974118
+2024-12-01 18:30:52,914 - INFO - Successfully scraped job: Gas Engineer
+2024-12-01 18:30:52,917 - INFO - Saved job: Gas Engineer - Paradigm Housing Group
+2024-12-01 18:30:54,798 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/909181
+2024-12-01 18:30:56,707 - INFO - Successfully scraped job: Electrical Engineer II
+2024-12-01 18:30:56,711 - INFO - Saved job: Electrical Engineer II - Honeywell
+2024-12-01 18:30:58,390 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/974778
+2024-12-01 18:31:01,018 - INFO - Successfully scraped job: Instrumentation Engineer
+2024-12-01 18:31:01,022 - INFO - Saved job: Instrumentation Engineer - Emerson
+2024-12-01 18:31:02,431 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/999765
+2024-12-01 18:31:05,956 - INFO - Successfully scraped job: Power Systems Experience Center Engineer
+2024-12-01 18:31:05,960 - INFO - Saved job: Power Systems Experience Center Engineer - Eaton
+2024-12-01 18:31:07,676 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/999758
+2024-12-01 18:31:10,483 - INFO - Successfully scraped job: Lead Gas Insulated Substation Engineer
+2024-12-01 18:31:10,487 - INFO - Saved job: Lead Gas Insulated Substation Engineer - Sargent & Lundy
+2024-12-01 18:31:11,620 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/999731
+2024-12-01 18:31:13,656 - INFO - Successfully scraped job: Project Engineer - Solar
+2024-12-01 18:31:13,660 - INFO - Saved job: Project Engineer - Solar - Babcock & Wilcox
+2024-12-01 18:31:15,225 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/999602
+2024-12-01 18:31:18,906 - INFO - Successfully scraped job: Lead Mechanical Engineer -- Energy & Industrial Group
+2024-12-01 18:31:18,912 - INFO - Saved job: Lead Mechanical Engineer -- Energy & Industrial Group - Sargent & Lundy
+2024-12-01 18:31:20,891 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/974609
+2024-12-01 18:31:34,817 - WARNING - Timeout waiting for company element
+2024-12-01 18:31:34,946 - INFO - Successfully scraped job: Subcontract Engineer - Vessel Charter
+2024-12-01 18:31:34,950 - INFO - Saved job: Subcontract Engineer - Vessel Charter - None
+2024-12-01 18:31:36,172 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/974417

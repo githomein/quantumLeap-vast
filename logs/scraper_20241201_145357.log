@@ -9216,3 +9216,22 @@
 2024-12-01 18:30:25,791 - INFO - Successfully extracted 20 job links
 2024-12-01 18:30:25,791 - INFO - Found 20 jobs on page 102
 2024-12-01 18:30:25,791 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/974609
+2024-12-01 18:30:37,954 - WARNING - Timeout waiting for company element
+2024-12-01 18:30:38,119 - INFO - Successfully scraped job: Subcontract Engineer - Vessel Charter
+2024-12-01 18:30:38,124 - INFO - Saved job: Subcontract Engineer - Vessel Charter - None
+2024-12-01 18:30:39,811 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/974417
+2024-12-01 18:30:43,371 - INFO - Successfully scraped job: Power Systems Engineering Analyst
+2024-12-01 18:30:43,376 - INFO - Saved job: Power Systems Engineering Analyst - ANSER
+2024-12-01 18:30:44,396 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/974056
+2024-12-01 18:30:58,378 - WARNING - Timeout waiting for company element
+2024-12-01 18:30:58,518 - INFO - Successfully scraped job: Instrument Engineer
+2024-12-01 18:30:58,525 - INFO - Saved job: Instrument Engineer - None
+2024-12-01 18:31:00,500 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/973627
+2024-12-01 18:31:13,870 - WARNING - Timeout waiting for company element
+2024-12-01 18:31:13,965 - INFO - Successfully scraped job: Engineering Lead
+2024-12-01 18:31:13,970 - INFO - Saved job: Engineering Lead - None
+2024-12-01 18:31:15,350 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/973436
+2024-12-01 18:31:27,968 - WARNING - Timeout waiting for company element
+2024-12-01 18:31:28,064 - INFO - Successfully scraped job: Principal Mechanical Engineer
+2024-12-01 18:31:28,068 - INFO - Saved job: Principal Mechanical Engineer - None
+2024-12-01 18:31:29,952 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/973546
