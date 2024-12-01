@@ -398,3 +398,30 @@
 2024-12-01 15:05:29,521 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/960606
 2024-12-01 15:05:32,653 - INFO - Successfully scraped job: Solutions Architect - Oil and Gas Drilling Data Systems
 2024-12-01 15:05:32,655 - INFO - Saved job: Solutions Architect - Oil and Gas Drilling Data Systems - NOV
+2024-12-01 15:05:34,231 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005394
+2024-12-01 15:05:48,843 - WARNING - Timeout waiting for company element
+2024-12-01 15:05:49,114 - INFO - Successfully scraped job: Data Management Development Lead
+2024-12-01 15:05:49,116 - INFO - Saved job: Data Management Development Lead - None
+2024-12-01 15:05:50,890 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/1006620
+2024-12-01 15:05:53,582 - INFO - Successfully scraped job: Stagiaire - OEM 'Original Equipment Manufacturer' Data Support H/F
+2024-12-01 15:05:53,584 - INFO - Saved job: Stagiaire - OEM 'Original Equipment Manufacturer' Data Support H/F - Total Energies
+2024-12-01 15:05:55,341 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/955628
+2024-12-01 15:05:58,792 - INFO - Successfully scraped job: Data Science Co-op
+2024-12-01 15:05:58,794 - INFO - Saved job: Data Science Co-op - Honeywell
+2024-12-01 15:06:00,788 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/892741
+2024-12-01 15:06:04,301 - INFO - Successfully scraped job: Data Scientist - Battery Energy Storage
+2024-12-01 15:06:04,306 - INFO - Saved job: Data Scientist - Battery Energy Storage - Allye Energy
+2024-12-01 15:06:05,841 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/953836
+2024-12-01 15:06:08,219 - INFO - Successfully scraped job: Master Data Management Specialist
+2024-12-01 15:06:08,223 - INFO - Saved job: Master Data Management Specialist - Schlumberger
+2024-12-01 15:06:09,442 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/978294
+2024-12-01 15:06:12,493 - INFO - Successfully scraped job: Stage - Ingénieur Data H/F - AS 24
+2024-12-01 15:06:12,502 - INFO - Saved job: Stage - Ingénieur Data H/F - AS 24 - Total Energies
+2024-12-01 15:06:14,221 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/999172
+2024-12-01 15:06:16,993 - INFO - Successfully scraped job: Statistician/Data Analyst - Input-Output research and greenhouse gas (GHG) footprints
+2024-12-01 15:06:16,995 - INFO - Saved job: Statistician/Data Analyst - Input-Output research and greenhouse gas (GHG) footprints - OECD
+2024-12-01 15:06:18,246 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/administrative-or-secretarial-jobs/996822
+2024-12-01 15:06:31,506 - WARNING - Timeout waiting for company element
+2024-12-01 15:06:31,586 - INFO - Successfully scraped job: Data Entry Associate II
+2024-12-01 15:06:31,589 - INFO - Saved job: Data Entry Associate II - None
+2024-12-01 15:06:33,287 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/996404
