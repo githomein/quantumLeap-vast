@@ -268,3 +268,78 @@
 2024-12-01 15:02:51,037 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/970624
 2024-12-01 15:02:54,675 - INFO - Successfully scraped job: Data Scientist: Energy System Modeler - PhD - Redmond
 2024-12-01 15:02:54,678 - INFO - Saved job: Data Scientist: Energy System Modeler - PhD - Redmond - Microsoft
+2024-12-01 15:02:56,297 - INFO - Collected 60 jobs so far
+2024-12-01 15:02:56,298 - INFO - Scraping page 4 of 389
+2024-12-01 15:02:59,427 - INFO - Getting job links from current page
+2024-12-01 15:03:02,457 - INFO - Found 20 job cards
+2024-12-01 15:03:02,468 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/994414
+2024-12-01 15:03:02,476 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/994421
+2024-12-01 15:03:02,483 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/859950
+2024-12-01 15:03:02,491 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/general-management-jobs/990947
+2024-12-01 15:03:02,498 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/990910
+2024-12-01 15:03:02,506 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/988643
+2024-12-01 15:03:02,514 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/960469
+2024-12-01 15:03:02,521 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/915108
+2024-12-01 15:03:02,529 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/978308
+2024-12-01 15:03:02,537 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/977866
+2024-12-01 15:03:02,544 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1003181
+2024-12-01 15:03:02,552 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1001342
+2024-12-01 15:03:02,559 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/924663
+2024-12-01 15:03:02,567 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/924333
+2024-12-01 15:03:02,575 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/998694
+2024-12-01 15:03:02,583 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/administrative-or-secretarial-jobs/998368
+2024-12-01 15:03:02,590 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/964348
+2024-12-01 15:03:02,597 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/994420
+2024-12-01 15:03:02,605 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/966606
+2024-12-01 15:03:02,612 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/965992
+2024-12-01 15:03:02,613 - INFO - Successfully extracted 20 job links
+2024-12-01 15:03:02,613 - INFO - Found 20 jobs on page 4
+2024-12-01 15:03:02,613 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/994414
+2024-12-01 15:03:05,454 - INFO - Successfully scraped job: Data Center Switchgear and Generator Technician
+2024-12-01 15:03:05,456 - INFO - Saved job: Data Center Switchgear and Generator Technician - CENTRAL POWER SYSTEMS & SERVICES
+2024-12-01 15:03:07,105 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/994421
+2024-12-01 15:03:10,308 - INFO - Successfully scraped job: Data Center Switchgear and Generator Technician
+2024-12-01 15:03:10,310 - INFO - Saved job: Data Center Switchgear and Generator Technician - CENTRAL POWER SYSTEMS & SERVICES
+2024-12-01 15:03:11,667 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/859950
+2024-12-01 15:03:25,486 - WARNING - Timeout waiting for company element
+2024-12-01 15:03:25,634 - INFO - Successfully scraped job: Data Specialist
+2024-12-01 15:03:25,637 - INFO - Saved job: Data Specialist - None
+2024-12-01 15:03:26,876 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/general-management-jobs/990947
+2024-12-01 15:03:30,733 - DEBUG - No additional metadata found
+2024-12-01 15:03:30,748 - INFO - Successfully scraped job: Operation Manager Data Center
+2024-12-01 15:03:30,750 - INFO - Saved job: Operation Manager Data Center - Engie
+2024-12-01 15:03:32,605 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/990910
+2024-12-01 15:03:35,902 - INFO - Successfully scraped job: Product Owner - Plant Data
+2024-12-01 15:03:35,904 - INFO - Saved job: Product Owner - Plant Data - Vestas
+2024-12-01 15:03:37,610 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/988643
+2024-12-01 15:03:41,597 - INFO - Successfully scraped job: Data Scientist (Praha, CZ)
+2024-12-01 15:03:41,599 - INFO - Saved job: Data Scientist (Praha, CZ) - E.ON
+2024-12-01 15:03:42,668 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/960469
+2024-12-01 15:03:45,329 - INFO - Successfully scraped job: Chef/e Projet Finance & Data H/F
+2024-12-01 15:03:45,331 - INFO - Saved job: Chef/e Projet Finance & Data H/F - Engie
+2024-12-01 15:03:46,502 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/915108
+2024-12-01 15:03:50,942 - INFO - Successfully scraped job: Data Privacy Analyst (m/w/d)
+2024-12-01 15:03:50,944 - INFO - Saved job: Data Privacy Analyst (m/w/d) - Engie
+2024-12-01 15:03:52,666 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/978308
+2024-12-01 15:03:55,709 - INFO - Successfully scraped job: Stage - Data analyst - Pricing & Développement Réseau Stations - AS 24
+2024-12-01 15:03:55,711 - INFO - Saved job: Stage - Data analyst - Pricing & Développement Réseau Stations - AS 24 - Total Energies
+2024-12-01 15:03:56,808 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/977866
+2024-12-01 15:03:59,034 - INFO - Successfully scraped job: Staff Data Analyst
+2024-12-01 15:03:59,038 - INFO - Saved job: Staff Data Analyst - bp
+2024-12-01 15:04:00,242 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1003181
+2024-12-01 15:04:03,891 - DEBUG - No additional metadata found
+2024-12-01 15:04:03,905 - INFO - Successfully scraped job: Payroll & Data Quality Advisor
+2024-12-01 15:04:03,908 - INFO - Saved job: Payroll & Data Quality Advisor - Shell
+2024-12-01 15:04:05,493 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1001342
+2024-12-01 15:04:09,362 - INFO - Successfully scraped job: Assurance Data Technician - Waste Water Networks
+2024-12-01 15:04:09,364 - INFO - Saved job: Assurance Data Technician - Waste Water Networks - Severn Trent Water
+2024-12-01 15:04:10,507 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/924663
+2024-12-01 15:04:13,774 - INFO - Successfully scraped job: Senior Data Science & AI Specialist
+2024-12-01 15:04:13,776 - INFO - Saved job: Senior Data Science & AI Specialist - ABB
+2024-12-01 15:04:15,462 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/924333
+2024-12-01 15:04:19,389 - INFO - Successfully scraped job: Data analyst
+2024-12-01 15:04:19,391 - INFO - Saved job: Data analyst - bp
+2024-12-01 15:04:20,427 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/998694
+2024-12-01 15:04:22,545 - INFO - Successfully scraped job: Research Intern - AI Frontiers - Agentic AI Models & Synthetic Data Generation
+2024-12-01 15:04:22,547 - INFO - Saved job: Research Intern - AI Frontiers - Agentic AI Models & Synthetic Data Generation - Microsoft
+2024-12-01 15:04:23,684 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/administrative-or-secretarial-jobs/998368
