@@ -2217,3 +2217,27 @@
 2024-12-01 15:46:03,167 - INFO - Successfully scraped job: Electrical Engineer Critical Infrastructure & Datacenter project (on site)
 2024-12-01 15:46:03,170 - INFO - Saved job: Electrical Engineer Critical Infrastructure & Datacenter project (on site) - Engie
 2024-12-01 15:46:04,541 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/989828
+2024-12-01 15:46:06,666 - DEBUG - No additional metadata found
+2024-12-01 15:46:06,679 - INFO - Successfully scraped job: Instrumentation & Control engineer for Critical Infrastructure & Datacenter project (on site)
+2024-12-01 15:46:06,682 - INFO - Saved job: Instrumentation & Control engineer for Critical Infrastructure & Datacenter project (on site) - Engie
+2024-12-01 15:46:08,594 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/989810
+2024-12-01 15:46:11,906 - DEBUG - No additional metadata found
+2024-12-01 15:46:11,920 - INFO - Successfully scraped job: Mechanical/Process engineer for Critical Infrastructure & Datacenter project (on site)
+2024-12-01 15:46:11,922 - INFO - Saved job: Mechanical/Process engineer for Critical Infrastructure & Datacenter project (on site) - Engie
+2024-12-01 15:46:13,294 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/962878
+2024-12-01 15:46:15,544 - INFO - Successfully scraped job: Next Generation Firewall Software Development Engineer Datapath & Control Path
+2024-12-01 15:46:15,546 - INFO - Saved job: Next Generation Firewall Software Development Engineer Datapath & Control Path - Broadcom, Inc.
+2024-12-01 15:46:17,052 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005393
+2024-12-01 15:46:31,042 - WARNING - Timeout waiting for company element
+2024-12-01 15:46:31,369 - INFO - Successfully scraped job: Power Risk Engineer
+2024-12-01 15:46:31,372 - INFO - Saved job: Power Risk Engineer - None
+2024-12-01 15:46:32,947 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005386
+2024-12-01 15:46:45,098 - WARNING - Timeout waiting for company element
+2024-12-01 15:46:45,623 - INFO - Successfully scraped job: Senior Project Engineer
+2024-12-01 15:46:45,626 - INFO - Saved job: Senior Project Engineer - None
+2024-12-01 15:46:47,282 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1002073
+2024-12-01 15:47:00,532 - WARNING - Timeout waiting for company element
+2024-12-01 15:47:00,615 - DEBUG - No additional metadata found
+2024-12-01 15:47:00,628 - INFO - Successfully scraped job: Structural Civil Engineer
+2024-12-01 15:47:00,630 - INFO - Saved job: Structural Civil Engineer - None
+2024-12-01 15:47:02,198 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000256

@@ -2618,3 +2618,20 @@
 2024-12-01 15:46:03,649 - INFO - Successfully scraped job: HVAC Service Technician
 2024-12-01 15:46:03,653 - INFO - Saved job: HVAC Service Technician - HTS Engineering Ltd
 2024-12-01 15:46:05,009 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/987735
+2024-12-01 15:46:17,519 - WARNING - Timeout waiting for company element
+2024-12-01 15:46:17,775 - INFO - Successfully scraped job: Rotating Mechanical Maintenance Senior Technician
+2024-12-01 15:46:17,779 - INFO - Saved job: Rotating Mechanical Maintenance Senior Technician - None
+2024-12-01 15:46:19,107 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006929
+2024-12-01 15:46:31,920 - WARNING - Timeout waiting for company element
+2024-12-01 15:46:32,082 - INFO - Successfully scraped job: Senior Planner
+2024-12-01 15:46:32,086 - INFO - Saved job: Senior Planner - None
+2024-12-01 15:46:33,822 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001639
+2024-12-01 15:46:46,281 - WARNING - Timeout waiting for company element
+2024-12-01 15:46:46,369 - DEBUG - No additional metadata found
+2024-12-01 15:46:46,382 - INFO - Successfully scraped job: Head of Cost Control
+2024-12-01 15:46:46,386 - INFO - Saved job: Head of Cost Control - None
+2024-12-01 15:46:47,666 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005899
+2024-12-01 15:46:59,942 - WARNING - Timeout waiting for company element
+2024-12-01 15:47:00,140 - INFO - Successfully scraped job: Senior Electrical Engineers / Electrical Designer
+2024-12-01 15:47:00,143 - INFO - Saved job: Senior Electrical Engineers / Electrical Designer - None
+2024-12-01 15:47:02,037 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005112
