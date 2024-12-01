@@ -10794,3 +10794,39 @@
 2024-12-01 19:13:00,921 - INFO - Successfully scraped job: Stress Engineer - Nuclear
 2024-12-01 19:13:00,926 - INFO - Saved job: Stress Engineer - Nuclear - AtkinsRéalis
 2024-12-01 19:13:02,238 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/981807
+2024-12-01 19:13:16,090 - WARNING - Timeout waiting for company element
+2024-12-01 19:13:16,169 - DEBUG - No additional metadata found
+2024-12-01 19:13:16,184 - INFO - Successfully scraped job: HSE Engineer H/F
+2024-12-01 19:13:16,188 - INFO - Saved job: HSE Engineer H/F - None
+2024-12-01 19:13:17,368 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/981755
+2024-12-01 19:13:30,864 - WARNING - Timeout waiting for company element
+2024-12-01 19:13:30,934 - DEBUG - No additional metadata found
+2024-12-01 19:13:30,949 - INFO - Successfully scraped job: Instrument Engineer M/F
+2024-12-01 19:13:30,953 - INFO - Saved job: Instrument Engineer M/F - None
+2024-12-01 19:13:32,849 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1004753
+2024-12-01 19:13:36,100 - INFO - Successfully scraped job: Nuclear Engineer
+2024-12-01 19:13:36,104 - INFO - Saved job: Nuclear Engineer - Bechtel
+2024-12-01 19:13:37,487 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1004633
+2024-12-01 19:13:40,084 - INFO - Successfully scraped job: Stationary Engineer (Power Plant) - OFMD
+2024-12-01 19:13:40,089 - INFO - Saved job: Stationary Engineer (Power Plant) - OFMD - Washington University
+2024-12-01 19:13:41,763 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1004619
+2024-12-01 19:13:45,147 - INFO - Successfully scraped job: ENGINEER MANAGER-CHILLED WATER GENERATION & DIST
+2024-12-01 19:13:45,153 - INFO - Saved job: ENGINEER MANAGER-CHILLED WATER GENERATION & DIST - UAB NOVA RENT
+2024-12-01 19:13:46,681 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1004538
+2024-12-01 19:13:50,505 - INFO - Successfully scraped job: Working Student for Grid Analysis Product Line (MCCS) - Power System Engineer (f/m/d)
+2024-12-01 19:13:50,509 - INFO - Saved job: Working Student for Grid Analysis Product Line (MCCS) - Power System Engineer (f/m/d) - 50Hertz Transmission GmbH - ein Unternehmen der europäischen Elia Group
+2024-12-01 19:13:51,605 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1004455
+2024-12-01 19:13:54,749 - INFO - Successfully scraped job: Field Engineer
+2024-12-01 19:13:54,753 - INFO - Saved job: Field Engineer - Emerson
+2024-12-01 19:13:56,619 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1004384
+2024-12-01 19:14:00,393 - INFO - Successfully scraped job: Staff Software Engineer - FLRAA
+2024-12-01 19:14:00,397 - INFO - Saved job: Staff Software Engineer - FLRAA - GE Renewable Energy Power and Aviation
+2024-12-01 19:14:01,440 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1004376
+2024-12-01 19:14:04,353 - INFO - Successfully scraped job: Lead Manufacturing Engineer - Manuf Eng Specialist
+2024-12-01 19:14:04,357 - INFO - Saved job: Lead Manufacturing Engineer - Manuf Eng Specialist - GE Renewable Energy Power and Aviation
+2024-12-01 19:14:06,276 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1004276
+2024-12-01 19:14:09,843 - INFO - Successfully scraped job: Test Fixture Design & Build Engineer II
+2024-12-01 19:14:09,847 - INFO - Saved job: Test Fixture Design & Build Engineer II - Honeywell
+2024-12-01 19:14:11,594 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/977779
+2024-12-01 19:14:13,675 - INFO - Successfully scraped job: Energy & Industry Field Engineer
+2024-12-01 19:14:13,679 - INFO - Saved job: Energy & Industry Field Engineer - HILTI
