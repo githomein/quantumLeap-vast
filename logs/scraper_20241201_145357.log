@@ -5659,3 +5659,45 @@
 2024-12-01 17:05:57,975 - INFO - Successfully scraped job: Advanced Lead Engineer - Commercial Field Service
 2024-12-01 17:05:57,980 - INFO - Saved job: Advanced Lead Engineer - Commercial Field Service - GE Renewable Energy Power and Aviation
 2024-12-01 17:05:59,023 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/950887
+2024-12-01 17:06:02,544 - INFO - Successfully scraped job: Quality Engineer Intern - Summer 2025
+2024-12-01 17:06:02,548 - INFO - Saved job: Quality Engineer Intern - Summer 2025 - ABB
+2024-12-01 17:06:03,589 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1005602
+2024-12-01 17:06:05,951 - INFO - Successfully scraped job: Applications Engineer - Automotive in Japan
+2024-12-01 17:06:05,954 - INFO - Saved job: Applications Engineer - Automotive in Japan - Emerson
+2024-12-01 17:06:07,311 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/1005576
+2024-12-01 17:06:09,893 - INFO - Successfully scraped job: Lead Manufacturing Test Engineer - New Product Introduction
+2024-12-01 17:06:09,896 - INFO - Saved job: Lead Manufacturing Test Engineer - New Product Introduction - GE Renewable Energy Power and Aviation
+2024-12-01 17:06:11,347 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1005569
+2024-12-01 17:06:14,699 - INFO - Successfully scraped job: Aerospace Engine Controls Logic Development Lead Engineer
+2024-12-01 17:06:14,703 - INFO - Saved job: Aerospace Engine Controls Logic Development Lead Engineer - GE Renewable Energy Power and Aviation
+2024-12-01 17:06:15,857 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1005563
+2024-12-01 17:06:18,076 - DEBUG - No additional metadata found
+2024-12-01 17:06:18,091 - INFO - Successfully scraped job: Principal Technical Safety Engineer PSC
+2024-12-01 17:06:18,095 - INFO - Saved job: Principal Technical Safety Engineer PSC - Wood PLC
+2024-12-01 17:06:19,384 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005421
+2024-12-01 17:06:21,411 - INFO - Successfully scraped job: Test Engineer Supervisor
+2024-12-01 17:06:21,416 - INFO - Saved job: Test Engineer Supervisor - ABB
+2024-12-01 17:06:23,048 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1005333
+2024-12-01 17:06:35,973 - WARNING - Timeout waiting for company element
+2024-12-01 17:06:36,040 - DEBUG - No additional metadata found
+2024-12-01 17:06:36,054 - INFO - Successfully scraped job: Engineering Manager
+2024-12-01 17:06:36,058 - INFO - Saved job: Engineering Manager - None
+2024-12-01 17:06:37,551 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005342
+2024-12-01 17:06:40,063 - INFO - Successfully scraped job: Sand Control, Assoc Engineer
+2024-12-01 17:06:40,067 - INFO - Saved job: Sand Control, Assoc Engineer - Halliburton
+2024-12-01 17:06:41,170 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/983936
+2024-12-01 17:06:43,670 - INFO - Successfully scraped job: Power System Engineer Senior (DER)
+2024-12-01 17:06:43,674 - INFO - Saved job: Power System Engineer Senior (DER) - City of Austin
+2024-12-01 17:06:45,495 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/953906
+2024-12-01 17:06:48,010 - INFO - Successfully scraped job: C&I Energy Engineer, Tool Development
+2024-12-01 17:06:48,013 - INFO - Saved job: C&I Energy Engineer, Tool Development - CLEAResult
+2024-12-01 17:06:49,358 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/984235
+2024-12-01 17:06:52,687 - INFO - Successfully scraped job: Principal ASIC Digital Design Engineer.
+2024-12-01 17:06:52,690 - INFO - Saved job: Principal ASIC Digital Design Engineer. - Honeywell
+2024-12-01 17:06:53,990 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/984247
+2024-12-01 17:06:56,189 - INFO - Successfully scraped job: Senior Process Engineer
+2024-12-01 17:06:56,193 - INFO - Saved job: Senior Process Engineer - Wood PLC
+2024-12-01 17:06:57,590 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/984263
+2024-12-01 17:07:00,755 - INFO - Successfully scraped job: Project Engineer - Nuclear Fluid Systems
+2024-12-01 17:07:00,759 - INFO - Saved job: Project Engineer - Nuclear Fluid Systems - Engie
+2024-12-01 17:07:02,469 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/913293
