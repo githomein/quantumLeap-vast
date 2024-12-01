@@ -13334,3 +13334,37 @@
 2024-12-01 20:08:24,959 - INFO - Successfully scraped job: Project Engineer (m/f/d) - Division Process Automation Energy Industries
 2024-12-01 20:08:24,964 - INFO - Saved job: Project Engineer (m/f/d) - Division Process Automation Energy Industries - ABB
 2024-12-01 20:08:26,442 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006691
+2024-12-01 20:08:39,533 - WARNING - Timeout waiting for company element
+2024-12-01 20:08:39,777 - INFO - Successfully scraped job: Lead Process Engineer (Low Carbon)
+2024-12-01 20:08:39,785 - INFO - Saved job: Lead Process Engineer (Low Carbon) - None
+2024-12-01 20:08:41,125 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006684
+2024-12-01 20:08:54,412 - WARNING - Timeout waiting for company element
+2024-12-01 20:08:54,544 - INFO - Successfully scraped job: Senior Completions Engineer
+2024-12-01 20:08:54,550 - INFO - Saved job: Senior Completions Engineer - None
+2024-12-01 20:08:56,018 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/985727
+2024-12-01 20:08:57,911 - INFO - Successfully scraped job: Military Engine Performance & Operability - Strategic Program Technical Leader
+2024-12-01 20:08:57,916 - INFO - Saved job: Military Engine Performance & Operability - Strategic Program Technical Leader - GE Renewable Energy Power and Aviation
+2024-12-01 20:08:59,409 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/914539
+2024-12-01 20:09:02,757 - INFO - Successfully scraped job: Fulltime Engineer Tech Graduates
+2024-12-01 20:09:02,761 - INFO - Saved job: Fulltime Engineer Tech Graduates - Honeywell
+2024-12-01 20:09:04,383 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/985343
+2024-12-01 20:09:08,208 - INFO - Successfully scraped job: Reservoir Engineer
+2024-12-01 20:09:08,213 - INFO - Saved job: Reservoir Engineer - Exxon Mobil
+2024-12-01 20:09:09,887 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/958031
+2024-12-01 20:09:12,340 - INFO - Successfully scraped job: Mechanical Engineer
+2024-12-01 20:09:12,346 - INFO - Saved job: Mechanical Engineer - AtkinsRéalis
+2024-12-01 20:09:13,915 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/970154
+2024-12-01 20:09:17,165 - INFO - Successfully scraped job: Mechanical Engineer
+2024-12-01 20:09:17,171 - INFO - Saved job: Mechanical Engineer - NOV
+2024-12-01 20:09:18,476 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006537
+2024-12-01 20:09:31,060 - WARNING - Timeout waiting for company element
+2024-12-01 20:09:31,174 - INFO - Successfully scraped job: Senior Process Engineer
+2024-12-01 20:09:31,179 - INFO - Saved job: Senior Process Engineer - None
+2024-12-01 20:09:32,277 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006518
+2024-12-01 20:09:34,441 - DEBUG - No additional metadata found
+2024-12-01 20:09:34,455 - INFO - Successfully scraped job: SCADA Engineer - After-Sales - Med Region
+2024-12-01 20:09:34,459 - INFO - Saved job: SCADA Engineer - After-Sales - Med Region - Vestas
+2024-12-01 20:09:36,273 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006552
+2024-12-01 20:09:39,553 - INFO - Successfully scraped job: Lead Installation Analysis Engineer
+2024-12-01 20:09:39,558 - INFO - Saved job: Lead Installation Analysis Engineer - Subsea 7
+2024-12-01 20:09:40,619 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006413
