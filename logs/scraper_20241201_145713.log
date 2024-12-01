@@ -14699,3 +14699,42 @@
 2024-12-01 20:45:23,845 - INFO - Successfully extracted 20 job links
 2024-12-01 20:45:23,845 - INFO - Found 20 jobs on page 162
 2024-12-01 20:45:23,845 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/965401
+2024-12-01 20:45:26,395 - DEBUG - No additional metadata found
+2024-12-01 20:45:26,410 - INFO - Successfully scraped job: Energy Management System (EMS) Engineer II, III
+2024-12-01 20:45:26,418 - INFO - Saved job: Energy Management System (EMS) Engineer II, III - SysMind Tech
+2024-12-01 20:45:28,283 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/965062
+2024-12-01 20:45:31,983 - DEBUG - No additional metadata found
+2024-12-01 20:45:32,000 - INFO - Successfully scraped job: Software Development Engineer, Experience Generator
+2024-12-01 20:45:32,006 - INFO - Saved job: Software Development Engineer, Experience Generator - Amazon
+2024-12-01 20:45:33,511 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/967660
+2024-12-01 20:45:37,232 - INFO - Successfully scraped job: Civil Engineer - Natural Gas
+2024-12-01 20:45:37,237 - INFO - Saved job: Civil Engineer - Natural Gas - Kimley-Horn
+2024-12-01 20:45:38,950 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/964723
+2024-12-01 20:45:42,387 - INFO - Successfully scraped job: Power Commissioning Manager - Kiewit Power Engineering
+2024-12-01 20:45:42,393 - INFO - Saved job: Power Commissioning Manager - Kiewit Power Engineering - Kiewit
+2024-12-01 20:45:43,882 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/968830
+2024-12-01 20:45:47,486 - INFO - Successfully scraped job: Energy Systems Mechanical Engineer
+2024-12-01 20:45:47,491 - INFO - Saved job: Energy Systems Mechanical Engineer - Booz Allen Hamilton, Inc.
+2024-12-01 20:45:49,224 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/933460
+2024-12-01 20:45:52,777 - INFO - Successfully scraped job: Power Systems Operational Technology Principal Engineer
+2024-12-01 20:45:52,782 - INFO - Saved job: Power Systems Operational Technology Principal Engineer - Salt River Project
+2024-12-01 20:45:54,665 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/962841
+2024-12-01 20:45:57,918 - INFO - Successfully scraped job: Energy Engineering Internship
+2024-12-01 20:45:57,924 - INFO - Saved job: Energy Engineering Internship - Havtech LLC
+2024-12-01 20:45:59,810 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/962840
+2024-12-01 20:46:02,801 - INFO - Successfully scraped job: Senior Energy Engineer
+2024-12-01 20:46:02,808 - INFO - Saved job: Senior Energy Engineer - Havtech LLC
+2024-12-01 20:46:04,132 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/961836
+2024-12-01 20:46:08,184 - INFO - Successfully scraped job: 2025 Energy Engineering Intern
+2024-12-01 20:46:08,190 - INFO - Saved job: 2025 Energy Engineering Intern - Trane Technologies
+2024-12-01 20:46:09,447 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/970551
+2024-12-01 20:46:13,425 - INFO - Successfully scraped job: Principal Controls Design Engineer - Nuclear
+2024-12-01 20:46:13,432 - INFO - Saved job: Principal Controls Design Engineer - Nuclear - PSEG
+2024-12-01 20:46:14,548 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/969718
+2024-12-01 20:46:19,147 - INFO - Successfully scraped job: Power Systems Engineer
+2024-12-01 20:46:19,153 - INFO - Saved job: Power Systems Engineer - Knobelsdorff Enterprises
+2024-12-01 20:46:21,085 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/966978
+2024-12-01 20:46:23,098 - DEBUG - No additional metadata found
+2024-12-01 20:46:23,112 - INFO - Successfully scraped job: Nuclear Engineer
+2024-12-01 20:46:23,118 - INFO - Saved job: Nuclear Engineer - Public Service Enterprise Group
+2024-12-01 20:46:24,897 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/969698
