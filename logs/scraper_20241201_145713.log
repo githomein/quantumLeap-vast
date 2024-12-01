@@ -4271,3 +4271,58 @@
 2024-12-01 16:37:18,939 - INFO - Successfully scraped job: Lead Offshore Structural Engineer (epc Oil/gas Commissioning)
 2024-12-01 16:37:18,942 - INFO - Saved job: Lead Offshore Structural Engineer (epc Oil/gas Commissioning) - None
 2024-12-01 16:37:20,352 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/820344
+2024-12-01 16:37:33,209 - WARNING - Timeout waiting for company element
+2024-12-01 16:37:33,376 - INFO - Successfully scraped job: Senior Telecommunication Engineer (epc Oil/gas Commissioning)
+2024-12-01 16:37:33,382 - INFO - Saved job: Senior Telecommunication Engineer (epc Oil/gas Commissioning) - None
+2024-12-01 16:37:34,707 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/857257
+2024-12-01 16:37:48,586 - WARNING - Timeout waiting for company element
+2024-12-01 16:37:48,704 - INFO - Successfully scraped job: Electrical Engineer Specialist
+2024-12-01 16:37:48,708 - INFO - Saved job: Electrical Engineer Specialist - None
+2024-12-01 16:37:49,821 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/995681
+2024-12-01 16:37:52,019 - DEBUG - No additional metadata found
+2024-12-01 16:37:52,033 - INFO - Successfully scraped job: HVAC Mobile Engineer
+2024-12-01 16:37:52,037 - INFO - Saved job: HVAC Mobile Engineer - CBRE
+2024-12-01 16:37:53,242 - INFO - Collected 940 jobs so far
+2024-12-01 16:37:53,242 - INFO - Scraping page 48 of 389
+2024-12-01 16:37:56,047 - INFO - Getting job links from current page
+2024-12-01 16:37:59,082 - INFO - Found 20 job cards
+2024-12-01 16:37:59,094 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/995624
+2024-12-01 16:37:59,102 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/995548
+2024-12-01 16:37:59,111 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/995339
+2024-12-01 16:37:59,120 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/995170
+2024-12-01 16:37:59,130 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/995154
+2024-12-01 16:37:59,139 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/995048
+2024-12-01 16:37:59,148 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/995062
+2024-12-01 16:37:59,157 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/994893
+2024-12-01 16:37:59,167 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/994553
+2024-12-01 16:37:59,176 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/994283
+2024-12-01 16:37:59,185 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/993848
+2024-12-01 16:37:59,194 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/993780
+2024-12-01 16:37:59,203 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/993538
+2024-12-01 16:37:59,212 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/993073
+2024-12-01 16:37:59,220 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/production-jobs/993091
+2024-12-01 16:37:59,229 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/992564
+2024-12-01 16:37:59,239 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/992561
+2024-12-01 16:37:59,248 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/992484
+2024-12-01 16:37:59,257 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/992446
+2024-12-01 16:37:59,266 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/992445
+2024-12-01 16:37:59,266 - INFO - Successfully extracted 20 job links
+2024-12-01 16:37:59,266 - INFO - Found 20 jobs on page 48
+2024-12-01 16:37:59,266 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/995624
+2024-12-01 16:38:02,495 - INFO - Successfully scraped job: Mobile Engineer - HVAC/Facilities Maintenance
+2024-12-01 16:38:02,499 - INFO - Saved job: Mobile Engineer - HVAC/Facilities Maintenance - CBRE
+2024-12-01 16:38:04,141 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/995548
+2024-12-01 16:38:06,449 - INFO - Successfully scraped job: Senior Power Systems Engineer
+2024-12-01 16:38:06,453 - INFO - Saved job: Senior Power Systems Engineer - Eaton
+2024-12-01 16:38:08,068 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/995339
+2024-12-01 16:38:11,389 - INFO - Successfully scraped job: Senior Development Engineer, Solar/BESS
+2024-12-01 16:38:11,392 - INFO - Saved job: Senior Development Engineer, Solar/BESS - Clearway Energy
+2024-12-01 16:38:12,400 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/995170
+2024-12-01 16:38:15,064 - DEBUG - No additional metadata found
+2024-12-01 16:38:15,080 - INFO - Successfully scraped job: Power Engineering Technologist I - Raleigh, NC
+2024-12-01 16:38:15,084 - INFO - Saved job: Power Engineering Technologist I - Raleigh, NC - National Guard Employment Network
+2024-12-01 16:38:16,223 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/995154
+2024-12-01 16:38:19,452 - DEBUG - No additional metadata found
+2024-12-01 16:38:19,466 - INFO - Successfully scraped job: Power Plant Controls Engineer
+2024-12-01 16:38:19,470 - INFO - Saved job: Power Plant Controls Engineer - Westar Energy
+2024-12-01 16:38:21,158 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/995048
