@@ -7945,3 +7945,23 @@
 2024-12-01 18:01:32,565 - INFO - Successfully scraped job: Petroleum Engineers (Digital Oil Field Workflows)
 2024-12-01 18:01:32,569 - INFO - Saved job: Petroleum Engineers (Digital Oil Field Workflows) - None
 2024-12-01 18:01:33,971 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000911
+2024-12-01 18:01:47,028 - WARNING - Timeout waiting for company element
+2024-12-01 18:01:47,392 - DEBUG - No additional metadata found
+2024-12-01 18:01:47,405 - INFO - Successfully scraped job: Lead Instrumentation and Control Engineer
+2024-12-01 18:01:47,410 - INFO - Saved job: Lead Instrumentation and Control Engineer - None
+2024-12-01 18:01:48,422 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000840
+2024-12-01 18:02:00,600 - WARNING - Timeout waiting for company element
+2024-12-01 18:02:00,903 - INFO - Successfully scraped job: Lead Safety Engineer
+2024-12-01 18:02:00,908 - INFO - Saved job: Lead Safety Engineer - None
+2024-12-01 18:02:02,318 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/general-management-jobs/999801
+2024-12-01 18:02:15,229 - WARNING - Timeout waiting for company element
+2024-12-01 18:02:15,553 - INFO - Successfully scraped job: Senior Project Engineer
+2024-12-01 18:02:15,558 - INFO - Saved job: Senior Project Engineer - None
+2024-12-01 18:02:17,421 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990727
+2024-12-01 18:02:30,951 - WARNING - Timeout waiting for company element
+2024-12-01 18:02:31,153 - INFO - Successfully scraped job: Senior Digital Roll-Out Engineer
+2024-12-01 18:02:31,158 - INFO - Saved job: Senior Digital Roll-Out Engineer - None
+2024-12-01 18:02:32,930 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/874909
+2024-12-01 18:02:35,227 - INFO - Successfully scraped job: Senior Dams and Reservoirs Engineer
+2024-12-01 18:02:35,231 - INFO - Saved job: Senior Dams and Reservoirs Engineer - AtkinsRéalis
+2024-12-01 18:02:36,741 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/986597
