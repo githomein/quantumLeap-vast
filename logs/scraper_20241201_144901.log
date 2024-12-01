@@ -1,0 +1,22 @@
+2024-12-01 14:49:01,581 - CRITICAL - Failed to initialize Chromedriver: Message: unknown error: cannot find Chrome binary
+Stacktrace:
+#0 0x564b1c8014e3 <unknown>
+#1 0x564b1c530c76 <unknown>
+#2 0x564b1c557757 <unknown>
+#3 0x564b1c556029 <unknown>
+#4 0x564b1c594ccc <unknown>
+#5 0x564b1c59447f <unknown>
+#6 0x564b1c58bde3 <unknown>
+#7 0x564b1c5612dd <unknown>
+#8 0x564b1c56234e <unknown>
+#9 0x564b1c7c13e4 <unknown>
+#10 0x564b1c7c53d7 <unknown>
+#11 0x564b1c7cfb20 <unknown>
+#12 0x564b1c7c6023 <unknown>
+#13 0x564b1c7941aa <unknown>
+#14 0x564b1c7ea6b8 <unknown>
+#15 0x564b1c7ea847 <unknown>
+#16 0x564b1c7fa243 <unknown>
+#17 0x7c8bcf49ca94 <unknown>
+#18 0x7c8bcf529c3c <unknown>
+

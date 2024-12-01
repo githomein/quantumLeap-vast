@@ -1,0 +1,9 @@
+2024-12-01 17:45:32,246 [INFO] LLMTester initialized with model: claude-3-sonnet-20240229
+2024-12-01 17:45:32,247 [INFO] Starting test d69c747e208d4f1eb072668463762e6c with prompt_id 0b8b28909cf741889f15239d566925cc
+2024-12-01 17:45:32,248 [INFO] Sending prompt at 2024-12-01T12:15:32.248274+00:00
+2024-12-01 17:45:32,250 [ERROR] Error in test d69c747e208d4f1eb072668463762e6c: "Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"
+2024-12-01 17:45:58,361 [INFO] LLMTester initialized with model: claude-3-sonnet-20240229
+2024-12-01 17:45:58,362 [INFO] Starting test f081a9e6dc1f43d18c2c5fe0c2caa36f with prompt_id 6dba5ae5f2d742998f61a8728355142d
+2024-12-01 17:45:58,362 [INFO] Sending prompt at 2024-12-01T12:15:58.362647+00:00
+2024-12-01 17:45:58,365 [ERROR] Error in test f081a9e6dc1f43d18c2c5fe0c2caa36f: "Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"
+2024-12-01 17:45:58,371 [INFO] Saving results to llm_test_results_20241201_174558.csv
