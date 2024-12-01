@@ -10600,3 +10600,19 @@
 2024-12-01 19:04:41,014 - INFO - Successfully scraped job: Lead Project Engineer
 2024-12-01 19:04:41,020 - INFO - Saved job: Lead Project Engineer - None
 2024-12-01 19:04:42,815 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000572
+2024-12-01 19:04:56,463 - WARNING - Timeout waiting for company element
+2024-12-01 19:04:56,691 - INFO - Successfully scraped job: Lead Civil / Structural Engineer
+2024-12-01 19:04:56,695 - INFO - Saved job: Lead Civil / Structural Engineer - None
+2024-12-01 19:04:58,552 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/999784
+2024-12-01 19:05:12,439 - WARNING - Timeout waiting for company element
+2024-12-01 19:05:12,610 - INFO - Successfully scraped job: Offshore Wind Yield Engineer
+2024-12-01 19:05:12,615 - INFO - Saved job: Offshore Wind Yield Engineer - None
+2024-12-01 19:05:13,779 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/989163
+2024-12-01 19:05:26,945 - WARNING - Timeout waiting for company element
+2024-12-01 19:05:27,179 - INFO - Successfully scraped job: NLQ HVAC Engineer
+2024-12-01 19:05:27,184 - INFO - Saved job: NLQ HVAC Engineer - None
+2024-12-01 19:05:29,009 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/987684
+2024-12-01 19:05:42,198 - WARNING - Timeout waiting for company element
+2024-12-01 19:05:42,391 - INFO - Successfully scraped job: Electrical Field Engineer
+2024-12-01 19:05:42,396 - INFO - Saved job: Electrical Field Engineer - None
+2024-12-01 19:05:44,182 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/986454
