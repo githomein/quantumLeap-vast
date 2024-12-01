@@ -12841,3 +12841,63 @@
 2024-12-01 20:02:19,638 - INFO - Successfully scraped job: Utilities / Facilities Engineer (Pharma)
 2024-12-01 20:02:19,644 - INFO - Saved job: Utilities / Facilities Engineer (Pharma) - None
 2024-12-01 20:02:21,177 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/918137
+2024-12-01 20:02:23,589 - INFO - Successfully scraped job: Lead Semiconductor Reliability Engineer
+2024-12-01 20:02:23,594 - INFO - Saved job: Lead Semiconductor Reliability Engineer - Honeywell
+2024-12-01 20:02:24,949 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/918421
+2024-12-01 20:02:37,638 - WARNING - Timeout waiting for company element
+2024-12-01 20:02:37,737 - INFO - Successfully scraped job: Naval Engineer Lead
+2024-12-01 20:02:37,746 - INFO - Saved job: Naval Engineer Lead - None
+2024-12-01 20:02:39,466 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/988326
+2024-12-01 20:02:41,315 - INFO - Successfully scraped job: PE Lead Engineer
+2024-12-01 20:02:41,320 - INFO - Saved job: PE Lead Engineer - Vestas
+2024-12-01 20:02:42,635 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/988215
+2024-12-01 20:02:45,731 - DEBUG - No additional metadata found
+2024-12-01 20:02:45,746 - INFO - Successfully scraped job: Sr. Service Sales Engineer
+2024-12-01 20:02:45,752 - INFO - Saved job: Sr. Service Sales Engineer - Schneider Electric
+2024-12-01 20:02:47,209 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/988199
+2024-12-01 20:02:50,410 - INFO - Successfully scraped job: Tender Engineer
+2024-12-01 20:02:50,415 - INFO - Saved job: Tender Engineer - Schneider Electric
+2024-12-01 20:02:52,259 - INFO - Collected 2820 jobs so far
+2024-12-01 20:02:52,259 - INFO - Scraping page 142 of 389
+2024-12-01 20:02:55,113 - INFO - Getting job links from current page
+2024-12-01 20:02:58,150 - INFO - Found 20 job cards
+2024-12-01 20:02:58,164 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/910986
+2024-12-01 20:02:58,173 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/917744
+2024-12-01 20:02:58,183 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/853850
+2024-12-01 20:02:58,192 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/853869
+2024-12-01 20:02:58,201 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/964134
+2024-12-01 20:02:58,211 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/987818
+2024-12-01 20:02:58,219 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/987767
+2024-12-01 20:02:58,227 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/oilfield-jobs/987700
+2024-12-01 20:02:58,234 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/987708
+2024-12-01 20:02:58,243 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/987707
+2024-12-01 20:02:58,251 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/963552
+2024-12-01 20:02:58,258 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/963209
+2024-12-01 20:02:58,266 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/963196
+2024-12-01 20:02:58,274 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/963472
+2024-12-01 20:02:58,282 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/908836
+2024-12-01 20:02:58,290 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/987664
+2024-12-01 20:02:58,300 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/896836
+2024-12-01 20:02:58,308 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/846758
+2024-12-01 20:02:58,316 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/962357
+2024-12-01 20:02:58,324 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/962318
+2024-12-01 20:02:58,324 - INFO - Successfully extracted 20 job links
+2024-12-01 20:02:58,324 - INFO - Found 20 jobs on page 142
+2024-12-01 20:02:58,324 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/910986
+2024-12-01 20:03:01,413 - INFO - Successfully scraped job: Engineer NDT level 2
+2024-12-01 20:03:01,418 - INFO - Saved job: Engineer NDT level 2 - Aker Solutions
+2024-12-01 20:03:03,206 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/917744
+2024-12-01 20:03:06,479 - INFO - Successfully scraped job: Campus Hire - Instrumentation & Controls Engineer
+2024-12-01 20:03:06,483 - INFO - Saved job: Campus Hire - Instrumentation & Controls Engineer - Exxon Mobil
+2024-12-01 20:03:08,401 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/853850
+2024-12-01 20:03:11,650 - INFO - Successfully scraped job: Research Engineer - Aerodynamics - Aerospace Research
+2024-12-01 20:03:11,656 - INFO - Saved job: Research Engineer - Aerodynamics - Aerospace Research - GE Renewable Energy Power and Aviation
+2024-12-01 20:03:12,797 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/853869
+2024-12-01 20:03:15,590 - INFO - Successfully scraped job: Research Engineer - CFD/Methods - Aerospace Research
+2024-12-01 20:03:15,595 - INFO - Saved job: Research Engineer - CFD/Methods - Aerospace Research - GE Renewable Energy Power and Aviation
+2024-12-01 20:03:17,073 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/964134
+2024-12-01 20:03:19,805 - INFO - Successfully scraped job: Avionics Embedded Software Advanced Lead Engineer - FLRAA
+2024-12-01 20:03:19,810 - INFO - Saved job: Avionics Embedded Software Advanced Lead Engineer - FLRAA - GE Renewable Energy Power and Aviation
+2024-12-01 20:03:21,313 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/987818
+2024-12-01 20:03:23,812 - INFO - Successfully scraped job: Software, Senior Test Engineer
+2024-12-01 20:03:23,817 - INFO - Saved job: Software, Senior Test Engineer - Schneider Electric
