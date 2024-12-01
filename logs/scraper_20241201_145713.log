@@ -11077,3 +11077,38 @@
 2024-12-01 19:19:25,965 - INFO - Successfully scraped job: Senior Bridge Engineer
 2024-12-01 19:19:25,972 - INFO - Saved job: Senior Bridge Engineer - AtkinsRéalis
 2024-12-01 19:19:27,899 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/866793
+2024-12-01 19:19:31,680 - INFO - Successfully scraped job: Senior Structural Engineer
+2024-12-01 19:19:31,685 - INFO - Saved job: Senior Structural Engineer - AtkinsRéalis
+2024-12-01 19:19:33,150 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1004036
+2024-12-01 19:19:36,717 - INFO - Successfully scraped job: Energy Systems Engineer - Planning & Facilities Management - Georgetown University
+2024-12-01 19:19:36,723 - INFO - Saved job: Energy Systems Engineer - Planning & Facilities Management - Georgetown University - Georgetown University
+2024-12-01 19:19:38,547 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1004016
+2024-12-01 19:19:41,063 - INFO - Successfully scraped job: Senior Engineer - Advanced Applications Nuclear Systems Engineering (Remote Eligible, U.S)
+2024-12-01 19:19:41,070 - INFO - Saved job: Senior Engineer - Advanced Applications Nuclear Systems Engineering (Remote Eligible, U.S) - GE Vernova
+2024-12-01 19:19:42,913 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1003737
+2024-12-01 19:19:44,875 - INFO - Successfully scraped job: Power Systems Engineer
+2024-12-01 19:19:44,880 - INFO - Saved job: Power Systems Engineer - SpaceX
+2024-12-01 19:19:46,141 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1003730
+2024-12-01 19:19:48,204 - INFO - Successfully scraped job: Application Engineer HVAC Systems (m/w/d)
+2024-12-01 19:19:48,210 - INFO - Saved job: Application Engineer HVAC Systems (m/w/d) - BRUDERKOPF GmbH & Co. KG
+2024-12-01 19:19:49,697 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1003663
+2024-12-01 19:19:53,003 - DEBUG - No additional metadata found
+2024-12-01 19:19:53,018 - INFO - Successfully scraped job: Power Systems Engineer (Rugeley, Staffs or Loudwater, Bucks)
+2024-12-01 19:19:53,022 - INFO - Saved job: Power Systems Engineer (Rugeley, Staffs or Loudwater, Bucks) - Ultra
+2024-12-01 19:19:54,934 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/1003630
+2024-12-01 19:19:56,776 - INFO - Successfully scraped job: Mechanical and Rotating Equipment Engineer (F/M)
+2024-12-01 19:19:56,780 - INFO - Saved job: Mechanical and Rotating Equipment Engineer (F/M) - Total Energies
+2024-12-01 19:19:58,067 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1003381
+2024-12-01 19:20:01,114 - INFO - Successfully scraped job: Robot Engineer
+2024-12-01 19:20:01,118 - INFO - Saved job: Robot Engineer - ABB
+2024-12-01 19:20:02,929 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1003205
+2024-12-01 19:20:16,197 - WARNING - Timeout waiting for company element
+2024-12-01 19:20:16,315 - INFO - Successfully scraped job: Petroleum Engineers (Digital Oil Field Workflows)
+2024-12-01 19:20:16,320 - INFO - Saved job: Petroleum Engineers (Digital Oil Field Workflows) - None
+2024-12-01 19:20:18,257 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/977178
+2024-12-01 19:20:21,433 - INFO - Successfully scraped job: Mechanical Engineer Intern (12 months) - Starting Summer 2025
+2024-12-01 19:20:21,438 - INFO - Saved job: Mechanical Engineer Intern (12 months) - Starting Summer 2025 - Schlumberger
+2024-12-01 19:20:22,780 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/951563
+2024-12-01 19:20:25,476 - INFO - Successfully scraped job: Energy Engineer
+2024-12-01 19:20:25,480 - INFO - Saved job: Energy Engineer - Leidos Holding
+2024-12-01 19:20:26,932 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/819420
