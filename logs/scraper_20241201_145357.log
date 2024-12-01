@@ -2512,3 +2512,22 @@
 2024-12-01 15:43:01,080 - DEBUG - No additional metadata found
 2024-12-01 15:43:01,092 - INFO - Successfully scraped job: Hook-up Lead
 2024-12-01 15:43:01,096 - INFO - Saved job: Hook-up Lead - None
+2024-12-01 15:43:02,229 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990794
+2024-12-01 15:43:14,798 - WARNING - Timeout waiting for company element
+2024-12-01 15:43:14,886 - DEBUG - No additional metadata found
+2024-12-01 15:43:14,899 - INFO - Successfully scraped job: EPCI Manager
+2024-12-01 15:43:14,902 - INFO - Saved job: EPCI Manager - None
+2024-12-01 15:43:16,591 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1006343
+2024-12-01 15:43:29,360 - WARNING - Timeout waiting for company element
+2024-12-01 15:43:29,446 - DEBUG - No additional metadata found
+2024-12-01 15:43:29,458 - INFO - Successfully scraped job: Onshore Consent Manager
+2024-12-01 15:43:29,462 - INFO - Saved job: Onshore Consent Manager - None
+2024-12-01 15:43:31,329 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006334
+2024-12-01 15:43:45,192 - WARNING - Timeout waiting for company element
+2024-12-01 15:43:45,357 - INFO - Successfully scraped job: Superintendent Piping / Testing (Night Shift)
+2024-12-01 15:43:45,361 - INFO - Saved job: Superintendent Piping / Testing (Night Shift) - None
+2024-12-01 15:43:46,518 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006229
+2024-12-01 15:43:59,553 - WARNING - Timeout waiting for company element
+2024-12-01 15:43:59,740 - INFO - Successfully scraped job: Head of Topside & Pipeline Execution
+2024-12-01 15:43:59,743 - INFO - Saved job: Head of Topside & Pipeline Execution - None
+2024-12-01 15:44:01,248 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/987720

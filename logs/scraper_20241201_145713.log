@@ -2104,3 +2104,26 @@
 2024-12-01 15:43:00,446 - INFO - Successfully scraped job: EPCI Manager
 2024-12-01 15:43:00,448 - INFO - Saved job: EPCI Manager - None
 2024-12-01 15:43:01,450 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1006343
+2024-12-01 15:43:13,991 - WARNING - Timeout waiting for company element
+2024-12-01 15:43:14,096 - DEBUG - No additional metadata found
+2024-12-01 15:43:14,109 - INFO - Successfully scraped job: Onshore Consent Manager
+2024-12-01 15:43:14,111 - INFO - Saved job: Onshore Consent Manager - None
+2024-12-01 15:43:15,555 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/988587
+2024-12-01 15:43:29,240 - WARNING - Timeout waiting for company element
+2024-12-01 15:43:29,320 - DEBUG - No additional metadata found
+2024-12-01 15:43:29,335 - INFO - Successfully scraped job: Process Specialist COMP3
+2024-12-01 15:43:29,339 - INFO - Saved job: Process Specialist COMP3 - None
+2024-12-01 15:43:31,177 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/offshore-jobs/1006230
+2024-12-01 15:43:44,642 - WARNING - Timeout waiting for company element
+2024-12-01 15:43:44,811 - INFO - Successfully scraped job: Head of Flow Assurance
+2024-12-01 15:43:44,814 - INFO - Saved job: Head of Flow Assurance - None
+2024-12-01 15:43:46,509 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/911511
+2024-12-01 15:43:49,790 - INFO - Successfully scraped job: Driller Assistant
+2024-12-01 15:43:49,792 - INFO - Saved job: Driller Assistant - Tolunay-Wong Engineers, Inc.
+2024-12-01 15:43:51,540 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/975192
+2024-12-01 15:43:55,296 - INFO - Successfully scraped job: Driller
+2024-12-01 15:43:55,299 - INFO - Saved job: Driller - Universal Engineering Sciences
+2024-12-01 15:43:57,002 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/924939
+2024-12-01 15:44:00,149 - INFO - Successfully scraped job: HVAC Service Technician
+2024-12-01 15:44:00,152 - INFO - Saved job: HVAC Service Technician - HTS Engineering Ltd
+2024-12-01 15:44:02,110 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/888802
