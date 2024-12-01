@@ -10559,3 +10559,44 @@
 2024-12-01 19:03:45,591 - INFO - Successfully scraped job: Project Quality Engineer
 2024-12-01 19:03:45,596 - INFO - Saved job: Project Quality Engineer - None
 2024-12-01 19:03:46,836 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/960743
+2024-12-01 19:03:59,196 - WARNING - Timeout waiting for company element
+2024-12-01 19:03:59,321 - INFO - Successfully scraped job: Senior Electrical Engineer
+2024-12-01 19:03:59,326 - INFO - Saved job: Senior Electrical Engineer - None
+2024-12-01 19:04:01,206 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/960217
+2024-12-01 19:04:13,892 - WARNING - Timeout waiting for company element
+2024-12-01 19:04:14,011 - INFO - Successfully scraped job: Material Handling Engineer- Piping & Layout
+2024-12-01 19:04:14,016 - INFO - Saved job: Material Handling Engineer- Piping & Layout - None
+2024-12-01 19:04:15,498 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/875502
+2024-12-01 19:04:19,238 - INFO - Successfully scraped job: Senior Engineer - Coatings and Cathodic Protection
+2024-12-01 19:04:19,246 - INFO - Saved job: Senior Engineer - Coatings and Cathodic Protection - Wood PLC
+2024-12-01 19:04:20,337 - INFO - Collected 2320 jobs so far
+2024-12-01 19:04:20,337 - INFO - Scraping page 117 of 384
+2024-12-01 19:04:24,061 - INFO - Getting job links from current page
+2024-12-01 19:04:27,108 - INFO - Found 20 job cards
+2024-12-01 19:04:27,125 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005104
+2024-12-01 19:04:27,134 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000572
+2024-12-01 19:04:27,147 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/999784
+2024-12-01 19:04:27,157 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/989163
+2024-12-01 19:04:27,169 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/987684
+2024-12-01 19:04:27,178 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/986454
+2024-12-01 19:04:27,188 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/986865
+2024-12-01 19:04:27,199 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/986957
+2024-12-01 19:04:27,213 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/986644
+2024-12-01 19:04:27,226 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/986662
+2024-12-01 19:04:27,237 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1007073
+2024-12-01 19:04:27,245 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006991
+2024-12-01 19:04:27,253 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/985924
+2024-12-01 19:04:27,261 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/915220
+2024-12-01 19:04:27,269 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/915205
+2024-12-01 19:04:27,277 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/915196
+2024-12-01 19:04:27,286 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/874418
+2024-12-01 19:04:27,294 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/914841
+2024-12-01 19:04:27,302 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006753
+2024-12-01 19:04:27,311 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006831
+2024-12-01 19:04:27,311 - INFO - Successfully extracted 20 job links
+2024-12-01 19:04:27,311 - INFO - Found 20 jobs on page 117
+2024-12-01 19:04:27,311 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005104
+2024-12-01 19:04:40,568 - WARNING - Timeout waiting for company element
+2024-12-01 19:04:41,014 - INFO - Successfully scraped job: Lead Project Engineer
+2024-12-01 19:04:41,020 - INFO - Saved job: Lead Project Engineer - None
+2024-12-01 19:04:42,815 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000572

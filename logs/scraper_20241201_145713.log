@@ -10373,3 +10373,29 @@
 2024-12-01 19:03:46,653 - INFO - Successfully scraped job: NLQ HVAC Engineer
 2024-12-01 19:03:46,658 - INFO - Saved job: NLQ HVAC Engineer - None
 2024-12-01 19:03:48,250 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/987684
+2024-12-01 19:04:01,546 - WARNING - Timeout waiting for company element
+2024-12-01 19:04:01,808 - INFO - Successfully scraped job: Electrical Field Engineer
+2024-12-01 19:04:01,813 - INFO - Saved job: Electrical Field Engineer - None
+2024-12-01 19:04:03,605 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/986454
+2024-12-01 19:04:16,396 - WARNING - Timeout waiting for company element
+2024-12-01 19:04:16,493 - INFO - Successfully scraped job: Planning and Scheduling Engineer II
+2024-12-01 19:04:16,498 - INFO - Saved job: Planning and Scheduling Engineer II - None
+2024-12-01 19:04:18,453 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/986865
+2024-12-01 19:04:20,288 - INFO - Successfully scraped job: Lead Development Lab Engineer
+2024-12-01 19:04:20,292 - INFO - Saved job: Lead Development Lab Engineer - GE Renewable Energy Power and Aviation
+2024-12-01 19:04:21,968 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/986957
+2024-12-01 19:04:24,922 - INFO - Successfully scraped job: Flow Assurance/Process Engineer
+2024-12-01 19:04:24,926 - INFO - Saved job: Flow Assurance/Process Engineer - Schlumberger
+2024-12-01 19:04:26,222 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/986644
+2024-12-01 19:04:29,499 - INFO - Successfully scraped job: Automation Engineer
+2024-12-01 19:04:29,503 - INFO - Saved job: Automation Engineer - ABB
+2024-12-01 19:04:30,691 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/986662
+2024-12-01 19:04:34,180 - INFO - Successfully scraped job: Senior Instrumentation & Controls Engineer
+2024-12-01 19:04:34,184 - INFO - Saved job: Senior Instrumentation & Controls Engineer - Wood PLC
+2024-12-01 19:04:35,536 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1007065
+2024-12-01 19:04:38,727 - INFO - Successfully scraped job: Lead Software Engineer
+2024-12-01 19:04:38,733 - INFO - Saved job: Lead Software Engineer - Vestas
+2024-12-01 19:04:40,086 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1007073
+2024-12-01 19:04:43,780 - INFO - Successfully scraped job: Control Engineer
+2024-12-01 19:04:43,784 - INFO - Saved job: Control Engineer - Vestas
+2024-12-01 19:04:45,110 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006991
