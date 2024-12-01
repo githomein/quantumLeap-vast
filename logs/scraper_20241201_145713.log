@@ -11888,3 +11888,30 @@
 2024-12-01 19:36:07,788 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/971977
 2024-12-01 19:36:10,889 - INFO - Successfully scraped job: VIE _ Solar R&D Engineer (M/F) _ QATAR (Doha)
 2024-12-01 19:36:10,893 - INFO - Saved job: VIE _ Solar R&D Engineer (M/F) _ QATAR (Doha) - Total Energies
+2024-12-01 19:36:12,849 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/998149
+2024-12-01 19:36:15,867 - INFO - Successfully scraped job: Well Engineer III - Integrated Services and Projects
+2024-12-01 19:36:15,872 - INFO - Saved job: Well Engineer III - Integrated Services and Projects - Weatherford
+2024-12-01 19:36:16,928 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/998158
+2024-12-01 19:36:20,193 - INFO - Successfully scraped job: Field Service Engineer I
+2024-12-01 19:36:20,200 - INFO - Saved job: Field Service Engineer I - Honeywell
+2024-12-01 19:36:21,477 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/997979
+2024-12-01 19:36:34,113 - WARNING - Timeout waiting for company element
+2024-12-01 19:36:34,275 - INFO - Successfully scraped job: Senior Principal Structural Engineer
+2024-12-01 19:36:34,280 - INFO - Saved job: Senior Principal Structural Engineer - None
+2024-12-01 19:36:35,448 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/997941
+2024-12-01 19:36:49,278 - WARNING - Timeout waiting for company element
+2024-12-01 19:36:49,412 - INFO - Successfully scraped job: Coating Engineer
+2024-12-01 19:36:49,417 - INFO - Saved job: Coating Engineer - None
+2024-12-01 19:36:51,318 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/997913
+2024-12-01 19:36:54,367 - INFO - Successfully scraped job: Senior Product Development Engineer
+2024-12-01 19:36:54,372 - INFO - Saved job: Senior Product Development Engineer - Exxon Mobil
+2024-12-01 19:36:56,106 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/997912
+2024-12-01 19:36:59,097 - INFO - Successfully scraped job: Senior Customer and Application Development Engineer, Pultruded Composites
+2024-12-01 19:36:59,101 - INFO - Saved job: Senior Customer and Application Development Engineer, Pultruded Composites - Exxon Mobil
+2024-12-01 19:37:00,581 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/923576
+2024-12-01 19:37:03,079 - INFO - Successfully scraped job: Project Engineer - Water/Wastewater
+2024-12-01 19:37:03,083 - INFO - Saved job: Project Engineer - Water/Wastewater - Garver
+2024-12-01 19:37:04,440 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/923583
+2024-12-01 19:37:07,630 - INFO - Successfully scraped job: Senior Project Engineer - Water/Wastewater
+2024-12-01 19:37:07,637 - INFO - Saved job: Senior Project Engineer - Water/Wastewater - Garver
+2024-12-01 19:37:09,532 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/923660
