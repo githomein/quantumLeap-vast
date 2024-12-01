@@ -1860,3 +1860,61 @@
 2024-12-01 15:37:45,142 - INFO - Successfully scraped job: HVAC Parts and Warranty Specialist
 2024-12-01 15:37:45,144 - INFO - Saved job: HVAC Parts and Warranty Specialist - HTS Engineering Ltd
 2024-12-01 15:37:47,060 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006334
+2024-12-01 15:38:01,343 - WARNING - Timeout waiting for company element
+2024-12-01 15:38:01,527 - INFO - Successfully scraped job: Superintendent Piping / Testing (Night Shift)
+2024-12-01 15:38:01,529 - INFO - Saved job: Superintendent Piping / Testing (Night Shift) - None
+2024-12-01 15:38:03,368 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/911530
+2024-12-01 15:38:05,977 - INFO - Successfully scraped job: HVAC Service Technician II
+2024-12-01 15:38:05,980 - INFO - Saved job: HVAC Service Technician II - HTS Engineering Ltd
+2024-12-01 15:38:07,524 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/891355
+2024-12-01 15:38:10,771 - INFO - Successfully scraped job: Senior HVAC Service Technician
+2024-12-01 15:38:10,774 - INFO - Saved job: Senior HVAC Service Technician - HTS Engineering Ltd
+2024-12-01 15:38:12,065 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/975020
+2024-12-01 15:38:14,274 - INFO - Successfully scraped job: HVAC 3D Drafter
+2024-12-01 15:38:14,276 - INFO - Saved job: HVAC 3D Drafter - HTS Engineering Ltd
+2024-12-01 15:38:15,996 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/888801
+2024-12-01 15:38:18,487 - INFO - Successfully scraped job: HVAC Service Technician - Austin
+2024-12-01 15:38:18,489 - INFO - Saved job: HVAC Service Technician - Austin - HTS Engineering Ltd
+2024-12-01 15:38:19,675 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/888803
+2024-12-01 15:38:23,326 - INFO - Successfully scraped job: HVAC Service Technician - Dallas
+2024-12-01 15:38:23,330 - INFO - Saved job: HVAC Service Technician - Dallas - HTS Engineering Ltd
+2024-12-01 15:38:24,856 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/895233
+2024-12-01 15:38:27,420 - INFO - Successfully scraped job: HVAC Service Technician II - Houston
+2024-12-01 15:38:27,422 - INFO - Saved job: HVAC Service Technician II - Houston - HTS Engineering Ltd
+2024-12-01 15:38:28,501 - INFO - Collected 420 jobs so far
+2024-12-01 15:38:28,501 - INFO - Scraping page 22 of 389
+2024-12-01 15:38:31,501 - INFO - Getting job links from current page
+2024-12-01 15:38:34,545 - INFO - Found 20 job cards
+2024-12-01 15:38:34,563 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006334
+2024-12-01 15:38:34,574 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/911530
+2024-12-01 15:38:34,586 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/891355
+2024-12-01 15:38:34,598 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/975020
+2024-12-01 15:38:34,619 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/888801
+2024-12-01 15:38:34,631 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/888803
+2024-12-01 15:38:34,650 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/895233
+2024-12-01 15:38:34,667 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/994644
+2024-12-01 15:38:34,691 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/994552
+2024-12-01 15:38:34,709 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/993423
+2024-12-01 15:38:34,725 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/891354
+2024-12-01 15:38:34,740 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/production-jobs/930082
+2024-12-01 15:38:34,757 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/888796
+2024-12-01 15:38:34,769 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/888804
+2024-12-01 15:38:34,779 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/888805
+2024-12-01 15:38:34,790 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/999225
+2024-12-01 15:38:34,803 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/920352
+2024-12-01 15:38:34,819 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/994581
+2024-12-01 15:38:34,831 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/994570
+2024-12-01 15:38:34,846 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/993558
+2024-12-01 15:38:34,846 - INFO - Successfully extracted 20 job links
+2024-12-01 15:38:34,847 - INFO - Found 20 jobs on page 22
+2024-12-01 15:38:34,847 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006334
+2024-12-01 15:38:47,356 - WARNING - Timeout waiting for company element
+2024-12-01 15:38:47,570 - INFO - Successfully scraped job: Superintendent Piping / Testing (Night Shift)
+2024-12-01 15:38:47,574 - INFO - Saved job: Superintendent Piping / Testing (Night Shift) - None
+2024-12-01 15:38:49,164 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/911530
+2024-12-01 15:38:51,440 - INFO - Successfully scraped job: HVAC Service Technician II
+2024-12-01 15:38:51,443 - INFO - Saved job: HVAC Service Technician II - HTS Engineering Ltd
+2024-12-01 15:38:52,839 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/891355
+2024-12-01 15:38:54,712 - INFO - Successfully scraped job: Senior HVAC Service Technician
+2024-12-01 15:38:54,714 - INFO - Saved job: Senior HVAC Service Technician - HTS Engineering Ltd
+2024-12-01 15:38:56,680 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/975020
