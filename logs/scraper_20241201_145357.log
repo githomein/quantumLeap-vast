@@ -10150,3 +10150,27 @@
 2024-12-01 18:52:14,626 - INFO - Successfully scraped job: Structural Engineer
 2024-12-01 18:52:14,631 - INFO - Saved job: Structural Engineer - Wood PLC
 2024-12-01 18:52:15,720 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990763
+2024-12-01 18:52:29,629 - WARNING - Timeout waiting for company element
+2024-12-01 18:52:29,759 - INFO - Successfully scraped job: Mechanical Engineer (FEED, Detailed Engineering)
+2024-12-01 18:52:29,767 - INFO - Saved job: Mechanical Engineer (FEED, Detailed Engineering) - None
+2024-12-01 18:52:31,639 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990778
+2024-12-01 18:52:44,814 - WARNING - Timeout waiting for company element
+2024-12-01 18:52:44,932 - INFO - Successfully scraped job: Control System Engineer
+2024-12-01 18:52:44,936 - INFO - Saved job: Control System Engineer - None
+2024-12-01 18:52:46,100 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990687
+2024-12-01 18:52:59,438 - WARNING - Timeout waiting for company element
+2024-12-01 18:52:59,552 - INFO - Successfully scraped job: Sr. Electrical Engineer
+2024-12-01 18:52:59,558 - INFO - Saved job: Sr. Electrical Engineer - None
+2024-12-01 18:53:01,261 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/851368
+2024-12-01 18:53:04,870 - INFO - Successfully scraped job: ENGINEER ENERGY EFFICIENCY
+2024-12-01 18:53:04,874 - INFO - Saved job: ENGINEER ENERGY EFFICIENCY - Engie
+2024-12-01 18:53:06,097 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/878069
+2024-12-01 18:53:09,705 - INFO - Successfully scraped job: Principal Process Engineer PSC
+2024-12-01 18:53:09,709 - INFO - Saved job: Principal Process Engineer PSC - Wood PLC
+2024-12-01 18:53:11,575 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/970117
+2024-12-01 18:53:14,620 - INFO - Successfully scraped job: Lead Planning Engineer PSC
+2024-12-01 18:53:14,625 - INFO - Saved job: Lead Planning Engineer PSC - Wood PLC
+2024-12-01 18:53:16,162 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/921490
+2024-12-01 18:53:19,595 - INFO - Successfully scraped job: Senior Project Engineer - EPLAN
+2024-12-01 18:53:19,600 - INFO - Saved job: Senior Project Engineer - EPLAN - ABB
+2024-12-01 18:53:20,821 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/oilfield-jobs/990643
