@@ -12458,3 +12458,31 @@
 2024-12-01 19:51:43,415 - INFO - Successfully scraped job: Senior Engineer, Water
 2024-12-01 19:51:43,421 - INFO - Saved job: Senior Engineer, Water - AtkinsRéalis
 2024-12-01 19:51:45,072 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/922604
+2024-12-01 19:51:58,804 - WARNING - Timeout waiting for company element
+2024-12-01 19:51:58,971 - INFO - Successfully scraped job: Safety/NEBS Engineer
+2024-12-01 19:51:58,977 - INFO - Saved job: Safety/NEBS Engineer - None
+2024-12-01 19:52:00,535 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/970754
+2024-12-01 19:52:04,355 - INFO - Successfully scraped job: Associate Director Mechanical Engineering
+2024-12-01 19:52:04,362 - INFO - Saved job: Associate Director Mechanical Engineering - AtkinsRéalis
+2024-12-01 19:52:06,116 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991121
+2024-12-01 19:52:19,146 - WARNING - Timeout waiting for company element
+2024-12-01 19:52:19,303 - INFO - Successfully scraped job: Senior Engineer, Process and Flow Assurance
+2024-12-01 19:52:19,309 - INFO - Saved job: Senior Engineer, Process and Flow Assurance - None
+2024-12-01 19:52:20,538 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991000
+2024-12-01 19:52:22,359 - INFO - Successfully scraped job: Technical Support Engineer
+2024-12-01 19:52:22,363 - INFO - Saved job: Technical Support Engineer - Schneider Electric
+2024-12-01 19:52:24,256 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990898
+2024-12-01 19:52:27,414 - DEBUG - No additional metadata found
+2024-12-01 19:52:27,429 - INFO - Successfully scraped job: Service Contract Engineer (M/F)
+2024-12-01 19:52:27,435 - INFO - Saved job: Service Contract Engineer (M/F) - Vestas
+2024-12-01 19:52:29,162 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990889
+2024-12-01 19:52:31,495 - INFO - Successfully scraped job: Lead Engineer - Rotor Mechanical Design- Hybrid
+2024-12-01 19:52:31,500 - INFO - Saved job: Lead Engineer - Rotor Mechanical Design- Hybrid - GE Renewable Energy Power and Aviation
+2024-12-01 19:52:32,674 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/990837
+2024-12-01 19:52:35,256 - INFO - Successfully scraped job: Structural Engineer
+2024-12-01 19:52:35,261 - INFO - Saved job: Structural Engineer - Wood PLC
+2024-12-01 19:52:36,289 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990763
+2024-12-01 19:52:50,139 - WARNING - Timeout waiting for company element
+2024-12-01 19:52:50,284 - INFO - Successfully scraped job: Mechanical Engineer (FEED, Detailed Engineering)
+2024-12-01 19:52:50,292 - INFO - Saved job: Mechanical Engineer (FEED, Detailed Engineering) - None
+2024-12-01 19:52:51,845 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990778
