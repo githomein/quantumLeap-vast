@@ -8651,3 +8651,64 @@
 2024-12-01 18:23:17,091 - INFO - Successfully scraped job: Power Generation Engineering Manager 1
 2024-12-01 18:23:17,094 - INFO - Saved job: Power Generation Engineering Manager 1 - GAI Consultants
 2024-12-01 18:23:18,366 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001328
+2024-12-01 18:23:21,939 - INFO - Successfully scraped job: Commercial Gas Engineer
+2024-12-01 18:23:21,943 - INFO - Saved job: Commercial Gas Engineer - Arcus FM
+2024-12-01 18:23:23,147 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001285
+2024-12-01 18:23:26,802 - INFO - Successfully scraped job: Gas Engineer
+2024-12-01 18:23:26,806 - INFO - Saved job: Gas Engineer - Sureserve
+2024-12-01 18:23:28,035 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001294
+2024-12-01 18:23:29,900 - INFO - Successfully scraped job: Gas Engineer
+2024-12-01 18:23:29,904 - INFO - Saved job: Gas Engineer - Sureserve
+2024-12-01 18:23:31,497 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1001149
+2024-12-01 18:23:33,716 - INFO - Successfully scraped job: Engineering Intern - Standards Lab
+2024-12-01 18:23:33,720 - INFO - Saved job: Engineering Intern - Standards Lab - Honeywell
+2024-12-01 18:23:34,903 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001123
+2024-12-01 18:23:47,814 - WARNING - Timeout waiting for company element
+2024-12-01 18:23:48,007 - INFO - Successfully scraped job: Tender Engineer
+2024-12-01 18:23:48,013 - INFO - Saved job: Tender Engineer - None
+2024-12-01 18:23:49,606 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/865068
+2024-12-01 18:23:51,733 - INFO - Successfully scraped job: Project Engineer - Process Power Manager
+2024-12-01 18:23:51,737 - INFO - Saved job: Project Engineer - Process Power Manager - ABB
+2024-12-01 18:23:52,866 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001046
+2024-12-01 18:23:54,781 - INFO - Successfully scraped job: Lead Composite Design Engineer
+2024-12-01 18:23:54,785 - INFO - Saved job: Lead Composite Design Engineer - GE Renewable Energy Power and Aviation
+2024-12-01 18:23:56,334 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001045
+2024-12-01 18:23:59,227 - INFO - Successfully scraped job: Industrial Engineering Leader
+2024-12-01 18:23:59,231 - INFO - Saved job: Industrial Engineering Leader - GE Renewable Energy Power and Aviation
+2024-12-01 18:24:00,323 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/971445
+2024-12-01 18:24:02,300 - INFO - Successfully scraped job: Principal Engineer - Instrument
+2024-12-01 18:24:02,304 - INFO - Saved job: Principal Engineer - Instrument - Aker Solutions
+2024-12-01 18:24:03,481 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/931381
+2024-12-01 18:24:07,109 - INFO - Successfully scraped job: Power Engineering Technologist I
+2024-12-01 18:24:07,113 - INFO - Saved job: Power Engineering Technologist I - Pike Corporation
+2024-12-01 18:24:08,693 - INFO - Collected 1900 jobs so far
+2024-12-01 18:24:08,694 - INFO - Scraping page 96 of 389
+2024-12-01 18:24:11,341 - INFO - Getting job links from current page
+2024-12-01 18:24:14,377 - INFO - Found 20 job cards
+2024-12-01 18:24:14,388 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/927430
+2024-12-01 18:24:14,397 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/926844
+2024-12-01 18:24:14,409 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/926905
+2024-12-01 18:24:14,418 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/975779
+2024-12-01 18:24:14,428 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/975699
+2024-12-01 18:24:14,436 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/975693
+2024-12-01 18:24:14,445 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/926083
+2024-12-01 18:24:14,454 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/890070
+2024-12-01 18:24:14,463 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/926185
+2024-12-01 18:24:14,472 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/909987
+2024-12-01 18:24:14,481 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/950681
+2024-12-01 18:24:14,491 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/933931
+2024-12-01 18:24:14,499 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/933873
+2024-12-01 18:24:14,508 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/933677
+2024-12-01 18:24:14,517 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/933603
+2024-12-01 18:24:14,526 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/933330
+2024-12-01 18:24:14,535 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/production-jobs/933314
+2024-12-01 18:24:14,544 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/932926
+2024-12-01 18:24:14,553 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/931792
+2024-12-01 18:24:14,562 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/931831
+2024-12-01 18:24:14,562 - INFO - Successfully extracted 20 job links
+2024-12-01 18:24:14,562 - INFO - Found 20 jobs on page 96
+2024-12-01 18:24:14,562 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/927430
+2024-12-01 18:24:17,410 - DEBUG - No additional metadata found
+2024-12-01 18:24:17,427 - INFO - Successfully scraped job: Nuclear Safety Engineer 1
+2024-12-01 18:24:17,432 - INFO - Saved job: Nuclear Safety Engineer 1 - Amentum
+2024-12-01 18:24:19,129 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/926844
