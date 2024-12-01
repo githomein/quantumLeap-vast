@@ -4773,3 +4773,36 @@
 2024-12-01 16:48:25,848 - INFO - Successfully scraped job: Procurement Engineer
 2024-12-01 16:48:25,851 - INFO - Saved job: Procurement Engineer - None
 2024-12-01 16:48:27,306 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/989132
+2024-12-01 16:48:39,587 - WARNING - Timeout waiting for company element
+2024-12-01 16:48:39,766 - INFO - Successfully scraped job: Principal Mechanical Engineer - HVAC
+2024-12-01 16:48:39,771 - INFO - Saved job: Principal Mechanical Engineer - HVAC - None
+2024-12-01 16:48:41,534 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/989121
+2024-12-01 16:48:44,371 - INFO - Successfully scraped job: SAP Sales & Distribution Application Engineer
+2024-12-01 16:48:44,375 - INFO - Saved job: SAP Sales & Distribution Application Engineer - Chevron
+2024-12-01 16:48:45,656 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/989071
+2024-12-01 16:48:49,060 - INFO - Successfully scraped job: Senior Reservoir Engineer - Dynamic Simulation
+2024-12-01 16:48:49,064 - INFO - Saved job: Senior Reservoir Engineer - Dynamic Simulation - Halliburton
+2024-12-01 16:48:50,537 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/918931
+2024-12-01 16:48:52,752 - INFO - Successfully scraped job: Intern - Process Control Applications Engineer (Jan - June 2025)
+2024-12-01 16:48:52,756 - INFO - Saved job: Intern - Process Control Applications Engineer (Jan - June 2025) - Exxon Mobil
+2024-12-01 16:48:53,774 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/847190
+2024-12-01 16:48:56,046 - INFO - Successfully scraped job: Industrialisation Engineer - Ingénieur Industrialisation - Chimiste - Formulation H/F
+2024-12-01 16:48:56,050 - INFO - Saved job: Industrialisation Engineer - Ingénieur Industrialisation - Chimiste - Formulation H/F - bp
+2024-12-01 16:48:57,124 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/897229
+2024-12-01 16:48:59,316 - INFO - Successfully scraped job: Duales Studium Maschinenbau - Bachelor of Engineering (2025) (Recklinghausen, DE)
+2024-12-01 16:48:59,319 - INFO - Saved job: Duales Studium Maschinenbau - Bachelor of Engineering (2025) (Recklinghausen, DE) - E.ON
+2024-12-01 16:49:00,478 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/988659
+2024-12-01 16:49:03,292 - INFO - Successfully scraped job: Associate Electrical Engineer
+2024-12-01 16:49:03,295 - INFO - Saved job: Associate Electrical Engineer - ABB
+2024-12-01 16:49:05,144 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/988536
+2024-12-01 16:49:18,237 - WARNING - Timeout waiting for company element
+2024-12-01 16:49:18,334 - INFO - Successfully scraped job: Senior Schedule Engineer
+2024-12-01 16:49:18,338 - INFO - Saved job: Senior Schedule Engineer - None
+2024-12-01 16:49:19,509 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/oil-rig-jobs/988461
+2024-12-01 16:49:31,875 - WARNING - Timeout waiting for company element
+2024-12-01 16:49:32,169 - INFO - Successfully scraped job: Machinery Diagnostics Field Engineer
+2024-12-01 16:49:32,172 - INFO - Saved job: Machinery Diagnostics Field Engineer - None
+2024-12-01 16:49:33,278 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/918673
+2024-12-01 16:49:36,523 - INFO - Successfully scraped job: Electrical Engineer, Sweeny Refinery
+2024-12-01 16:49:36,526 - INFO - Saved job: Electrical Engineer, Sweeny Refinery - Phillips 66
+2024-12-01 16:49:37,536 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/918461
