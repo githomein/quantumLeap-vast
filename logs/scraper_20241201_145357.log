@@ -1970,3 +1970,32 @@
 2024-12-01 15:30:46,831 - INFO - Successfully scraped job: Energy Engineer
 2024-12-01 15:30:46,834 - INFO - Saved job: Energy Engineer - AKF Engineers
 2024-12-01 15:30:48,776 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/999311
+2024-12-01 15:30:52,350 - INFO - Successfully scraped job: Power Engineering Intern
+2024-12-01 15:30:52,353 - INFO - Saved job: Power Engineering Intern - Schweitzer Engineering Laboratories, Inc.
+2024-12-01 15:30:54,255 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/998754
+2024-12-01 15:30:56,729 - INFO - Successfully scraped job: Energy Engineer Internship
+2024-12-01 15:30:56,731 - INFO - Saved job: Energy Engineer Internship - U.S. Engineering
+2024-12-01 15:30:58,329 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/971312
+2024-12-01 15:31:02,059 - INFO - Successfully scraped job: Associate Sales Engineer - Power Systems
+2024-12-01 15:31:02,062 - INFO - Saved job: Associate Sales Engineer - Power Systems - Schweitzer Engineering Laboratories, Inc.
+2024-12-01 15:31:03,292 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/964479
+2024-12-01 15:31:06,024 - INFO - Successfully scraped job: Engineer II - Water/Wastewater
+2024-12-01 15:31:06,027 - INFO - Saved job: Engineer II - Water/Wastewater - Pape-Dawson Engineers
+2024-12-01 15:31:07,196 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/917183
+2024-12-01 15:31:10,686 - INFO - Successfully scraped job: Senior Power Systems Engineer - NERC Engineering Studies
+2024-12-01 15:31:10,689 - INFO - Saved job: Senior Power Systems Engineer - NERC Engineering Studies - Electric Power Engineers
+2024-12-01 15:31:12,401 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/920860
+2024-12-01 15:31:14,667 - INFO - Successfully scraped job: Electrical/Solar Engineer- July 2025
+2024-12-01 15:31:14,670 - INFO - Saved job: Electrical/Solar Engineer- July 2025 - Pure Power Engineering
+2024-12-01 15:31:16,055 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/995237
+2024-12-01 15:31:19,011 - INFO - Successfully scraped job: Demand Generation Coordinator
+2024-12-01 15:31:19,016 - INFO - Saved job: Demand Generation Coordinator - ECi Software Solutions Career
+2024-12-01 15:31:20,530 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/995145
+2024-12-01 15:31:23,743 - INFO - Successfully scraped job: Growth and Demand Generation Marketing Manager
+2024-12-01 15:31:23,746 - INFO - Saved job: Growth and Demand Generation Marketing Manager - Equus Software
+2024-12-01 15:31:25,603 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/988591
+2024-12-01 15:31:38,511 - WARNING - Timeout waiting for company element
+2024-12-01 15:31:38,613 - DEBUG - No additional metadata found
+2024-12-01 15:31:38,628 - INFO - Successfully scraped job: Telecoms Engineer
+2024-12-01 15:31:38,631 - INFO - Saved job: Telecoms Engineer - None
+2024-12-01 15:31:39,674 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/987054
