@@ -13629,3 +13629,61 @@
 2024-12-01 20:15:55,354 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005022
 2024-12-01 20:15:57,779 - INFO - Successfully scraped job: Sr. Engineer - Oil & Gas
 2024-12-01 20:15:57,784 - INFO - Saved job: Sr. Engineer - Oil & Gas - Farnsworth Group
+2024-12-01 20:15:58,908 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/science-or-research-jobs/1004993
+2024-12-01 20:16:02,708 - INFO - Successfully scraped job: Supervisory Geologist/Geophysicist/Petroleum Engineer
+2024-12-01 20:16:02,716 - INFO - Saved job: Supervisory Geologist/Geophysicist/Petroleum Engineer - Bureau of Ocean Energy Management
+2024-12-01 20:16:04,203 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1004874
+2024-12-01 20:16:06,474 - INFO - Successfully scraped job: Reservoir Engineer
+2024-12-01 20:16:06,479 - INFO - Saved job: Reservoir Engineer - Istick Capital Management LLC
+2024-12-01 20:16:08,239 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/954094
+2024-12-01 20:16:11,067 - INFO - Successfully scraped job: Sr. Power Systems Test Engineer
+2024-12-01 20:16:11,073 - INFO - Saved job: Sr. Power Systems Test Engineer - RESA Power
+2024-12-01 20:16:12,560 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/865923
+2024-12-01 20:16:15,024 - INFO - Successfully scraped job: Senior Electrical Engineer
+2024-12-01 20:16:15,030 - INFO - Saved job: Senior Electrical Engineer - AtkinsRéalis
+2024-12-01 20:16:16,857 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/925396
+2024-12-01 20:16:20,270 - DEBUG - No additional metadata found
+2024-12-01 20:16:20,285 - INFO - Successfully scraped job: Principal Engineer
+2024-12-01 20:16:20,290 - INFO - Saved job: Principal Engineer - AtkinsRéalis
+2024-12-01 20:16:21,962 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/911527
+2024-12-01 20:16:26,686 - INFO - Successfully scraped job: Mobile HVAC/Maintenance Engineer
+2024-12-01 20:16:26,691 - INFO - Saved job: Mobile HVAC/Maintenance Engineer - Jones Lang LaSalle IP, Inc.
+2024-12-01 20:16:28,273 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/912408
+2024-12-01 20:16:31,531 - INFO - Successfully scraped job: Field Service Engineer - Tank Gauging (Sign On Bonus Applicable)
+2024-12-01 20:16:31,537 - INFO - Saved job: Field Service Engineer - Tank Gauging (Sign On Bonus Applicable) - Honeywell
+2024-12-01 20:16:32,816 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/981269
+2024-12-01 20:16:36,547 - INFO - Successfully scraped job: Senior Engineer - Nuclear (Remote Visual Inspection)
+2024-12-01 20:16:36,553 - INFO - Saved job: Senior Engineer - Nuclear (Remote Visual Inspection) - BAE Systems Canada
+2024-12-01 20:16:37,567 - INFO - Collected 3000 jobs so far
+2024-12-01 20:16:37,567 - INFO - Scraping page 151 of 384
+2024-12-01 20:16:41,417 - INFO - Getting job links from current page
+2024-12-01 20:16:44,452 - INFO - Found 20 job cards
+2024-12-01 20:16:44,464 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/977779
+2024-12-01 20:16:44,482 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/952650
+2024-12-01 20:16:44,491 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/977812
+2024-12-01 20:16:44,501 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/977204
+2024-12-01 20:16:44,510 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/891926
+2024-12-01 20:16:44,519 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/910995
+2024-12-01 20:16:44,528 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/978116
+2024-12-01 20:16:44,537 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/867293
+2024-12-01 20:16:44,547 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/867095
+2024-12-01 20:16:44,556 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/866755
+2024-12-01 20:16:44,565 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/866697
+2024-12-01 20:16:44,573 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/environmental-jobs/866631
+2024-12-01 20:16:44,582 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/866818
+2024-12-01 20:16:44,591 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/866815
+2024-12-01 20:16:44,599 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/866355
+2024-12-01 20:16:44,608 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/978038
+2024-12-01 20:16:44,618 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/867019
+2024-12-01 20:16:44,627 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/866398
+2024-12-01 20:16:44,636 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/866216
+2024-12-01 20:16:44,644 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/865909
+2024-12-01 20:16:44,645 - INFO - Successfully extracted 20 job links
+2024-12-01 20:16:44,645 - INFO - Found 20 jobs on page 151
+2024-12-01 20:16:44,645 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/977779
+2024-12-01 20:16:46,998 - INFO - Successfully scraped job: Energy & Industry Field Engineer
+2024-12-01 20:16:47,005 - INFO - Saved job: Energy & Industry Field Engineer - HILTI
+2024-12-01 20:16:48,026 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/952650
+2024-12-01 20:16:51,271 - INFO - Successfully scraped job: Automation Engineer - Power Systems (Remote)
+2024-12-01 20:16:51,276 - INFO - Saved job: Automation Engineer - Power Systems (Remote) - Caterpillar
+2024-12-01 20:16:52,325 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/977812
