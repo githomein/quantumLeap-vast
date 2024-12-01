@@ -9950,3 +9950,29 @@
 2024-12-01 18:47:11,363 - INFO - Successfully extracted 20 job links
 2024-12-01 18:47:11,363 - INFO - Found 20 jobs on page 110
 2024-12-01 18:47:11,363 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/992503
+2024-12-01 18:47:13,710 - INFO - Successfully scraped job: Offshore Project Method Engineer (H/F)
+2024-12-01 18:47:13,715 - INFO - Saved job: Offshore Project Method Engineer (H/F) - Aptitude Experts
+2024-12-01 18:47:14,751 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/992383
+2024-12-01 18:47:17,642 - INFO - Successfully scraped job: BMS (HVAC) Quality Assurance & Quality Control Engineer
+2024-12-01 18:47:17,648 - INFO - Saved job: BMS (HVAC) Quality Assurance & Quality Control Engineer - CBRE
+2024-12-01 18:47:19,555 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/992237
+2024-12-01 18:47:21,703 - INFO - Successfully scraped job: Rolls-Royce Nuclear Engineering Technician Apprenticeship - Raynesway, UK
+2024-12-01 18:47:21,707 - INFO - Saved job: Rolls-Royce Nuclear Engineering Technician Apprenticeship - Raynesway, UK - Rolls-Royce
+2024-12-01 18:47:23,029 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/992111
+2024-12-01 18:47:26,651 - INFO - Successfully scraped job: Gas Heating Engineer - Service & Repair
+2024-12-01 18:47:26,655 - INFO - Saved job: Gas Heating Engineer - Service & Repair - Bromford
+2024-12-01 18:47:28,143 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/992153
+2024-12-01 18:47:31,973 - INFO - Successfully scraped job: Principal Engineer - Mechanical (Propulsion - Nuclear Interfaces)- 00116504
+2024-12-01 18:47:31,977 - INFO - Saved job: Principal Engineer - Mechanical (Propulsion - Nuclear Interfaces)- 00116504 - Aeropeople
+2024-12-01 18:47:33,030 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/992017
+2024-12-01 18:47:35,220 - INFO - Successfully scraped job: Service and Repair Gas Engineer
+2024-12-01 18:47:35,226 - INFO - Saved job: Service and Repair Gas Engineer - Liberty Group Investments Ltd
+2024-12-01 18:47:36,466 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/992097
+2024-12-01 18:47:49,692 - WARNING - Timeout waiting for company element
+2024-12-01 18:47:49,937 - INFO - Successfully scraped job: Site Project Engineer (Tech Services)
+2024-12-01 18:47:49,963 - INFO - Saved job: Site Project Engineer (Tech Services) - None
+2024-12-01 18:47:51,900 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/992113
+2024-12-01 18:48:04,723 - WARNING - Timeout waiting for company element
+2024-12-01 18:48:04,848 - INFO - Successfully scraped job: Senior Project Engineering Manager - Inside of IR35
+2024-12-01 18:48:04,853 - INFO - Saved job: Senior Project Engineering Manager - Inside of IR35 - None
+2024-12-01 18:48:05,930 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/820267

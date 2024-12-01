@@ -9731,3 +9731,29 @@
 2024-12-01 18:47:08,735 - INFO - Successfully scraped job: Rolls-Royce Nuclear Engineering Technician Apprenticeship - Raynesway, UK
 2024-12-01 18:47:08,740 - INFO - Saved job: Rolls-Royce Nuclear Engineering Technician Apprenticeship - Raynesway, UK - Rolls-Royce
 2024-12-01 18:47:10,659 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/992111
+2024-12-01 18:47:13,183 - INFO - Successfully scraped job: Gas Heating Engineer - Service & Repair
+2024-12-01 18:47:13,187 - INFO - Saved job: Gas Heating Engineer - Service & Repair - Bromford
+2024-12-01 18:47:14,276 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/992153
+2024-12-01 18:47:17,575 - INFO - Successfully scraped job: Principal Engineer - Mechanical (Propulsion - Nuclear Interfaces)- 00116504
+2024-12-01 18:47:17,579 - INFO - Saved job: Principal Engineer - Mechanical (Propulsion - Nuclear Interfaces)- 00116504 - Aeropeople
+2024-12-01 18:47:18,676 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/992017
+2024-12-01 18:47:20,818 - INFO - Successfully scraped job: Service and Repair Gas Engineer
+2024-12-01 18:47:20,823 - INFO - Saved job: Service and Repair Gas Engineer - Liberty Group Investments Ltd
+2024-12-01 18:47:22,716 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/992097
+2024-12-01 18:47:35,515 - WARNING - Timeout waiting for company element
+2024-12-01 18:47:35,804 - INFO - Successfully scraped job: Site Project Engineer (Tech Services)
+2024-12-01 18:47:35,808 - INFO - Saved job: Site Project Engineer (Tech Services) - None
+2024-12-01 18:47:37,252 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/992113
+2024-12-01 18:47:49,945 - WARNING - Timeout waiting for company element
+2024-12-01 18:47:50,074 - INFO - Successfully scraped job: Senior Project Engineering Manager - Inside of IR35
+2024-12-01 18:47:50,079 - INFO - Saved job: Senior Project Engineering Manager - Inside of IR35 - None
+2024-12-01 18:47:51,682 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/820267
+2024-12-01 18:48:04,304 - WARNING - Timeout waiting for company element
+2024-12-01 18:48:04,422 - INFO - Successfully scraped job: Wh Lead Engineer (energy Co.)
+2024-12-01 18:48:04,427 - INFO - Saved job: Wh Lead Engineer (energy Co.) - None
+2024-12-01 18:48:06,200 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991915
+2024-12-01 18:48:08,505 - INFO - Successfully scraped job: Lead/Senior Process Engineer - Nuclear
+2024-12-01 18:48:08,510 - INFO - Saved job: Lead/Senior Process Engineer - Nuclear - Bilfinger
+2024-12-01 18:48:10,305 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/991875
+2024-12-01 18:48:12,982 - INFO - Successfully scraped job: Outside Sales Engineer
+2024-12-01 18:48:12,986 - INFO - Saved job: Outside Sales Engineer - Emerson
