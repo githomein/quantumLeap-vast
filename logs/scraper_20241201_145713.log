@@ -5778,3 +5778,39 @@
 2024-12-01 17:14:11,540 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1003095
 2024-12-01 17:14:14,140 - INFO - Successfully scraped job: R&D Test Engineer - Power Systems
 2024-12-01 17:14:14,148 - INFO - Saved job: R&D Test Engineer - Power Systems - Commonwealth Fusion Systems
+2024-12-01 17:14:15,842 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1002391
+2024-12-01 17:14:19,538 - INFO - Successfully scraped job: Power Engineering Technologist II
+2024-12-01 17:14:19,541 - INFO - Saved job: Power Engineering Technologist II - Pike Corporation
+2024-12-01 17:14:21,488 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1002172
+2024-12-01 17:14:24,196 - INFO - Successfully scraped job: Gas Engineer/Plumber
+2024-12-01 17:14:24,200 - INFO - Saved job: Gas Engineer/Plumber - Octopus Energy Group
+2024-12-01 17:14:25,600 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1002158
+2024-12-01 17:14:28,374 - DEBUG - No additional metadata found
+2024-12-01 17:14:28,392 - INFO - Successfully scraped job: Chief Engineer - LNG
+2024-12-01 17:14:28,395 - INFO - Saved job: Chief Engineer - LNG - Northern Marine
+2024-12-01 17:14:30,112 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1002139
+2024-12-01 17:14:33,734 - INFO - Successfully scraped job: Gas Heating Engineer NCCHS
+2024-12-01 17:14:33,738 - INFO - Saved job: Gas Heating Engineer NCCHS - Nottingham City Council
+2024-12-01 17:14:35,213 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1001972
+2024-12-01 17:14:38,083 - INFO - Successfully scraped job: Advanced Embedded Firmware Engineer
+2024-12-01 17:14:38,086 - INFO - Saved job: Advanced Embedded Firmware Engineer - Honeywell
+2024-12-01 17:14:39,696 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001937
+2024-12-01 17:14:42,725 - INFO - Successfully scraped job: Test Engineer I - Electronic Cards
+2024-12-01 17:14:42,728 - INFO - Saved job: Test Engineer I - Electronic Cards - Honeywell
+2024-12-01 17:14:44,170 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001944
+2024-12-01 17:14:46,728 - INFO - Successfully scraped job: Advanced Field Service Engineer - IT/Networking
+2024-12-01 17:14:46,734 - INFO - Saved job: Advanced Field Service Engineer - IT/Networking - Honeywell
+2024-12-01 17:14:48,496 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001855
+2024-12-01 17:14:51,744 - INFO - Successfully scraped job: R&D Me. Engineer
+2024-12-01 17:14:51,747 - INFO - Saved job: R&D Me. Engineer - ABB
+2024-12-01 17:14:53,042 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1001722
+2024-12-01 17:15:06,176 - WARNING - Timeout waiting for company element
+2024-12-01 17:15:06,467 - INFO - Successfully scraped job: Project Quality Engineer
+2024-12-01 17:15:06,470 - INFO - Saved job: Project Quality Engineer - None
+2024-12-01 17:15:08,054 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1001682
+2024-12-01 17:15:11,507 - INFO - Successfully scraped job: Sourcing Lead - Facilities and Engineered Equipment
+2024-12-01 17:15:11,510 - INFO - Saved job: Sourcing Lead - Facilities and Engineered Equipment - bp
+2024-12-01 17:15:12,700 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001648
+2024-12-01 17:15:15,015 - DEBUG - No additional metadata found
+2024-12-01 17:15:15,030 - INFO - Successfully scraped job: Piping Design Engineer
+2024-12-01 17:15:15,034 - INFO - Saved job: Piping Design Engineer - Spencer Ogden
