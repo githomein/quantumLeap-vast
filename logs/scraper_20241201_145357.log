@@ -4864,3 +4864,20 @@
 2024-12-01 16:45:25,071 - INFO - Successfully scraped job: Senior Instrumentation Engineer
 2024-12-01 16:45:25,076 - INFO - Saved job: Senior Instrumentation Engineer - Wood PLC
 2024-12-01 16:45:26,855 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/991257
+2024-12-01 16:45:40,466 - WARNING - Timeout waiting for company element
+2024-12-01 16:45:40,582 - INFO - Successfully scraped job: Senior Qa/qc Engineer
+2024-12-01 16:45:40,586 - INFO - Saved job: Senior Qa/qc Engineer - None
+2024-12-01 16:45:42,368 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991232
+2024-12-01 16:45:55,429 - WARNING - Timeout waiting for company element
+2024-12-01 16:45:55,533 - INFO - Successfully scraped job: Planning Engineer (T&I)
+2024-12-01 16:45:55,536 - INFO - Saved job: Planning Engineer (T&I) - None
+2024-12-01 16:45:56,692 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991230
+2024-12-01 16:46:10,497 - WARNING - Timeout waiting for company element
+2024-12-01 16:46:10,571 - DEBUG - No additional metadata found
+2024-12-01 16:46:10,585 - INFO - Successfully scraped job: Pipeline Installation Senior Engineer Methods
+2024-12-01 16:46:10,589 - INFO - Saved job: Pipeline Installation Senior Engineer Methods - None
+2024-12-01 16:46:11,961 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/837359
+2024-12-01 16:46:24,816 - WARNING - Timeout waiting for company element
+2024-12-01 16:46:24,961 - INFO - Successfully scraped job: Graduate Process Engineer
+2024-12-01 16:46:24,966 - INFO - Saved job: Graduate Process Engineer - None
+2024-12-01 16:46:26,691 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/818719
