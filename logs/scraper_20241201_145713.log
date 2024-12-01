@@ -14513,3 +14513,36 @@
 2024-12-01 20:41:11,026 - INFO - Successfully extracted 20 job links
 2024-12-01 20:41:11,026 - INFO - Found 20 jobs on page 160
 2024-12-01 20:41:11,026 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/883436
+2024-12-01 20:41:13,500 - INFO - Successfully scraped job: Petroleum Production Engineer
+2024-12-01 20:41:13,505 - INFO - Saved job: Petroleum Production Engineer - Exxon Mobil
+2024-12-01 20:41:14,684 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/883453
+2024-12-01 20:41:18,084 - INFO - Successfully scraped job: Sr. Pipeline Engineer - TSI
+2024-12-01 20:41:18,089 - INFO - Saved job: Sr. Pipeline Engineer - TSI - bp
+2024-12-01 20:41:19,181 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/883774
+2024-12-01 20:41:22,077 - INFO - Successfully scraped job: Senior C&I Engineer - PSC
+2024-12-01 20:41:22,082 - INFO - Saved job: Senior C&I Engineer - PSC - Wood PLC
+2024-12-01 20:41:23,241 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/971536
+2024-12-01 20:41:26,264 - INFO - Successfully scraped job: Field Service Engineer Cranes
+2024-12-01 20:41:26,269 - INFO - Saved job: Field Service Engineer Cranes - ABB
+2024-12-01 20:41:28,015 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/971520
+2024-12-01 20:41:30,839 - INFO - Successfully scraped job: Senior Engineer
+2024-12-01 20:41:30,844 - INFO - Saved job: Senior Engineer - AtkinsRéalis
+2024-12-01 20:41:32,654 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/997070
+2024-12-01 20:41:35,813 - INFO - Successfully scraped job: Diesel and Gas Engine Service Technician
+2024-12-01 20:41:35,818 - INFO - Saved job: Diesel and Gas Engine Service Technician - Louisiana CAT
+2024-12-01 20:41:37,585 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/996972
+2024-12-01 20:41:40,117 - INFO - Successfully scraped job: RRC - Engineering Specialist I/ Oil & Gas Field Inspector - Houston (Brazos, Burleson, and Lee County)
+2024-12-01 20:41:40,122 - INFO - Saved job: RRC - Engineering Specialist I/ Oil & Gas Field Inspector - Houston (Brazos, Burleson, and Lee County) - CAPPS
+2024-12-01 20:41:41,839 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/906886
+2024-12-01 20:41:54,061 - WARNING - Timeout waiting for company element
+2024-12-01 20:41:54,142 - DEBUG - No additional metadata found
+2024-12-01 20:41:54,157 - INFO - Successfully scraped job: Vessel Operations Engineer
+2024-12-01 20:41:54,164 - INFO - Saved job: Vessel Operations Engineer - None
+2024-12-01 20:41:55,791 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/996817
+2024-12-01 20:41:58,125 - INFO - Successfully scraped job: Cyber Security Project Engineer
+2024-12-01 20:41:58,130 - INFO - Saved job: Cyber Security Project Engineer - Honeywell
+2024-12-01 20:41:59,557 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/996626
+2024-12-01 20:42:12,659 - WARNING - Timeout waiting for company element
+2024-12-01 20:42:12,935 - INFO - Successfully scraped job: Project Engineer III - Construction
+2024-12-01 20:42:12,945 - INFO - Saved job: Project Engineer III - Construction - None
+2024-12-01 20:42:13,981 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/996614
