@@ -2334,3 +2334,34 @@
 2024-12-01 15:38:55,909 - INFO - Successfully scraped job: Senior HVAC Service Technician
 2024-12-01 15:38:55,912 - INFO - Saved job: Senior HVAC Service Technician - HTS Engineering Ltd
 2024-12-01 15:38:57,164 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/975020
+2024-12-01 15:39:00,358 - INFO - Successfully scraped job: HVAC 3D Drafter
+2024-12-01 15:39:00,362 - INFO - Saved job: HVAC 3D Drafter - HTS Engineering Ltd
+2024-12-01 15:39:01,939 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/888801
+2024-12-01 15:39:05,847 - INFO - Successfully scraped job: HVAC Service Technician - Austin
+2024-12-01 15:39:05,851 - INFO - Saved job: HVAC Service Technician - Austin - HTS Engineering Ltd
+2024-12-01 15:39:07,394 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/888803
+2024-12-01 15:39:10,388 - INFO - Successfully scraped job: HVAC Service Technician - Dallas
+2024-12-01 15:39:10,391 - INFO - Saved job: HVAC Service Technician - Dallas - HTS Engineering Ltd
+2024-12-01 15:39:11,873 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/895233
+2024-12-01 15:39:14,814 - INFO - Successfully scraped job: HVAC Service Technician II - Houston
+2024-12-01 15:39:14,817 - INFO - Saved job: HVAC Service Technician II - Houston - HTS Engineering Ltd
+2024-12-01 15:39:16,548 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/994644
+2024-12-01 15:39:18,679 - INFO - Successfully scraped job: Power Generation Field Manager
+2024-12-01 15:39:18,682 - INFO - Saved job: Power Generation Field Manager - One Tech Engineering
+2024-12-01 15:39:20,484 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/994552
+2024-12-01 15:39:22,789 - INFO - Successfully scraped job: Driller's Helper- CDL required
+2024-12-01 15:39:22,792 - INFO - Saved job: Driller's Helper- CDL required - Universal Engineering Sciences
+2024-12-01 15:39:24,113 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/993423
+2024-12-01 15:39:26,773 - INFO - Successfully scraped job: Electric Utility - Field Technician
+2024-12-01 15:39:26,777 - INFO - Saved job: Electric Utility - Field Technician - TechServ Engineering & Consulting
+2024-12-01 15:39:28,459 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001706
+2024-12-01 15:39:42,269 - WARNING - Timeout waiting for company element
+2024-12-01 15:39:42,359 - DEBUG - No additional metadata found
+2024-12-01 15:39:42,372 - INFO - Successfully scraped job: Hook-up Lead
+2024-12-01 15:39:42,376 - INFO - Saved job: Hook-up Lead - None
+2024-12-01 15:39:43,965 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990794
+2024-12-01 15:39:57,029 - WARNING - Timeout waiting for company element
+2024-12-01 15:39:57,132 - DEBUG - No additional metadata found
+2024-12-01 15:39:57,144 - INFO - Successfully scraped job: EPCI Manager
+2024-12-01 15:39:57,148 - INFO - Saved job: EPCI Manager - None
+2024-12-01 15:39:58,729 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/953309
