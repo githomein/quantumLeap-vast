@@ -4074,3 +4074,68 @@
 2024-12-01 16:32:11,397 - INFO - Successfully scraped job: Civil Engineering Intern - Water/Wastewater
 2024-12-01 16:32:11,401 - INFO - Saved job: Civil Engineering Intern - Water/Wastewater - Westwood Professional Services, Inc.
 2024-12-01 16:32:12,851 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/920358
+2024-12-01 16:32:15,666 - INFO - Successfully scraped job: Water Wastewater Engineering Internship
+2024-12-01 16:32:15,670 - INFO - Saved job: Water Wastewater Engineering Internship - Baxter and Woodman Inc
+2024-12-01 16:32:16,991 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/968486
+2024-12-01 16:32:20,110 - INFO - Successfully scraped job: Water / Wastewater Engineer
+2024-12-01 16:32:20,114 - INFO - Saved job: Water / Wastewater Engineer - Lochner
+2024-12-01 16:32:21,968 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/908712
+2024-12-01 16:32:25,385 - INFO - Successfully scraped job: Principal Flow Assurance Engineer - Subsea
+2024-12-01 16:32:25,389 - INFO - Saved job: Principal Flow Assurance Engineer - Subsea - Technip Energies NV
+2024-12-01 16:32:26,831 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/966913
+2024-12-01 16:32:30,503 - INFO - Successfully scraped job: Research Associate, Nuclear Engineering Teaching Laboratory
+2024-12-01 16:32:30,507 - INFO - Saved job: Research Associate, Nuclear Engineering Teaching Laboratory - The University of Texas at Austin
+2024-12-01 16:32:31,951 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/888311
+2024-12-01 16:32:34,669 - DEBUG - No additional metadata found
+2024-12-01 16:32:34,683 - INFO - Successfully scraped job: Structural Engineer - Nuclear
+2024-12-01 16:32:34,687 - INFO - Saved job: Structural Engineer - Nuclear - MLS Technologies
+2024-12-01 16:32:35,702 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/970306
+2024-12-01 16:32:39,347 - INFO - Successfully scraped job: Drilling Engineering Intern- Summer 2025
+2024-12-01 16:32:39,350 - INFO - Saved job: Drilling Engineering Intern- Summer 2025 - WSP
+2024-12-01 16:32:40,502 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/970304
+2024-12-01 16:32:42,782 - INFO - Successfully scraped job: Senior Engineer HVAC (m/w/d)
+2024-12-01 16:32:42,784 - INFO - Saved job: Senior Engineer HVAC (m/w/d) - Exyte
+2024-12-01 16:32:44,528 - INFO - Collected 900 jobs so far
+2024-12-01 16:32:44,529 - INFO - Scraping page 46 of 389
+2024-12-01 16:32:47,542 - INFO - Getting job links from current page
+2024-12-01 16:32:50,579 - INFO - Found 20 job cards
+2024-12-01 16:32:50,593 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/968420
+2024-12-01 16:32:50,604 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/969553
+2024-12-01 16:32:50,614 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/961621
+2024-12-01 16:32:50,624 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/898598
+2024-12-01 16:32:50,634 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/964857
+2024-12-01 16:32:50,644 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/963612
+2024-12-01 16:32:50,655 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/885152
+2024-12-01 16:32:50,665 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/966809
+2024-12-01 16:32:50,675 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/963605
+2024-12-01 16:32:50,685 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/895703
+2024-12-01 16:32:50,695 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/917392
+2024-12-01 16:32:50,705 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/918815
+2024-12-01 16:32:50,714 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/production-jobs/960201
+2024-12-01 16:32:50,724 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/959594
+2024-12-01 16:32:50,734 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/957984
+2024-12-01 16:32:50,743 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/869202
+2024-12-01 16:32:50,753 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/869203
+2024-12-01 16:32:50,763 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/969527
+2024-12-01 16:32:50,772 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/897155
+2024-12-01 16:32:50,782 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/879060
+2024-12-01 16:32:50,783 - INFO - Successfully extracted 20 job links
+2024-12-01 16:32:50,783 - INFO - Found 20 jobs on page 46
+2024-12-01 16:32:50,783 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/968420
+2024-12-01 16:32:54,815 - INFO - Successfully scraped job: Service Engineer (Waste Water)
+2024-12-01 16:32:54,821 - INFO - Saved job: Service Engineer (Waste Water) - Universal Business Team
+2024-12-01 16:32:55,971 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/969553
+2024-12-01 16:32:57,931 - INFO - Successfully scraped job: Principal Waste Water Process Engineer
+2024-12-01 16:32:57,934 - INFO - Saved job: Principal Waste Water Process Engineer - AtkinsRéalis
+2024-12-01 16:32:58,972 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/961621
+2024-12-01 16:33:01,877 - INFO - Successfully scraped job: Senior Waste Water Process Engineer
+2024-12-01 16:33:01,879 - INFO - Saved job: Senior Waste Water Process Engineer - AtkinsRéalis
+2024-12-01 16:33:03,578 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/898598
+2024-12-01 16:33:07,400 - INFO - Successfully scraped job: Mobile Multi-Skilled Engineer (Elec or HVAC) Midlands
+2024-12-01 16:33:07,404 - INFO - Saved job: Mobile Multi-Skilled Engineer (Elec or HVAC) Midlands - CBRE
+2024-12-01 16:33:08,602 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/964857
+2024-12-01 16:33:11,086 - INFO - Successfully scraped job: Water Treatment Engineer
+2024-12-01 16:33:11,089 - INFO - Saved job: Water Treatment Engineer - CBRE
+2024-12-01 16:33:12,756 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/963612
+2024-12-01 16:33:15,158 - INFO - Successfully scraped job: Commercial Gas Engineer
+2024-12-01 16:33:15,161 - INFO - Saved job: Commercial Gas Engineer - ISS FACILITY SERVICES LIMITED
