@@ -831,3 +831,47 @@
 2024-12-01 15:09:31,329 - INFO - Successfully scraped job: Design Engineer, Software
 2024-12-01 15:09:31,331 - INFO - Saved job: Design Engineer, Software - NOV
 2024-12-01 15:09:33,207 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1006105
+2024-12-01 15:09:35,952 - INFO - Successfully scraped job: Software Support Engineer
+2024-12-01 15:09:35,955 - INFO - Saved job: Software Support Engineer - Honeywell
+2024-12-01 15:09:37,432 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1000397
+2024-12-01 15:09:39,824 - INFO - Successfully scraped job: Systems Application Engineer - Software
+2024-12-01 15:09:39,828 - INFO - Saved job: Systems Application Engineer - Software - Schneider Electric
+2024-12-01 15:09:41,457 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/897144
+2024-12-01 15:09:45,267 - INFO - Successfully scraped job: Engineer - Software Development (React/Node.js)
+2024-12-01 15:09:45,270 - INFO - Saved job: Engineer - Software Development (React/Node.js) - Emerson
+2024-12-01 15:09:47,208 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/994824
+2024-12-01 15:09:51,155 - INFO - Successfully scraped job: Grid Energy & Power Systems Software Network & Control Engineer
+2024-12-01 15:09:51,158 - INFO - Saved job: Grid Energy & Power Systems Software Network & Control Engineer - ESS, Inc.
+2024-12-01 15:09:52,825 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/897878
+2024-12-01 15:09:55,698 - INFO - Successfully scraped job: Senior/Lead System Software Test Engineer (Automation Test)
+2024-12-01 15:09:55,701 - INFO - Saved job: Senior/Lead System Software Test Engineer (Automation Test) - Emerson
+2024-12-01 15:09:57,659 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/988274
+2024-12-01 15:10:00,286 - INFO - Successfully scraped job: Lead Engineer - Embedded Software Development
+2024-12-01 15:10:00,288 - INFO - Saved job: Lead Engineer - Embedded Software Development - GE Renewable Energy Power and Aviation
+2024-12-01 15:10:01,422 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/871571
+2024-12-01 15:10:05,141 - INFO - Successfully scraped job: Power System Engineer - Control Software
+2024-12-01 15:10:05,144 - INFO - Saved job: Power System Engineer - Control Software - Vestas
+2024-12-01 15:10:06,558 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1001036
+2024-12-01 15:10:10,107 - INFO - Successfully scraped job: Software and Systems Engineering Sub-Section Manager
+2024-12-01 15:10:10,109 - INFO - Saved job: Software and Systems Engineering Sub-Section Manager - GE Renewable Energy Power and Aviation
+2024-12-01 15:10:12,031 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/959488
+2024-12-01 15:10:14,336 - DEBUG - No additional metadata found
+2024-12-01 15:10:14,349 - INFO - Successfully scraped job: Software Development Engineer in Test - Energy Technologies
+2024-12-01 15:10:14,352 - INFO - Saved job: Software Development Engineer in Test - Energy Technologies - Apple
+2024-12-01 15:10:15,539 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/898320
+2024-12-01 15:10:17,863 - INFO - Successfully scraped job: Engineer - Embedded Software Development
+2024-12-01 15:10:17,865 - INFO - Saved job: Engineer - Embedded Software Development - GE Renewable Energy Power and Aviation
+2024-12-01 15:10:19,664 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1006959
+2024-12-01 15:10:22,674 - INFO - Successfully scraped job: Senior Software Development Engineer in Test
+2024-12-01 15:10:22,677 - INFO - Saved job: Senior Software Development Engineer in Test - bp
+2024-12-01 15:10:24,234 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/996653
+2024-12-01 15:10:26,706 - INFO - Successfully scraped job: Software Development Engineer
+2024-12-01 15:10:26,709 - INFO - Saved job: Software Development Engineer - Vestas
+2024-12-01 15:10:27,738 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/871528
+2024-12-01 15:10:30,197 - INFO - Successfully scraped job: Embedded Software Design Engineer - Pressure and Temperature
+2024-12-01 15:10:30,200 - INFO - Saved job: Embedded Software Design Engineer - Pressure and Temperature - Emerson
+2024-12-01 15:10:31,233 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/974009
+2024-12-01 15:10:33,420 - INFO - Successfully scraped job: Software Sales Engineer (m/f/d)
+2024-12-01 15:10:33,423 - INFO - Saved job: Software Sales Engineer (m/f/d) - Emerson
+2024-12-01 15:10:35,104 - INFO - Collected 200 jobs so far
+2024-12-01 15:10:35,104 - INFO - Scraping page 11 of 384
