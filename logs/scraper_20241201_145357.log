@@ -14779,3 +14779,36 @@
 2024-12-01 20:42:09,943 - INFO - Successfully scraped job: Industrial / Process Engineer
 2024-12-01 20:42:09,949 - INFO - Saved job: Industrial / Process Engineer - ABB
 2024-12-01 20:42:11,864 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/996357
+2024-12-01 20:42:24,676 - WARNING - Timeout waiting for company element
+2024-12-01 20:42:24,761 - INFO - Successfully scraped job: Drilling Engineer
+2024-12-01 20:42:24,767 - INFO - Saved job: Drilling Engineer - None
+2024-12-01 20:42:25,800 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/oilfield-jobs/996314
+2024-12-01 20:42:39,339 - WARNING - Timeout waiting for company element
+2024-12-01 20:42:40,205 - INFO - Successfully scraped job: Construction Engineering Speccialist
+2024-12-01 20:42:40,211 - INFO - Saved job: Construction Engineering Speccialist - None
+2024-12-01 20:42:41,809 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/934692
+2024-12-01 20:42:44,148 - INFO - Successfully scraped job: Senior Subsea Pipeline Engineer
+2024-12-01 20:42:44,154 - INFO - Saved job: Senior Subsea Pipeline Engineer - Technip Energies NV
+2024-12-01 20:42:45,379 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/922693
+2024-12-01 20:42:48,650 - DEBUG - No additional metadata found
+2024-12-01 20:42:48,664 - INFO - Successfully scraped job: Regional Generator Engineer - North East
+2024-12-01 20:42:48,670 - INFO - Saved job: Regional Generator Engineer - North East - GAP Group
+2024-12-01 20:42:50,044 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/922768
+2024-12-01 20:42:51,973 - INFO - Successfully scraped job: Engineering Intern - Ireland
+2024-12-01 20:42:51,979 - INFO - Saved job: Engineering Intern - Ireland - AtkinsRéalis
+2024-12-01 20:42:53,414 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/922771
+2024-12-01 20:42:57,030 - INFO - Successfully scraped job: Graduate Bridge Engineer
+2024-12-01 20:42:57,034 - INFO - Saved job: Graduate Bridge Engineer - AtkinsRéalis
+2024-12-01 20:42:58,126 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/922984
+2024-12-01 20:43:02,078 - INFO - Successfully scraped job: Senior Project Engineer - Automation Process Cement Industry
+2024-12-01 20:43:02,084 - INFO - Saved job: Senior Project Engineer - Automation Process Cement Industry - ABB
+2024-12-01 20:43:03,127 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/962002
+2024-12-01 20:43:06,922 - INFO - Successfully scraped job: Water & Wastewater Engineer (Mid-Level EIT or PE)
+2024-12-01 20:43:06,928 - INFO - Saved job: Water & Wastewater Engineer (Mid-Level EIT or PE) - Herbert, Rowland & Grubic
+2024-12-01 20:43:08,010 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/967723
+2024-12-01 20:43:11,236 - INFO - Successfully scraped job: Water/Wastewater Engineer
+2024-12-01 20:43:11,242 - INFO - Saved job: Water/Wastewater Engineer - HDR
+2024-12-01 20:43:13,097 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/961994
+2024-12-01 20:43:16,115 - INFO - Successfully scraped job: Student Mining Engineering Intern
+2024-12-01 20:43:16,120 - INFO - Saved job: Student Mining Engineering Intern - RE/SPEC Inc.
+2024-12-01 20:43:18,058 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/968921

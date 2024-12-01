@@ -14546,3 +14546,25 @@
 2024-12-01 20:42:12,935 - INFO - Successfully scraped job: Project Engineer III - Construction
 2024-12-01 20:42:12,945 - INFO - Saved job: Project Engineer III - Construction - None
 2024-12-01 20:42:13,981 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/996614
+2024-12-01 20:42:27,964 - WARNING - Timeout waiting for company element
+2024-12-01 20:42:28,095 - INFO - Successfully scraped job: Lead / Principal structural engineer
+2024-12-01 20:42:28,100 - INFO - Saved job: Lead / Principal structural engineer - None
+2024-12-01 20:42:29,314 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/996528
+2024-12-01 20:42:32,902 - INFO - Successfully scraped job: Process Simulation Engineer
+2024-12-01 20:42:32,908 - INFO - Saved job: Process Simulation Engineer - Emerson
+2024-12-01 20:42:34,578 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/996495
+2024-12-01 20:42:38,200 - DEBUG - No additional metadata found
+2024-12-01 20:42:38,215 - INFO - Successfully scraped job: Firmware staff senior design engineer
+2024-12-01 20:42:38,219 - INFO - Saved job: Firmware staff senior design engineer - Schneider Electric
+2024-12-01 20:42:40,200 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/996452
+2024-12-01 20:42:42,726 - INFO - Successfully scraped job: R&D Engineer-Mechanical
+2024-12-01 20:42:42,733 - INFO - Saved job: R&D Engineer-Mechanical - ABB
+2024-12-01 20:42:44,242 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/996201
+2024-12-01 20:42:56,642 - WARNING - Timeout waiting for company element
+2024-12-01 20:42:56,793 - INFO - Successfully scraped job: HSE Design Lad Engineer
+2024-12-01 20:42:56,798 - INFO - Saved job: HSE Design Lad Engineer - None
+2024-12-01 20:42:58,358 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/996273
+2024-12-01 20:43:11,749 - WARNING - Timeout waiting for company element
+2024-12-01 20:43:11,907 - INFO - Successfully scraped job: UFR Material and Welding Engineer
+2024-12-01 20:43:11,912 - INFO - Saved job: UFR Material and Welding Engineer - None
+2024-12-01 20:43:13,856 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/996238
