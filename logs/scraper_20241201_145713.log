@@ -15097,3 +15097,31 @@
 2024-12-01 20:55:55,827 - INFO - Successfully scraped job: Electrical Engineer
 2024-12-01 20:55:55,832 - INFO - Saved job: Electrical Engineer - None
 2024-12-01 20:55:56,951 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/992122
+2024-12-01 20:56:09,526 - WARNING - Timeout waiting for company element
+2024-12-01 20:56:09,735 - INFO - Successfully scraped job: Project Engineering Manager
+2024-12-01 20:56:09,742 - INFO - Saved job: Project Engineering Manager - None
+2024-12-01 20:56:11,265 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/992138
+2024-12-01 20:56:24,083 - WARNING - Timeout waiting for company element
+2024-12-01 20:56:24,330 - INFO - Successfully scraped job: Lead Commissioning Engineer - Mechanical; Process
+2024-12-01 20:56:24,337 - INFO - Saved job: Lead Commissioning Engineer - Mechanical; Process - None
+2024-12-01 20:56:25,365 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991975
+2024-12-01 20:56:27,872 - INFO - Successfully scraped job: Mechanical Engineer, Ponca City Refinery
+2024-12-01 20:56:27,877 - INFO - Saved job: Mechanical Engineer, Ponca City Refinery - Phillips 66
+2024-12-01 20:56:29,505 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/914798
+2024-12-01 20:56:42,090 - WARNING - Timeout waiting for company element
+2024-12-01 20:56:42,177 - INFO - Successfully scraped job: Associate Engineer Measurement & Verification
+2024-12-01 20:56:42,182 - INFO - Saved job: Associate Engineer Measurement & Verification - None
+2024-12-01 20:56:43,860 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/991854
+2024-12-01 20:56:47,365 - DEBUG - No additional metadata found
+2024-12-01 20:56:47,380 - INFO - Successfully scraped job: Sales Engineer-PRM-SH
+2024-12-01 20:56:47,386 - INFO - Saved job: Sales Engineer-PRM-SH - Emerson
+2024-12-01 20:56:48,425 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/991912
+2024-12-01 20:56:51,295 - INFO - Successfully scraped job: Sales Engineer (m/f/d)
+2024-12-01 20:56:51,302 - INFO - Saved job: Sales Engineer (m/f/d) - Emerson
+2024-12-01 20:56:52,956 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/991869
+2024-12-01 20:56:55,561 - DEBUG - No additional metadata found
+2024-12-01 20:56:55,574 - INFO - Successfully scraped job: Inside Sales Engineer
+2024-12-01 20:56:55,579 - INFO - Saved job: Inside Sales Engineer - Emerson
+2024-12-01 20:56:56,958 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991864
+2024-12-01 20:57:00,257 - INFO - Successfully scraped job: Senior Engineer II - VOS
+2024-12-01 20:57:00,262 - INFO - Saved job: Senior Engineer II - VOS - Emerson

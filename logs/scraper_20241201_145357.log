@@ -15259,3 +15259,32 @@
 2024-12-01 20:55:44,939 - INFO - Successfully scraped job: Junior Procurement Engineer
 2024-12-01 20:55:44,945 - INFO - Saved job: Junior Procurement Engineer - None
 2024-12-01 20:55:46,198 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990770
+2024-12-01 20:55:59,065 - WARNING - Timeout waiting for company element
+2024-12-01 20:55:59,180 - INFO - Successfully scraped job: Senior Mechanical Engineer (Maintenance)
+2024-12-01 20:55:59,186 - INFO - Saved job: Senior Mechanical Engineer (Maintenance) - None
+2024-12-01 20:56:00,526 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/921792
+2024-12-01 20:56:04,053 - INFO - Successfully scraped job: (Junior) Electrical Project Engineer
+2024-12-01 20:56:04,060 - INFO - Saved job: (Junior) Electrical Project Engineer - Engie
+2024-12-01 20:56:05,276 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/970143
+2024-12-01 20:56:07,569 - INFO - Successfully scraped job: Quality Engineer (QE)
+2024-12-01 20:56:07,575 - INFO - Saved job: Quality Engineer (QE) - GE Renewable Energy Power and Aviation
+2024-12-01 20:56:09,334 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/921556
+2024-12-01 20:56:13,205 - INFO - Successfully scraped job: Practice Head - Data Intelligence, Data Science & Data Engineering
+2024-12-01 20:56:13,211 - INFO - Saved job: Practice Head - Data Intelligence, Data Science & Data Engineering - AtkinsRéalis
+2024-12-01 20:56:15,123 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/879272
+2024-12-01 20:56:19,139 - INFO - Successfully scraped job: R&D Engineer
+2024-12-01 20:56:19,145 - INFO - Saved job: R&D Engineer - ABB
+2024-12-01 20:56:21,076 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/905810
+2024-12-01 20:56:24,838 - INFO - Successfully scraped job: Principal HVAC Engineer - PSC
+2024-12-01 20:56:24,843 - INFO - Saved job: Principal HVAC Engineer - PSC - Wood PLC
+2024-12-01 20:56:26,005 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990658
+2024-12-01 20:56:40,271 - WARNING - Timeout waiting for company element
+2024-12-01 20:56:40,391 - INFO - Successfully scraped job: Project Engineer Project Engineer
+2024-12-01 20:56:40,397 - INFO - Saved job: Project Engineer Project Engineer - None
+2024-12-01 20:56:42,396 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990606
+2024-12-01 20:56:45,701 - INFO - Successfully scraped job: Application Design Engineer
+2024-12-01 20:56:45,707 - INFO - Saved job: Application Design Engineer - Schneider Electric
+2024-12-01 20:56:47,206 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/990558
+2024-12-01 20:56:50,907 - INFO - Successfully scraped job: Engineering Manager
+2024-12-01 20:56:50,915 - INFO - Saved job: Engineering Manager - Engie
+2024-12-01 20:56:52,512 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/969003
