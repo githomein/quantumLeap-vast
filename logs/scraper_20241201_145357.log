@@ -2935,3 +2935,32 @@
 2024-12-01 15:58:24,398 - INFO - Successfully scraped job: Production Engineering Specialist
 2024-12-01 15:58:24,401 - INFO - Saved job: Production Engineering Specialist - ABB
 2024-12-01 15:58:25,997 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006339
+2024-12-01 15:58:38,332 - WARNING - Timeout waiting for company element
+2024-12-01 15:58:38,414 - DEBUG - No additional metadata found
+2024-12-01 15:58:38,429 - INFO - Successfully scraped job: Senior Project Controls Engineer
+2024-12-01 15:58:38,432 - INFO - Saved job: Senior Project Controls Engineer - None
+2024-12-01 15:58:39,860 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006301
+2024-12-01 15:58:52,226 - WARNING - Timeout waiting for company element
+2024-12-01 15:58:52,371 - INFO - Successfully scraped job: Production Engineer
+2024-12-01 15:58:52,374 - INFO - Saved job: Production Engineer - None
+2024-12-01 15:58:54,069 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006307
+2024-12-01 15:59:06,605 - WARNING - Timeout waiting for company element
+2024-12-01 15:59:06,706 - DEBUG - No additional metadata found
+2024-12-01 15:59:06,721 - INFO - Successfully scraped job: 5983 Engineer, Process Control/Automation II-III\t\t\t
+2024-12-01 15:59:06,725 - INFO - Saved job: 5983 Engineer, Process Control/Automation II-III\t\t\t - None
+2024-12-01 15:59:08,693 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1006280
+2024-12-01 15:59:10,889 - INFO - Successfully scraped job: Flight Engineer
+2024-12-01 15:59:10,891 - INFO - Saved job: Flight Engineer - Exxon Mobil
+2024-12-01 15:59:12,447 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/985209
+2024-12-01 15:59:15,013 - INFO - Successfully scraped job: Sr HSE Engineer
+2024-12-01 15:59:15,016 - INFO - Saved job: Sr HSE Engineer - Honeywell
+2024-12-01 15:59:16,290 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/894281
+2024-12-01 15:59:19,633 - INFO - Successfully scraped job: Design Manager to Principal Engineer - Land Development & Drainage (Micro drainage / Civil3D / Causeway flow) Evergreen
+2024-12-01 15:59:19,636 - INFO - Saved job: Design Manager to Principal Engineer - Land Development & Drainage (Micro drainage / Civil3D / Causeway flow) Evergreen - AtkinsRéalis
+2024-12-01 15:59:20,773 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/957175
+2024-12-01 15:59:23,282 - INFO - Successfully scraped job: Field Service Engineer
+2024-12-01 15:59:23,285 - INFO - Saved job: Field Service Engineer - ABB
+2024-12-01 15:59:24,717 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006252
+2024-12-01 15:59:36,791 - WARNING - Timeout waiting for company element
+2024-12-01 15:59:37,003 - INFO - Successfully scraped job: EMC Engineer
+2024-12-01 15:59:37,007 - INFO - Saved job: EMC Engineer - None

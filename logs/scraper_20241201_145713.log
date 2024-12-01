@@ -2605,3 +2605,29 @@
 2024-12-01 15:58:31,917 - INFO - Successfully scraped job: Outside Sales Engineer
 2024-12-01 15:58:31,919 - INFO - Saved job: Outside Sales Engineer - Emerson
 2024-12-01 15:58:33,734 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/legal-jobs/1005935
+2024-12-01 15:58:46,376 - WARNING - Timeout waiting for company element
+2024-12-01 15:58:46,538 - INFO - Successfully scraped job: Contracts Engineer
+2024-12-01 15:58:46,541 - INFO - Saved job: Contracts Engineer - None
+2024-12-01 15:58:47,981 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1006208
+2024-12-01 15:58:51,224 - INFO - Successfully scraped job: Senior Engineering Specialist
+2024-12-01 15:58:51,227 - INFO - Saved job: Senior Engineering Specialist - Vestas
+2024-12-01 15:58:53,083 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006151
+2024-12-01 15:58:55,374 - INFO - Successfully scraped job: Sr reliability engineer
+2024-12-01 15:58:55,377 - INFO - Saved job: Sr reliability engineer - Honeywell
+2024-12-01 15:58:56,985 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006059
+2024-12-01 15:59:00,246 - INFO - Successfully scraped job: Specialist Process Engineer
+2024-12-01 15:59:00,249 - INFO - Saved job: Specialist Process Engineer - Wood PLC
+2024-12-01 15:59:02,016 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005999
+2024-12-01 15:59:03,950 - INFO - Successfully scraped job: Project Engineer
+2024-12-01 15:59:03,954 - INFO - Saved job: Project Engineer - ABB
+2024-12-01 15:59:04,966 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005902
+2024-12-01 15:59:18,750 - WARNING - Timeout waiting for company element
+2024-12-01 15:59:18,871 - INFO - Successfully scraped job: Service & Commissioning Engineer
+2024-12-01 15:59:18,875 - INFO - Saved job: Service & Commissioning Engineer - None
+2024-12-01 15:59:19,963 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005835
+2024-12-01 15:59:23,539 - INFO - Successfully scraped job: PACO Engineer
+2024-12-01 15:59:23,543 - INFO - Saved job: PACO Engineer - Shell
+2024-12-01 15:59:24,997 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1005839
+2024-12-01 15:59:28,205 - INFO - Successfully scraped job: Process Safety Engineer
+2024-12-01 15:59:28,208 - INFO - Saved job: Process Safety Engineer - Shell
+2024-12-01 15:59:29,652 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005820
