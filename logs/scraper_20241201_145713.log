@@ -11700,3 +11700,41 @@
 2024-12-01 19:31:57,546 - INFO - Successfully scraped job: Senior EC&I Engineer - Nuclear
 2024-12-01 19:31:57,550 - INFO - Saved job: Senior EC&I Engineer - Nuclear - AECOM
 2024-12-01 19:31:59,505 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/884733
+2024-12-01 19:32:02,370 - INFO - Successfully scraped job: Senior Power Engineer - Contract
+2024-12-01 19:32:02,375 - INFO - Saved job: Senior Power Engineer - Contract - Evolito Ltd
+2024-12-01 19:32:03,488 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/884702
+2024-12-01 19:32:07,004 - INFO - Successfully scraped job: Nuclear & Power Senior Process Engineer (Full-time / Part-time)
+2024-12-01 19:32:07,009 - INFO - Saved job: Nuclear & Power Senior Process Engineer (Full-time / Part-time) - AtkinsRéalis
+2024-12-01 19:32:08,924 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/909179
+2024-12-01 19:32:11,111 - INFO - Successfully scraped job: Electrical Engineer III
+2024-12-01 19:32:11,116 - INFO - Saved job: Electrical Engineer III - Honeywell
+2024-12-01 19:32:12,159 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/909180
+2024-12-01 19:32:14,048 - INFO - Successfully scraped job: Mechanical Engineer III
+2024-12-01 19:32:14,053 - INFO - Saved job: Mechanical Engineer III - Honeywell
+2024-12-01 19:32:15,998 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/974743
+2024-12-01 19:32:19,238 - INFO - Successfully scraped job: Staff Engineer - Preliminary Mechanical Design
+2024-12-01 19:32:19,243 - INFO - Saved job: Staff Engineer - Preliminary Mechanical Design - GE Renewable Energy Power and Aviation
+2024-12-01 19:32:20,624 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/909008
+2024-12-01 19:32:23,757 - INFO - Successfully scraped job: Senior Vessel and Heat Exchanger Engineer
+2024-12-01 19:32:23,762 - INFO - Saved job: Senior Vessel and Heat Exchanger Engineer - Wood PLC
+2024-12-01 19:32:25,081 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/908755
+2024-12-01 19:32:28,215 - INFO - Successfully scraped job: Software Engineer
+2024-12-01 19:32:28,220 - INFO - Saved job: Software Engineer - bp
+2024-12-01 19:32:29,920 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/925142
+2024-12-01 19:32:33,603 - INFO - Successfully scraped job: IoT / SCADA Engineer
+2024-12-01 19:32:33,608 - INFO - Saved job: IoT / SCADA Engineer - Total Energies
+2024-12-01 19:32:35,143 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/893410
+2024-12-01 19:32:38,231 - INFO - Successfully scraped job: Assistant Engineer
+2024-12-01 19:32:38,236 - INFO - Saved job: Assistant Engineer - AtkinsRéalis
+2024-12-01 19:32:39,594 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/999751
+2024-12-01 19:32:42,308 - INFO - Successfully scraped job: Senior HVAC Engineer -- Energy & Industrial Group
+2024-12-01 19:32:42,313 - INFO - Saved job: Senior HVAC Engineer -- Energy & Industrial Group - Sargent & Lundy
+2024-12-01 19:32:43,617 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/999717
+2024-12-01 19:32:45,973 - INFO - Successfully scraped job: Senior Energy Engineer
+2024-12-01 19:32:45,979 - INFO - Saved job: Senior Energy Engineer - Willdan
+2024-12-01 19:32:47,678 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/974614
+2024-12-01 19:33:01,549 - WARNING - Timeout waiting for company element
+2024-12-01 19:33:01,663 - DEBUG - No additional metadata found
+2024-12-01 19:33:01,678 - INFO - Successfully scraped job: Constructubality Engineer
+2024-12-01 19:33:01,684 - INFO - Saved job: Constructubality Engineer - None
+2024-12-01 19:33:03,124 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/972939
