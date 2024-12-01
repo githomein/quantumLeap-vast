@@ -3481,3 +3481,27 @@
 2024-12-01 16:10:46,276 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1003450
 2024-12-01 16:10:48,432 - INFO - Successfully scraped job: Sr Engineering Manager - Operations
 2024-12-01 16:10:48,435 - INFO - Saved job: Sr Engineering Manager - Operations - GE Renewable Energy Power and Aviation
+2024-12-01 16:10:49,560 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1003377
+2024-12-01 16:10:53,359 - INFO - Successfully scraped job: R&D Domain Engineer
+2024-12-01 16:10:53,362 - INFO - Saved job: R&D Domain Engineer - ABB
+2024-12-01 16:10:54,485 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1003361
+2024-12-01 16:10:58,120 - INFO - Successfully scraped job: Field Service Engineer
+2024-12-01 16:10:58,122 - INFO - Saved job: Field Service Engineer - ABB
+2024-12-01 16:10:59,209 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1003287
+2024-12-01 16:11:03,003 - INFO - Successfully scraped job: Lead Technical Safety Engineer
+2024-12-01 16:11:03,007 - INFO - Saved job: Lead Technical Safety Engineer - Wood PLC
+2024-12-01 16:11:04,391 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1003296
+2024-12-01 16:11:07,851 - INFO - Successfully scraped job: Principal Electrical Engineer
+2024-12-01 16:11:07,853 - INFO - Saved job: Principal Electrical Engineer - Wood PLC
+2024-12-01 16:11:09,078 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1003273
+2024-12-01 16:11:23,068 - WARNING - Timeout waiting for company element
+2024-12-01 16:11:23,170 - INFO - Successfully scraped job: Piping Engineer Stress Analysis
+2024-12-01 16:11:23,173 - INFO - Saved job: Piping Engineer Stress Analysis - None
+2024-12-01 16:11:24,740 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1003272
+2024-12-01 16:11:36,923 - WARNING - Timeout waiting for company element
+2024-12-01 16:11:37,109 - INFO - Successfully scraped job: Sr. Engineer - Electrical(1 year contract)
+2024-12-01 16:11:37,112 - INFO - Saved job: Sr. Engineer - Electrical(1 year contract) - None
+2024-12-01 16:11:38,999 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/951525
+2024-12-01 16:11:42,669 - INFO - Successfully scraped job: Assistant Professor - Nuclear Science/Engineering, School of Energy Resources Directors Office
+2024-12-01 16:11:42,672 - INFO - Saved job: Assistant Professor - Nuclear Science/Engineering, School of Energy Resources Directors Office - University of Wyoming
+2024-12-01 16:11:43,831 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/977173

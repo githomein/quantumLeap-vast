@@ -3134,3 +3134,35 @@
 2024-12-01 16:10:45,377 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1003694
 2024-12-01 16:10:47,660 - INFO - Successfully scraped job: Engineering Lead Gas Cluster Emsland d/w/m
 2024-12-01 16:10:47,662 - INFO - Saved job: Engineering Lead Gas Cluster Emsland d/w/m - RWE
+2024-12-01 16:10:49,281 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1003645
+2024-12-01 16:10:52,426 - INFO - Successfully scraped job: Gas Engineer
+2024-12-01 16:10:52,428 - INFO - Saved job: Gas Engineer - Sureserve
+2024-12-01 16:10:54,165 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1003636
+2024-12-01 16:10:56,302 - INFO - Successfully scraped job: Gas Engineer
+2024-12-01 16:10:56,304 - INFO - Saved job: Gas Engineer - Sureserve
+2024-12-01 16:10:57,954 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1003562
+2024-12-01 16:11:01,132 - INFO - Successfully scraped job: Senior ICT/Cyber Security Engineer (m/w/d)
+2024-12-01 16:11:01,135 - INFO - Saved job: Senior ICT/Cyber Security Engineer (m/w/d) - Honeywell
+2024-12-01 16:11:02,446 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/971176
+2024-12-01 16:11:14,795 - WARNING - Timeout waiting for company element
+2024-12-01 16:11:14,915 - INFO - Successfully scraped job: Senior Engineer, Piping Design
+2024-12-01 16:11:14,917 - INFO - Saved job: Senior Engineer, Piping Design - None
+2024-12-01 16:11:15,960 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/892932
+2024-12-01 16:11:18,911 - INFO - Successfully scraped job: Planning Engineer
+2024-12-01 16:11:18,914 - INFO - Saved job: Planning Engineer - AtkinsRéalis
+2024-12-01 16:11:20,780 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1003450
+2024-12-01 16:11:24,561 - INFO - Successfully scraped job: Sr Engineering Manager - Operations
+2024-12-01 16:11:24,564 - INFO - Saved job: Sr Engineering Manager - Operations - GE Renewable Energy Power and Aviation
+2024-12-01 16:11:26,362 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1003377
+2024-12-01 16:11:28,940 - INFO - Successfully scraped job: R&D Domain Engineer
+2024-12-01 16:11:28,943 - INFO - Saved job: R&D Domain Engineer - ABB
+2024-12-01 16:11:30,430 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1003361
+2024-12-01 16:11:32,525 - INFO - Successfully scraped job: Field Service Engineer
+2024-12-01 16:11:32,528 - INFO - Saved job: Field Service Engineer - ABB
+2024-12-01 16:11:33,670 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1003287
+2024-12-01 16:11:35,731 - INFO - Successfully scraped job: Lead Technical Safety Engineer
+2024-12-01 16:11:35,734 - INFO - Saved job: Lead Technical Safety Engineer - Wood PLC
+2024-12-01 16:11:37,695 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1003296
+2024-12-01 16:11:41,086 - INFO - Successfully scraped job: Principal Electrical Engineer
+2024-12-01 16:11:41,089 - INFO - Saved job: Principal Electrical Engineer - Wood PLC
+2024-12-01 16:11:42,558 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1003273
