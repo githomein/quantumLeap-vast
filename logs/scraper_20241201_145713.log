@@ -11972,3 +11972,37 @@
 2024-12-01 19:38:14,366 - INFO - Successfully scraped job: Senior Process Control Engineer
 2024-12-01 19:38:14,371 - INFO - Saved job: Senior Process Control Engineer - None
 2024-12-01 19:38:16,091 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/996606
+2024-12-01 19:38:19,084 - DEBUG - No additional metadata found
+2024-12-01 19:38:19,099 - INFO - Successfully scraped job: Sr Design Engineer- Control Engineering
+2024-12-01 19:38:19,104 - INFO - Saved job: Sr Design Engineer- Control Engineering - Schneider Electric
+2024-12-01 19:38:20,917 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/996281
+2024-12-01 19:38:23,077 - INFO - Successfully scraped job: Flow Assurance Engineer
+2024-12-01 19:38:23,082 - INFO - Saved job: Flow Assurance Engineer - Exxon Mobil
+2024-12-01 19:38:24,645 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/996255
+2024-12-01 19:38:37,711 - WARNING - Timeout waiting for company element
+2024-12-01 19:38:37,919 - INFO - Successfully scraped job: Process Engineer (Fertilizer/Petrochemical)
+2024-12-01 19:38:37,925 - INFO - Saved job: Process Engineer (Fertilizer/Petrochemical) - None
+2024-12-01 19:38:39,114 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/971031
+2024-12-01 19:38:41,832 - INFO - Successfully scraped job: Power Plant Engineer, Entry Level
+2024-12-01 19:38:41,837 - INFO - Saved job: Power Plant Engineer, Entry Level - NAES
+2024-12-01 19:38:43,265 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/970987
+2024-12-01 19:38:46,868 - INFO - Successfully scraped job: Senior Nuclear/Mechanical Engineer
+2024-12-01 19:38:46,873 - INFO - Saved job: Senior Nuclear/Mechanical Engineer - Blue Energy
+2024-12-01 19:38:47,948 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/923338
+2024-12-01 19:39:00,181 - WARNING - Timeout waiting for company element
+2024-12-01 19:39:00,285 - DEBUG - No additional metadata found
+2024-12-01 19:39:00,299 - INFO - Successfully scraped job: Reservoir Engineer (Developee)
+2024-12-01 19:39:00,307 - INFO - Saved job: Reservoir Engineer (Developee) - None
+2024-12-01 19:39:01,798 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/936128
+2024-12-01 19:39:04,098 - INFO - Successfully scraped job: Sr. Vehicle Quality Specialist Engineer, Thermal Systems
+2024-12-01 19:39:04,104 - INFO - Saved job: Sr. Vehicle Quality Specialist Engineer, Thermal Systems - Lucid Motors
+2024-12-01 19:39:05,901 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/964779
+2024-12-01 19:39:08,526 - INFO - Successfully scraped job: Union HVAC Engineer
+2024-12-01 19:39:08,531 - INFO - Saved job: Union HVAC Engineer - CBRE
+2024-12-01 19:39:09,797 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/959472
+2024-12-01 19:39:12,591 - INFO - Successfully scraped job: Senior Nuclear Radiological Engineer
+2024-12-01 19:39:12,596 - INFO - Saved job: Senior Nuclear Radiological Engineer - Sargent & Lundy
+2024-12-01 19:39:13,811 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/963978
+2024-12-01 19:39:17,248 - INFO - Successfully scraped job: Structural Engineering Intern (Summer 2025) - Nuclear Projects
+2024-12-01 19:39:17,253 - INFO - Saved job: Structural Engineering Intern (Summer 2025) - Nuclear Projects - Sargent & Lundy
+2024-12-01 19:39:18,829 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/935247
