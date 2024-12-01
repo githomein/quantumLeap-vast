@@ -6167,3 +6167,63 @@
 2024-12-01 17:18:19,079 - INFO - Successfully scraped job: Second Engineer
 2024-12-01 17:18:19,082 - INFO - Saved job: Second Engineer - None
 2024-12-01 17:18:20,489 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001109
+2024-12-01 17:18:32,614 - WARNING - Timeout waiting for company element
+2024-12-01 17:18:32,761 - INFO - Successfully scraped job: Project Engineer
+2024-12-01 17:18:32,764 - INFO - Saved job: Project Engineer - None
+2024-12-01 17:18:34,414 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1000927
+2024-12-01 17:18:36,261 - INFO - Successfully scraped job: (Senior) R&D Hardware Engineer (m/f/d)
+2024-12-01 17:18:36,265 - INFO - Saved job: (Senior) R&D Hardware Engineer (m/f/d) - ABB
+2024-12-01 17:18:38,123 - INFO - Collected 1360 jobs so far
+2024-12-01 17:18:38,123 - INFO - Scraping page 69 of 384
+2024-12-01 17:18:41,637 - INFO - Getting job links from current page
+2024-12-01 17:18:44,668 - INFO - Found 20 job cards
+2024-12-01 17:18:44,680 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/976400
+2024-12-01 17:18:44,688 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/951076
+2024-12-01 17:18:44,696 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/950799
+2024-12-01 17:18:44,706 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/950325
+2024-12-01 17:18:44,715 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/909825
+2024-12-01 17:18:44,724 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/885548
+2024-12-01 17:18:44,732 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/885511
+2024-12-01 17:18:44,740 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/890964
+2024-12-01 17:18:44,748 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/general-management-jobs/951220
+2024-12-01 17:18:44,756 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1001430
+2024-12-01 17:18:44,764 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1001356
+2024-12-01 17:18:44,773 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1001340
+2024-12-01 17:18:44,781 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1001338
+2024-12-01 17:18:44,789 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1001329
+2024-12-01 17:18:44,797 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001277
+2024-12-01 17:18:44,805 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1001210
+2024-12-01 17:18:44,814 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/876071
+2024-12-01 17:18:44,823 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1001101
+2024-12-01 17:18:44,831 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1001084
+2024-12-01 17:18:44,839 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001087
+2024-12-01 17:18:44,839 - INFO - Successfully extracted 20 job links
+2024-12-01 17:18:44,839 - INFO - Found 20 jobs on page 69
+2024-12-01 17:18:44,839 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/976400
+2024-12-01 17:18:46,807 - INFO - Successfully scraped job: Clean Energy Project Engineer
+2024-12-01 17:18:46,810 - INFO - Saved job: Clean Energy Project Engineer - Gotion, Inc.
+2024-12-01 17:18:48,160 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/951076
+2024-12-01 17:18:50,177 - INFO - Successfully scraped job: Test Engineer Product Validation
+2024-12-01 17:18:50,180 - INFO - Saved job: Test Engineer Product Validation - Emerson
+2024-12-01 17:18:51,879 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/950799
+2024-12-01 17:18:54,162 - INFO - Successfully scraped job: Senior Offshore Structural Engineer - Fabrication Yard
+2024-12-01 17:18:54,165 - INFO - Saved job: Senior Offshore Structural Engineer - Fabrication Yard - Wood PLC
+2024-12-01 17:18:55,370 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/950325
+2024-12-01 17:18:57,766 - INFO - Successfully scraped job: Executive Advisor - Reservoir Engineering
+2024-12-01 17:18:57,769 - INFO - Saved job: Executive Advisor - Reservoir Engineering - GHD Group
+2024-12-01 17:18:59,402 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/909825
+2024-12-01 17:19:01,860 - INFO - Successfully scraped job: Process Engineer (Wastewater)
+2024-12-01 17:19:01,864 - INFO - Saved job: Process Engineer (Wastewater) - Stantec
+2024-12-01 17:19:02,884 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/885548
+2024-12-01 17:19:05,090 - INFO - Successfully scraped job: Principal Electrical Engineer - Hydropower
+2024-12-01 17:19:05,094 - INFO - Saved job: Principal Electrical Engineer - Hydropower - Stantec
+2024-12-01 17:19:06,134 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/885511
+2024-12-01 17:19:10,079 - INFO - Successfully scraped job: Senior Mechanical Engineer - Hydropower and Dams
+2024-12-01 17:19:10,082 - INFO - Saved job: Senior Mechanical Engineer - Hydropower and Dams - Stantec
+2024-12-01 17:19:11,875 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/890964
+2024-12-01 17:19:15,433 - INFO - Successfully scraped job: Sr ITS Traffic Engineer
+2024-12-01 17:19:15,436 - INFO - Saved job: Sr ITS Traffic Engineer - AtkinsRéalis
+2024-12-01 17:19:16,989 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/general-management-jobs/951220
+2024-12-01 17:19:19,062 - INFO - Successfully scraped job: Junior Logistics Engineer
+2024-12-01 17:19:19,066 - INFO - Saved job: Junior Logistics Engineer - Total Energies
+2024-12-01 17:19:20,349 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1001430
