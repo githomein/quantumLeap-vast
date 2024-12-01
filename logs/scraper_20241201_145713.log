@@ -7478,3 +7478,53 @@
 2024-12-01 17:55:18,738 - INFO - Successfully scraped job: Senior I & C Engineer
 2024-12-01 17:55:18,743 - INFO - Saved job: Senior I & C Engineer - None
 2024-12-01 17:55:20,394 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/987719
+2024-12-01 17:55:33,499 - WARNING - Timeout waiting for company element
+2024-12-01 17:55:33,720 - INFO - Successfully scraped job: Completions Engineer
+2024-12-01 17:55:33,726 - INFO - Saved job: Completions Engineer - None
+2024-12-01 17:55:35,538 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/987687
+2024-12-01 17:55:48,230 - WARNING - Timeout waiting for company element
+2024-12-01 17:55:48,371 - INFO - Successfully scraped job: Senior Electrical Engineer
+2024-12-01 17:55:48,374 - INFO - Saved job: Senior Electrical Engineer - None
+2024-12-01 17:55:50,024 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/oilfield-jobs/987683
+2024-12-01 17:56:02,442 - WARNING - Timeout waiting for company element
+2024-12-01 17:56:02,629 - INFO - Successfully scraped job: Process Commissioning Engineer
+2024-12-01 17:56:02,634 - INFO - Saved job: Process Commissioning Engineer - None
+2024-12-01 17:56:03,745 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/963149
+2024-12-01 17:56:06,811 - INFO - Successfully scraped job: Field Service Engineer - Electrification
+2024-12-01 17:56:06,814 - INFO - Saved job: Field Service Engineer - Electrification - ABB
+2024-12-01 17:56:08,229 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/963144
+2024-12-01 17:56:11,119 - INFO - Successfully scraped job: PLC product and application engineer m/f/d
+2024-12-01 17:56:11,122 - INFO - Saved job: PLC product and application engineer m/f/d - ABB
+2024-12-01 17:56:12,239 - INFO - Collected 1640 jobs so far
+2024-12-01 17:56:12,240 - INFO - Scraping page 83 of 389
+2024-12-01 17:56:15,459 - INFO - Getting job links from current page
+2024-12-01 17:56:18,500 - INFO - Found 20 job cards
+2024-12-01 17:56:18,514 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/988298
+2024-12-01 17:56:18,524 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/988175
+2024-12-01 17:56:18,533 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/988114
+2024-12-01 17:56:18,542 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/988010
+2024-12-01 17:56:18,551 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/oilfield-jobs/987989
+2024-12-01 17:56:18,560 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/987910
+2024-12-01 17:56:18,569 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/987935
+2024-12-01 17:56:18,579 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/987886
+2024-12-01 17:56:18,589 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/853905
+2024-12-01 17:56:18,598 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/964261
+2024-12-01 17:56:18,607 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/964097
+2024-12-01 17:56:18,616 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/987878
+2024-12-01 17:56:18,625 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/818327
+2024-12-01 17:56:18,634 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/963410
+2024-12-01 17:56:18,644 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/910534
+2024-12-01 17:56:18,654 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/987649
+2024-12-01 17:56:18,664 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/820694
+2024-12-01 17:56:18,673 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/848409
+2024-12-01 17:56:18,683 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/850119
+2024-12-01 17:56:18,694 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/962291
+2024-12-01 17:56:18,694 - INFO - Successfully extracted 20 job links
+2024-12-01 17:56:18,694 - INFO - Found 20 jobs on page 83
+2024-12-01 17:56:18,694 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/988298
+2024-12-01 17:56:21,383 - INFO - Successfully scraped job: Sales Contract & Panel Builders Engineer - Venezia
+2024-12-01 17:56:21,386 - INFO - Saved job: Sales Contract & Panel Builders Engineer - Venezia - Schneider Electric
+2024-12-01 17:56:23,379 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/988175
+2024-12-01 17:56:25,721 - INFO - Successfully scraped job: Digital Consulting Application Engineer
+2024-12-01 17:56:25,724 - INFO - Saved job: Digital Consulting Application Engineer - Schneider Electric
+2024-12-01 17:56:27,095 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/988114
