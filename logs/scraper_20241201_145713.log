@@ -10270,3 +10270,42 @@
 2024-12-01 19:00:39,647 - INFO - Successfully scraped job: Process Engineer
 2024-12-01 19:00:39,651 - INFO - Saved job: Process Engineer - Total Energies
 2024-12-01 19:00:41,547 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/962195
+2024-12-01 19:00:45,201 - INFO - Successfully scraped job: R&D Mechanical Engineer
+2024-12-01 19:00:45,206 - INFO - Saved job: R&D Mechanical Engineer - ABB
+2024-12-01 19:00:47,051 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/844749
+2024-12-01 19:00:50,279 - INFO - Successfully scraped job: LUBRICANTS SALES ENGINEER
+2024-12-01 19:00:50,285 - INFO - Saved job: LUBRICANTS SALES ENGINEER - Total Energies
+2024-12-01 19:00:51,934 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/987489
+2024-12-01 19:00:54,019 - INFO - Successfully scraped job: Lead Engineer - Mechanical Component - Hybrid
+2024-12-01 19:00:54,024 - INFO - Saved job: Lead Engineer - Mechanical Component - Hybrid - GE Renewable Energy Power and Aviation
+2024-12-01 19:00:55,178 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/987427
+2024-12-01 19:00:57,211 - INFO - Successfully scraped job: Industrial Engineer
+2024-12-01 19:00:57,217 - INFO - Saved job: Industrial Engineer - ABB
+2024-12-01 19:00:58,228 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/987418
+2024-12-01 19:01:11,070 - WARNING - Timeout waiting for company element
+2024-12-01 19:01:11,205 - INFO - Successfully scraped job: 2 project engineers
+2024-12-01 19:01:11,212 - INFO - Saved job: 2 project engineers - None
+2024-12-01 19:01:12,492 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/916956
+2024-12-01 19:01:14,974 - INFO - Successfully scraped job: Project Engineer IV
+2024-12-01 19:01:14,979 - INFO - Saved job: Project Engineer IV - Wood PLC
+2024-12-01 19:01:16,517 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/961419
+2024-12-01 19:01:18,974 - INFO - Successfully scraped job: Sr Staff Engineer - Next Generation Performance Lead
+2024-12-01 19:01:18,979 - INFO - Saved job: Sr Staff Engineer - Next Generation Performance Lead - GE Renewable Energy Power and Aviation
+2024-12-01 19:01:20,357 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/961377
+2024-12-01 19:01:22,281 - INFO - Successfully scraped job: Internship - Systems Engineer
+2024-12-01 19:01:22,285 - INFO - Saved job: Internship - Systems Engineer - Honeywell
+2024-12-01 19:01:23,459 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/960938
+2024-12-01 19:01:26,689 - INFO - Successfully scraped job: Instrumentation, Controls & Engineering Discipline Lead - TSI
+2024-12-01 19:01:26,693 - INFO - Saved job: Instrumentation, Controls & Engineering Discipline Lead - TSI - bp
+2024-12-01 19:01:28,128 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/960373
+2024-12-01 19:01:30,553 - INFO - Successfully scraped job: Lead Engineer - Repair Development
+2024-12-01 19:01:30,562 - INFO - Saved job: Lead Engineer - Repair Development - GE Renewable Energy Power and Aviation
+2024-12-01 19:01:32,204 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/865083
+2024-12-01 19:01:35,241 - INFO - Successfully scraped job: Sales Engineer (Energy Industries)
+2024-12-01 19:01:35,265 - INFO - Saved job: Sales Engineer (Energy Industries) - ABB
+2024-12-01 19:01:37,112 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/987145
+2024-12-01 19:01:39,870 - INFO - Successfully scraped job: DevOps Engineer
+2024-12-01 19:01:39,875 - INFO - Saved job: DevOps Engineer - Engie
+2024-12-01 19:01:41,402 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/987272
+2024-12-01 19:01:43,294 - INFO - Successfully scraped job: Geographic Sales Engineer
+2024-12-01 19:01:43,299 - INFO - Saved job: Geographic Sales Engineer - Schneider Electric
