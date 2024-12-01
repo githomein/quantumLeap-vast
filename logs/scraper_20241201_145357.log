@@ -7421,3 +7421,26 @@
 2024-12-01 17:48:08,666 - INFO - Successfully scraped job: Risk Analysis Junior Engineer F/M
 2024-12-01 17:48:08,671 - INFO - Saved job: Risk Analysis Junior Engineer F/M - None
 2024-12-01 17:48:10,138 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/922344
+2024-12-01 17:48:12,203 - INFO - Successfully scraped job: Senior Reservoir Simulation Engineer IV- Interpretation and Evaluation Services
+2024-12-01 17:48:12,207 - INFO - Saved job: Senior Reservoir Simulation Engineer IV- Interpretation and Evaluation Services - Weatherford
+2024-12-01 17:48:13,268 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/970769
+2024-12-01 17:48:15,644 - INFO - Successfully scraped job: Water Resources Engineering Intern - Summer 2025
+2024-12-01 17:48:15,648 - INFO - Saved job: Water Resources Engineering Intern - Summer 2025 - AtkinsRéalis
+2024-12-01 17:48:16,946 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991046
+2024-12-01 17:48:19,940 - INFO - Successfully scraped job: VIE _ HSE ENGINEER (M/F) _ UNITED ARAB EMIRATES, Dubai
+2024-12-01 17:48:19,944 - INFO - Saved job: VIE _ HSE ENGINEER (M/F) _ UNITED ARAB EMIRATES, Dubai - Total Energies
+2024-12-01 17:48:21,879 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991060
+2024-12-01 17:48:25,017 - INFO - Successfully scraped job: Advanced Field Service Engineer
+2024-12-01 17:48:25,020 - INFO - Saved job: Advanced Field Service Engineer - Honeywell
+2024-12-01 17:48:26,470 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990917
+2024-12-01 17:48:40,420 - WARNING - Timeout waiting for company element
+2024-12-01 17:48:40,547 - INFO - Successfully scraped job: Automation - Senior Engineer
+2024-12-01 17:48:40,552 - INFO - Saved job: Automation - Senior Engineer - None
+2024-12-01 17:48:42,163 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/917562
+2024-12-01 17:48:45,211 - INFO - Successfully scraped job: Electronics Design Engineer / Senior Design Engineer
+2024-12-01 17:48:45,215 - INFO - Saved job: Electronics Design Engineer / Senior Design Engineer - ABB
+2024-12-01 17:48:46,671 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/990978
+2024-12-01 17:48:59,295 - WARNING - Timeout waiting for company element
+2024-12-01 17:48:59,443 - INFO - Successfully scraped job: Transport & Installation and Naval Engineer
+2024-12-01 17:48:59,447 - INFO - Saved job: Transport & Installation and Naval Engineer - None
+2024-12-01 17:49:01,110 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990685

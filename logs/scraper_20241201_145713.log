@@ -7187,3 +7187,34 @@
 2024-12-01 17:48:02,070 - INFO - Successfully scraped job: Senior Civil Engineer
 2024-12-01 17:48:02,074 - INFO - Saved job: Senior Civil Engineer - None
 2024-12-01 17:48:03,532 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/825375
+2024-12-01 17:48:17,328 - WARNING - Timeout waiting for company element
+2024-12-01 17:48:17,464 - INFO - Successfully scraped job: Process Engineer
+2024-12-01 17:48:17,469 - INFO - Saved job: Process Engineer - None
+2024-12-01 17:48:18,934 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/970162
+2024-12-01 17:48:21,671 - INFO - Successfully scraped job: Mechanical Engineering Student Assistant
+2024-12-01 17:48:21,674 - INFO - Saved job: Mechanical Engineering Student Assistant - NOV
+2024-12-01 17:48:23,169 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/970074
+2024-12-01 17:48:25,639 - INFO - Successfully scraped job: Junior Field Service Engineer
+2024-12-01 17:48:25,643 - INFO - Saved job: Junior Field Service Engineer - Honeywell
+2024-12-01 17:48:26,646 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/905872
+2024-12-01 17:48:29,712 - INFO - Successfully scraped job: Sr. Advanced Software Engineer
+2024-12-01 17:48:29,716 - INFO - Saved job: Sr. Advanced Software Engineer - Honeywell
+2024-12-01 17:48:30,855 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/879386
+2024-12-01 17:48:34,597 - INFO - Successfully scraped job: Interface Engineer - Paris (Staff or Contract)
+2024-12-01 17:48:34,600 - INFO - Saved job: Interface Engineer - Paris (Staff or Contract) - Wood PLC
+2024-12-01 17:48:35,718 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/969918
+2024-12-01 17:48:38,784 - INFO - Successfully scraped job: QCS Systems Engineer
+2024-12-01 17:48:38,787 - INFO - Saved job: QCS Systems Engineer - ABB
+2024-12-01 17:48:40,148 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990579
+2024-12-01 17:48:43,842 - INFO - Successfully scraped job: Project Engineer
+2024-12-01 17:48:43,846 - INFO - Saved job: Project Engineer - ABB
+2024-12-01 17:48:45,235 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/969020
+2024-12-01 17:48:57,431 - WARNING - Timeout waiting for company element
+2024-12-01 17:48:57,548 - INFO - Successfully scraped job: Structural Engineer 4 (Water Retaining)
+2024-12-01 17:48:57,552 - INFO - Saved job: Structural Engineer 4 (Water Retaining) - None
+2024-12-01 17:48:58,948 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/969014
+2024-12-01 17:49:11,614 - WARNING - Timeout waiting for company element
+2024-12-01 17:49:11,721 - INFO - Successfully scraped job: Structural Engineer (Water Retaining)
+2024-12-01 17:49:11,725 - INFO - Saved job: Structural Engineer (Water Retaining) - None
+2024-12-01 17:49:13,394 - INFO - Collected 1580 jobs so far
+2024-12-01 17:49:13,394 - INFO - Scraping page 80 of 389
