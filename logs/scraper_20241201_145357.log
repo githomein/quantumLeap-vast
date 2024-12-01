@@ -9372,3 +9372,65 @@
 2024-12-01 18:35:42,441 - INFO - Successfully scraped job: Engineer, Gas Quality Control
 2024-12-01 18:35:42,445 - INFO - Saved job: Engineer, Gas Quality Control - Eversource Energy
 2024-12-01 18:35:44,394 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/998502
+2024-12-01 18:35:46,463 - INFO - Successfully scraped job: Water / Wastewater Engineer - Water Transmission Lines
+2024-12-01 18:35:46,468 - INFO - Saved job: Water / Wastewater Engineer - Water Transmission Lines - Gannett Fleming, Inc.
+2024-12-01 18:35:47,666 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/865167
+2024-12-01 18:35:51,295 - INFO - Successfully scraped job: Senior Project Engineer
+2024-12-01 18:35:51,300 - INFO - Saved job: Senior Project Engineer - ABB
+2024-12-01 18:35:52,775 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/998159
+2024-12-01 18:35:56,210 - INFO - Successfully scraped job: Engineering Director
+2024-12-01 18:35:56,214 - INFO - Saved job: Engineering Director - Engie
+2024-12-01 18:35:57,400 - INFO - Collected 2060 jobs so far
+2024-12-01 18:35:57,400 - INFO - Scraping page 104 of 384
+2024-12-01 18:36:01,339 - INFO - Getting job links from current page
+2024-12-01 18:36:04,374 - INFO - Found 20 job cards
+2024-12-01 18:36:04,386 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/923468
+2024-12-01 18:36:04,395 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/971646
+2024-12-01 18:36:04,405 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/883436
+2024-12-01 18:36:04,414 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/883453
+2024-12-01 18:36:04,422 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/883774
+2024-12-01 18:36:04,431 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/971536
+2024-12-01 18:36:04,439 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/971520
+2024-12-01 18:36:04,448 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/997070
+2024-12-01 18:36:04,456 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/production-jobs/996972
+2024-12-01 18:36:04,465 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/906886
+2024-12-01 18:36:04,474 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/996817
+2024-12-01 18:36:04,482 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/996626
+2024-12-01 18:36:04,492 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/996614
+2024-12-01 18:36:04,500 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/996528
+2024-12-01 18:36:04,509 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/996495
+2024-12-01 18:36:04,517 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/996452
+2024-12-01 18:36:04,526 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/996201
+2024-12-01 18:36:04,534 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/996273
+2024-12-01 18:36:04,543 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/996238
+2024-12-01 18:36:04,553 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/971051
+2024-12-01 18:36:04,553 - INFO - Successfully extracted 20 job links
+2024-12-01 18:36:04,553 - INFO - Found 20 jobs on page 104
+2024-12-01 18:36:04,553 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/923468
+2024-12-01 18:36:06,915 - INFO - Successfully scraped job: Natural Gas Utility Engineer - Transportation Market
+2024-12-01 18:36:06,920 - INFO - Saved job: Natural Gas Utility Engineer - Transportation Market - Gresham Smith
+2024-12-01 18:36:08,899 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/971646
+2024-12-01 18:36:10,811 - INFO - Successfully scraped job: Engineer - Testing
+2024-12-01 18:36:10,815 - INFO - Saved job: Engineer - Testing - GE Renewable Energy Power and Aviation
+2024-12-01 18:36:12,509 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/883436
+2024-12-01 18:36:14,416 - INFO - Successfully scraped job: Petroleum Production Engineer
+2024-12-01 18:36:14,421 - INFO - Saved job: Petroleum Production Engineer - Exxon Mobil
+2024-12-01 18:36:15,611 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/883453
+2024-12-01 18:36:19,248 - INFO - Successfully scraped job: Sr. Pipeline Engineer - TSI
+2024-12-01 18:36:19,252 - INFO - Saved job: Sr. Pipeline Engineer - TSI - bp
+2024-12-01 18:36:20,821 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/883774
+2024-12-01 18:36:24,122 - INFO - Successfully scraped job: Senior C&I Engineer - PSC
+2024-12-01 18:36:24,127 - INFO - Saved job: Senior C&I Engineer - PSC - Wood PLC
+2024-12-01 18:36:25,644 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/971536
+2024-12-01 18:36:29,164 - INFO - Successfully scraped job: Field Service Engineer Cranes
+2024-12-01 18:36:29,169 - INFO - Saved job: Field Service Engineer Cranes - ABB
+2024-12-01 18:36:30,867 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/971520
+2024-12-01 18:36:33,916 - INFO - Successfully scraped job: Senior Engineer
+2024-12-01 18:36:33,922 - INFO - Saved job: Senior Engineer - AtkinsRéalis
+2024-12-01 18:36:35,127 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/997070
+2024-12-01 18:36:37,981 - INFO - Successfully scraped job: Diesel and Gas Engine Service Technician
+2024-12-01 18:36:37,987 - INFO - Saved job: Diesel and Gas Engine Service Technician - Louisiana CAT
+2024-12-01 18:36:39,324 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/996972
+2024-12-01 18:36:41,617 - INFO - Successfully scraped job: RRC - Engineering Specialist I/ Oil & Gas Field Inspector - Houston (Brazos, Burleson, and Lee County)
+2024-12-01 18:36:41,621 - INFO - Saved job: RRC - Engineering Specialist I/ Oil & Gas Field Inspector - Houston (Brazos, Burleson, and Lee County) - CAPPS
+2024-12-01 18:36:43,002 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/906886
