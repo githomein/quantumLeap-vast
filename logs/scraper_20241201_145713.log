@@ -14988,3 +14988,38 @@
 2024-12-01 20:52:43,624 - INFO - Successfully scraped job: Application Engineer
 2024-12-01 20:52:43,630 - INFO - Saved job: Application Engineer - Emerson
 2024-12-01 20:52:45,445 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/869806
+2024-12-01 20:52:48,826 - INFO - Successfully scraped job: DCS Technical Support Engineer
+2024-12-01 20:52:48,839 - INFO - Saved job: DCS Technical Support Engineer - Emerson
+2024-12-01 20:52:50,170 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/869835
+2024-12-01 20:52:53,652 - INFO - Successfully scraped job: Senior Azure Cloud DevOps Engineer
+2024-12-01 20:52:53,658 - INFO - Saved job: Senior Azure Cloud DevOps Engineer - Emerson
+2024-12-01 20:52:54,725 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/966614
+2024-12-01 20:52:58,367 - INFO - Successfully scraped job: Experienced Software Engineer (DevOps)
+2024-12-01 20:52:58,373 - INFO - Saved job: Experienced Software Engineer (DevOps) - Emerson
+2024-12-01 20:52:59,855 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/956103
+2024-12-01 20:53:02,986 - INFO - Successfully scraped job: System Integration Engineer
+2024-12-01 20:53:02,992 - INFO - Saved job: System Integration Engineer - Emerson
+2024-12-01 20:53:04,939 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/962140
+2024-12-01 20:53:08,169 - INFO - Successfully scraped job: Staff Software Engineer - C++ (2 to 5 Years)
+2024-12-01 20:53:08,175 - INFO - Saved job: Staff Software Engineer - C++ (2 to 5 Years) - Emerson
+2024-12-01 20:53:09,423 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/970181
+2024-12-01 20:53:13,440 - INFO - Successfully scraped job: Process Development Engineer
+2024-12-01 20:53:13,445 - INFO - Saved job: Process Development Engineer - Emerson
+2024-12-01 20:53:15,073 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/883389
+2024-12-01 20:53:18,697 - INFO - Successfully scraped job: Junior Electrical Engineer
+2024-12-01 20:53:18,703 - INFO - Saved job: Junior Electrical Engineer - Bilfinger
+2024-12-01 20:53:19,950 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/922400
+2024-12-01 20:53:22,622 - INFO - Successfully scraped job: Field Engineer - Stafford, VA
+2024-12-01 20:53:22,630 - INFO - Saved job: Field Engineer - Stafford, VA - Bilfinger
+2024-12-01 20:53:24,453 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/869327
+2024-12-01 20:53:28,066 - DEBUG - No additional metadata found
+2024-12-01 20:53:28,079 - INFO - Successfully scraped job: Automation Service Engineer (EICA)
+2024-12-01 20:53:28,085 - INFO - Saved job: Automation Service Engineer (EICA) - Bilfinger
+2024-12-01 20:53:29,849 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/868437
+2024-12-01 20:53:32,873 - INFO - Successfully scraped job: Primair Engineer Hoogspanning
+2024-12-01 20:53:32,878 - INFO - Saved job: Primair Engineer Hoogspanning - Bilfinger
+2024-12-01 20:53:33,923 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/820484
+2024-12-01 20:53:46,889 - WARNING - Timeout waiting for company element
+2024-12-01 20:53:46,977 - INFO - Successfully scraped job: Construction Engineer (epc Oil/gas Onshore)
+2024-12-01 20:53:46,984 - INFO - Saved job: Construction Engineer (epc Oil/gas Onshore) - None
+2024-12-01 20:53:48,179 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/820518
