@@ -8755,3 +8755,53 @@
 2024-12-01 18:25:22,139 - INFO - Successfully scraped job: Process and Energy Engineering Manager
 2024-12-01 18:25:22,143 - INFO - Saved job: Process and Energy Engineering Manager - Imerys
 2024-12-01 18:25:23,772 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/933330
+2024-12-01 18:25:26,641 - INFO - Successfully scraped job: Sr. Power Systems Engineer
+2024-12-01 18:25:26,646 - INFO - Saved job: Sr. Power Systems Engineer - Tesla Motors
+2024-12-01 18:25:27,846 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/933314
+2024-12-01 18:25:30,760 - INFO - Successfully scraped job: Manufacturing Process Development Engineer, Energy Products
+2024-12-01 18:25:30,763 - INFO - Saved job: Manufacturing Process Development Engineer, Energy Products - Tesla Motors
+2024-12-01 18:25:31,857 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/932926
+2024-12-01 18:25:35,716 - INFO - Successfully scraped job: PV Performance Modeling Engineer-Solar Energy
+2024-12-01 18:25:35,720 - INFO - Saved job: PV Performance Modeling Engineer-Solar Energy - Nextracker, Inc.
+2024-12-01 18:25:37,585 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/931792
+2024-12-01 18:25:40,139 - INFO - Successfully scraped job: Senior Energy Storage Engineer - Power (Multiple Locations)
+2024-12-01 18:25:40,143 - INFO - Saved job: Senior Energy Storage Engineer - Power (Multiple Locations) - Burns & McDonnell
+2024-12-01 18:25:41,961 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/931831
+2024-12-01 18:25:44,543 - INFO - Successfully scraped job: Senior Electrical Engineer - Solar (Kansas City)
+2024-12-01 18:25:44,547 - INFO - Saved job: Senior Electrical Engineer - Solar (Kansas City) - Burns & McDonnell
+2024-12-01 18:25:46,485 - INFO - Collected 1920 jobs so far
+2024-12-01 18:25:46,486 - INFO - Scraping page 97 of 389
+2024-12-01 18:25:50,162 - INFO - Getting job links from current page
+2024-12-01 18:25:53,196 - INFO - Found 20 job cards
+2024-12-01 18:25:53,209 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000164
+2024-12-01 18:25:53,219 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000083
+2024-12-01 18:25:53,228 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/oilfield-jobs/1000079
+2024-12-01 18:25:53,238 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/975204
+2024-12-01 18:25:53,247 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/975193
+2024-12-01 18:25:53,257 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/975085
+2024-12-01 18:25:53,269 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/818797
+2024-12-01 18:25:53,279 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/818569
+2024-12-01 18:25:53,289 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/925289
+2024-12-01 18:25:53,298 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/975459
+2024-12-01 18:25:53,307 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/production-jobs/975413
+2024-12-01 18:25:53,316 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/975400
+2024-12-01 18:25:53,325 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/936031
+2024-12-01 18:25:53,335 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/935654
+2024-12-01 18:25:53,344 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/935762
+2024-12-01 18:25:53,353 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/production-jobs/935411
+2024-12-01 18:25:53,362 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/935452
+2024-12-01 18:25:53,371 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/935134
+2024-12-01 18:25:53,379 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/934720
+2024-12-01 18:25:53,388 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/934687
+2024-12-01 18:25:53,388 - INFO - Successfully extracted 20 job links
+2024-12-01 18:25:53,388 - INFO - Found 20 jobs on page 97
+2024-12-01 18:25:53,388 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000164
+2024-12-01 18:26:06,879 - WARNING - Timeout waiting for company element
+2024-12-01 18:26:07,024 - INFO - Successfully scraped job: Sr Process Engineer
+2024-12-01 18:26:07,029 - INFO - Saved job: Sr Process Engineer - None
+2024-12-01 18:26:08,091 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000083
+2024-12-01 18:26:20,696 - WARNING - Timeout waiting for company element
+2024-12-01 18:26:20,919 - DEBUG - No additional metadata found
+2024-12-01 18:26:20,935 - INFO - Successfully scraped job: Instrument Engineer
+2024-12-01 18:26:20,939 - INFO - Saved job: Instrument Engineer - None
+2024-12-01 18:26:22,843 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/oilfield-jobs/1000079
