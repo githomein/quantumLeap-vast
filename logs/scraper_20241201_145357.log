@@ -14958,3 +14958,19 @@
 2024-12-01 20:46:21,307 - INFO - Successfully scraped job: Sr. Project Engineer (structural) (epc Oil/gas Offshore)
 2024-12-01 20:46:21,313 - INFO - Saved job: Sr. Project Engineer (structural) (epc Oil/gas Offshore) - None
 2024-12-01 20:46:22,837 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/820540
+2024-12-01 20:46:36,283 - WARNING - Timeout waiting for company element
+2024-12-01 20:46:36,421 - INFO - Successfully scraped job: Jr Inspection Engineer
+2024-12-01 20:46:36,428 - INFO - Saved job: Jr Inspection Engineer - None
+2024-12-01 20:46:37,766 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/820470
+2024-12-01 20:46:51,446 - WARNING - Timeout waiting for company element
+2024-12-01 20:46:51,553 - INFO - Successfully scraped job: Sr Preservation Engineer (oil/ Gas Commissioning)
+2024-12-01 20:46:51,559 - INFO - Saved job: Sr Preservation Engineer (oil/ Gas Commissioning) - None
+2024-12-01 20:46:53,470 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/820493
+2024-12-01 20:47:07,424 - WARNING - Timeout waiting for company element
+2024-12-01 20:47:07,508 - INFO - Successfully scraped job: Senior Electrical Engineer (epc Oil/gas Offshore)
+2024-12-01 20:47:07,515 - INFO - Saved job: Senior Electrical Engineer (epc Oil/gas Offshore) - None
+2024-12-01 20:47:08,871 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/820463
+2024-12-01 20:47:21,869 - WARNING - Timeout waiting for company element
+2024-12-01 20:47:21,964 - INFO - Successfully scraped job: Senior Electrical Engineer (oil/ Gas
+2024-12-01 20:47:21,970 - INFO - Saved job: Senior Electrical Engineer (oil/ Gas - None
+2024-12-01 20:47:23,573 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/820340
