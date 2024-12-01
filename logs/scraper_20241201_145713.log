@@ -9169,3 +9169,42 @@
 2024-12-01 18:34:37,513 - INFO - Successfully scraped job: Principal Engineer - Process
 2024-12-01 18:34:37,522 - INFO - Saved job: Principal Engineer - Process - None
 2024-12-01 18:34:39,521 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/998816
+2024-12-01 18:34:51,965 - WARNING - Timeout waiting for company element
+2024-12-01 18:34:52,124 - INFO - Successfully scraped job: Structural Engineer
+2024-12-01 18:34:52,129 - INFO - Saved job: Structural Engineer - None
+2024-12-01 18:34:53,449 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/972103
+2024-12-01 18:34:55,590 - INFO - Successfully scraped job: Energy Engineer III
+2024-12-01 18:34:55,594 - INFO - Saved job: Energy Engineer III - AECOM
+2024-12-01 18:34:56,734 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/972096
+2024-12-01 18:34:59,706 - INFO - Successfully scraped job: Co-Generation Engineer I Oper
+2024-12-01 18:34:59,710 - INFO - Saved job: Co-Generation Engineer I Oper - University of Massachusetts Medical School
+2024-12-01 18:35:01,156 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/972057
+2024-12-01 18:35:04,541 - INFO - Successfully scraped job: Assistant Engineer Water/Wastewater Facilities (Texas)
+2024-12-01 18:35:04,545 - INFO - Saved job: Assistant Engineer Water/Wastewater Facilities (Texas) - Hazen and Sawyer
+2024-12-01 18:35:06,379 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/924176
+2024-12-01 18:35:10,171 - INFO - Successfully scraped job: Energy Management Engineer - North West
+2024-12-01 18:35:10,175 - INFO - Saved job: Energy Management Engineer - North West - Pdsl
+2024-12-01 18:35:11,595 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/972282
+2024-12-01 18:35:13,754 - INFO - Successfully scraped job: R&D Senior RF Sustaining Engineer
+2024-12-01 18:35:13,758 - INFO - Saved job: R&D Senior RF Sustaining Engineer - Emerson
+2024-12-01 18:35:15,719 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/859730
+2024-12-01 18:35:18,430 - INFO - Successfully scraped job: ELECTRONIC TEST ENGINEER
+2024-12-01 18:35:18,434 - INFO - Saved job: ELECTRONIC TEST ENGINEER - Weatherford
+2024-12-01 18:35:20,102 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/907521
+2024-12-01 18:35:23,170 - INFO - Successfully scraped job: Instrumentation and Controls Engineer
+2024-12-01 18:35:23,175 - INFO - Saved job: Instrumentation and Controls Engineer - Exxon Mobil
+2024-12-01 18:35:24,333 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/972467
+2024-12-01 18:35:28,102 - INFO - Successfully scraped job: R&D Engineer
+2024-12-01 18:35:28,106 - INFO - Saved job: R&D Engineer - ABB
+2024-12-01 18:35:29,425 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/907677
+2024-12-01 18:35:32,256 - INFO - Successfully scraped job: Red Hat Ansible Developer Engineer
+2024-12-01 18:35:32,260 - INFO - Saved job: Red Hat Ansible Developer Engineer - ABB
+2024-12-01 18:35:33,712 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/971977
+2024-12-01 18:35:36,276 - INFO - Successfully scraped job: VIE _ Solar R&D Engineer (M/F) _ QATAR (Doha)
+2024-12-01 18:35:36,280 - INFO - Saved job: VIE _ Solar R&D Engineer (M/F) _ QATAR (Doha) - Total Energies
+2024-12-01 18:35:37,865 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/998149
+2024-12-01 18:35:40,983 - INFO - Successfully scraped job: Well Engineer III - Integrated Services and Projects
+2024-12-01 18:35:40,988 - INFO - Saved job: Well Engineer III - Integrated Services and Projects - Weatherford
+2024-12-01 18:35:42,474 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/998158
+2024-12-01 18:35:44,961 - INFO - Successfully scraped job: Field Service Engineer I
+2024-12-01 18:35:44,966 - INFO - Saved job: Field Service Engineer I - Honeywell
