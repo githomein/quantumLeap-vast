@@ -9560,3 +9560,66 @@
 2024-12-01 18:44:00,609 - INFO - Successfully scraped job: ASIC Power Engineer
 2024-12-01 18:44:00,615 - INFO - Saved job: ASIC Power Engineer - Apple
 2024-12-01 18:44:01,675 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/995382
+2024-12-01 18:44:05,491 - INFO - Successfully scraped job: Power System Application Engineer 2
+2024-12-01 18:44:05,496 - INFO - Saved job: Power System Application Engineer 2 - Southern California Edison (SCE)
+2024-12-01 18:44:07,399 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/995321
+2024-12-01 18:44:10,543 - INFO - Successfully scraped job: Field Technician (Gas Engines)
+2024-12-01 18:44:10,548 - INFO - Saved job: Field Technician (Gas Engines) - Wyoming Rents
+2024-12-01 18:44:11,922 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/995257
+2024-12-01 18:44:14,733 - INFO - Successfully scraped job: Staff Machine Learning Engineer, Ads Candidate Generation
+2024-12-01 18:44:14,739 - INFO - Saved job: Staff Machine Learning Engineer, Ads Candidate Generation - Pinterest
+2024-12-01 18:44:16,599 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/995171
+2024-12-01 18:44:19,859 - INFO - Successfully scraped job: Field Technician-Gas Engines/Power Generators
+2024-12-01 18:44:19,867 - INFO - Saved job: Field Technician-Gas Engines/Power Generators - Dragline Service Specialties
+2024-12-01 18:44:21,459 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/995071
+2024-12-01 18:44:24,136 - INFO - Successfully scraped job: Kiewit Nuclear Solutions-Field Engineer-Aiken, SC
+2024-12-01 18:44:24,141 - INFO - Saved job: Kiewit Nuclear Solutions-Field Engineer-Aiken, SC - Kiewit
+2024-12-01 18:44:25,542 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/995013
+2024-12-01 18:44:28,290 - INFO - Successfully scraped job: Sr. PGD Engineer - Solar PV Fleet
+2024-12-01 18:44:28,296 - INFO - Saved job: Sr. PGD Engineer - Solar PV Fleet - NextEra Energy
+2024-12-01 18:44:30,249 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/994831
+2024-12-01 18:44:32,385 - INFO - Successfully scraped job: Electrical Engineer III (Power Systems)
+2024-12-01 18:44:32,391 - INFO - Saved job: Electrical Engineer III (Power Systems) - Dennis Group
+2024-12-01 18:44:33,627 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/994848
+2024-12-01 18:44:36,882 - INFO - Successfully scraped job: Senior Electrical Engineer (Building Power Systems)
+2024-12-01 18:44:36,886 - INFO - Saved job: Senior Electrical Engineer (Building Power Systems) - Dennis Group
+2024-12-01 18:44:38,645 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/994853
+2024-12-01 18:44:41,094 - INFO - Successfully scraped job: Junior Mine Engineer
+2024-12-01 18:44:41,098 - INFO - Saved job: Junior Mine Engineer - KGHM, International Ltd
+2024-12-01 18:44:42,727 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/994704
+2024-12-01 18:44:46,508 - INFO - Successfully scraped job: Senior Offshore Cable Engineer
+2024-12-01 18:44:46,512 - INFO - Saved job: Senior Offshore Cable Engineer - Iberdrola
+2024-12-01 18:44:48,418 - INFO - Collected 2100 jobs so far
+2024-12-01 18:44:48,419 - INFO - Scraping page 106 of 389
+2024-12-01 18:44:51,347 - INFO - Getting job links from current page
+2024-12-01 18:44:54,382 - INFO - Found 20 job cards
+2024-12-01 18:44:54,393 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/994641
+2024-12-01 18:44:54,402 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/994505
+2024-12-01 18:44:54,410 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/994486
+2024-12-01 18:44:54,418 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/994447
+2024-12-01 18:44:54,427 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/994359
+2024-12-01 18:44:54,435 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/993989
+2024-12-01 18:44:54,443 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/993961
+2024-12-01 18:44:54,451 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/993900
+2024-12-01 18:44:54,461 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/993759
+2024-12-01 18:44:54,470 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/administrative-or-secretarial-jobs/993559
+2024-12-01 18:44:54,478 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/993532
+2024-12-01 18:44:54,487 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/993526
+2024-12-01 18:44:54,494 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/993503
+2024-12-01 18:44:54,503 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/993479
+2024-12-01 18:44:54,512 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/993360
+2024-12-01 18:44:54,521 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/993104
+2024-12-01 18:44:54,529 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/993068
+2024-12-01 18:44:54,538 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/production-jobs/993032
+2024-12-01 18:44:54,546 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/993052
+2024-12-01 18:44:54,555 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/993024
+2024-12-01 18:44:54,555 - INFO - Successfully extracted 20 job links
+2024-12-01 18:44:54,555 - INFO - Found 20 jobs on page 106
+2024-12-01 18:44:54,555 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/994641
+2024-12-01 18:44:57,539 - DEBUG - No additional metadata found
+2024-12-01 18:44:57,553 - INFO - Successfully scraped job: CAD Design Engineer - Electric Power
+2024-12-01 18:44:57,558 - INFO - Saved job: CAD Design Engineer - Electric Power - Caterpillar
+2024-12-01 18:44:59,357 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/994505
+2024-12-01 18:45:03,147 - INFO - Successfully scraped job: Energy Engineer I
+2024-12-01 18:45:03,150 - INFO - Saved job: Energy Engineer I - CLEAResult
+2024-12-01 18:45:04,801 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/994486
