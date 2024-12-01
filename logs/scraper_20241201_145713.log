@@ -4865,3 +4865,24 @@
 2024-12-01 16:50:37,651 - INFO - Successfully scraped job: DevOps Engineer II
 2024-12-01 16:50:37,654 - INFO - Saved job: DevOps Engineer II - Honeywell
 2024-12-01 16:50:38,725 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/964097
+2024-12-01 16:50:42,418 - INFO - Successfully scraped job: Field Service Engineer
+2024-12-01 16:50:42,421 - INFO - Saved job: Field Service Engineer - ABB
+2024-12-01 16:50:43,970 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/987878
+2024-12-01 16:50:57,803 - WARNING - Timeout waiting for company element
+2024-12-01 16:50:57,919 - INFO - Successfully scraped job: Sr. Process Control Engineer
+2024-12-01 16:50:57,922 - INFO - Saved job: Sr. Process Control Engineer - None
+2024-12-01 16:50:59,022 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/818327
+2024-12-01 16:51:12,148 - WARNING - Timeout waiting for company element
+2024-12-01 16:51:12,256 - INFO - Successfully scraped job: Principal Offshore Structural Engineer
+2024-12-01 16:51:12,260 - INFO - Saved job: Principal Offshore Structural Engineer - None
+2024-12-01 16:51:13,760 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/963410
+2024-12-01 16:51:16,881 - INFO - Successfully scraped job: Software Engineer (Safety)
+2024-12-01 16:51:16,885 - INFO - Saved job: Software Engineer (Safety) - Vestas
+2024-12-01 16:51:18,448 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/910534
+2024-12-01 16:51:31,707 - WARNING - Timeout waiting for company element
+2024-12-01 16:51:31,982 - INFO - Successfully scraped job: Principal Civil Engineer
+2024-12-01 16:51:31,986 - INFO - Saved job: Principal Civil Engineer - None
+2024-12-01 16:51:33,807 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/987649
+2024-12-01 16:51:37,504 - INFO - Successfully scraped job: Safety Assurance Engineer
+2024-12-01 16:51:37,507 - INFO - Saved job: Safety Assurance Engineer - AtkinsRéalis
+2024-12-01 16:51:39,353 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/820694
