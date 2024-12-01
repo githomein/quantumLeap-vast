@@ -12297,3 +12297,29 @@
 2024-12-01 19:41:23,252 - INFO - Successfully extracted 20 job links
 2024-12-01 19:41:23,252 - INFO - Found 20 jobs on page 136
 2024-12-01 19:41:23,252 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/962569
+2024-12-01 19:41:26,713 - INFO - Successfully scraped job: Consultant Geotechnical Engineer or Engineering for Nuclear Estate
+2024-12-01 19:41:26,719 - INFO - Saved job: Consultant Geotechnical Engineer or Engineering for Nuclear Estate - Jacobs
+2024-12-01 19:41:28,662 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/895098
+2024-12-01 19:41:31,903 - INFO - Successfully scraped job: Principal Mechanical Engineer - Nuclear
+2024-12-01 19:41:31,909 - INFO - Saved job: Principal Mechanical Engineer - Nuclear - AECOM
+2024-12-01 19:41:33,665 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/963591
+2024-12-01 19:41:36,396 - INFO - Successfully scraped job: Specialist Nuclear Materials Test and Repair Engineer
+2024-12-01 19:41:36,402 - INFO - Saved job: Specialist Nuclear Materials Test and Repair Engineer - AWE
+2024-12-01 19:41:38,291 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/903481
+2024-12-01 19:41:40,821 - INFO - Successfully scraped job: Engineer - Nuclear Plant Construction & Commissioning
+2024-12-01 19:41:40,826 - INFO - Saved job: Engineer - Nuclear Plant Construction & Commissioning - AtkinsRéalis
+2024-12-01 19:41:42,665 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/912228
+2024-12-01 19:41:56,200 - WARNING - Timeout waiting for company element
+2024-12-01 19:41:56,325 - INFO - Successfully scraped job: Civil & Structural, Engineer (Offshore)
+2024-12-01 19:41:56,331 - INFO - Saved job: Civil & Structural, Engineer (Offshore) - None
+2024-12-01 19:41:57,532 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/917398
+2024-12-01 19:41:59,825 - INFO - Successfully scraped job: Onshore Wind Engineer
+2024-12-01 19:41:59,829 - INFO - Saved job: Onshore Wind Engineer - GHD Group
+2024-12-01 19:42:00,959 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/917401
+2024-12-01 19:42:04,036 - INFO - Successfully scraped job: Onshore Wind Engineer
+2024-12-01 19:42:04,042 - INFO - Saved job: Onshore Wind Engineer - GHD Group
+2024-12-01 19:42:05,393 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/957980
+2024-12-01 19:42:18,706 - WARNING - Timeout waiting for company element
+2024-12-01 19:42:18,869 - INFO - Successfully scraped job: Senior/Principal Geotechnical Engineer
+2024-12-01 19:42:18,875 - INFO - Saved job: Senior/Principal Geotechnical Engineer - None
+2024-12-01 19:42:20,869 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/954158
