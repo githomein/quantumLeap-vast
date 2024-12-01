@@ -5476,3 +5476,26 @@
 2024-12-01 17:00:52,353 - INFO - Successfully scraped job: Pipelay Analysis Engineer
 2024-12-01 17:00:52,358 - INFO - Saved job: Pipelay Analysis Engineer - None
 2024-12-01 17:00:54,215 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006714
+2024-12-01 17:01:08,571 - WARNING - Timeout waiting for company element
+2024-12-01 17:01:08,701 - INFO - Successfully scraped job: Join Aker Solutions as an Architect Engineer in Stavanger!
+2024-12-01 17:01:08,706 - INFO - Saved job: Join Aker Solutions as an Architect Engineer in Stavanger! - None
+2024-12-01 17:01:10,506 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006662
+2024-12-01 17:01:14,275 - INFO - Successfully scraped job: Project Engineer
+2024-12-01 17:01:14,278 - INFO - Saved job: Project Engineer - Exxon Mobil
+2024-12-01 17:01:15,688 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006658
+2024-12-01 17:01:18,507 - INFO - Successfully scraped job: Project Design Engineer
+2024-12-01 17:01:18,510 - INFO - Saved job: Project Design Engineer - Exxon Mobil
+2024-12-01 17:01:19,888 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/985589
+2024-12-01 17:01:21,825 - INFO - Successfully scraped job: Aerospace Engineering (Neurodiversity Program) - Summer 2025 Internship U.S. PERSON required
+2024-12-01 17:01:21,828 - INFO - Saved job: Aerospace Engineering (Neurodiversity Program) - Summer 2025 Internship U.S. PERSON required - Honeywell
+2024-12-01 17:01:22,974 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/914482
+2024-12-01 17:01:27,509 - INFO - Successfully scraped job: Lead Manufacturing Engineer - Systems
+2024-12-01 17:01:27,512 - INFO - Saved job: Lead Manufacturing Engineer - Systems - GE Renewable Energy Power and Aviation
+2024-12-01 17:01:28,785 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/985399
+2024-12-01 17:01:41,987 - WARNING - Timeout waiting for company element
+2024-12-01 17:01:42,160 - INFO - Successfully scraped job: Electrical Field Engineer - Dubai
+2024-12-01 17:01:42,164 - INFO - Saved job: Electrical Field Engineer - Dubai - None
+2024-12-01 17:01:43,877 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/914450
+2024-12-01 17:01:45,767 - INFO - Successfully scraped job: Nuclear Engineer - Radioactive Waste Management
+2024-12-01 17:01:45,771 - INFO - Saved job: Nuclear Engineer - Radioactive Waste Management - Engie
+2024-12-01 17:01:47,213 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006557
