@@ -8026,3 +8026,30 @@
 2024-12-01 18:09:40,638 - INFO - Successfully scraped job: Electricity - Style Creation Support Engineer
 2024-12-01 18:09:40,642 - INFO - Saved job: Electricity - Style Creation Support Engineer - Honeywell
 2024-12-01 18:09:42,046 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/science-or-research-jobs/1005642
+2024-12-01 18:09:55,863 - WARNING - Timeout waiting for company element
+2024-12-01 18:09:56,024 - INFO - Successfully scraped job: Process Systems Engineer
+2024-12-01 18:09:56,030 - INFO - Saved job: Process Systems Engineer - None
+2024-12-01 18:09:57,931 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/884181
+2024-12-01 18:10:00,840 - INFO - Successfully scraped job: Sales Engineer
+2024-12-01 18:10:00,843 - INFO - Saved job: Sales Engineer - Emerson
+2024-12-01 18:10:02,217 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1005580
+2024-12-01 18:10:04,690 - INFO - Successfully scraped job: Senior Application Engineer - ATE
+2024-12-01 18:10:04,694 - INFO - Saved job: Senior Application Engineer - ATE - Emerson
+2024-12-01 18:10:05,965 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/oilfield-jobs/1005403
+2024-12-01 18:10:18,385 - WARNING - Timeout waiting for company element
+2024-12-01 18:10:18,474 - DEBUG - No additional metadata found
+2024-12-01 18:10:18,488 - INFO - Successfully scraped job: Senior Electrical Engineer
+2024-12-01 18:10:18,491 - INFO - Saved job: Senior Electrical Engineer - None
+2024-12-01 18:10:19,543 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005337
+2024-12-01 18:10:33,497 - WARNING - Timeout waiting for company element
+2024-12-01 18:10:33,626 - INFO - Successfully scraped job: Integrity Engineer
+2024-12-01 18:10:33,630 - INFO - Saved job: Integrity Engineer - None
+2024-12-01 18:10:35,238 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/952858
+2024-12-01 18:10:37,574 - INFO - Successfully scraped job: Integration Software Engineer
+2024-12-01 18:10:37,578 - INFO - Saved job: Integration Software Engineer - Chevron
+2024-12-01 18:10:38,643 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005285
+2024-12-01 18:10:52,567 - WARNING - Timeout waiting for company element
+2024-12-01 18:10:52,733 - INFO - Successfully scraped job: Discipline Review Engineers Mechanical
+2024-12-01 18:10:52,737 - INFO - Saved job: Discipline Review Engineers Mechanical - None
+2024-12-01 18:10:53,934 - INFO - Collected 1760 jobs so far
+2024-12-01 18:10:53,934 - INFO - Scraping page 89 of 389
