@@ -1118,3 +1118,32 @@
 2024-12-01 15:21:43,076 - DEBUG - No additional metadata found
 2024-12-01 15:21:43,089 - INFO - Successfully scraped job: Tech lead Referentiel Data (H/F)
 2024-12-01 15:21:43,092 - INFO - Saved job: Tech lead Referentiel Data (H/F) - Engie
+2024-12-01 15:21:44,157 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/851453
+2024-12-01 15:21:47,091 - INFO - Successfully scraped job: Master Data Management & MDG Expert(M/F)
+2024-12-01 15:21:47,093 - INFO - Saved job: Master Data Management & MDG Expert(M/F) - Engie
+2024-12-01 15:21:48,968 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/851497
+2024-12-01 15:21:52,646 - INFO - Successfully scraped job: Expert Data Manager H/F
+2024-12-01 15:21:52,648 - INFO - Saved job: Expert Data Manager H/F - Engie
+2024-12-01 15:21:54,049 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/878586
+2024-12-01 15:21:56,299 - INFO - Successfully scraped job: Data Scientist Time Series H/F
+2024-12-01 15:21:56,302 - INFO - Saved job: Data Scientist Time Series H/F - Total Energies
+2024-12-01 15:21:58,189 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/989312
+2024-12-01 15:22:01,599 - DEBUG - No additional metadata found
+2024-12-01 15:22:01,613 - INFO - Successfully scraped job: Continuous Improvement Expert - Data Analytics
+2024-12-01 15:22:01,616 - INFO - Saved job: Continuous Improvement Expert - Data Analytics - Schneider Electric
+2024-12-01 15:22:02,925 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/administrative-or-secretarial-jobs/988966
+2024-12-01 15:22:16,088 - WARNING - Timeout waiting for company element
+2024-12-01 15:22:16,246 - INFO - Successfully scraped job: Contract SAP Data Technician
+2024-12-01 15:22:16,248 - INFO - Saved job: Contract SAP Data Technician - None
+2024-12-01 15:22:17,949 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/988953
+2024-12-01 15:22:30,301 - WARNING - Timeout waiting for company element
+2024-12-01 15:22:30,462 - INFO - Successfully scraped job: Data Integration Manager F/M
+2024-12-01 15:22:30,467 - INFO - Saved job: Data Integration Manager F/M - None
+2024-12-01 15:22:32,287 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/988305
+2024-12-01 15:22:34,162 - DEBUG - No additional metadata found
+2024-12-01 15:22:34,175 - INFO - Successfully scraped job: Evendale Data Acquisition Tech
+2024-12-01 15:22:34,178 - INFO - Saved job: Evendale Data Acquisition Tech - GE Renewable Energy Power and Aviation
+2024-12-01 15:22:35,891 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/986794
+2024-12-01 15:22:38,640 - INFO - Successfully scraped job: Sr Pricing Data Analyst
+2024-12-01 15:22:38,642 - INFO - Saved job: Sr Pricing Data Analyst - Honeywell
+2024-12-01 15:22:40,292 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/administrative-or-secretarial-jobs/1005896
