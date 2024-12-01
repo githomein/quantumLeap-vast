@@ -14221,3 +14221,37 @@
 2024-12-01 20:28:31,232 - INFO - Successfully scraped job: Gas Engineer
 2024-12-01 20:28:31,238 - INFO - Saved job: Gas Engineer - Bourne Leisure Ltd
 2024-12-01 20:28:32,750 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/846503
+2024-12-01 20:28:36,664 - INFO - Successfully scraped job: Asst. Mechanical Maintenance Engineer
+2024-12-01 20:28:36,670 - INFO - Saved job: Asst. Mechanical Maintenance Engineer - Shell
+2024-12-01 20:28:37,976 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1000622
+2024-12-01 20:28:51,727 - WARNING - Timeout waiting for company element
+2024-12-01 20:28:51,891 - INFO - Successfully scraped job: Engineering Project Manager, Electrical Projects
+2024-12-01 20:28:51,898 - INFO - Saved job: Engineering Project Manager, Electrical Projects - None
+2024-12-01 20:28:53,375 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/950682
+2024-12-01 20:28:55,321 - INFO - Successfully scraped job: Senior Power Systems Engineer
+2024-12-01 20:28:55,327 - INFO - Saved job: Senior Power Systems Engineer - Qualus
+2024-12-01 20:28:57,093 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/933969
+2024-12-01 20:29:00,342 - INFO - Successfully scraped job: Substation Engineer Intern - Kiewit Power Engineering (Summer 2025)
+2024-12-01 20:29:00,350 - INFO - Saved job: Substation Engineer Intern - Kiewit Power Engineering (Summer 2025) - Kiewit
+2024-12-01 20:29:01,875 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/933894
+2024-12-01 20:29:04,563 - INFO - Successfully scraped job: Civil Engineer/Transmission Line Engineer - Kiewit Power Engineering
+2024-12-01 20:29:04,568 - INFO - Saved job: Civil Engineer/Transmission Line Engineer - Kiewit Power Engineering - Kiewit
+2024-12-01 20:29:06,435 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/933700
+2024-12-01 20:29:09,166 - INFO - Successfully scraped job: Power System Modeling Engineer Intern
+2024-12-01 20:29:09,171 - INFO - Saved job: Power System Modeling Engineer Intern - ISO New England, Inc.
+2024-12-01 20:29:10,913 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/933400
+2024-12-01 20:29:14,920 - INFO - Successfully scraped job: Mining Engineer Co-op May 2025 - Multiple Locations
+2024-12-01 20:29:14,925 - INFO - Saved job: Mining Engineer Co-op May 2025 - Multiple Locations - Cargill
+2024-12-01 20:29:16,597 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/933205
+2024-12-01 20:29:19,201 - INFO - Successfully scraped job: Power Plant Engineer
+2024-12-01 20:29:19,206 - INFO - Saved job: Power Plant Engineer - GE Vernova
+2024-12-01 20:29:20,559 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/932990
+2024-12-01 20:29:23,294 - INFO - Successfully scraped job: Solar Engineer Intern/Co-op Spring 2025 - CMTA
+2024-12-01 20:29:23,299 - INFO - Saved job: Solar Engineer Intern/Co-op Spring 2025 - CMTA - Legence
+2024-12-01 20:29:25,071 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/931729
+2024-12-01 20:29:28,724 - INFO - Successfully scraped job: Senior Energy Storage Engineer - Power (Multiple Locations)
+2024-12-01 20:29:28,729 - INFO - Saved job: Senior Energy Storage Engineer - Power (Multiple Locations) - Burns & McDonnell
+2024-12-01 20:29:30,082 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/931829
+2024-12-01 20:29:32,649 - INFO - Successfully scraped job: Senior Natural Gas Engineer
+2024-12-01 20:29:32,657 - INFO - Saved job: Senior Natural Gas Engineer - NV5
+2024-12-01 20:29:33,782 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000390
