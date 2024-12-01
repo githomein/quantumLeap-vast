@@ -4697,3 +4697,27 @@
 2024-12-01 16:41:24,376 - INFO - Successfully scraped job: Senior Completions Engineer (epc Oil/gas Commissioninig)
 2024-12-01 16:41:24,379 - INFO - Saved job: Senior Completions Engineer (epc Oil/gas Commissioninig) - None
 2024-12-01 16:41:25,932 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/820349
+2024-12-01 16:41:39,945 - WARNING - Timeout waiting for company element
+2024-12-01 16:41:40,056 - INFO - Successfully scraped job: Lead Offshore Structural Engineer (epc Oil/gas Commissioning)
+2024-12-01 16:41:40,059 - INFO - Saved job: Lead Offshore Structural Engineer (epc Oil/gas Commissioning) - None
+2024-12-01 16:41:41,090 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/820344
+2024-12-01 16:41:53,411 - WARNING - Timeout waiting for company element
+2024-12-01 16:41:53,527 - INFO - Successfully scraped job: Senior Telecommunication Engineer (epc Oil/gas Commissioning)
+2024-12-01 16:41:53,531 - INFO - Saved job: Senior Telecommunication Engineer (epc Oil/gas Commissioning) - None
+2024-12-01 16:41:55,291 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/857257
+2024-12-01 16:42:08,855 - WARNING - Timeout waiting for company element
+2024-12-01 16:42:08,937 - INFO - Successfully scraped job: Electrical Engineer Specialist
+2024-12-01 16:42:08,942 - INFO - Saved job: Electrical Engineer Specialist - None
+2024-12-01 16:42:10,322 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/995681
+2024-12-01 16:42:13,278 - DEBUG - No additional metadata found
+2024-12-01 16:42:13,292 - INFO - Successfully scraped job: HVAC Mobile Engineer
+2024-12-01 16:42:13,295 - INFO - Saved job: HVAC Mobile Engineer - CBRE
+2024-12-01 16:42:14,777 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/995657
+2024-12-01 16:42:18,307 - INFO - Successfully scraped job: HVAC Engineer
+2024-12-01 16:42:18,310 - INFO - Saved job: HVAC Engineer - CBRE
+2024-12-01 16:42:19,576 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/995624
+2024-12-01 16:42:22,079 - INFO - Successfully scraped job: Mobile Engineer - HVAC/Facilities Maintenance
+2024-12-01 16:42:22,081 - INFO - Saved job: Mobile Engineer - HVAC/Facilities Maintenance - CBRE
+2024-12-01 16:42:23,258 - INFO - Collected 1040 jobs so far
+2024-12-01 16:42:23,258 - INFO - Scraping page 53 of 384
+2024-12-01 16:42:26,554 - INFO - Getting job links from current page

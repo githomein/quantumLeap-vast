@@ -4494,3 +4494,23 @@
 2024-12-01 16:41:22,980 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/990842
 2024-12-01 16:41:25,673 - INFO - Successfully scraped job: Senior Structural Engineer
 2024-12-01 16:41:25,676 - INFO - Saved job: Senior Structural Engineer - Wood PLC
+2024-12-01 16:41:27,393 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/990851
+2024-12-01 16:41:30,276 - INFO - Successfully scraped job: Senior ICSS Network Cyber Security Engineer
+2024-12-01 16:41:30,279 - INFO - Saved job: Senior ICSS Network Cyber Security Engineer - ABB
+2024-12-01 16:41:32,170 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/990782
+2024-12-01 16:41:44,385 - WARNING - Timeout waiting for company element
+2024-12-01 16:41:44,494 - INFO - Successfully scraped job: Sr Civil/Structural Engineer
+2024-12-01 16:41:44,498 - INFO - Saved job: Sr Civil/Structural Engineer - None
+2024-12-01 16:41:45,784 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990686
+2024-12-01 16:41:58,725 - WARNING - Timeout waiting for company element
+2024-12-01 16:41:58,843 - INFO - Successfully scraped job: Sr. Mechanical engineer
+2024-12-01 16:41:58,846 - INFO - Saved job: Sr. Mechanical engineer - None
+2024-12-01 16:42:00,286 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990683
+2024-12-01 16:42:13,649 - WARNING - Timeout waiting for company element
+2024-12-01 16:42:13,778 - INFO - Successfully scraped job: Senior Civil Engineer
+2024-12-01 16:42:13,781 - INFO - Saved job: Senior Civil Engineer - None
+2024-12-01 16:42:14,858 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/825375
+2024-12-01 16:42:27,325 - WARNING - Timeout waiting for company element
+2024-12-01 16:42:27,462 - INFO - Successfully scraped job: Process Engineer
+2024-12-01 16:42:27,466 - INFO - Saved job: Process Engineer - None
+2024-12-01 16:42:28,507 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/970162
