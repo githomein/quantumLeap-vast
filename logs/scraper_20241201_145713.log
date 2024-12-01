@@ -8105,3 +8105,36 @@
 2024-12-01 18:11:53,039 - INFO - Successfully scraped job: Instrumentation & Control Engineer
 2024-12-01 18:11:53,044 - INFO - Saved job: Instrumentation & Control Engineer - None
 2024-12-01 18:11:54,248 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005190
+2024-12-01 18:11:57,078 - INFO - Successfully scraped job: Energy and BMS Engineer
+2024-12-01 18:11:57,083 - INFO - Saved job: Energy and BMS Engineer - Honeywell
+2024-12-01 18:11:58,572 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1005101
+2024-12-01 18:12:12,589 - WARNING - Timeout waiting for company element
+2024-12-01 18:12:12,696 - DEBUG - No additional metadata found
+2024-12-01 18:12:12,710 - INFO - Successfully scraped job: Senior Electrical Engineer
+2024-12-01 18:12:12,715 - INFO - Saved job: Senior Electrical Engineer - None
+2024-12-01 18:12:13,858 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/953532
+2024-12-01 18:12:26,962 - WARNING - Timeout waiting for company element
+2024-12-01 18:12:27,208 - INFO - Successfully scraped job: Principal Engineer - Process
+2024-12-01 18:12:27,215 - INFO - Saved job: Principal Engineer - Process - None
+2024-12-01 18:12:28,469 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/982396
+2024-12-01 18:12:30,612 - INFO - Successfully scraped job: Power Systems Engineer
+2024-12-01 18:12:30,616 - INFO - Saved job: Power Systems Engineer - GE Vernova
+2024-12-01 18:12:32,285 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/905523
+2024-12-01 18:12:34,678 - INFO - Successfully scraped job: Senior Power Systems Engineer
+2024-12-01 18:12:34,683 - INFO - Saved job: Senior Power Systems Engineer - ABL Group
+2024-12-01 18:12:35,786 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/982390
+2024-12-01 18:12:37,934 - DEBUG - No additional metadata found
+2024-12-01 18:12:37,948 - INFO - Successfully scraped job: Gas Engineer
+2024-12-01 18:12:37,952 - INFO - Saved job: Gas Engineer - Bourne Leisure Ltd
+2024-12-01 18:12:39,602 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/983054
+2024-12-01 18:12:42,814 - INFO - Successfully scraped job: Intern Quality Engineer
+2024-12-01 18:12:42,817 - INFO - Saved job: Intern Quality Engineer - Honeywell
+2024-12-01 18:12:44,497 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/982867
+2024-12-01 18:12:48,166 - INFO - Successfully scraped job: Process Engineer TSI (RUHM) - TSI
+2024-12-01 18:12:48,170 - INFO - Saved job: Process Engineer TSI (RUHM) - TSI - bp
+2024-12-01 18:12:50,011 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/912734
+2024-12-01 18:12:52,936 - INFO - Successfully scraped job: R&D Associate Engineer
+2024-12-01 18:12:52,939 - INFO - Saved job: R&D Associate Engineer - ABB
+2024-12-01 18:12:54,517 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005022
+2024-12-01 18:12:57,282 - INFO - Successfully scraped job: Sr. Engineer - Oil & Gas
+2024-12-01 18:12:57,285 - INFO - Saved job: Sr. Engineer - Oil & Gas - Farnsworth Group
