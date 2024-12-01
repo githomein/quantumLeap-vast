@@ -6437,3 +6437,30 @@
 2024-12-01 17:29:33,042 - INFO - Successfully scraped job: Power Systems Engineer - Graduate
 2024-12-01 17:29:33,045 - INFO - Saved job: Power Systems Engineer - Graduate - targetjobs Hired
 2024-12-01 17:29:34,261 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/826107
+2024-12-01 17:29:47,046 - WARNING - Timeout waiting for company element
+2024-12-01 17:29:47,187 - INFO - Successfully scraped job: Electrical Engineer
+2024-12-01 17:29:47,193 - INFO - Saved job: Electrical Engineer - None
+2024-12-01 17:29:48,860 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/973115
+2024-12-01 17:29:51,718 - INFO - Successfully scraped job: Lead Embedded Software Engineer - Aerospace - FLRAA
+2024-12-01 17:29:51,722 - INFO - Saved job: Lead Embedded Software Engineer - Aerospace - FLRAA - GE Renewable Energy Power and Aviation
+2024-12-01 17:29:53,636 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/999372
+2024-12-01 17:29:55,999 - INFO - Successfully scraped job: Power Engineering Technologist II- CC
+2024-12-01 17:29:56,004 - INFO - Saved job: Power Engineering Technologist II- CC - Pike Corporation
+2024-12-01 17:29:57,180 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/999326
+2024-12-01 17:30:00,369 - INFO - Successfully scraped job: Summer 2025 Mining Engineer Internship
+2024-12-01 17:30:00,372 - INFO - Saved job: Summer 2025 Mining Engineer Internship - CRH
+2024-12-01 17:30:01,581 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/999263
+2024-12-01 17:30:03,879 - INFO - Successfully scraped job: Inside Technician Support Engineer - Commercial VRF HVAC
+2024-12-01 17:30:03,882 - INFO - Saved job: Inside Technician Support Engineer - Commercial VRF HVAC - Lennox International
+2024-12-01 17:30:05,760 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/999118
+2024-12-01 17:30:08,515 - INFO - Successfully scraped job: Senior Energy Engineer
+2024-12-01 17:30:08,519 - INFO - Saved job: Senior Energy Engineer - AECOM
+2024-12-01 17:30:09,731 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/999041
+2024-12-01 17:30:21,996 - WARNING - Timeout waiting for company element
+2024-12-01 17:30:22,194 - INFO - Successfully scraped job: Second Engineer
+2024-12-01 17:30:22,198 - INFO - Saved job: Second Engineer - None
+2024-12-01 17:30:24,067 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/999025
+2024-12-01 17:30:27,159 - INFO - Successfully scraped job: Controls System Lead Engineer (E3)
+2024-12-01 17:30:27,163 - INFO - Saved job: Controls System Lead Engineer (E3) - GE Renewable Energy Power and Aviation
+2024-12-01 17:30:28,322 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/998828
+2024-12-01 17:30:41,527 - WARNING - Timeout waiting for company element

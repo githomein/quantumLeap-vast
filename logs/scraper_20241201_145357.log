@@ -6679,3 +6679,24 @@
 2024-12-01 17:29:35,424 - INFO - Successfully scraped job: Electrical Engineer
 2024-12-01 17:29:35,429 - INFO - Saved job: Electrical Engineer - None
 2024-12-01 17:29:37,223 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/973425
+2024-12-01 17:29:50,513 - WARNING - Timeout waiting for company element
+2024-12-01 17:29:50,629 - DEBUG - No additional metadata found
+2024-12-01 17:29:50,643 - INFO - Successfully scraped job: Electrical Engineer III
+2024-12-01 17:29:50,649 - INFO - Saved job: Electrical Engineer III - None
+2024-12-01 17:29:52,000 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/973447
+2024-12-01 17:30:04,515 - WARNING - Timeout waiting for company element
+2024-12-01 17:30:04,641 - INFO - Successfully scraped job: SNR INSTRUMENT ENGINEER
+2024-12-01 17:30:04,645 - INFO - Saved job: SNR INSTRUMENT ENGINEER - None
+2024-12-01 17:30:06,000 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/973495
+2024-12-01 17:30:20,109 - WARNING - Timeout waiting for company element
+2024-12-01 17:30:20,183 - DEBUG - No additional metadata found
+2024-12-01 17:30:20,197 - INFO - Successfully scraped job: Offshore Methods Engineer ( Nationals Only)
+2024-12-01 17:30:20,201 - INFO - Saved job: Offshore Methods Engineer ( Nationals Only) - None
+2024-12-01 17:30:21,267 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/973420
+2024-12-01 17:30:35,416 - WARNING - Timeout waiting for company element
+2024-12-01 17:30:35,638 - INFO - Successfully scraped job: Senior Instrumentation Engineer
+2024-12-01 17:30:35,643 - INFO - Saved job: Senior Instrumentation Engineer - None
+2024-12-01 17:30:37,494 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/974005
+2024-12-01 17:30:39,938 - INFO - Successfully scraped job: Manufacturing Engineer
+2024-12-01 17:30:39,942 - INFO - Saved job: Manufacturing Engineer - Emerson
+2024-12-01 17:30:41,359 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/974017
