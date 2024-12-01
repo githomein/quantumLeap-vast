@@ -1372,3 +1372,31 @@
 2024-12-01 15:26:45,308 - INFO - Successfully scraped job: Renewable Energy - Project Engineer
 2024-12-01 15:26:45,312 - INFO - Saved job: Renewable Energy - Project Engineer - SGC Engineering
 2024-12-01 15:26:47,197 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/969703
+2024-12-01 15:26:49,754 - INFO - Successfully scraped job: Solar/ Electrical Engineer - Renewable Energy
+2024-12-01 15:26:49,757 - INFO - Saved job: Solar/ Electrical Engineer - Renewable Energy - Partner Engineering and Science
+2024-12-01 15:26:51,631 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/995476
+2024-12-01 15:26:53,620 - INFO - Successfully scraped job: Energy Engineer I
+2024-12-01 15:26:53,623 - INFO - Saved job: Energy Engineer I - U.S. Engineering
+2024-12-01 15:26:55,273 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/928436
+2024-12-01 15:26:58,142 - INFO - Successfully scraped job: Power Systems Engineer - Design
+2024-12-01 15:26:58,144 - INFO - Saved job: Power Systems Engineer - Design - Schweitzer Engineering Laboratories, Inc.
+2024-12-01 15:27:00,107 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/927951
+2024-12-01 15:27:02,954 - INFO - Successfully scraped job: Senior Energy Engineer
+2024-12-01 15:27:02,957 - INFO - Saved job: Senior Energy Engineer - ENTECH ENGINEERING INC
+2024-12-01 15:27:04,573 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/971313
+2024-12-01 15:27:07,695 - INFO - Successfully scraped job: Associate Sales Engineer - Power Systems
+2024-12-01 15:27:07,698 - INFO - Saved job: Associate Sales Engineer - Power Systems - Schweitzer Engineering Laboratories, Inc.
+2024-12-01 15:27:08,783 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/963766
+2024-12-01 15:27:11,495 - INFO - Successfully scraped job: Graduate Engineer I - Water/Waste Water
+2024-12-01 15:27:11,500 - INFO - Saved job: Graduate Engineer I - Water/Waste Water - LJA Engineering
+2024-12-01 15:27:12,783 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/994891
+2024-12-01 15:27:16,617 - INFO - Successfully scraped job: Engineering Project Manager - Renewable Energy
+2024-12-01 15:27:16,620 - INFO - Saved job: Engineering Project Manager - Renewable Energy - Revamp Engineering
+2024-12-01 15:27:18,432 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005395
+2024-12-01 15:27:32,421 - WARNING - Timeout waiting for company element
+2024-12-01 15:27:32,646 - INFO - Successfully scraped job: Wind Turbine Generator Jacket T&I Lead Engineer
+2024-12-01 15:27:32,649 - INFO - Saved job: Wind Turbine Generator Jacket T&I Lead Engineer - None
+2024-12-01 15:27:33,873 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005400
+2024-12-01 15:27:47,608 - WARNING - Timeout waiting for company element
+2024-12-01 15:27:47,807 - INFO - Successfully scraped job: GBS T&I Engineer
+2024-12-01 15:27:47,810 - INFO - Saved job: GBS T&I Engineer - None
