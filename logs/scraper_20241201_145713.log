@@ -6349,3 +6349,31 @@
 2024-12-01 17:27:32,605 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/999202
 2024-12-01 17:27:34,756 - INFO - Successfully scraped job: (Senior) Requirement Engineer Wind Turbine Control (m/f/d)
 2024-12-01 17:27:34,760 - INFO - Saved job: (Senior) Requirement Engineer Wind Turbine Control (m/f/d) - Nordex
+2024-12-01 17:27:36,527 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/999205
+2024-12-01 17:27:38,782 - INFO - Successfully scraped job: Senior Engineer Wind Turbine Control (m/f/d)
+2024-12-01 17:27:38,786 - INFO - Saved job: Senior Engineer Wind Turbine Control (m/f/d) - Nordex
+2024-12-01 17:27:40,292 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/999112
+2024-12-01 17:27:43,859 - INFO - Successfully scraped job: Senior Energy Engineer
+2024-12-01 17:27:43,862 - INFO - Saved job: Senior Energy Engineer - AECOM
+2024-12-01 17:27:45,581 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/999103
+2024-12-01 17:27:48,752 - INFO - Successfully scraped job: Gas Installation Engineer
+2024-12-01 17:27:48,756 - INFO - Saved job: Gas Installation Engineer - Liberty Group Investments Ltd
+2024-12-01 17:27:50,541 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/999086
+2024-12-01 17:27:53,176 - INFO - Successfully scraped job: Senior Mechanical Engineer - Iron Roughneck
+2024-12-01 17:27:53,179 - INFO - Saved job: Senior Mechanical Engineer - Iron Roughneck - NOV
+2024-12-01 17:27:54,902 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/998959
+2024-12-01 17:27:58,077 - DEBUG - No additional metadata found
+2024-12-01 17:27:58,097 - INFO - Successfully scraped job: Technical Support Engineer
+2024-12-01 17:27:58,102 - INFO - Saved job: Technical Support Engineer - Emerson
+2024-12-01 17:28:00,066 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/998873
+2024-12-01 17:28:03,797 - INFO - Successfully scraped job: Software Service Engineer
+2024-12-01 17:28:03,801 - INFO - Saved job: Software Service Engineer - ABB
+2024-12-01 17:28:05,715 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/998831
+2024-12-01 17:28:19,657 - WARNING - Timeout waiting for company element
+2024-12-01 17:28:19,756 - INFO - Successfully scraped job: Principal Engineer - Process
+2024-12-01 17:28:19,759 - INFO - Saved job: Principal Engineer - Process - None
+2024-12-01 17:28:21,704 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/998816
+2024-12-01 17:28:34,898 - WARNING - Timeout waiting for company element
+2024-12-01 17:28:35,075 - INFO - Successfully scraped job: Structural Engineer
+2024-12-01 17:28:35,078 - INFO - Saved job: Structural Engineer - None
+2024-12-01 17:28:36,763 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/972103
