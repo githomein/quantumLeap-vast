@@ -12162,3 +12162,33 @@
 2024-12-01 19:42:25,486 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/963235
 2024-12-01 19:42:27,851 - INFO - Successfully scraped job: Principal Software Engineer - RF
 2024-12-01 19:42:27,856 - INFO - Saved job: Principal Software Engineer - RF - Emerson
+2024-12-01 19:42:29,418 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/966580
+2024-12-01 19:42:31,616 - INFO - Successfully scraped job: Engineer-Proposal
+2024-12-01 19:42:31,621 - INFO - Saved job: Engineer-Proposal - Emerson
+2024-12-01 19:42:33,329 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/958358
+2024-12-01 19:42:35,671 - INFO - Successfully scraped job: Software Engineer
+2024-12-01 19:42:35,676 - INFO - Saved job: Software Engineer - Emerson
+2024-12-01 19:42:37,248 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/868886
+2024-12-01 19:42:40,703 - INFO - Successfully scraped job: Lead Electrical Engineer | Instrumentation & Process Control
+2024-12-01 19:42:40,707 - INFO - Saved job: Lead Electrical Engineer | Instrumentation & Process Control - Bilfinger
+2024-12-01 19:42:41,993 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/968308
+2024-12-01 19:42:44,901 - INFO - Successfully scraped job: Project Engineer
+2024-12-01 19:42:44,905 - INFO - Saved job: Project Engineer - Emerson
+2024-12-01 19:42:46,183 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/969266
+2024-12-01 19:42:49,316 - INFO - Successfully scraped job: Senior R&D Software Engineer
+2024-12-01 19:42:49,322 - INFO - Saved job: Senior R&D Software Engineer - Emerson
+2024-12-01 19:42:51,020 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/868942
+2024-12-01 19:42:54,719 - INFO - Successfully scraped job: Traineeship Bilfinger Engineering
+2024-12-01 19:42:54,724 - INFO - Saved job: Traineeship Bilfinger Engineering - Bilfinger
+2024-12-01 19:42:55,851 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/883396
+2024-12-01 19:42:58,490 - INFO - Successfully scraped job: Senior Engineer Electrical
+2024-12-01 19:42:58,495 - INFO - Saved job: Senior Engineer Electrical - Bilfinger
+2024-12-01 19:43:00,385 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/820471
+2024-12-01 19:43:13,324 - WARNING - Timeout waiting for company element
+2024-12-01 19:43:13,423 - INFO - Successfully scraped job: Lead Instrument Engineer (oil/ Gas Commissioning)
+2024-12-01 19:43:13,429 - INFO - Saved job: Lead Instrument Engineer (oil/ Gas Commissioning) - None
+2024-12-01 19:43:14,649 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/820445
+2024-12-01 19:43:27,964 - WARNING - Timeout waiting for company element
+2024-12-01 19:43:28,050 - INFO - Successfully scraped job: Reservoir Engineer (oil/ Gas Co.)
+2024-12-01 19:43:28,055 - INFO - Saved job: Reservoir Engineer (oil/ Gas Co.) - None
+2024-12-01 19:43:29,374 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/820528
