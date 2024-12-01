@@ -12380,3 +12380,61 @@
 2024-12-01 19:49:46,572 - INFO - Successfully scraped job: Praktikant (m/w/d) im Bereich Engineering
 2024-12-01 19:49:46,576 - INFO - Saved job: Praktikant (m/w/d) im Bereich Engineering - Bilfinger
 2024-12-01 19:49:47,609 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/991952
+2024-12-01 19:49:51,127 - INFO - Successfully scraped job: Senior Field Application Engineer (FAE)- ADG
+2024-12-01 19:49:51,131 - INFO - Saved job: Senior Field Application Engineer (FAE)- ADG - Emerson
+2024-12-01 19:49:52,238 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/991852
+2024-12-01 19:49:55,822 - INFO - Successfully scraped job: Applications Engineering Sr Group Manager
+2024-12-01 19:49:55,827 - INFO - Saved job: Applications Engineering Sr Group Manager - Emerson
+2024-12-01 19:49:57,091 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991850
+2024-12-01 19:49:59,422 - INFO - Successfully scraped job: Industrial Automation Business Engineer
+2024-12-01 19:49:59,426 - INFO - Saved job: Industrial Automation Business Engineer - Emerson
+2024-12-01 19:50:01,339 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991666
+2024-12-01 19:50:04,638 - INFO - Successfully scraped job: Senior / Manufacturing Engineer
+2024-12-01 19:50:04,643 - INFO - Saved job: Senior / Manufacturing Engineer - Emerson
+2024-12-01 19:50:06,558 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/991702
+2024-12-01 19:50:10,248 - INFO - Successfully scraped job: Senior Electrical Engineer
+2024-12-01 19:50:10,252 - INFO - Saved job: Senior Electrical Engineer - Emerson
+2024-12-01 19:50:12,086 - INFO - Collected 2720 jobs so far
+2024-12-01 19:50:12,086 - INFO - Scraping page 137 of 389
+2024-12-01 19:50:15,640 - INFO - Getting job links from current page
+2024-12-01 19:50:18,673 - INFO - Found 20 job cards
+2024-12-01 19:50:18,685 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/991763
+2024-12-01 19:50:18,694 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/991480
+2024-12-01 19:50:18,703 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/991453
+2024-12-01 19:50:18,714 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/991438
+2024-12-01 19:50:18,723 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/991392
+2024-12-01 19:50:18,732 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/991307
+2024-12-01 19:50:18,741 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/991161
+2024-12-01 19:50:18,750 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/991154
+2024-12-01 19:50:18,759 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/991126
+2024-12-01 19:50:18,768 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/874637
+2024-12-01 19:50:18,777 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/906320
+2024-12-01 19:50:18,785 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/922604
+2024-12-01 19:50:18,793 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/970754
+2024-12-01 19:50:18,802 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/991121
+2024-12-01 19:50:18,810 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/991000
+2024-12-01 19:50:18,819 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/990898
+2024-12-01 19:50:18,827 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/990889
+2024-12-01 19:50:18,836 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/990837
+2024-12-01 19:50:18,844 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/990763
+2024-12-01 19:50:18,853 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/990778
+2024-12-01 19:50:18,853 - INFO - Successfully extracted 20 job links
+2024-12-01 19:50:18,853 - INFO - Found 20 jobs on page 137
+2024-12-01 19:50:18,853 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991763
+2024-12-01 19:50:22,409 - INFO - Successfully scraped job: Lead / Senior Engineer - Product Design, B5/B4
+2024-12-01 19:50:22,413 - INFO - Saved job: Lead / Senior Engineer - Product Design, B5/B4 - Emerson
+2024-12-01 19:50:23,416 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/991480
+2024-12-01 19:50:26,816 - INFO - Successfully scraped job: Satellite Software Engineer
+2024-12-01 19:50:26,821 - INFO - Saved job: Satellite Software Engineer - Honeywell
+2024-12-01 19:50:28,744 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991453
+2024-12-01 19:50:31,548 - INFO - Successfully scraped job: Field Service Engineer I
+2024-12-01 19:50:31,553 - INFO - Saved job: Field Service Engineer I - Honeywell
+2024-12-01 19:50:32,596 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991438
+2024-12-01 19:50:34,853 - INFO - Successfully scraped job: Sr HSE Engineer - Safety
+2024-12-01 19:50:34,858 - INFO - Saved job: Sr HSE Engineer - Safety - Honeywell
+2024-12-01 19:50:36,208 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991392
+2024-12-01 19:50:44,412 - INFO - Successfully scraped job: Advanced Technical Support Engineer - Low voltage, metering and eMobility products
+2024-12-01 19:50:44,417 - INFO - Saved job: Advanced Technical Support Engineer - Low voltage, metering and eMobility products - Schneider Electric
+2024-12-01 19:50:46,414 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991307
+2024-12-01 19:50:49,759 - INFO - Successfully scraped job: Principal Engineer (CRA Products)
+2024-12-01 19:50:49,764 - INFO - Saved job: Principal Engineer (CRA Products) - Subsea 7
