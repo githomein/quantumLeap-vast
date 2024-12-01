@@ -1714,3 +1714,42 @@
 2024-12-01 15:25:44,206 - INFO - Successfully scraped job: Sensor Software Specialist
 2024-12-01 15:25:44,209 - INFO - Saved job: Sensor Software Specialist - Vestas
 2024-12-01 15:25:45,718 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1005181
+2024-12-01 15:25:49,143 - INFO - Successfully scraped job: Software Engr II
+2024-12-01 15:25:49,146 - INFO - Saved job: Software Engr II - Honeywell
+2024-12-01 15:25:50,790 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/general-management-jobs/892368
+2024-12-01 15:25:52,788 - DEBUG - No additional metadata found
+2024-12-01 15:25:52,801 - INFO - Successfully scraped job: Student* with Master Thesis (optional) Modeling of Offshore Logistics Software
+2024-12-01 15:25:52,804 - INFO - Saved job: Student* with Master Thesis (optional) Modeling of Offshore Logistics Software - Fraunhofer-Gesellschaft
+2024-12-01 15:25:54,598 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/869972
+2024-12-01 15:25:58,243 - INFO - Successfully scraped job: Software Developer
+2024-12-01 15:25:58,247 - INFO - Saved job: Software Developer - Emerson
+2024-12-01 15:25:59,541 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/869973
+2024-12-01 15:26:02,504 - INFO - Successfully scraped job: Software Tester
+2024-12-01 15:26:02,507 - INFO - Saved job: Software Tester - Emerson
+2024-12-01 15:26:03,996 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/976762
+2024-12-01 15:26:06,822 - DEBUG - No additional metadata found
+2024-12-01 15:26:06,835 - INFO - Successfully scraped job: Tech Prof-Software Development
+2024-12-01 15:26:06,837 - INFO - Saved job: Tech Prof-Software Development - Halliburton
+2024-12-01 15:26:08,327 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/952010
+2024-12-01 15:26:10,531 - INFO - Successfully scraped job: Global Procurement Lead Specialist Software
+2024-12-01 15:26:10,534 - INFO - Saved job: Global Procurement Lead Specialist Software - Vestas
+2024-12-01 15:26:12,001 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1001967
+2024-12-01 15:26:15,636 - INFO - Successfully scraped job: Advanced Software Engr
+2024-12-01 15:26:15,639 - INFO - Saved job: Advanced Software Engr - Honeywell
+2024-12-01 15:26:17,146 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/976390
+2024-12-01 15:26:20,175 - INFO - Successfully scraped job: Sr. Product Manager - Software, Controls and Energy Storage CCI
+2024-12-01 15:26:20,178 - INFO - Saved job: Sr. Product Manager - Software, Controls and Energy Storage CCI - SolarEdge
+2024-12-01 15:26:21,564 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1001224
+2024-12-01 15:26:23,644 - INFO - Successfully scraped job: Software Engr II
+2024-12-01 15:26:23,648 - INFO - Saved job: Software Engr II - Honeywell
+2024-12-01 15:26:24,900 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/934318
+2024-12-01 15:26:27,739 - INFO - Successfully scraped job: Director & GM, Renewables Energy & Software
+2024-12-01 15:26:27,742 - INFO - Saved job: Director & GM, Renewables Energy & Software - UL Solutions
+2024-12-01 15:26:29,019 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/974867
+2024-12-01 15:26:41,917 - WARNING - Timeout waiting for company element
+2024-12-01 15:26:42,092 - INFO - Successfully scraped job: Internship: Creation of a software for the development of Commissioning model sheets in the EasyPlant monitoring tool - F/M
+2024-12-01 15:26:42,095 - INFO - Saved job: Internship: Creation of a software for the development of Commissioning model sheets in the EasyPlant monitoring tool - F/M - None
+2024-12-01 15:26:43,970 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/972299
+2024-12-01 15:26:45,900 - INFO - Successfully scraped job: Software Developer - SMS Guardian
+2024-12-01 15:26:45,904 - INFO - Saved job: Software Developer - SMS Guardian - Emerson
+2024-12-01 15:26:47,017 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/996522
