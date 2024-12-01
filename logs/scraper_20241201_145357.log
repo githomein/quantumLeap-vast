@@ -3164,3 +3164,64 @@
 2024-12-01 16:04:37,556 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005058
 2024-12-01 16:04:41,112 - INFO - Successfully scraped job: Senior Renewable Energy Engineer
 2024-12-01 16:04:41,116 - INFO - Saved job: Senior Renewable Energy Engineer - Sargent & Lundy
+2024-12-01 16:04:42,776 - INFO - Collected 700 jobs so far
+2024-12-01 16:04:42,776 - INFO - Scraping page 36 of 384
+2024-12-01 16:04:45,838 - INFO - Getting job links from current page
+2024-12-01 16:04:48,876 - INFO - Found 20 job cards
+2024-12-01 16:04:48,887 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/983071
+2024-12-01 16:04:48,896 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/983053
+2024-12-01 16:04:48,904 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/983061
+2024-12-01 16:04:48,913 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/982986
+2024-12-01 16:04:48,922 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/872366
+2024-12-01 16:04:48,931 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005058
+2024-12-01 16:04:48,941 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1005033
+2024-12-01 16:04:48,950 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1004991
+2024-12-01 16:04:48,959 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1004890
+2024-12-01 16:04:48,968 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1004887
+2024-12-01 16:04:48,977 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/production-jobs/1004851
+2024-12-01 16:04:48,986 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/981417
+2024-12-01 16:04:48,995 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/892440
+2024-12-01 16:04:49,004 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/981645
+2024-12-01 16:04:49,013 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/production-jobs/981768
+2024-12-01 16:04:49,023 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/981803
+2024-12-01 16:04:49,031 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/911700
+2024-12-01 16:04:49,040 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/911711
+2024-12-01 16:04:49,049 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/892502
+2024-12-01 16:04:49,058 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1004758
+2024-12-01 16:04:49,058 - INFO - Successfully extracted 20 job links
+2024-12-01 16:04:49,058 - INFO - Found 20 jobs on page 36
+2024-12-01 16:04:49,058 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/983071
+2024-12-01 16:04:51,191 - INFO - Successfully scraped job: Electrical Design Engineer
+2024-12-01 16:04:51,195 - INFO - Saved job: Electrical Design Engineer - ABB
+2024-12-01 16:04:52,563 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/983053
+2024-12-01 16:05:04,871 - WARNING - Timeout waiting for company element
+2024-12-01 16:05:05,084 - INFO - Successfully scraped job: Instrument Systems Engineer M/F
+2024-12-01 16:05:05,088 - INFO - Saved job: Instrument Systems Engineer M/F - None
+2024-12-01 16:05:06,686 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/983061
+2024-12-01 16:05:09,552 - INFO - Successfully scraped job: Senior Service Engineer
+2024-12-01 16:05:09,556 - INFO - Saved job: Senior Service Engineer - ABB
+2024-12-01 16:05:10,929 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/982986
+2024-12-01 16:05:13,322 - INFO - Successfully scraped job: Control Engineering
+2024-12-01 16:05:13,325 - INFO - Saved job: Control Engineering - ABB
+2024-12-01 16:05:14,556 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/872366
+2024-12-01 16:05:17,770 - INFO - Successfully scraped job: Principal Fire Engineer
+2024-12-01 16:05:17,774 - INFO - Saved job: Principal Fire Engineer - AtkinsRéalis
+2024-12-01 16:05:19,372 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005058
+2024-12-01 16:05:21,440 - INFO - Successfully scraped job: Senior Renewable Energy Engineer
+2024-12-01 16:05:21,443 - INFO - Saved job: Senior Renewable Energy Engineer - Sargent & Lundy
+2024-12-01 16:05:22,893 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1005033
+2024-12-01 16:05:25,363 - INFO - Successfully scraped job: Power Systems Engineer
+2024-12-01 16:05:25,366 - INFO - Saved job: Power Systems Engineer - ISO New England, Inc.
+2024-12-01 16:05:26,443 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1004991
+2024-12-01 16:05:29,770 - INFO - Successfully scraped job: Engineer Rotational Development Program (ERDP) Electric Engineering (Power Systems)
+2024-12-01 16:05:29,773 - INFO - Saved job: Engineer Rotational Development Program (ERDP) Electric Engineering (Power Systems) - Pacific Gas and Electric Company
+2024-12-01 16:05:31,155 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1004890
+2024-12-01 16:05:33,209 - INFO - Successfully scraped job: Senior Solar Project Engineer
+2024-12-01 16:05:33,212 - INFO - Saved job: Senior Solar Project Engineer - Nexamp
+2024-12-01 16:05:34,418 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1004887
+2024-12-01 16:05:37,960 - DEBUG - No additional metadata found
+2024-12-01 16:05:37,978 - INFO - Successfully scraped job: Thermal Engineer
+2024-12-01 16:05:37,981 - INFO - Saved job: Thermal Engineer - Apple
+2024-12-01 16:05:39,534 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/1004851
+2024-12-01 16:05:42,144 - INFO - Successfully scraped job: Satellite Mechanical and Thermal Engineer
+2024-12-01 16:05:42,147 - INFO - Saved job: Satellite Mechanical and Thermal Engineer - EUTELSAT SA
