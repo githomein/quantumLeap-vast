@@ -13914,3 +13914,27 @@
 2024-12-01 20:27:27,946 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001292
 2024-12-01 20:27:31,149 - INFO - Successfully scraped job: Gas Engineer
 2024-12-01 20:27:31,154 - INFO - Saved job: Gas Engineer - Sureserve
+2024-12-01 20:27:32,249 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001281
+2024-12-01 20:27:34,535 - INFO - Successfully scraped job: Gas Engineer
+2024-12-01 20:27:34,542 - INFO - Saved job: Gas Engineer - Sureserve
+2024-12-01 20:27:35,882 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001254
+2024-12-01 20:27:50,627 - WARNING - Timeout waiting for company element
+2024-12-01 20:27:50,740 - INFO - Successfully scraped job: Senior Civil Design Engineer
+2024-12-01 20:27:50,746 - INFO - Saved job: Senior Civil Design Engineer - None
+2024-12-01 20:27:52,147 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/1001239
+2024-12-01 20:27:56,017 - DEBUG - No additional metadata found
+2024-12-01 20:27:56,030 - INFO - Successfully scraped job: Mechanical Machine Design Engineer II
+2024-12-01 20:27:56,035 - INFO - Saved job: Mechanical Machine Design Engineer II - NOV
+2024-12-01 20:27:57,513 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001217
+2024-12-01 20:28:00,581 - INFO - Successfully scraped job: Project Lead Engineer - HVAC
+2024-12-01 20:28:00,587 - INFO - Saved job: Project Lead Engineer - HVAC - Honeywell
+2024-12-01 20:28:02,498 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001106
+2024-12-01 20:28:15,301 - WARNING - Timeout waiting for company element
+2024-12-01 20:28:15,467 - INFO - Successfully scraped job: Consultant Structural Engineer
+2024-12-01 20:28:15,474 - INFO - Saved job: Consultant Structural Engineer - None
+2024-12-01 20:28:16,994 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001076
+2024-12-01 20:28:30,023 - WARNING - Timeout waiting for company element
+2024-12-01 20:28:30,103 - DEBUG - No additional metadata found
+2024-12-01 20:28:30,117 - INFO - Successfully scraped job: Proposal Engineer
+2024-12-01 20:28:30,123 - INFO - Saved job: Proposal Engineer - None
+2024-12-01 20:28:32,066 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000811
