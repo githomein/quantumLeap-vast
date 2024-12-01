@@ -15240,3 +15240,22 @@
 2024-12-01 20:54:40,934 - INFO - Successfully scraped job: Senior Mechanical/Piping Engineer
 2024-12-01 20:54:40,939 - INFO - Saved job: Senior Mechanical/Piping Engineer - None
 2024-12-01 20:54:42,105 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991160
+2024-12-01 20:54:55,586 - WARNING - Timeout waiting for company element
+2024-12-01 20:54:55,715 - INFO - Successfully scraped job: Transmission Line Principal Engineer
+2024-12-01 20:54:55,720 - INFO - Saved job: Transmission Line Principal Engineer - None
+2024-12-01 20:54:57,406 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991130
+2024-12-01 20:55:10,636 - WARNING - Timeout waiting for company element
+2024-12-01 20:55:10,891 - INFO - Successfully scraped job: Planning Engineer and Planning Manager
+2024-12-01 20:55:10,898 - INFO - Saved job: Planning Engineer and Planning Manager - None
+2024-12-01 20:55:12,707 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/837358
+2024-12-01 20:55:25,526 - WARNING - Timeout waiting for company element
+2024-12-01 20:55:25,668 - INFO - Successfully scraped job: Graduate Process Engineer
+2024-12-01 20:55:25,674 - INFO - Saved job: Graduate Process Engineer - None
+2024-12-01 20:55:27,242 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/882526
+2024-12-01 20:55:30,188 - INFO - Successfully scraped job: Principles Testing Engineer
+2024-12-01 20:55:30,193 - INFO - Saved job: Principles Testing Engineer - AtkinsRéalis
+2024-12-01 20:55:31,608 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990790
+2024-12-01 20:55:44,767 - WARNING - Timeout waiting for company element
+2024-12-01 20:55:44,939 - INFO - Successfully scraped job: Junior Procurement Engineer
+2024-12-01 20:55:44,945 - INFO - Saved job: Junior Procurement Engineer - None
+2024-12-01 20:55:46,198 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990770
