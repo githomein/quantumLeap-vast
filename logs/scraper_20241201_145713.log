@@ -218,3 +218,53 @@
 2024-12-01 15:01:33,349 - INFO - Successfully scraped job: Sr Data Program Mgt Specialist
 2024-12-01 15:01:33,352 - INFO - Saved job: Sr Data Program Mgt Specialist - Honeywell
 2024-12-01 15:01:35,273 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1000259
+2024-12-01 15:01:39,566 - INFO - Successfully scraped job: Fusion Data Analyst
+2024-12-01 15:01:39,568 - INFO - Saved job: Fusion Data Analyst - Weatherford
+2024-12-01 15:01:40,838 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/975337
+2024-12-01 15:01:43,657 - INFO - Successfully scraped job: Data Analyst
+2024-12-01 15:01:43,659 - INFO - Saved job: Data Analyst - Chevron
+2024-12-01 15:01:44,907 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/994943
+2024-12-01 15:01:48,510 - INFO - Successfully scraped job: Power Systems Data Center Technician
+2024-12-01 15:01:48,512 - INFO - Saved job: Power Systems Data Center Technician - Western States CAT
+2024-12-01 15:01:49,703 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/994432
+2024-12-01 15:01:53,244 - INFO - Successfully scraped job: Data Center Switchgear and Generator Technician
+2024-12-01 15:01:53,246 - INFO - Saved job: Data Center Switchgear and Generator Technician - CENTRAL POWER SYSTEMS & SERVICES
+2024-12-01 15:01:54,863 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/966629
+2024-12-01 15:01:59,112 - INFO - Successfully scraped job: Demand Generation, Data Center
+2024-12-01 15:01:59,114 - INFO - Saved job: Demand Generation, Data Center - Honeywell
+2024-12-01 15:02:00,898 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/989212
+2024-12-01 15:02:03,093 - INFO - Successfully scraped job: Data Migration Specialist (f/m/d) (Essen, DE)
+2024-12-01 15:02:03,095 - INFO - Saved job: Data Migration Specialist (f/m/d) (Essen, DE) - E.ON
+2024-12-01 15:02:04,744 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/988504
+2024-12-01 15:02:07,425 - INFO - Successfully scraped job: Data Scientist
+2024-12-01 15:02:07,429 - INFO - Saved job: Data Scientist - Chevron
+2024-12-01 15:02:08,865 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/918532
+2024-12-01 15:02:12,411 - INFO - Successfully scraped job: Data Analyst (Fixed Term Contract)
+2024-12-01 15:02:12,419 - INFO - Saved job: Data Analyst (Fixed Term Contract) - Total Energies
+2024-12-01 15:02:14,362 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/987064
+2024-12-01 15:02:17,236 - INFO - Successfully scraped job: GSC Data Office - Data Steward
+2024-12-01 15:02:17,238 - INFO - Saved job: GSC Data Office - Data Steward - Schneider Electric
+2024-12-01 15:02:18,964 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1006963
+2024-12-01 15:02:22,441 - INFO - Successfully scraped job: Org Data Senior Analyst
+2024-12-01 15:02:22,444 - INFO - Saved job: Org Data Senior Analyst - bp
+2024-12-01 15:02:23,769 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/864479
+2024-12-01 15:02:26,235 - INFO - Successfully scraped job: Real Estate Portfolio Management & Data Specialist
+2024-12-01 15:02:26,237 - INFO - Saved job: Real Estate Portfolio Management & Data Specialist - ABB
+2024-12-01 15:02:27,821 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1002219
+2024-12-01 15:02:30,703 - INFO - Successfully scraped job: Senior Data Scientist-Energy Storage System (m/f/d)
+2024-12-01 15:02:30,705 - INFO - Saved job: Senior Data Scientist-Energy Storage System (m/f/d) - Huawei Research Center Germany & Austria
+2024-12-01 15:02:32,678 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/890731
+2024-12-01 15:02:35,547 - INFO - Successfully scraped job: Masterand (w/m/d): AI based object detection and depth estimation for precrash estimations using synthetic data generation and sensor data fusion
+2024-12-01 15:02:35,549 - INFO - Saved job: Masterand (w/m/d): AI based object detection and depth estimation for precrash estimations using synthetic data generation and sensor data fusion - Porsche
+2024-12-01 15:02:36,945 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/999858
+2024-12-01 15:02:40,017 - INFO - Successfully scraped job: Working student in Business Intelligence/ Data analytics (f/m/d)
+2024-12-01 15:02:40,021 - INFO - Saved job: Working student in Business Intelligence/ Data analytics (f/m/d) - Schneider Electric
+2024-12-01 15:02:41,821 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/886449
+2024-12-01 15:02:45,312 - INFO - Successfully scraped job: .Senior Data Scientist - Energy (Oil & Gas)
+2024-12-01 15:02:45,314 - INFO - Saved job: .Senior Data Scientist - Energy (Oil & Gas) - Context Labs
+2024-12-01 15:02:47,124 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/908183
+2024-12-01 15:02:49,593 - INFO - Successfully scraped job: Senior Data Analyst
+2024-12-01 15:02:49,595 - INFO - Saved job: Senior Data Analyst - bp
+2024-12-01 15:02:51,037 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/970624
+2024-12-01 15:02:54,675 - INFO - Successfully scraped job: Data Scientist: Energy System Modeler - PhD - Redmond
+2024-12-01 15:02:54,678 - INFO - Saved job: Data Scientist: Energy System Modeler - PhD - Redmond - Microsoft
