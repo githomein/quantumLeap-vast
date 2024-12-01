@@ -6321,3 +6321,65 @@
 2024-12-01 17:21:23,141 - INFO - Successfully scraped job: Industrial Engineering Leader
 2024-12-01 17:21:23,144 - INFO - Saved job: Industrial Engineering Leader - GE Renewable Energy Power and Aviation
 2024-12-01 17:21:24,192 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/971445
+2024-12-01 17:21:26,478 - INFO - Successfully scraped job: Principal Engineer - Instrument
+2024-12-01 17:21:26,481 - INFO - Saved job: Principal Engineer - Instrument - Aker Solutions
+2024-12-01 17:21:27,764 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/931381
+2024-12-01 17:21:29,929 - INFO - Successfully scraped job: Power Engineering Technologist I
+2024-12-01 17:21:29,932 - INFO - Saved job: Power Engineering Technologist I - Pike Corporation
+2024-12-01 17:21:31,070 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/930772
+2024-12-01 17:21:34,908 - INFO - Successfully scraped job: Field Engineer- Clean Power Systems
+2024-12-01 17:21:34,911 - INFO - Saved job: Field Engineer- Clean Power Systems - Stark Tech
+2024-12-01 17:21:36,593 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/930764
+2024-12-01 17:21:39,840 - INFO - Successfully scraped job: Energy Engineering Training 2026 Program - Entry Level Engineer
+2024-12-01 17:21:39,843 - INFO - Saved job: Energy Engineering Training 2026 Program - Entry Level Engineer - Trane Technologies
+2024-12-01 17:21:41,794 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/930729
+2024-12-01 17:21:45,609 - INFO - Successfully scraped job: 2025 Energy Engineering Intern
+2024-12-01 17:21:45,612 - INFO - Saved job: 2025 Energy Engineering Intern - Trane Technologies
+2024-12-01 17:21:46,910 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/930267
+2024-12-01 17:21:49,207 - INFO - Successfully scraped job: Controls Engineer - Solar Operations
+2024-12-01 17:21:49,211 - INFO - Saved job: Controls Engineer - Solar Operations - Berkshire Hathaway Energy
+2024-12-01 17:21:50,923 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/930150
+2024-12-01 17:21:54,545 - INFO - Successfully scraped job: Nuclear Carrier/Submarine Engineering Test Technician (Engineering Technician 3)
+2024-12-01 17:21:54,549 - INFO - Saved job: Nuclear Carrier/Submarine Engineering Test Technician (Engineering Technician 3) - Huntington Ingalls Industries
+2024-12-01 17:21:55,884 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/928888
+2024-12-01 17:21:58,770 - INFO - Successfully scraped job: Gas Turbine Engineer
+2024-12-01 17:21:58,774 - INFO - Saved job: Gas Turbine Engineer - System One Holdings, LLC
+2024-12-01 17:22:00,351 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/928631
+2024-12-01 17:22:02,983 - INFO - Successfully scraped job: Building Energy Engineer
+2024-12-01 17:22:02,987 - INFO - Saved job: Building Energy Engineer - McKinstry
+2024-12-01 17:22:04,400 - INFO - Collected 1400 jobs so far
+2024-12-01 17:22:04,401 - INFO - Scraping page 71 of 384
+2024-12-01 17:22:07,536 - INFO - Getting job links from current page
+2024-12-01 17:22:10,570 - INFO - Found 20 job cards
+2024-12-01 17:22:10,581 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/932957
+2024-12-01 17:22:10,589 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/production-jobs/931955
+2024-12-01 17:22:10,597 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/932017
+2024-12-01 17:22:10,605 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/931735
+2024-12-01 17:22:10,613 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/production-jobs/931778
+2024-12-01 17:22:10,621 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/931714
+2024-12-01 17:22:10,629 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000586
+2024-12-01 17:22:10,637 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000540
+2024-12-01 17:22:10,645 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1000452
+2024-12-01 17:22:10,653 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000308
+2024-12-01 17:22:10,661 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000246
+2024-12-01 17:22:10,669 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/production-jobs/1000269
+2024-12-01 17:22:10,677 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1000135
+2024-12-01 17:22:10,685 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/offshore-jobs/1000067
+2024-12-01 17:22:10,693 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/925187
+2024-12-01 17:22:10,700 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/975007
+2024-12-01 17:22:10,708 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/974989
+2024-12-01 17:22:10,716 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/818920
+2024-12-01 17:22:10,724 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/975639
+2024-12-01 17:22:10,732 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/925393
+2024-12-01 17:22:10,732 - INFO - Successfully extracted 20 job links
+2024-12-01 17:22:10,732 - INFO - Found 20 jobs on page 71
+2024-12-01 17:22:10,732 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/932957
+2024-12-01 17:22:14,508 - INFO - Successfully scraped job: Electrical Engineer (Building/Power Systems) - Intern/Co-Op (Sep 2025)
+2024-12-01 17:22:14,512 - INFO - Saved job: Electrical Engineer (Building/Power Systems) - Intern/Co-Op (Sep 2025) - Dennis Group
+2024-12-01 17:22:15,767 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/931955
+2024-12-01 17:22:18,492 - INFO - Successfully scraped job: Mechanical-Chemical Biofuels Engineer
+2024-12-01 17:22:18,495 - INFO - Saved job: Mechanical-Chemical Biofuels Engineer - KBR, Inc.
+2024-12-01 17:22:19,545 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/932017
+2024-12-01 17:22:23,145 - INFO - Successfully scraped job: 2025 Entry level Gas Turbine Products Engineering
+2024-12-01 17:22:23,149 - INFO - Saved job: 2025 Entry level Gas Turbine Products Engineering - Solar Turbines Incorporated
+2024-12-01 17:22:24,815 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/931735
