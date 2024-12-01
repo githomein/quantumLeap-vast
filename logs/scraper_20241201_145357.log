@@ -12818,3 +12818,51 @@
 2024-12-01 19:55:00,074 - INFO - Saved job: R&D Engineer- Product Analysis - ABB
 2024-12-01 19:55:01,877 - INFO - Collected 2820 jobs so far
 2024-12-01 19:55:01,877 - INFO - Scraping page 142 of 384
+2024-12-01 19:55:05,449 - INFO - Getting job links from current page
+2024-12-01 19:55:08,485 - INFO - Found 20 job cards
+2024-12-01 19:55:08,497 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/966271
+2024-12-01 19:55:08,506 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/966222
+2024-12-01 19:55:08,516 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/990090
+2024-12-01 19:55:08,525 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/990061
+2024-12-01 19:55:08,533 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/990027
+2024-12-01 19:55:08,542 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/989879
+2024-12-01 19:55:08,551 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/989733
+2024-12-01 19:55:08,559 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/989678
+2024-12-01 19:55:08,568 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/965660
+2024-12-01 19:55:08,577 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/965892
+2024-12-01 19:55:08,588 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/production-jobs/965472
+2024-12-01 19:55:08,597 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/965528
+2024-12-01 19:55:08,606 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/989205
+2024-12-01 19:55:08,616 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/989406
+2024-12-01 19:55:08,627 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/989551
+2024-12-01 19:55:08,638 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/989173
+2024-12-01 19:55:08,647 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/989176
+2024-12-01 19:55:08,655 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/989188
+2024-12-01 19:55:08,664 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/989123
+2024-12-01 19:55:08,674 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/989054
+2024-12-01 19:55:08,674 - INFO - Successfully extracted 20 job links
+2024-12-01 19:55:08,674 - INFO - Found 20 jobs on page 142
+2024-12-01 19:55:08,674 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/966271
+2024-12-01 19:55:10,877 - INFO - Successfully scraped job: Senior Engineering Manager
+2024-12-01 19:55:10,883 - INFO - Saved job: Senior Engineering Manager - ABB
+2024-12-01 19:55:12,882 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/966222
+2024-12-01 19:55:14,689 - INFO - Successfully scraped job: Entry-Level Water Resources Engineer
+2024-12-01 19:55:14,694 - INFO - Saved job: Entry-Level Water Resources Engineer - AtkinsRéalis
+2024-12-01 19:55:16,110 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/990090
+2024-12-01 19:55:19,828 - INFO - Successfully scraped job: Principal Applications Engineer (Choke Valves)
+2024-12-01 19:55:19,833 - INFO - Saved job: Principal Applications Engineer (Choke Valves) - NOV
+2024-12-01 19:55:21,275 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990061
+2024-12-01 19:55:35,169 - WARNING - Timeout waiting for company element
+2024-12-01 19:55:35,296 - INFO - Successfully scraped job: Senior Solar Engineer
+2024-12-01 19:55:35,302 - INFO - Saved job: Senior Solar Engineer - None
+2024-12-01 19:55:37,126 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/990027
+2024-12-01 19:55:40,756 - INFO - Successfully scraped job: Engineering Digitalization & Process Innovation Manager
+2024-12-01 19:55:40,761 - INFO - Saved job: Engineering Digitalization & Process Innovation Manager - Subsea 7
+2024-12-01 19:55:42,306 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/989879
+2024-12-01 19:55:46,058 - INFO - Successfully scraped job: Sr Reliability Engineer
+2024-12-01 19:55:46,063 - INFO - Saved job: Sr Reliability Engineer - Honeywell
+2024-12-01 19:55:47,166 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/989733
+2024-12-01 19:56:00,831 - WARNING - Timeout waiting for company element
+2024-12-01 19:56:00,924 - INFO - Successfully scraped job: Senior Stress Engineer - Piping & Layout
+2024-12-01 19:56:00,930 - INFO - Saved job: Senior Stress Engineer - Piping & Layout - None
+2024-12-01 19:56:01,931 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/989678
