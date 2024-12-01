@@ -4139,3 +4139,35 @@
 2024-12-01 16:33:12,756 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/963612
 2024-12-01 16:33:15,158 - INFO - Successfully scraped job: Commercial Gas Engineer
 2024-12-01 16:33:15,161 - INFO - Saved job: Commercial Gas Engineer - ISS FACILITY SERVICES LIMITED
+2024-12-01 16:33:16,517 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/885152
+2024-12-01 16:33:19,911 - INFO - Successfully scraped job: Senior Power Systems Engineer
+2024-12-01 16:33:19,913 - INFO - Saved job: Senior Power Systems Engineer - GE Vernova
+2024-12-01 16:33:21,744 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/966809
+2024-12-01 16:33:24,272 - DEBUG - No additional metadata found
+2024-12-01 16:33:24,287 - INFO - Successfully scraped job: Power System Engineer - Higher Apprentice - Warwick - NESO
+2024-12-01 16:33:24,290 - INFO - Saved job: Power System Engineer - Higher Apprentice - Warwick - NESO - National Grid
+2024-12-01 16:33:25,402 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/963605
+2024-12-01 16:33:28,207 - INFO - Successfully scraped job: Ground Engineer - Energy Sector
+2024-12-01 16:33:28,210 - INFO - Saved job: Ground Engineer - Energy Sector - Stantec UK
+2024-12-01 16:33:30,068 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/895703
+2024-12-01 16:33:32,550 - INFO - Successfully scraped job: Principal Structural Engineer - Nuclear
+2024-12-01 16:33:32,553 - INFO - Saved job: Principal Structural Engineer - Nuclear - AECOM
+2024-12-01 16:33:33,831 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/917392
+2024-12-01 16:33:36,803 - INFO - Successfully scraped job: Battery Energy Storage Engineer
+2024-12-01 16:33:36,806 - INFO - Saved job: Battery Energy Storage Engineer - GHD Group
+2024-12-01 16:33:38,576 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/918815
+2024-12-01 16:33:41,250 - INFO - Successfully scraped job: Senior Energy Engineer
+2024-12-01 16:33:41,253 - INFO - Saved job: Senior Energy Engineer - Ameresco
+2024-12-01 16:33:42,903 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/960201
+2024-12-01 16:33:56,636 - WARNING - Timeout waiting for company element
+2024-12-01 16:33:56,719 - DEBUG - No additional metadata found
+2024-12-01 16:33:56,733 - INFO - Successfully scraped job: Mechanical (Rotary), Senior Engineer
+2024-12-01 16:33:56,737 - INFO - Saved job: Mechanical (Rotary), Senior Engineer - None
+2024-12-01 16:33:58,616 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/959594
+2024-12-01 16:34:01,411 - INFO - Successfully scraped job: Consulting Engineer - Nuclear Safety
+2024-12-01 16:34:01,415 - INFO - Saved job: Consulting Engineer - Nuclear Safety - Jensen Hughes
+2024-12-01 16:34:03,288 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/957984
+2024-12-01 16:34:16,183 - WARNING - Timeout waiting for company element
+2024-12-01 16:34:16,293 - INFO - Successfully scraped job: Senior/Principal Geotechnical Engineer
+2024-12-01 16:34:16,296 - INFO - Saved job: Senior/Principal Geotechnical Engineer - None
+2024-12-01 16:34:17,409 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/869202
