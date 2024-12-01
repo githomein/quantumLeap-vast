@@ -10163,3 +10163,30 @@
 2024-12-01 18:57:34,036 - INFO - Successfully scraped job: SCADA Engineer
 2024-12-01 18:57:34,042 - INFO - Saved job: SCADA Engineer - Vestas
 2024-12-01 18:57:35,162 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/988817
+2024-12-01 18:57:37,901 - INFO - Successfully scraped job: Validation and Test Engineer
+2024-12-01 18:57:37,907 - INFO - Saved job: Validation and Test Engineer - Schneider Electric
+2024-12-01 18:57:39,606 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/988744
+2024-12-01 18:57:42,474 - INFO - Successfully scraped job: System & Estimation Engineer
+2024-12-01 18:57:42,479 - INFO - Saved job: System & Estimation Engineer - Schneider Electric
+2024-12-01 18:57:43,749 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/988747
+2024-12-01 18:57:46,683 - INFO - Successfully scraped job: Electrical Engineer Intern or Co-Op (January 2025)
+2024-12-01 18:57:46,687 - INFO - Saved job: Electrical Engineer Intern or Co-Op (January 2025) - Schneider Electric
+2024-12-01 18:57:48,205 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/877545
+2024-12-01 18:57:50,883 - INFO - Successfully scraped job: Duales Studium Bachelor of of Engineering Elektrotechnik (m/w/d) 2025 (Krottorf, DE)
+2024-12-01 18:57:50,887 - INFO - Saved job: Duales Studium Bachelor of of Engineering Elektrotechnik (m/w/d) 2025 (Krottorf, DE) - E.ON
+2024-12-01 18:57:51,931 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/918498
+2024-12-01 18:57:54,948 - DEBUG - No additional metadata found
+2024-12-01 18:57:54,964 - INFO - Successfully scraped job: Senior / Principal Engineer - Nuclear System Engineer (Sheffield / Glasgow / Warrington / Epsom / Bristol)
+2024-12-01 18:57:54,968 - INFO - Saved job: Senior / Principal Engineer - Nuclear System Engineer (Sheffield / Glasgow / Warrington / Epsom / Bristol) - AtkinsRéalis
+2024-12-01 18:57:56,493 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/918763
+2024-12-01 18:58:00,218 - INFO - Successfully scraped job: R&D Digital Methods Engineer for Power
+2024-12-01 18:58:00,222 - INFO - Saved job: R&D Digital Methods Engineer for Power - Total Energies
+2024-12-01 18:58:01,318 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/918426
+2024-12-01 18:58:14,773 - WARNING - Timeout waiting for company element
+2024-12-01 18:58:14,871 - INFO - Successfully scraped job: Metallic Materials Engineers
+2024-12-01 18:58:14,875 - INFO - Saved job: Metallic Materials Engineers - None
+2024-12-01 18:58:15,997 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/963436
+2024-12-01 18:58:28,010 - WARNING - Timeout waiting for company element
+2024-12-01 18:58:28,165 - INFO - Successfully scraped job: Sales Engineer
+2024-12-01 18:58:28,169 - INFO - Saved job: Sales Engineer - None
+2024-12-01 18:58:29,383 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/963429
