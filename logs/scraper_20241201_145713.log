@@ -7070,3 +7070,41 @@
 2024-12-01 17:44:55,157 - INFO - Successfully scraped job: Gas Engineer
 2024-12-01 17:44:55,162 - INFO - Saved job: Gas Engineer - Liberty Group Investments Ltd
 2024-12-01 17:44:56,973 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/820281
+2024-12-01 17:45:09,368 - WARNING - Timeout waiting for company element
+2024-12-01 17:45:09,458 - INFO - Successfully scraped job: Wastewater Engineer
+2024-12-01 17:45:09,463 - INFO - Saved job: Wastewater Engineer - None
+2024-12-01 17:45:11,175 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/896526
+2024-12-01 17:45:25,236 - WARNING - Timeout waiting for company element
+2024-12-01 17:45:25,347 - INFO - Successfully scraped job: Lead Engineer
+2024-12-01 17:45:25,353 - INFO - Saved job: Lead Engineer - None
+2024-12-01 17:45:26,979 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/991941
+2024-12-01 17:45:29,280 - INFO - Successfully scraped job: Sales Development Engineer
+2024-12-01 17:45:29,284 - INFO - Saved job: Sales Development Engineer - Emerson
+2024-12-01 17:45:30,398 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/991940
+2024-12-01 17:45:32,328 - DEBUG - No additional metadata found
+2024-12-01 17:45:32,347 - INFO - Successfully scraped job: IT Technical Support Engineer
+2024-12-01 17:45:32,351 - INFO - Saved job: IT Technical Support Engineer - Emerson
+2024-12-01 17:45:34,311 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/991962
+2024-12-01 17:45:36,669 - INFO - Successfully scraped job: Senior Software Engineer - C++ with Electronics Background
+2024-12-01 17:45:36,672 - INFO - Saved job: Senior Software Engineer - C++ with Electronics Background - Emerson
+2024-12-01 17:45:38,148 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/991922
+2024-12-01 17:45:41,142 - INFO - Successfully scraped job: Senior Application Engineer II
+2024-12-01 17:45:41,147 - INFO - Saved job: Senior Application Engineer II - Emerson
+2024-12-01 17:45:42,592 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/991890
+2024-12-01 17:45:44,877 - INFO - Successfully scraped job: Sales Engineer Feeding Technologies (m/f/d)
+2024-12-01 17:45:44,882 - INFO - Saved job: Sales Engineer Feeding Technologies (m/f/d) - Emerson
+2024-12-01 17:45:46,564 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/991821
+2024-12-01 17:45:48,732 - INFO - Successfully scraped job: Quality engineer
+2024-12-01 17:45:48,736 - INFO - Saved job: Quality engineer - Emerson
+2024-12-01 17:45:50,599 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991880
+2024-12-01 17:45:54,232 - INFO - Successfully scraped job: Sr Engineer-Product Design
+2024-12-01 17:45:54,236 - INFO - Saved job: Sr Engineer-Product Design - Emerson
+2024-12-01 17:45:56,085 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/991886
+2024-12-01 17:45:58,528 - INFO - Successfully scraped job: Machine Learning Engineer
+2024-12-01 17:45:58,531 - INFO - Saved job: Machine Learning Engineer - Emerson
+2024-12-01 17:45:59,770 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/991732
+2024-12-01 17:46:01,714 - INFO - Successfully scraped job: Procurement Engineer
+2024-12-01 17:46:01,717 - INFO - Saved job: Procurement Engineer - Emerson
+2024-12-01 17:46:03,640 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/991731
+2024-12-01 17:46:07,192 - INFO - Successfully scraped job: Software Development Engineer
+2024-12-01 17:46:07,196 - INFO - Saved job: Software Development Engineer - Emerson
