@@ -6809,3 +6809,40 @@
 2024-12-01 17:37:41,201 - INFO - Successfully scraped job: Mechanical Engineer
 2024-12-01 17:37:41,211 - INFO - Saved job: Mechanical Engineer - None
 2024-12-01 17:37:42,585 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/960993
+2024-12-01 17:37:55,721 - WARNING - Timeout waiting for company element
+2024-12-01 17:37:55,881 - INFO - Successfully scraped job: Senior Electrical Engineer - Inside IR35
+2024-12-01 17:37:55,885 - INFO - Saved job: Senior Electrical Engineer - Inside IR35 - None
+2024-12-01 17:37:57,836 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/896334
+2024-12-01 17:38:01,092 - INFO - Successfully scraped job: Principal Consultant - Power Systems Engineer (Energy Advisory)
+2024-12-01 17:38:01,097 - INFO - Saved job: Principal Consultant - Power Systems Engineer (Energy Advisory) - WSP
+2024-12-01 17:38:02,891 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/884479
+2024-12-01 17:38:05,131 - INFO - Successfully scraped job: Commercial Gas Engineer
+2024-12-01 17:38:05,135 - INFO - Saved job: Commercial Gas Engineer - Mears Group PLC
+2024-12-01 17:38:06,999 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/893046
+2024-12-01 17:38:09,898 - DEBUG - No additional metadata found
+2024-12-01 17:38:09,912 - INFO - Successfully scraped job: MNC Senior Sales Engineer - PSS - Shanghai
+2024-12-01 17:38:09,916 - INFO - Saved job: MNC Senior Sales Engineer - PSS - Shanghai - Emerson
+2024-12-01 17:38:10,979 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/960661
+2024-12-01 17:38:14,483 - INFO - Successfully scraped job: Senior Applications Engineer
+2024-12-01 17:38:14,486 - INFO - Saved job: Senior Applications Engineer - Emerson
+2024-12-01 17:38:15,848 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/966613
+2024-12-01 17:38:18,518 - INFO - Successfully scraped job: Sr. Engineer-Proposals
+2024-12-01 17:38:18,521 - INFO - Saved job: Sr. Engineer-Proposals - Emerson
+2024-12-01 17:38:19,633 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/966590
+2024-12-01 17:38:23,003 - INFO - Successfully scraped job: ETS Proposal Engineer
+2024-12-01 17:38:23,006 - INFO - Saved job: ETS Proposal Engineer - Emerson
+2024-12-01 17:38:24,259 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/961201
+2024-12-01 17:38:27,183 - INFO - Successfully scraped job: Senior Hardware Analog Engineer
+2024-12-01 17:38:27,189 - INFO - Saved job: Senior Hardware Analog Engineer - Emerson
+2024-12-01 17:38:29,171 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/969298
+2024-12-01 17:38:32,704 - INFO - Successfully scraped job: Industrial Engineering Manager (m/f/d)
+2024-12-01 17:38:32,715 - INFO - Saved job: Industrial Engineering Manager (m/f/d) - Emerson
+2024-12-01 17:38:34,714 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/891713
+2024-12-01 17:38:37,381 - INFO - Successfully scraped job: Project Engineer-24006397
+2024-12-01 17:38:37,385 - INFO - Saved job: Project Engineer-24006397 - Emerson
+2024-12-01 17:38:39,011 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/820504
+2024-12-01 17:38:52,485 - WARNING - Timeout waiting for company element
+2024-12-01 17:38:52,618 - INFO - Successfully scraped job: Sr. Project Engineer (pmt) (epc Oil/gas Offshore)
+2024-12-01 17:38:52,622 - INFO - Saved job: Sr. Project Engineer (pmt) (epc Oil/gas Offshore) - None
+2024-12-01 17:38:53,626 - INFO - Collected 1500 jobs so far
+2024-12-01 17:38:53,626 - INFO - Scraping page 76 of 389

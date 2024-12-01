@@ -7054,3 +7054,25 @@
 2024-12-01 17:37:51,785 - INFO - Successfully scraped job: Secundair Engineer Hoogspanning
 2024-12-01 17:37:51,788 - INFO - Saved job: Secundair Engineer Hoogspanning - Bilfinger
 2024-12-01 17:37:53,337 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/895093
+2024-12-01 17:37:55,945 - INFO - Successfully scraped job: Principal EC&I Engineer - Nuclear
+2024-12-01 17:37:55,948 - INFO - Saved job: Principal EC&I Engineer - Nuclear - AECOM
+2024-12-01 17:37:57,487 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/955520
+2024-12-01 17:38:10,209 - WARNING - Timeout waiting for company element
+2024-12-01 17:38:10,284 - DEBUG - No additional metadata found
+2024-12-01 17:38:10,297 - INFO - Successfully scraped job: Engineering Manager
+2024-12-01 17:38:10,301 - INFO - Saved job: Engineering Manager - None
+2024-12-01 17:38:12,147 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/917397
+2024-12-01 17:38:15,426 - INFO - Successfully scraped job: Battery Energy Storage Engineer
+2024-12-01 17:38:15,430 - INFO - Saved job: Battery Energy Storage Engineer - GHD Group
+2024-12-01 17:38:16,744 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/814494
+2024-12-01 17:38:29,928 - WARNING - Timeout waiting for company element
+2024-12-01 17:38:30,142 - INFO - Successfully scraped job: Senior Process Safety Engineer
+2024-12-01 17:38:30,147 - INFO - Saved job: Senior Process Safety Engineer - None
+2024-12-01 17:38:31,690 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/967800
+2024-12-01 17:38:44,490 - WARNING - Timeout waiting for company element
+2024-12-01 17:38:44,615 - INFO - Successfully scraped job: Piping (Material), Principal/ Senior Engineer
+2024-12-01 17:38:44,620 - INFO - Saved job: Piping (Material), Principal/ Senior Engineer - None
+2024-12-01 17:38:46,560 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/903482
+2024-12-01 17:38:49,514 - INFO - Successfully scraped job: Engineer - Nuclear Operations Support
+2024-12-01 17:38:49,518 - INFO - Saved job: Engineer - Nuclear Operations Support - AtkinsRéalis
+2024-12-01 17:38:51,067 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/892860
