@@ -7149,3 +7149,20 @@
 2024-12-01 17:40:58,310 - WARNING - Timeout waiting for company element
 2024-12-01 17:40:58,426 - INFO - Successfully scraped job: Electrical Engineer (epc Oil/gas Commissioning)
 2024-12-01 17:40:58,430 - INFO - Saved job: Electrical Engineer (epc Oil/gas Commissioning) - None
+2024-12-01 17:40:59,811 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/820347
+2024-12-01 17:41:13,037 - WARNING - Timeout waiting for company element
+2024-12-01 17:41:13,161 - INFO - Successfully scraped job: Senior Instrumentation Engineer (epc Oil/gas Commissioning)
+2024-12-01 17:41:13,165 - INFO - Saved job: Senior Instrumentation Engineer (epc Oil/gas Commissioning) - None
+2024-12-01 17:41:14,751 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/820356
+2024-12-01 17:41:26,891 - WARNING - Timeout waiting for company element
+2024-12-01 17:41:26,981 - INFO - Successfully scraped job: Senior Completions Engineer (epc Oil/gas Commissioninig)
+2024-12-01 17:41:26,985 - INFO - Saved job: Senior Completions Engineer (epc Oil/gas Commissioninig) - None
+2024-12-01 17:41:28,850 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/820349
+2024-12-01 17:41:42,252 - WARNING - Timeout waiting for company element
+2024-12-01 17:41:42,339 - INFO - Successfully scraped job: Lead Offshore Structural Engineer (epc Oil/gas Commissioning)
+2024-12-01 17:41:42,344 - INFO - Saved job: Lead Offshore Structural Engineer (epc Oil/gas Commissioning) - None
+2024-12-01 17:41:43,349 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/820344
+2024-12-01 17:41:55,831 - WARNING - Timeout waiting for company element
+2024-12-01 17:41:55,924 - INFO - Successfully scraped job: Senior Telecommunication Engineer (epc Oil/gas Commissioning)
+2024-12-01 17:41:55,929 - INFO - Saved job: Senior Telecommunication Engineer (epc Oil/gas Commissioning) - None
+2024-12-01 17:41:57,020 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/857257
