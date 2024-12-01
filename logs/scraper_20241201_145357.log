@@ -2814,3 +2814,21 @@
 2024-12-01 15:54:24,018 - INFO - Successfully extracted 20 job links
 2024-12-01 15:54:24,018 - INFO - Found 20 jobs on page 32
 2024-12-01 15:54:24,018 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/consulting-jobs/999912
+2024-12-01 15:54:36,832 - WARNING - Timeout waiting for company element
+2024-12-01 15:54:36,966 - DEBUG - No additional metadata found
+2024-12-01 15:54:36,980 - INFO - Successfully scraped job: SENIOR OFFSHORE PIPELINE ENGINEER (Abu Dhabi)
+2024-12-01 15:54:36,983 - INFO - Saved job: SENIOR OFFSHORE PIPELINE ENGINEER (Abu Dhabi) - None
+2024-12-01 15:54:38,570 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991128
+2024-12-01 15:54:51,718 - WARNING - Timeout waiting for company element
+2024-12-01 15:54:51,848 - DEBUG - No additional metadata found
+2024-12-01 15:54:51,869 - INFO - Successfully scraped job: Senior Project Control Engineer
+2024-12-01 15:54:51,874 - INFO - Saved job: Senior Project Control Engineer - None
+2024-12-01 15:54:53,783 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005912
+2024-12-01 15:55:06,792 - WARNING - Timeout waiting for company element
+2024-12-01 15:55:06,992 - INFO - Successfully scraped job: Engineering Management Services
+2024-12-01 15:55:06,997 - INFO - Saved job: Engineering Management Services - None
+2024-12-01 15:55:08,660 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005387
+2024-12-01 15:55:21,052 - WARNING - Timeout waiting for company element
+2024-12-01 15:55:21,613 - INFO - Successfully scraped job: Project Engineer ( Food /m Automotive / Medical / chemical manufacturing )
+2024-12-01 15:55:21,617 - INFO - Saved job: Project Engineer ( Food /m Automotive / Medical / chemical manufacturing ) - None
+2024-12-01 15:55:23,183 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/oilfield-jobs/1001684
