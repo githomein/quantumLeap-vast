@@ -13218,3 +13218,64 @@
 2024-12-01 20:11:42,845 - INFO - Saved job: Join Aker Solutions as an Architect Engineer in Stavanger! - None
 2024-12-01 20:11:44,692 - INFO - Collected 2900 jobs so far
 2024-12-01 20:11:44,692 - INFO - Scraping page 146 of 389
+2024-12-01 20:11:48,472 - INFO - Getting job links from current page
+2024-12-01 20:11:51,512 - INFO - Found 20 job cards
+2024-12-01 20:11:51,526 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006061
+2024-12-01 20:11:51,537 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006027
+2024-12-01 20:11:51,552 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1006007
+2024-12-01 20:11:51,562 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005947
+2024-12-01 20:11:51,573 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005928
+2024-12-01 20:11:51,583 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/956390
+2024-12-01 20:11:51,593 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/893033
+2024-12-01 20:11:51,604 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/956171
+2024-12-01 20:11:51,613 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/907225
+2024-12-01 20:11:51,622 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/900942
+2024-12-01 20:11:51,631 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/955513
+2024-12-01 20:11:51,640 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/867584
+2024-12-01 20:11:51,649 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005674
+2024-12-01 20:11:51,657 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005673
+2024-12-01 20:11:51,666 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/911672
+2024-12-01 20:11:51,674 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005584
+2024-12-01 20:11:51,682 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005571
+2024-12-01 20:11:51,693 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005560
+2024-12-01 20:11:51,702 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1005418
+2024-12-01 20:11:51,711 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/904910
+2024-12-01 20:11:51,711 - INFO - Successfully extracted 20 job links
+2024-12-01 20:11:51,711 - INFO - Found 20 jobs on page 146
+2024-12-01 20:11:51,711 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006061
+2024-12-01 20:11:53,808 - INFO - Successfully scraped job: TPE l / Graduate Process Engineer
+2024-12-01 20:11:53,816 - INFO - Saved job: TPE l / Graduate Process Engineer - Wood PLC
+2024-12-01 20:11:55,458 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006027
+2024-12-01 20:11:58,887 - INFO - Successfully scraped job: Staff Technical Support Engineer (Singapore)
+2024-12-01 20:11:58,892 - INFO - Saved job: Staff Technical Support Engineer (Singapore) - Emerson
+2024-12-01 20:11:59,965 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1006007
+2024-12-01 20:12:03,695 - INFO - Successfully scraped job: Welding Engineer
+2024-12-01 20:12:03,700 - INFO - Saved job: Welding Engineer - Subsea 7
+2024-12-01 20:12:05,417 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005947
+2024-12-01 20:12:08,730 - INFO - Successfully scraped job: Quantity Engineer/Kalkulatør
+2024-12-01 20:12:08,735 - INFO - Saved job: Quantity Engineer/Kalkulatør - Aker Solutions
+2024-12-01 20:12:10,307 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005928
+2024-12-01 20:12:13,916 - INFO - Successfully scraped job: Field Service Engineer
+2024-12-01 20:12:13,922 - INFO - Saved job: Field Service Engineer - ABB
+2024-12-01 20:12:15,542 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/956390
+2024-12-01 20:12:18,821 - INFO - Successfully scraped job: Staff Engineer - Engine Systems (Mechanical - Tech Mat)
+2024-12-01 20:12:18,827 - INFO - Saved job: Staff Engineer - Engine Systems (Mechanical - Tech Mat) - GE Renewable Energy Power and Aviation
+2024-12-01 20:12:20,352 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/893033
+2024-12-01 20:12:23,322 - INFO - Successfully scraped job: Military DOD SkillBridge Internship- Test System Operations/Engine & Component Test
+2024-12-01 20:12:23,327 - INFO - Saved job: Military DOD SkillBridge Internship- Test System Operations/Engine & Component Test - GE Renewable Energy Power and Aviation
+2024-12-01 20:12:24,846 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/956171
+2024-12-01 20:12:28,786 - INFO - Successfully scraped job: Advanced Lead Aerospace Engineer
+2024-12-01 20:12:28,791 - INFO - Saved job: Advanced Lead Aerospace Engineer - GE Renewable Energy Power and Aviation
+2024-12-01 20:12:30,322 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/907225
+2024-12-01 20:12:32,313 - INFO - Successfully scraped job: Lead Engineer - Regional & Business Aviation Fleet Management
+2024-12-01 20:12:32,319 - INFO - Saved job: Lead Engineer - Regional & Business Aviation Fleet Management - GE Renewable Energy Power and Aviation
+2024-12-01 20:12:33,806 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/900942
+2024-12-01 20:12:37,484 - INFO - Successfully scraped job: Senior Design Engineer
+2024-12-01 20:12:37,490 - INFO - Saved job: Senior Design Engineer - Engie
+2024-12-01 20:12:39,159 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/955513
+2024-12-01 20:12:42,676 - INFO - Successfully scraped job: Project/Senior Engineer - Land Development - Irvine
+2024-12-01 20:12:42,681 - INFO - Saved job: Project/Senior Engineer - Land Development - Irvine - Spencer Ogden
+2024-12-01 20:12:43,952 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/867584
+2024-12-01 20:12:47,352 - INFO - Successfully scraped job: SMART Meter Engineer Support Agent - Dual Fuel - London (Home Address, GB)
+2024-12-01 20:12:47,357 - INFO - Saved job: SMART Meter Engineer Support Agent - Dual Fuel - London (Home Address, GB) - E.ON
+2024-12-01 20:12:49,060 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005674
