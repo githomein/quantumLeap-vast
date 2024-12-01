@@ -2171,3 +2171,38 @@
 2024-12-01 15:35:53,533 - INFO - Successfully scraped job: Utility Construction Inspector/Observer (TX)
 2024-12-01 15:35:53,536 - INFO - Saved job: Utility Construction Inspector/Observer (TX) - Excel Engineering Inc
 2024-12-01 15:35:54,809 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1004577
+2024-12-01 15:35:57,344 - INFO - Successfully scraped job: Water / Wastewater Operations Technician 2
+2024-12-01 15:35:57,347 - INFO - Saved job: Water / Wastewater Operations Technician 2 - WesTech Engineering
+2024-12-01 15:35:58,422 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/931099
+2024-12-01 15:36:02,024 - INFO - Successfully scraped job: Driller's Helper
+2024-12-01 15:36:02,027 - INFO - Saved job: Driller's Helper - Universal Engineering Sciences
+2024-12-01 15:36:03,269 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/931020
+2024-12-01 15:36:07,044 - INFO - Successfully scraped job: Natural Gas Utility Pipefitter
+2024-12-01 15:36:07,048 - INFO - Saved job: Natural Gas Utility Pipefitter - Fraser Engineering Company, Inc
+2024-12-01 15:36:08,110 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/887803
+2024-12-01 15:36:10,475 - INFO - Successfully scraped job: Project Manager - Onshore
+2024-12-01 15:36:10,478 - INFO - Saved job: Project Manager - Onshore - Strategy Engineering & Consulting, LLC
+2024-12-01 15:36:11,595 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/895795
+2024-12-01 15:36:14,841 - INFO - Successfully scraped job: Drafter Intern (Piping Design)
+2024-12-01 15:36:14,844 - INFO - Saved job: Drafter Intern (Piping Design) - SAMUEL ENGINEERING INC
+2024-12-01 15:36:16,715 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/920350
+2024-12-01 15:36:20,463 - INFO - Successfully scraped job: HVAC Service Technician
+2024-12-01 15:36:20,466 - INFO - Saved job: HVAC Service Technician - HTS Engineering Ltd
+2024-12-01 15:36:22,416 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/895231
+2024-12-01 15:36:24,736 - INFO - Successfully scraped job: HVAC Service Technician II - Austin
+2024-12-01 15:36:24,739 - INFO - Saved job: HVAC Service Technician II - Austin - HTS Engineering Ltd
+2024-12-01 15:36:26,405 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/993576
+2024-12-01 15:36:29,392 - INFO - Successfully scraped job: Senior Certified Petroleum Testing Technician
+2024-12-01 15:36:29,395 - INFO - Saved job: Senior Certified Petroleum Testing Technician - Bunnell-Lammons Engineering, Inc
+2024-12-01 15:36:30,516 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/987725
+2024-12-01 15:36:43,603 - WARNING - Timeout waiting for company element
+2024-12-01 15:36:43,914 - INFO - Successfully scraped job: Mechanical Analyst
+2024-12-01 15:36:43,917 - INFO - Saved job: Mechanical Analyst - None
+2024-12-01 15:36:45,795 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/general-management-jobs/926515
+2024-12-01 15:36:48,167 - INFO - Successfully scraped job: Associate Vice President, Water/Wastewater
+2024-12-01 15:36:48,170 - INFO - Saved job: Associate Vice President, Water/Wastewater - Pape-Dawson Engineers
+2024-12-01 15:36:49,527 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/931624
+2024-12-01 15:36:53,324 - DEBUG - No additional metadata found
+2024-12-01 15:36:53,337 - INFO - Successfully scraped job: Driller
+2024-12-01 15:36:53,340 - INFO - Saved job: Driller - Thompson Engineering
+2024-12-01 15:36:54,777 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/888806

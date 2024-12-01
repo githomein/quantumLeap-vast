@@ -1755,3 +1755,70 @@
 2024-12-01 15:35:52,207 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/895231
 2024-12-01 15:35:54,121 - INFO - Successfully scraped job: HVAC Service Technician II - Austin
 2024-12-01 15:35:54,124 - INFO - Saved job: HVAC Service Technician II - Austin - HTS Engineering Ltd
+2024-12-01 15:35:55,655 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/993576
+2024-12-01 15:35:57,568 - INFO - Successfully scraped job: Senior Certified Petroleum Testing Technician
+2024-12-01 15:35:57,570 - INFO - Saved job: Senior Certified Petroleum Testing Technician - Bunnell-Lammons Engineering, Inc
+2024-12-01 15:35:59,521 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/953188
+2024-12-01 15:36:02,750 - INFO - Successfully scraped job: Disaster Management for Electric Power Systems - Instructor
+2024-12-01 15:36:02,752 - INFO - Saved job: Disaster Management for Electric Power Systems - Instructor - Texas A&M Engineering Extension Service (TEEX)
+2024-12-01 15:36:04,314 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/931607
+2024-12-01 15:36:06,783 - DEBUG - No additional metadata found
+2024-12-01 15:36:06,796 - INFO - Successfully scraped job: Driller Assistant
+2024-12-01 15:36:06,798 - INFO - Saved job: Driller Assistant - Thompson Engineering
+2024-12-01 15:36:08,688 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/997144
+2024-12-01 15:36:12,655 - INFO - Successfully scraped job: Driller's Helper- CDL Required
+2024-12-01 15:36:12,659 - INFO - Saved job: Driller's Helper- CDL Required - Universal Engineering Sciences
+2024-12-01 15:36:13,811 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/895787
+2024-12-01 15:36:17,115 - INFO - Successfully scraped job: HVAC Controls Technician
+2024-12-01 15:36:17,118 - INFO - Saved job: HVAC Controls Technician - HTS Engineering Ltd
+2024-12-01 15:36:18,243 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/994826
+2024-12-01 15:36:21,313 - INFO - Successfully scraped job: Nuclear Cyber Security Analyst
+2024-12-01 15:36:21,316 - INFO - Saved job: Nuclear Cyber Security Analyst - United Engineers and Constructors, Inc.
+2024-12-01 15:36:23,269 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/993260
+2024-12-01 15:36:26,106 - INFO - Successfully scraped job: Utility Construction Inspector/Observer (TX)
+2024-12-01 15:36:26,108 - INFO - Saved job: Utility Construction Inspector/Observer (TX) - Excel Engineering Inc
+2024-12-01 15:36:27,491 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/general-management-jobs/926515
+2024-12-01 15:36:29,791 - INFO - Successfully scraped job: Associate Vice President, Water/Wastewater
+2024-12-01 15:36:29,793 - INFO - Saved job: Associate Vice President, Water/Wastewater - Pape-Dawson Engineers
+2024-12-01 15:36:31,411 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/931624
+2024-12-01 15:36:33,508 - DEBUG - No additional metadata found
+2024-12-01 15:36:33,520 - INFO - Successfully scraped job: Driller
+2024-12-01 15:36:33,523 - INFO - Saved job: Driller - Thompson Engineering
+2024-12-01 15:36:34,869 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/888806
+2024-12-01 15:36:38,491 - INFO - Successfully scraped job: HVAC Service Technician - San Antonio
+2024-12-01 15:36:38,493 - INFO - Saved job: HVAC Service Technician - San Antonio - HTS Engineering Ltd
+2024-12-01 15:36:40,113 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/888798
+2024-12-01 15:36:42,025 - INFO - Successfully scraped job: HVAC Service Technician
+2024-12-01 15:36:42,028 - INFO - Saved job: HVAC Service Technician - HTS Engineering Ltd
+2024-12-01 15:36:43,747 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/972778
+2024-12-01 15:36:47,230 - INFO - Successfully scraped job: Regional Manager - Water/Wastewater Extension (Region 3 - South Texas)
+2024-12-01 15:36:47,233 - INFO - Saved job: Regional Manager - Water/Wastewater Extension (Region 3 - South Texas) - Texas A&M Engineering Extension Service (TEEX)
+2024-12-01 15:36:48,413 - INFO - Collected 400 jobs so far
+2024-12-01 15:36:48,413 - INFO - Scraping page 21 of 389
+2024-12-01 15:36:51,179 - INFO - Getting job links from current page
+2024-12-01 15:36:54,212 - INFO - Found 20 job cards
+2024-12-01 15:36:54,226 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/998442
+2024-12-01 15:36:54,235 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/923502
+2024-12-01 15:36:54,245 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/895234
+2024-12-01 15:36:54,254 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/994881
+2024-12-01 15:36:54,264 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/911531
+2024-12-01 15:36:54,277 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/891356
+2024-12-01 15:36:54,286 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001570
+2024-12-01 15:36:54,296 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/927583
+2024-12-01 15:36:54,305 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/926583
+2024-12-01 15:36:54,314 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/889523
+2024-12-01 15:36:54,323 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/996061
+2024-12-01 15:36:54,331 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/993904
+2024-12-01 15:36:54,341 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/993176
+2024-12-01 15:36:54,350 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006334
+2024-12-01 15:36:54,359 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/911530
+2024-12-01 15:36:54,368 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/891355
+2024-12-01 15:36:54,378 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/975020
+2024-12-01 15:36:54,387 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/888801
+2024-12-01 15:36:54,396 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/888803
+2024-12-01 15:36:54,405 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/895233
+2024-12-01 15:36:54,405 - INFO - Successfully extracted 20 job links
+2024-12-01 15:36:54,406 - INFO - Found 20 jobs on page 21
+2024-12-01 15:36:54,406 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/998442
+2024-12-01 15:36:56,409 - INFO - Successfully scraped job: Energy Specialist
+2024-12-01 15:36:56,412 - INFO - Saved job: Energy Specialist - Engineering
