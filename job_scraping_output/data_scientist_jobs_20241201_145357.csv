@@ -17672,3 +17672,624 @@ Fluency in English with strong communication, presentation, and networking skill
 More about us
 
 We value people from different backgrounds. Apply today for your next career step within ABB and visit www.abb.com to learn about the impact of our solutions across the globe. #MyABBStory",,,,,2024-12-01 15:19:39,,
+958377,https://oilandgasjobsearch.com/jobs/other-jobs/958377,Senior Software Configuration Specialist,Vestas,,,,,"Are you eager to engage in software development and prepared to contribute significantly to Vestas progress toward a sustainable future? We invite you to become a Senior Software Configuration Specialist, where you will oversee key software configurations vital to our advanced wind turbine operations. In this role, you will take on the responsibility of improving software consistency and quality, with a commitment to providing our customers with stellar solutions and assisting with Vestas strategic modularization and lifecycle management plans.
+
+Vestas Technology & Operations > Research & Development (R&D) > Hydraulics & Yaw
+
+Come and be part of the energy transition - Vestas products have until now supported our customers to avoid 1.7 billion tons of carbon emissions.
+
+If you feel inspired by developing Software solutions, are open-minded and curious, combined with an innovative and problem-solving approach, and find motivation in both people and technical leadership in a complex business environment, then you may be the candidate we are looking for.
+
+The position will be placed with the Turbine Control Software Technical Management team, which sets the guidelines and direction of how Turbine Software is developed at Vestas. Configuration is one of the key areas with the Technical management team, as it is an enabler to Vestas Modularisation journey and lifecycle management.
+
+With the increase expected of Wind Turbine volumes, the quality of the SW and the efficiency with which we deliver rightly configured SW to our customers is of the utmost importance, so this is a critical leadership position with high exposure and opportunities to grow.
+
+Responsibilities
+
+You will report to the Module Design Owner of Turbine Control SW, having full life-cycle ownership of your function. More specifically, your responsibilities will cover:
+Oversee software configurations and ensure consistency across development, testing, and production environments
+Implement and optimize configuration management processes, ensuring alignment with company standards
+Collaborate with cross-functional teams to support software deployment, updates, and troubleshooting
+Create and maintain comprehensive documentation for configuration processes and systems
+Ensure compliance with configuration management policies and best practices
+Perform audits and reviews of software configurations to ensure high levels of quality and consistency
+Troubleshoot and resolve configuration-related issues promptly
+
+
+Qualifications
+Bachelor's or master's degree in Software engineering or relevant education
+More than 10 years of professional experience in working with Software Configuration Systems
+Proven experience in software development and its methodologies like Agile or Scrum
+Experience in programming languages such as C# or Python
+Good communication skills in English
+Global mindset and good cultural understanding
+Skilled in technical leadership
+
+
+Competencies
+Identify yourselves with the Vestas Values: Passion, Accountability, Collaboration and Simplicity
+Have the mindset of a system engineer
+Ability to build trust in your employees and influence stakeholders through your behaviour
+Motivated by results and can get things done
+Open-minded and attracted by an international environment
+Good cooperative skills suitable for a global organization with personal, professional, gender and cultural diversity
+Ability to take ownership and effectively engage in continuous improvements within a broader perspective
+
+
+What we offer
+
+We offer you a job with full life cycle responsibility for an important part of the SW system, in a very adaptive team which will empower you to make your own decisions and implement your solutions.
+
+You will be able to build a large network across a large and truly global organization with excellent opportunities for cross-disciplinary and personal development. The work environment is result-oriented, highly professional, and with a solid technical commitment.
+
+You will work with a purpose, clearly understanding the value of what you're delivering and how it's contributing to avoiding climate change.
+
+Additional information
+
+The primary work location is Aarhus, Denmark or Porto, Portugal.
+
+To be considered for this role, you must apply online before January 2, 2025. We will review applications on an ongoing basis. We can withdraw from the job and reserve the right to do so at any time, including before the advertised closing date.
+
+For more information, please get in touch with Martin Møller Sørensen, Senior Specialist, at mmsor@vestas.com.
+
+BEWARE - RECRUITMENT FRAUD
+It has come to our attention that there are a number of fraudulent emails from people pretending to work for Vestas. Read more via this link, https://www.vestas.com/en/careers/our-recruitment-process
+
+DEIB Statement
+At Vestas, we recognize the value of diversity, equity, and inclusion in driving innovation and success. We strongly encourage individuals from all backgrounds to apply, particularly those who may hesitate due to their identity or feel they do not meet every criterion. As our CEO states, ""Expertise and talent come in many forms, and a diverse workforce enhances our ability to think differently and solve the complex challenges of our industry"". Your unique perspective is what will help us powering the solution for a sustainable, green energy future.
+
+About Vestas
+Vestas is the energy industry's global partner on sustainable energy solutions. We are specialised in designing, manufacturing, installing, and servicing wind turbines, both onshore and offshore.
+Across the globe, we have installed more wind power than anyone else. We consider ourselves pioneers within the industry, as we continuously aim to design new solutions and technologies to create a more sustainable future for all of us. With more than 173 GW of wind power installed worldwide and 40+ years of experience in wind energy, we have an unmatched track record demonstrating our expertise within the field.
+With 29,000 employees globally, we are a diverse team united by a common goal: to power the solution - today, tomorrow, and far into the future.
+Vestas promotes a diverse workforce which embraces all social identities and is free of any discrimination. We commit to create and sustain an environment that acknowledges and harvests different experiences, skills, and perspectives. We also aim to give everyone equal access to opportunity.
+To learn more about our company and life at Vestas, we invite you to visit our website at www.vestas.com and follow us on our social media channels. We also encourage you to join our Talent Universe to receive notifications on new and relevant postings.",,,,,2024-12-01 15:19:44,,
+868109,https://oilandgasjobsearch.com/jobs/other-jobs/868109,"Infrastructure Software Developer (Brno, CZ)",E.ON,,,,,"E.ON Česká republika, s.r.o. provides professional service and consulting to all other companies of the E.ON Czech Group. The key services relate mainly to support and delivery of services in the areas of HR, IT, finance, legal, business administration and communication. Approximately a thousand managers, specialists, experts and administrative staff work here to help drive the entire E.ON Group forward towards a modern, digital company that can easily meet the challenges of today's energy industry and succeed in the Czech energy market.
+
+We are looking for a new colleague to join the IT Group Services team, which is functionally driven and works for the infrastructure services of EDT GmbH.
+
+In this role you will...
+
+Develop and maintain high-quality Golang code within a Kubernetes environment.
+Design, implement, and maintain Kubernetes custom resources
+Implement OAuth2 authorization concepts to secure APIs and services.
+Apply OIDC authentication principles to enhance application security.
+Stay informed about emerging technologies and industry trends, including crossplane on Kubernetes, to continuously improve our infrastructure solutions.
+Collaborate with cross-functional teams to ensure seamless integration of cloud services and hyperscaler platforms.
+Utilize Terraform to provision and manage infrastructure resources on various cloud platforms.
+Contribute to custom Terraform provider implementations
+Conduct isolated tests of Kubernetes resources to ensure reliability and scalability.
+
+
+What we expect from you?
+
+You don't have to be Superman but there are a few qualities / knowledge we need from you ...
+Degree in Computer Science, Engineering, related field or equivalent experience
+3+ years of professional experience in Golang development.
+Extensive knowledge of Kubernetes ecosystem, including experience with writing Kubernetes operators.
+Strong understanding of OAuth2 authorization concepts.
+Hands-on experience with OIDC authentication implementation.
+Familiarity with crossplane on Kubernetes is a plus.
+In-depth knowledge of hyperscaler platforms, preferably Azure or AWS.
+Proficiency in Terraform for infrastructure provisioning and management.
+Excellent problem-solving skills and attention to detail.
+Strong communication and collaboration skills.
+
+
+Please apply with your CV in English.
+
+We offer
+A rewarding contribution towards E.ON's digital transformation.
+Membership of a truly international team with an international strategy.
+Take responsibility to commit and deliver with your team.
+13th salary.
+Personal account around 18.000 CZK for each year.
+Contribution for Pension and Life insurance.
+Meal vouchers 150 CZK (contribution of employer 55%).
+Strong, international and stable company.
+5 weeks of vacation.
+Flexible working hours.
+Education and systematic professional development.
+Pleasant work team.
+
+
+ID: 213642
+Start date: as soon as possible
+
+By applying for this position, you hereby confirm that you possess all necessary permissions to stay and work in the Czech Republic's.
+
+Are you interested in this job position and are you wondering where to send your CV?
+Just click on the blue box Login and create an online application in our database. We will contact you as soon as possible!
+
+If you have any questions, you can contact David Kapin, david.kapin@eon.cz.
+
+E.ON is commited to equal opportunities and actively promotes diversity, equality and flexibility.
+
+E.ON is a privately-owned international energy company. Our 75 000 colleagues in 15 countries work daily towards the improvement of technical innovations and user-friendly customer solutions for the new energy world. We are the first large energy company to focus more heavily upon the energy of the future through our three business areas of energy networks and customer solutions.",,,,,2024-12-01 15:19:48,,
+983079,https://oilandgasjobsearch.com/jobs/other-jobs/983079,Software Architect (.Net & Angular),ABB,,,,,"Software Architect (.Net & Angular)
+
+At ABB, we are dedicated to addressing global challenges. Our core values: care, courage, curiosity, and collaboration - combined with a focus on diversity, inclusion, and equal opportunities - are key drivers in our aim to empower everyone to create sustainable solutions. Write the next chapter of your ABB story.
+
+This position reports to
+
+Principal Software Architect
+
+Your role and responsibilities
+
+We are looking for .Net Full Stack App Architect to join our Industrial Automation Digital Organization. The role requires one to be part of a team on detailed designing and development of Industrial Analytics Platform that will need to be available for SaaS on Cloud as well for on-premise deployment. Candidate will be responsible for Architecting, Design and Development in a full-stack (.Net/.Net Core) environment including experience in client-side JavaScript frameworks (preferably Angular), server-side frameworks (Preferably .Net) and databases The work model for the role is : #LI-Hybrid This role is contributing to Process Automation business for Process Automation Digital division based in AIC -Bangalore_Southfield, India You will me mainly responsible for: • Defining the vision, strategy, and standards for modern web application architecture • Provide highest level of technical leadership in developing architecture and design that would align with the strategic goals of the organization • Incorporate in SOA principles into architecture design, including identifying opportunities for common services and service reuse • Lead the technical planning & requirements gathering phases including estimate, architect and deliver • Design and architect solutions which are scalable and performant that meet product requirements • Mentor the team driving correct adoption of modern software engineering & delivery practices (""Real"" Agile, TDD, Stateless Design, Microservices, Containerization, CI/CD, Cloud, etc.) • Practice disciplined software engineering (e.g. automated testing, code reviews, and writing beautiful, pragmatic code) • Evaluate technical trends and provide recommendations for technology and architecture to meet business objectives • Provide leadership and work guidance to less experienced personnel. Conducts quality assurance activities such as peer reviews. Provides recommendations and revisions to programs and documents.
+
+Qualifications for the role
+
+Qualification and Requirement - A bachelor's or master's degree in computer science, engineering, or a related field.
+10 -15 years of experience in architecture, design and implement the overall architecture and infrastructure of the enterprise applications platform.
+Experience in building a responsive, scalable and user-friendly enterprise application platform that accommodates browser-based, mobile, and tablet applications.
+Lead the design and development of web applications solutions tailored to the specific needs of the Industrial applications using technologies such as .Net Full stack.
+Proficient in various architectural patterns and principles, such as modular, scalable, reliable, secure, or cloud-native, and be able to use them to optimize the performance, availability, and maintainability of the visualization platform.
+Advanced knowledge of design patterns, Object Oriented Design and microservices architecture principles
+Advanced knowledge of Web API and REST, WCF, LINQ, and MVC
+Experience with java-script/client-side angular framework
+Experience with Database technologies - Oracle, SQL Server and NoSQL databases
+Familiar with web standards and protocols, such as HTTP, HTTPS, REST, OData, JSON, and be able to use them to communicate with the data sources and services
+Skilled in using at least one workflow and rule engine and integrating it into application architecture.
+Familiar with various architectural tools and technologies, such as Azure, Kubernetes, Message brokers, Docker etc, and be able to use them to deploy and manage the visualization platform
+
+
+More about us
+
+The mission of PA Digital group within ABB Industrial Automation business is to provide next generation Artificial Intelligence enabled Industry Analytics solutions that addresses the needs of an Industry 4.0 driven ecosystem to further strengthen ABB Ability™ offerings to enable us achieve the fair share of huge market. The group will accelerate digital capabilities through a Horizontal, reusable and still Industry Rich Analytics Platform to excel in IoT and system integration, coupled with Predictive modeling and Transformative Analytics Apps and Solutions-Machine Learning enabled Analytics Platform We value people from different backgrounds. Apply today for your next career step within ABB and visit www.abb.com to learn about the impact of our solutions across the globe. #MyABBStory ""It has come to our attention that the name of ABB is being used for asking candidates to make payments for job opportunities (interviews, offers). Please be advised that ABB makes no such requests. All our open positions are made available on our career portal for all fitting the criteria to apply. ABB does not charge any fee whatsoever for recruitment process. Please do not make payments to any individuals /entities in connection to recruitment with ABB, even if is claimed that the money is refundable. ABB is not liable for such transactions. For current open positions you can visit our career website https://global.abb/group/en/careers and apply. Please refer to detailed recruitment fraud caution notice using the link https://global.abb/group/en/careers/how-to-apply/fraud-warning""",,,,,2024-12-01 15:19:52,,
+1001015,https://oilandgasjobsearch.com/jobs/other-jobs/1001015,Software Architect,Emerson,,,,,"If you are an engineering professional looking for an opportunity to grow, Emerson has an exciting opportunity for you! Based in our Boulder, Colorado location, you will participate in and support the development of proven technologies, products, and/or processes to meet company objectives for the advancement of ultrasonic flow measurement devices. This role is 4 days in office and 1 day from home.
+
+In this Role, Your Responsibilities Will Be:
+
+Spearhead the design and development of advanced robust diagnostic software solutions that monitor and evaluate the performance of ultrasonic flow meters in real-time, detecting anomalies, degradation, and potential failures.
+Integrate AI and machine learning technologies to enable predictive maintenance, performance optimization, and intelligent decision-making tools that allow customers to act before issues arise.
+Leverage historical and real-time data to continuously improve diagnostic models.
+Collaborate with hardware, firmware, and product teams to ensure seamless integration between diagnostic software, ultrasonic sensors, and measurement systems.
+Identify and use existing technologies across the organization that can be incorporated into your solutions.
+Collaborate with product management and customers to comprehend issues and market demands, guaranteeing that diagnostic tools and insights align with customer needs and industry challenges.
+Lead and mentor a team of multi-disciplinary engineers, including firmware, embedded hardware, & software, fostering a collaborative and innovative environment where new ideas are encouraged and brought to life.
+Stay ahead of industry trends, including advancements in diagnostic software, AI, and flow measurement technologies. Advocate for the continuous evolution of the team's skills and tools to stay competitive in the market.
+Design systems that are scalable, resilient, and reliable in demanding industrial environments, ensuring your diagnostic solutions meet performance and safety standards.
+Determine the nature and scope of assigned projects, as well as budget and schedule parameters, and delegate assignments appropriately. Determine the technical design criteria for the project.
+Schedule and attend progress briefings and coordination checks to discuss the engineering effort and project status.
+
+
+Who You Are:
+
+You are a flexible and goal-oriented engineering professional who excels in fast-paced environments. You excel at collaborating across teams and communicating complex technical concepts clearly, ensuring alignment and shared understanding. Your ability to adapt to uncertainty and overcome obstacles, coupled with our technical expertise, will enable us to achieve innovative outcomes even in ambiguous situations. You have a deep passion for technology and continuously seek new ways to improve processes, solve problems, and drive efficiency. You cultivate a culture of innovation, inspiring those around you to think creatively and push the boundaries of what's possible. Whether you're working with cross-functional teams or leading projects, you have a knack for driving impactful outcomes while fostering collaboration and growth.
+
+For This Role, You Will Need:
+BS or MS in Computer Science, Electrical Engineering, Data Science, or a related field.
+Minimum 10 years of experience in software development, with at least 5 years in a leadership role.
+Strong experience in designing diagnostic systems for embedded applications, particularly for sensor-based or industrial automation products.
+Expertise in AI/ML, particularly in predictive maintenance, anomaly detection, and time-series analysis.
+Proficiency in programming languages such as C, C++, Python, or similar languages for embedded and real-time applications.
+Proven track record of leading and growing technical teams, mentoring engineers, and driving cross-functional collaboration.
+Able to work well in a team environment and partner with global colleagues
+Excellent written and verbal communication skills, both technical and non-technical.
+Ability to translate complex diagnostic needs into clear software requirements and system architecture.
+Available for domestic/international travel as required
+Legal authorization to work in the United States - Sponsorship will not be provided for this position.
+
+
+Preferred Qualifications that Set You Apart:
+Ph.D. in Computer Science, Electrical Engineering, Data Science, or a related field is a plus.
+Experience in diagnostic solutions, AI/ML applications, or industrial systems (especially in flow measurement or instrumentation) is highly desirable.
+Experience with cloud computing, IoT platforms, and data analytics tools is a plus.
+Familiarity with industry standards and regulations related to flow measurement (e.g. ISO 13849, IEC 61508) is a plus.
+Understanding of microcontrollers, digital signal processors (DSPs), and FPGAs is a plus.
+Familiarity with signal processing techniques, sensor technologies, and industrial communication protocols (e.g., Modbus, Ethernet/IP, CAN, or Profibus).
+Familiarity with industrial automation standards, safety protocols, and cybersecurity considerations.
+Experience in Agile or DevOps development processes.
+
+Our Offer To You:
+
+We recognize the importance of employee wellbeing and know that to do your best you must have flexible, competitive benefits plans to meet you and your family's physical, mental, financial, and social needs. We provide, a variety of medical insurance plans, with dental and vision coverage, Employee Assistance Program, Profit Sharing, tuition reimbursement, employee resource groups, recognition, and much more. Our culture prioritizes work-life balance and offers flexible time off plans, including paid parental leave (maternal and paternal), vacation and holiday leave.
+
+At Emerson, we are committed to fostering a culture where every employee is valued and respected for their unique experiences and perspectives. We believe a diverse and inclusive work environment contributes to the rich exchange of ideas and diversity of thoughts, that inspires innovation and brings the best solutions to our customers.
+
+This philosophy is fundamental to living our company's values and our responsibility to leave the world in a better place. Learn more about our Culture & Values and about Diversity, Equity & Inclusion at Emerson.
+
+Our training programs and initiatives focus on end-to-end development, from onboarding through senior leadership. We provide a wide range of development opportunities, including face-to-face and virtual training, mentorship and coaching, project management, and on-the-job training
+
+Our compensation philosophy is simple: we pay a competitive base salary, within the local market in which we operate, and reward performance during the annual merit review process. In accordance with Colorado EPEWA, the salary range for this role is $ 133,561 to $156,733. annually, commensurate with the skills, talent, capabilities, and experience each candidate brings to a role.
+
+This position will be open for a minimum of 7 days from the day of posting. Applicants are encouraged to apply early to receive optimal consideration.
+
+In compliance with the Colorado Job Application Fairness Act, in any materials you submit, you may redact or remove age-identifying information such as age, date of birth, or dates of school attendance or graduation. You will not be penalized for redacting or removing this information.
+
+#LI-SW1",,,,,2024-12-01 15:19:56,,
+869843,https://oilandgasjobsearch.com/jobs/other-jobs/869843,Senior Software Developer,Emerson,,,,,"If you are a professional looking for an opportunity to grow and develop your abilities within a dynamic business, Emerson has an appealing role for you!
+
+Your main responsibility will be designing and implementing the key elements of the product's infrastructure. Developing an innovative product, designed for vibration analysis and monitoring of rotating machinery (fans, turbines, pumps, etc.) installed in critical infrastructure all over the world.
+
+In This Role, Your Responsibilities Will Be:
+
+Designing and implementing key elements of product's infrastructure with .NET technologies.
+Writing unit tests.
+Conducting code reviews.
+Accurately tracking progress with Azure DevOps.
+
+Who You Are:
+
+You scan the environment for new technical skills, knowledge, or capabilities that can benefit business or personal performance. You display a can-do attitude in good and bad times. You act with a clear sense of ownership. You create teamwork allowing others across the organization to achieve shared objectives. You relate comfortably with people across levels, functions, cultures, and geography. You show personal commitment and take-action to continuously improve. You stay focused and composed in stressful situations.
+
+For This Role, You Will Need:
+
+Bachelor's degree or equivalent experience in Computer Science, Computer Engineering or related engineering field.
+A minimum of 1-3 years (Junior), 3-5 years (Mid) or 5+ years (Senior) of experience in the software development industry.
+Language proficiency: English language B2 and Polish language B2.
+Experience working in an Agile Scrum Team.
+
+Preferred Qualifications That Set You Apart:
+Other European Languages.
+Previous experience working in a matrix organization.
+
+
+Our offer to you
+
+At Emerson, we are committed to fostering a culture where every employee is valued and respected for their unique experiences and perspectives. We believe a diverse and inclusive work environment contributes to the rich exchange of ideas and diversity of thoughts, that inspire innovation and brings the best solutions to our customers. We're emphasizing a culture of togetherness - one that builds community, prioritizes collaboration and continuous improvement.
+
+The philosophy is fundamental to living our company's values and our responsibility to leave the world in a better place. Learn more about our Culture & Values and about Diversity, Equity, & Inclusion at Emerson .
+
+Moreover, our global volunteer employee resource groups will empower you to connect with peers that share the same interest, promote diversity and inclusion and positively contribute to communities around us.
+
+We understand the importance of work-life balance and are dedicated to supporting our employees' personal and professional needs. From competitive benefits plans and comprehensive medical care to equitable opportunities for growth and development we strive to create a workplace that is supportive and rewarding. Our work schedule aims at creating new levels of growth, build a stronger community and provide greater professional development for our employees.
+
+Make this great opportunity yours!
+
+ABOUT US
+
+WHY EMERSON
+
+Our Commitment to Our People
+
+At Emerson, we are motivated by a spirit of collaboration that helps our diverse, multicultural teams across the world drive innovation that makes the world healthier, safer, smarter, and more sustainable. And we want you to join us in our bold aspiration.
+
+We have built an engaged community of inquisitive, dedicated people who thrive knowing they are welcomed, trusted, celebrated, and empowered to solve the world's most complex problems - for our customers, our communities, and the planet. You'll contribute to this vital work while further developing your skills through our award-winning employee development programs. We are a proud corporate citizen in every city where we operate and are committed to our people, our communities, and the world at large. We take this responsibility seriously and strive to make a positive impact through every endeavor.
+
+At Emerson, you'll see firsthand that our people are at the center of everything we do. So, let's go. Let's think differently. Learn, collaborate, and grow. Seek opportunity. Push boundaries. Be empowered to make things better. Speed up to break through. Let's go, together.
+
+Accessibility Assistance or Accommodation
+
+If you have a disability and are having difficulty accessing or using this website to apply for a position, please contact: idisability.administrator@emerson.com.
+
+ABOUT EMERSON
+
+Emerson is a global leader in automation technology and software. Through our deep domain expertise and legacy of flawless execution, Emerson helps customers in critical industries like life sciences, energy, power and renewables, chemical and advanced factory automation operate more sustainably while improving productivity, energy security and reliability.
+
+With global operations and a comprehensive portfolio of software and technology, we are helping companies implement digital transformation to measurably improve their operations, conserve valuable resources and enhance their safety.
+
+We offer equitable opportunities, celebrate diversity, and embrace challenges with confidence that, together, we can make an impact across a broad spectrum of countries and industries. Whether you're an established professional looking for a career change, an undergraduate student exploring possibilities, or a recent graduate with an advanced degree, you'll find your chance to make a difference with Emerson. Join our team - let's go!
+
+No calls or agencies please.",,,,,2024-12-01 15:20:01,,
+req467965,https://oilandgasjobsearch.com/jobs/other-jobs/972617,Software Engr I,Honeywell,,,,,"Join a team recognized for leadership, innovation and diversity
+
+Software Engineer I
+As a Software Engineer, the candidate would be responsiblefor design, developing, estimation, engineering, configuration, testing &commissioning of Control & Monitoring Niagara based application for BuildingManagement System. In addition, working with customers to define SoftwareRequirements Specifications, modifying configuration and writing scripts toprovide operational enhancements requested by the customer.
+Responsibilities
+Support Niagara N4 development in all Agile phases.
+Design, build, and maintain efficient, reusable, and reliable Java code.
+Establish & Manage Software Configuration Management System.
+Analyze the system logs and initiate necessary measures to ensure high availability for the system.
+Carryout simulation and test for real jobs on test environment
+Implement custom applications using Niagara framework
+Support installation application software on customer location remotely, as & when required.
+Support troubleshooting of application software remotely on customer locations, as & when required
+Provide technical assistance against any software bugs encountered while installation, testing and commissioning at site.
+Engineering and Project Documentation.
+Implement performance and quality modules
+Identify bottlenecks and bugs, and devise solutions to these problems
+Help maintain code quality, organization, and automatization
+Skills
+Proficiency and hands-on knowledge in Java/J2EE with good knowledge of the language specification
+Knowledge of Web based technologies like JavaScripts,Promise ,JQuery,HTML 5 is required.
+Knowledge of ReactJs is good to have.
+Proficiency level of development experience on Niagara N4 and AX Framework.
+Understanding of XML, JSON required.
+Good understanding of memory management in non-garbage collected environments.
+Proficient understanding of code versioning tools such as Git, SVN, BitBucket , JIRA and software build process.
+Familiarity with continuous integration.
+Should have the thorough knowledge on SDLC - Agile/Scrum, Iterative.
+Qualifications
+YOU MUST HAVE
+Having B.E/B.Tech/MCA from recognized University.
+1.5 to 4 years of Experience in a Software Development related role.
+Excellent communication skills.
+High proficiency level in the English language (written and spoken)
+Good interpersonal, verbal, and written communication skills
+Demonstrated proficiency in product lines that you have worked
+Strong problem-solving skills - ability to deliver quality code first time right
+Additional Information
+
+JOB ID: req467965
+Category: Engineering
+Location: 56 & 57 Hadapsar Industrial Estate,Pune,MAHARASHTRA,411013,India
+Exempt
+
+Engineering (GLOBAL)",,,,Engineering,,2024-12-01 15:20:05,
+969271,https://oilandgasjobsearch.com/jobs/other-jobs/969271,Software Developer,Emerson,,,,,"Job Summary
+
+If you are a professional looking for an opportunity to work with the global Emerson Systems and Software organization, this is a stimulating opportunity for you! Our development organization has transformed into a Scaled Agile environment and is seeking a Software Developer professional. Set to be working in conjunction with a team of Software Developers within a Scaled Agile Framework (SAFe)-based organization aimed at delivering best-in-class process automation products built across web, cloud, PC, and embedded platforms integrated with internally developed devices. The ideal candidate has multiple years of exposure with IT/engineering and/or operating complex software systems supporting the maintenance and lifecycle of products and understands a range of customer use cases across industries. The successful candidate should be able to work in a dynamic and fast-paced environment and communicate successfully with a wide range of people, experience levels, and technical backgrounds.
+
+In this role, your responsibilities will be:
+Contributing to a self-organizing, multi-functional team that consistently delivers high-quality, complete working features in short increments
+Participating in the requirements analysis, design, development, testing, deployment, debugging and/or maintaining existing code as well as new features accepted by the team during a sprint, including settling the right level of documentation and processes required for the project.
+Working with the team members to settle the level of definition needed for each feature and to ensure clear, achievable acceptance criteria.
+Ensuring high quality of products through the creation and execution of manual and automated units, integration, and other functional & non-functional testing.
+
+
+Who You Are:
+
+You readily take action on challenges, without unnecessary planning. You handle and manage crises effectively. You have a strong bottom-line orientation. You show personal commitment and take action to continuously improve. You readily learn and adopt new technologies.
+
+For this Role You Will Need:
+Bachelor's degree in Computer Science, Engineering, or related team.
+3+ years of experience in software product development or technology division.
+3+ years of experience and in-depth knowledge in OO languages like C# or C++
+Good analytical thinking and problem-solving capability
+Strong SDLC experience in delivering projects on time with high quality, covering requirements analysis, design, implementation, and testing
+Able to communicate optimally with peers and other departments in local and international settings.
+Experience in developing automated test cases, test-driven development or applying any kind of test automation framework
+Ability to lead ambiguity, and be flexible to adapt to a dynamic work
+Experience in full-stack development
+
+
+Preferred Qualifications that Set You Apart:
+Strong in OOP and OOA/D
+Knowledgeable and has experience in using UML and software design patterns
+Experience in SAFe and/or Agile Scrum Software Development methodologies
+Experience with the latest technologies/frameworks/patterns/tools/systems like Azure Cloud, Kubernetes, Microservices, AKS, NGINX, OKTA, Capacitor, Ionic, Angular, Web API,.NET, .NET Core, Entity Framework, SQL, SignalR, RabbitMQ, NServiceBus, HTML5, JQuery, JSON, Git, Selenium, MSTest, xUnit.net, Jest, JMeter, K6.
+Involved with multi-tiered or moderate-to-complex system design or development
+Experience in Cybersecurity, Cloud-based development/deployment, DevOps, Mobile and any form of AI, Analytics or Data Science application development a plus.
+
+
+Our Offer to You
+
+By joining Emerson, you will be given the opportunity to make a difference through the work you do.
+
+Emerson's compensation and benefits programs are designed to be competitive within the industry and local labor markets. We also offer a comprehensive medical and insurance coverage to meet the needs of our employees.
+
+We are committed to creating a global workplace that supports diversity, equity and embraces inclusion.
+
+We attract, develop, and retain exceptional people in an inclusive environment, where all employees can reach their greatest potential. We are dedicated to the ongoing development of our employees because we know that it is critical to our success as a global company.
+
+We have established our Remote Work Policy for eligible roles to promote Work-Life Balance through a hybrid work set up where our team members can take advantage of working both from home and at the office.
+
+Safety is paramount to us, and we are relentless in our pursuit to provide a Safe Working Environment across our global network and facilities.
+
+Through our benefits, development opportunities, and an inclusive and safe work environment, we aim to create an organization our people are proud to represent.
+
+Our Commitment to Diversity, Equity & Inclusion
+
+At Emerson, we are committed to fostering a culture where every employee is valued and respected for their unique experiences and perspectives. We believe a diverse and inclusive work environment contributes to the rich exchange of ideas and diversity of thoughts, that inspires innovation and brings the best solutions to our customers.
+
+This philosophy is fundamental to living our company's values and our responsibility to leave the world in a better place. Learn more about our Culture & Values and about Diversity, Equity & Inclusion at Emerson.
+
+If you have a disability and are having difficulty accessing or using this website to apply for a position, please contact idisability.administrator@emerson.com.",,,,,2024-12-01 15:20:10,,
+958935,https://oilandgasjobsearch.com/jobs/other-jobs/958935,Full Stack Software Developer,NOV,,,,,"JOB DESCRIPTION
+
+Full Stack Software Developer focusing on innovative IoT applications that enhance the performance of our market-leading make break equipment (https://www.nov.com/products/8026-torquemaster-machine). This role will also involve managing cloud-based data modeling applications that assist engineering, operations, and field support for our downhole tool product line.
+
+Key Responsibilities:
+
+Lead the development and maintenance of our software suite, including applications for Logging Data Acquisition, Data Modeling, and custom Purchase Ordering system.
+Design and implement responsive and user-friendly HMI systems using Electron web browser technology.
+Develop back-end services using Go, while ensuring seamless integration with front-end technologies such as HTML, CSS, and JavaScript.
+Work with automation and control systems, ensuring efficient communication through protocols like Modbus, S7, and MQTT.
+Manage and maintain Linux-based systems utilizing Docker containerization for software deployment and operation.
+Mentor and guide junior software engineers, fostering a culture of continuous learning and professional growth within the team.
+
+
+Required Qualifications:
+
+Strong proficiency in Go programming language.
+Experience with front-end technologies (HTML, CSS, JavaScript) and building responsive UIs.
+Hands-on experience with Electron for creating desktop-based HMI systems.
+Solid understanding of industrial communication protocols (Modbus, S7, MQTT) and how they interact with automation systems.
+Familiarity with Docker and Linux-based systems for containerized applications.
+Demonstrated ability to lead software projects and mentor junior developers.
+Bachelors of Science in Mechanical Engineering, Electrical Engineering, Computer Engineering, or related field with relevant applicable experience.
+Proficient using RESTful API's
+Minimum of 5 years applicable experience
+
+
+Preferred Qualifications:
+
+Experience in IoT applications and integrating hardware with software in industrial settings.
+Experience with database management, real-time data systems, and cloud hosting platforms.
+
+
+ABOUT US
+
+Every day, the oil and gas industry's best minds put more than 150 years of experience to work to help our customers achieve lasting success.
+
+We Power the Industry that Powers the World
+
+Throughout every region in the world and across every area of drilling and production, our family of companies has provided the technical expertise, advanced equipment, and operational support necessary for success-now and in the future.
+
+Global Family
+
+We are a global family of thousands of individuals, working as one team to create a lasting impact for ourselves, our customers, and the communities where we live and work.
+
+Purposeful Innovation
+
+Through purposeful business innovation, product creation, and service delivery, we are driven to power the industry that powers the world better.
+
+Service Above All
+
+This drives us to anticipate our customers' needs and work with them to deliver the finest products and services on time and on budget.",,,,,2024-12-01 15:20:21,,
+962600,https://oilandgasjobsearch.com/jobs/general-management-jobs/962600,"Solution Architect, Energy & Carbon Management (IoT, Energy Management, Software)",Univers,,,,,"The Company:
+
+Univers provides the world's most comprehensive decarbonization system.
+
+We help companies and countries optimize energy systems and reduce carbon emissions with accurate, reliable, and actionable decarbonization data. Our EnOS platform connects on-the-ground operational technology and in-the-cloud intelligence to deliver real-time energy data and data-driven carbon monitoring, reporting, and abatement.
+
+With 220 million devices connected, over 560GW of renewable energy under management, and a community of over 500 customers including Microsoft, Starbucks, and HSBC, we're helping leading businesses get the world to net zero-and what comes after it.
+
+The challenge is immense, but so are the rewards.
+
+Join our team and help move the planet towards sustainability. For more information, please visit https://univers.com/
+
+Role Title:
+Solution Architect, Energy & Carbon Management (IoT, Energy Management, Software)
+
+Overview:
+Univers is looking for a candidate who is able to be independent with a can-do attitude and leverage a unique combination of commercial acumen combined with technical knowledge in digital, energy and sustainability or green financing. The successful candidate will use their experience to work hand in hand with the commercial team as well as the European team on a case-by-case basis. This individual will be fluent in French and English.
+From commercial demo, solution architecting and pricing, the candidate will create a mutually beneficial relationship with our sales team and customers across the different leads and projects. To ensure pipeline conversion, the Pre-Sales Meetings and Solution Architect will have to leverage one's knowledge of cloud-based software and energy & carbon management to help our key accounts' teams developing their own expertise on these topics.
+
+The applicant will be required to use their collaborative customer management skills in a fast growing and multicultural setting in order to work closely with:
+
+1. Customers to ensure they receive the best service, and Univers can convert sales value proposition into actual solution design and commercial offer,
+2. Go To Market to provide day-to-day support on solution demo, business case consolidation, value engineering and offer consolidation.
+3. Finance and our Delivery teams for project pricing and sizing to ensure rentability, managing risks and issues accordingly, and ensuring consistency with the sales team.
+4. Envision Product Domain leaders to ensure customers awareness about our latest relevant solutions and to be the voice of the customer in our product charter process.
+
+The Pre-Sales/Solution Architect is expected to support the Key Account Managers, GTM, and Business Developers in their interactions with our customers. The candidate is expected to be able to quickly learn about a customer and Univers role being able to identify Strengths, Weaknesses, Opportunities and Threats to our work and agree ways to mitigate them. As required the candidate will need to also support the GTM in business development activities to progress campaigns, identify leads, manage opportunities and support the execution of successful sales closing and project delivery strategies using techniques such as consultative selling, stakeholder mapping, value engineering.
+
+Roles & Responsibilities:
+• Supporting GTM in operational matters related to client relationship
+• Undertaking value engineering and business benefit tracking/validation
+• Preparing content for client review meetings and associated outputs working with Delivery, Product, O&M teams to ensure materials are accurate and up to date
+• Preparing project finances in close relationship with the Delivery team
+• Supporting GTM in business development activities as required
+
+Skills & Qualifications:
+• Essential: Fluent in French and English
+• Degree level educated
+• 5+ years of prior and proven experience in client facing consulting/ technical account management
+• Experience in Software related to Energy and/or ESG/Sustainability domain
+• Rigorous profile capable of showing initiatives in a challenging context.
+• Good balance of both technical and soft skills to empower our sales team whilst ensuring a successful delivery.
+• Keen interest in Net Zero / Cloud-based software and associated business models / Renewable Energy
+
+Location: Paris, France or London, UK
+Univers is an Equal Opportunity Employer. Employment decisions are made without regard to race, colour, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or other characteristics protected by law.",,,,,2024-12-01 15:20:25,,
+909539,https://oilandgasjobsearch.com/jobs/other-jobs/909539,Werkstudent (m/w/d) Software-Entwicklung Low-Code,Bilfinger,,,,,"Werkstudent (m/w/d) Software-Entwicklung Low-Code
+
+Standort: Osterode am Harz
+
+Die Bilfinger Nuclear & Energy Transition GmbH mit ca. 800 Mitarbeitern ist ein Unternehmen der Bilfinger SE. Hauptsitz ist Oberhausen, weitere Standorte sind Dortmund, Osterode und Würzburg.
+
+Unsere Kernkompetenzen sind der Service, der Bau und die digitale Vernetzung von Komponenten und Systemen für den Betrieb von Energie- und Industrieanlagen mit hohen Prozess- & Werkstoffanforderungen. Unsere Kunden unterstützen wir in den Bereichen Energie, Öl & Gas, Petrochemie sowie Nuklear. Wir beraten, planen, entwickeln und übernehmen das Projektmanagement bei der Errichtung oder Modernisierung von Anlagen - immer mit einem besonderen Augenmerk auf Nachhaltigkeit und Effizienz! Wir fertigen Komponenten wie Rohrleitungen, Kessel- oder Maschinenkomponenten in unserer eigenen Fertigung, montieren diese und nehmen die Anlagen in Betrieb. Unser Service begleitet die Anlage über den gesamten Lebenszyklus.
+
+Deine Aufgaben:
+Unterstützung bei der Entwicklung und Implementierung von IT-Projekten unter Verwendung von Low-Code-Plattformen (Claris FileMaker)
+Mitarbeit an der Automatisierung von Geschäftsprozessen durch Low-Code-Anwendungen
+Analyse und Optimierung bestehender IT-Systeme und -Prozesse
+Unterstützung bei der Fehlerbehebung und Wartung von Low-Code-Anwendungen
+Erstellung von Userstories, Dokumentationen und Schulungsunterlagen für Endbenutzer
+
+
+Dein Profil:
+Eingeschriebene*r Student*in der (Wirtschafts-)Informatik, Ingenieurwissenschaften, oder eines vergleichbaren Studiengangs
+Erste Erfahrungen mit Low-Code-Plattformen sind von Vorteil
+Grundlegende Programmierkenntnisse (z.B. JavaScript, Python, SQL) wünschenswert sowie ein Verständnis für Datenbanken
+Analytisches Denken und eine strukturierte Arbeitsweise
+Hohe Lernbereitschaft und Interesse an innovativen IT-Lösungen
+Gute Kommunikationsfähigkeiten und Teamgeist
+Selbstständige und zuverlässige Arbeitsweise
+Gute Englischkenntnisse
+
+
+We make it work - you make the difference.
+
+Seien Sie Teil von etwas Großem und starten Sie Ihre Erfolgsgeschichte bei Bilfinger. Meistern Sie mit uns in Ihrem Job vielfältige und spannende Herausforderungen. Arbeiten Sie in einem internationalen Unternehmen, in dem der Erfolg Ihres Handelns sofort zu erkennen ist und Teamgeist großgeschrieben wird. Bilfinger bietet Ihnen attraktive Möglichkeiten, Ihre Karriereziele zu verwirklichen und sich weiterzuentwickeln. Werden auch Sie Teil von #teambilfinger!
+
+Für erste Fragen steht Ihnen gerne Sabrina Stoffmehl zur Verfügung
+
+Bitte bewerben Sie sich ausschließlich über unser Karriereportal. Klicken Sie dazu einfach auf ""Jetzt bewerben"" und laden Sie Ihre Bewerbungsunterlagen unkompliziert hoch.
+
+Wir freuen uns auf Ihre Bewerbung!
+
+Diese Ausschreibung richtet sich an alle geeigneten Bewerber/Innen unabhängig von Alter, Geschlecht, Behinderung, Religion, Weltanschauung, Rasse, ethnischer Herkunft oder sexueller Identität.
+
+IT & Digitalisierung | Bilfinger Nuclear & Energy Transition GmbH | Befristet | Praktikanten | Schüler / Student / Auszubildender | Operations
+# ##Digital_DataScience_Computer sabrina.stoffmehl@bilfinger.com",,,,,2024-12-01 15:20:29,,
+966632,https://oilandgasjobsearch.com/jobs/other-jobs/966632,Intern Bachelor/Master - Embedded Software Developer/ - Tester,Honeywell,,,,,"Innovate to solve the world's most important challenges
+
+Honeywell Industrial Automation enables our customers to run safer and more efficient operations. From refineries to distribution centers to retail stores, we help deliver results while improving worker safety and meeting sustainability goals such as reduced carbon emissions - by leveraging connectivity, advanced data analytics, software, robotics, sensors, process automation and asset performance management solutions.
+
+We Enable our customers to Enhance the Safety, Sustainability, Resilience and Productivity of their People, Plants, and Assets.
+
+We have an opportunity for an Intern Bachelor/Master - Embedded Software Developer/ - Tester to join our Industrial Automation team at Honeywell in Mainz-Kastel, Germany
+
+Responsibilities:
+Developing Embedded Software for embedded devices
+Evaluation of use cases and requirement management
+Reporting to team lead embedded Software in Gas Technology
+
+
+Qualifications:
+Bachelor's or Master's Student in Software, IT, Computer Engineering or related fields
+Fluent in German and English
+
+Skills:
+
+• Eagerness to learn in a dynamic, large-company environment.
+
+• Interest in networking with developers, production, and aftersales teams.
+
+• Strong understanding of embedded systems and a reliable team-oriented mindset.
+
+• Proficiency in embedded software architecture and programming languages like C/C++, Python, Java, or Rust.
+
+• Familiarity with OS Linux and bare-metal implementations.
+
+• Basic knowledge of cybersecurity requirements and the development life cycle.
+
+We offer:
+
+• A culture that fosters inclusion, diversity, and innovation.
+
+• Market-specific training and ongoing personal and professional development with support of experienced leaders.
+
+• Access to modern tools, technologies, and innovative work environments
+
+If you're eager to build a global career in chemical engineering, we'd love to hear from you!
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform crucial job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.
+
+Join us now and be part of a global team of thinkers, innovators, dreamers, and doers who make the things that make the future!
+
+#TheFutureIsWhatWeMakeIt
+
+EMEAUR
+
+Additional Information
+
+JOB ID: req464947
+Category: Engineering
+Location: Steinern Strasse 19-21,Mainz-Kastel,HESSEN,55252,Germany
+Nonexempt
+
+Engineering (EMEA)",,,,,2024-12-01 15:20:34,,
+989295,https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/989295,Electrical & Software Innovation Lead,ABB,,,,,"Electrical & Software Innovation Lead
+
+At ABB, we are dedicated to addressing global challenges. Our core values: care, courage, curiosity, and collaboration - combined with a focus on diversity, inclusion, and equal opportunities - are key drivers in our aim to empower everyone to create sustainable solutions. Write the next chapter of your ABB story.
+
+This position reports to
+
+R&D Corporate Executive Engineer
+
+Your role and responsibilities
+
+In this role, you will have the opportunity to contribute significantly to successful project results in technology, software, product, and/or solution development, as well as associated Intellectual Property (IP). Each day, you will act as the first point of contact in Research and Development for specific product-related issues and maintenance. You will also showcase your expertise by identifying, proposing, and implementing innovative solutions. The work model for the role is hybrid in Memphis, TN You will be mainly accountable for: • Define the progression of our Electrical & Software Technology Roadmap, ensuring technology supports our product evolution, or enters new product adjacencies. • Maintain knowledge of new technologies, processes, controls, connectivity, and other cutting edge advancements across multiple industries that may improve ELIP's competitive advantage. • Work with Product Management and Business Development to ensure R&D is focused on the highest value customer needs, driving new value creation. • Learn to lead cross-functional Product Ideation sessions that draw out our diverse perspectives, using innovation frameworks that spur out-of-the-box concepts. • Lead in developing proof of concept prototypes that verify the potential of new innovations. • Assist in driving the Product Management team to convert new innovations into the established project gate process. • Identify new suppliers providing technologies that are not currently offered by the Division (ELIP). • Suggest acquisition targets that could broaden ELIP's market coverage or vertical integration. • Work closely within the engineering department to improve and streamline the product development process for pre-Gate 0 activities. • Mentor engineers across the ELIP organization to foster open innovative thinking.
+
+Qualifications for the role
+
+A Master's Degree from an accredited institution in an engineering function, mathematics, or science discipline, or an MBA combined with an engineering bachelor's degree.
+At least years 8 years of product experience demonstrating innovative thinking.
+A curious nature to discover solutions for unmet customer needs, proposing hypothetical solutions and driving a proof of concept.
+Comfortable working with uncertain ""grey areas"" to successfully identify new solutions.
+Aptitude in drawing out diverse perspectives by facilitating group ideation, using inquisitive communication and coaching skills.
+Understanding of business case analysis, including the relationship between market value, cost, sales volume, and investment.
+Knowledge of intellectual property (IP) processes, IP development, and IP acquisitions for product value.
+Candidates must already have a work authorization that would permit them to work for ABB in the US.
+
+
+More about us
+
+ABB Installation Products Division (formerly Thomas&Betts), helps manage the connection, protection and distribution of electrical power from source to socket. The Division's products are engineered to provide ease of installation and perform in demanding and harsh conditions, helping to ensure safety and continuous operation for utilities, businesses and people around the world. The Commercial Essentials product segment includes electrical junction boxes, commercial fittings, strut and cable tray metal framing systems for commercial and residential construction. The Premier Industrial product segment includes multiple product lines, such as Ty-Rap® cable ties, T&B Liquidtight Systems® protection products, PVC coated and nylon conduit systems, power connection and grounding systems, and cable protection systems of conduits and fittings for harsh and industrial applications. The Division also manufactures solutions for medium-voltage applications used in the utility market under its marquee brands including Elastimold™ reclosers and switchgear, capacitor switches, current limiting fuses, Homac™ distribution connectors, Hi-Tech Valiant™ full-range current limiting fuse for fire mitigation, faulted current indicators and distribution connectors, cable accessories and apparatus with products for overhead and underground distribution. Manufacturing includes made-to-stock and custom-made solutions. We value people from different backgrounds. Apply today for your next career step within ABB and visit www.abb.com to learn about the impact of our solutions across the globe. #MyABBStory We look forward to receiving your application. If you want to discover more about ABB, take another look at our website www.abb.com. Equal Employment Opportunity and Affirmative Action at ABB ABB is an Equal Employment Opportunity (EEO) and Affirmative Action Employer encouraging diversity in the workplace. All qualified applicants will receive consideration for employment without regard to their race, creed, color, ancestry, religion, sex, national origin, citizen status, age, sexual orientation, gender identity, disability, marital status, family medical leave status, or protected veterans status. For more information regarding your (EEO) rights as an applicant, please visit the following websites: https://www.eeoc.gov/sites/default/files/2022-10/EEOC_KnowYourRights_screen_reader_10_20.pdf https://www.dol.gov/sites/dolgov/files/OFCCP/pdf/pay-transp_%20English_formattedESQA508c.pdf As an Equal Employment Opportunity and Affirmative Action Employer, applicants may request to review the Affirmative Action Plan of a particular ABB facility between the hours of 9:00 A.M. - 5:00 P.M. EST Monday through Friday by contacting an ABB HR Representative at 1-888-694-7762. Protected veterans and qualified individuals with a disability may request a reasonable accommodation if you are unable or limited in your ability to use or access ABB's career site as a result of your disability. You may request reasonable accommodations by calling an ABB HR Representative at 1-888-694-7762 or by sending an email to US-AskHR@abb.com. Resumes and applications will not be accepted in this manner. #LI-Hybrid",,,,,2024-12-01 15:20:39,,

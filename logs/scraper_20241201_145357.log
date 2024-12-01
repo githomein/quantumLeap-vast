@@ -1384,3 +1384,66 @@
 2024-12-01 15:19:39,486 - INFO - Successfully scraped job: Lead Counsel for Digital, Software, AI, and Contract Lifecycle Management
 2024-12-01 15:19:39,489 - INFO - Saved job: Lead Counsel for Digital, Software, AI, and Contract Lifecycle Management - ABB
 2024-12-01 15:19:40,660 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/958377
+2024-12-01 15:19:44,365 - INFO - Successfully scraped job: Senior Software Configuration Specialist
+2024-12-01 15:19:44,368 - INFO - Saved job: Senior Software Configuration Specialist - Vestas
+2024-12-01 15:19:45,854 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/868109
+2024-12-01 15:19:48,473 - INFO - Successfully scraped job: Infrastructure Software Developer (Brno, CZ)
+2024-12-01 15:19:48,475 - INFO - Saved job: Infrastructure Software Developer (Brno, CZ) - E.ON
+2024-12-01 15:19:49,552 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/983079
+2024-12-01 15:19:52,147 - INFO - Successfully scraped job: Software Architect (.Net & Angular)
+2024-12-01 15:19:52,149 - INFO - Saved job: Software Architect (.Net & Angular) - ABB
+2024-12-01 15:19:53,874 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1001015
+2024-12-01 15:19:56,466 - INFO - Successfully scraped job: Software Architect
+2024-12-01 15:19:56,469 - INFO - Saved job: Software Architect - Emerson
+2024-12-01 15:19:58,057 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/869843
+2024-12-01 15:20:01,765 - INFO - Successfully scraped job: Senior Software Developer
+2024-12-01 15:20:01,768 - INFO - Saved job: Senior Software Developer - Emerson
+2024-12-01 15:20:02,911 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/972617
+2024-12-01 15:20:05,281 - INFO - Successfully scraped job: Software Engr I
+2024-12-01 15:20:05,284 - INFO - Saved job: Software Engr I - Honeywell
+2024-12-01 15:20:07,267 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/969271
+2024-12-01 15:20:10,065 - INFO - Successfully scraped job: Software Developer
+2024-12-01 15:20:10,069 - INFO - Saved job: Software Developer - Emerson
+2024-12-01 15:20:11,906 - INFO - Collected 320 jobs so far
+2024-12-01 15:20:11,906 - INFO - Scraping page 17 of 384
+2024-12-01 15:20:15,368 - INFO - Getting job links from current page
+2024-12-01 15:20:18,402 - INFO - Found 20 job cards
+2024-12-01 15:20:18,415 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/958935
+2024-12-01 15:20:18,424 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/general-management-jobs/962600
+2024-12-01 15:20:18,433 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/909539
+2024-12-01 15:20:18,442 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/966632
+2024-12-01 15:20:18,451 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/989295
+2024-12-01 15:20:18,459 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/988823
+2024-12-01 15:20:18,468 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/988550
+2024-12-01 15:20:18,476 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/986279
+2024-12-01 15:20:18,485 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1006877
+2024-12-01 15:20:18,496 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1006182
+2024-12-01 15:20:18,505 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1006165
+2024-12-01 15:20:18,514 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1003425
+2024-12-01 15:20:18,522 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/996689
+2024-12-01 15:20:18,530 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/970185
+2024-12-01 15:20:18,538 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/969285
+2024-12-01 15:20:18,546 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/990597
+2024-12-01 15:20:18,554 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/990299
+2024-12-01 15:20:18,562 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/988781
+2024-12-01 15:20:18,570 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/916614
+2024-12-01 15:20:18,578 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/sales-or-business-development-or-account-management-jobs/987156
+2024-12-01 15:20:18,578 - INFO - Successfully extracted 20 job links
+2024-12-01 15:20:18,578 - INFO - Found 20 jobs on page 17
+2024-12-01 15:20:18,578 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/958935
+2024-12-01 15:20:21,774 - INFO - Successfully scraped job: Full Stack Software Developer
+2024-12-01 15:20:21,778 - INFO - Saved job: Full Stack Software Developer - NOV
+2024-12-01 15:20:23,117 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/general-management-jobs/962600
+2024-12-01 15:20:25,638 - DEBUG - No additional metadata found
+2024-12-01 15:20:25,656 - INFO - Successfully scraped job: Solution Architect, Energy & Carbon Management (IoT, Energy Management, Software)
+2024-12-01 15:20:25,660 - INFO - Saved job: Solution Architect, Energy & Carbon Management (IoT, Energy Management, Software) - Univers
+2024-12-01 15:20:27,258 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/909539
+2024-12-01 15:20:29,879 - INFO - Successfully scraped job: Werkstudent (m/w/d) Software-Entwicklung Low-Code
+2024-12-01 15:20:29,881 - INFO - Saved job: Werkstudent (m/w/d) Software-Entwicklung Low-Code - Bilfinger
+2024-12-01 15:20:31,030 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/966632
+2024-12-01 15:20:34,396 - INFO - Successfully scraped job: Intern Bachelor/Master - Embedded Software Developer/ - Tester
+2024-12-01 15:20:34,400 - INFO - Saved job: Intern Bachelor/Master - Embedded Software Developer/ - Tester - Honeywell
+2024-12-01 15:20:36,010 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/989295
+2024-12-01 15:20:39,282 - INFO - Successfully scraped job: Electrical & Software Innovation Lead
+2024-12-01 15:20:39,287 - INFO - Saved job: Electrical & Software Innovation Lead - ABB
+2024-12-01 15:20:40,757 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/988823
