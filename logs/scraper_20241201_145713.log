@@ -11379,3 +11379,63 @@
 2024-12-01 19:25:40,317 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000636
 2024-12-01 19:25:43,247 - INFO - Successfully scraped job: Multi Skilled Engineer - Gas Bias
 2024-12-01 19:25:43,252 - INFO - Saved job: Multi Skilled Engineer - Gas Bias - JOHN GRAHAM CONSTRUCTION LIMITED
+2024-12-01 19:25:45,131 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000630
+2024-12-01 19:25:48,333 - DEBUG - No additional metadata found
+2024-12-01 19:25:48,347 - INFO - Successfully scraped job: Gas Engineer
+2024-12-01 19:25:48,352 - INFO - Saved job: Gas Engineer - Bourne Leisure Ltd
+2024-12-01 19:25:49,570 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/846503
+2024-12-01 19:25:51,958 - INFO - Successfully scraped job: Asst. Mechanical Maintenance Engineer
+2024-12-01 19:25:51,962 - INFO - Saved job: Asst. Mechanical Maintenance Engineer - Shell
+2024-12-01 19:25:53,264 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1000622
+2024-12-01 19:26:06,081 - WARNING - Timeout waiting for company element
+2024-12-01 19:26:06,202 - INFO - Successfully scraped job: Engineering Project Manager, Electrical Projects
+2024-12-01 19:26:06,207 - INFO - Saved job: Engineering Project Manager, Electrical Projects - None
+2024-12-01 19:26:07,284 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/950682
+2024-12-01 19:26:09,885 - INFO - Successfully scraped job: Senior Power Systems Engineer
+2024-12-01 19:26:09,889 - INFO - Saved job: Senior Power Systems Engineer - Qualus
+2024-12-01 19:26:10,947 - INFO - Collected 2500 jobs so far
+2024-12-01 19:26:10,947 - INFO - Scraping page 126 of 389
+2024-12-01 19:26:13,993 - INFO - Getting job links from current page
+2024-12-01 19:26:17,027 - INFO - Found 20 job cards
+2024-12-01 19:26:17,038 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/925975
+2024-12-01 19:26:17,047 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/890377
+2024-12-01 19:26:17,055 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000694
+2024-12-01 19:26:17,064 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000636
+2024-12-01 19:26:17,072 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000630
+2024-12-01 19:26:17,080 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/production-jobs/846503
+2024-12-01 19:26:17,088 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1000622
+2024-12-01 19:26:17,096 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/950682
+2024-12-01 19:26:17,104 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/933969
+2024-12-01 19:26:17,113 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/933700
+2024-12-01 19:26:17,121 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/933400
+2024-12-01 19:26:17,130 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/933327
+2024-12-01 19:26:17,139 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/933205
+2024-12-01 19:26:17,147 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/932990
+2024-12-01 19:26:17,156 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/931729
+2024-12-01 19:26:17,164 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/931829
+2024-12-01 19:26:17,173 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000390
+2024-12-01 19:26:17,181 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1000239
+2024-12-01 19:26:17,190 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1000477
+2024-12-01 19:26:17,199 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1000466
+2024-12-01 19:26:17,199 - INFO - Successfully extracted 20 job links
+2024-12-01 19:26:17,199 - INFO - Found 20 jobs on page 126
+2024-12-01 19:26:17,199 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/925975
+2024-12-01 19:26:19,860 - INFO - Successfully scraped job: Electrical Technical Sales Support Engineer for Monterrey, N.L. Mexico
+2024-12-01 19:26:19,865 - INFO - Saved job: Electrical Technical Sales Support Engineer for Monterrey, N.L. Mexico - ABB
+2024-12-01 19:26:21,579 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/890377
+2024-12-01 19:26:23,793 - INFO - Successfully scraped job: Senior Process Engineer - Dairy
+2024-12-01 19:26:23,799 - INFO - Saved job: Senior Process Engineer - Dairy - AtkinsRéalis
+2024-12-01 19:26:25,177 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000694
+2024-12-01 19:26:27,458 - INFO - Successfully scraped job: Senior Mechanical Engineer (Nuclear) - Power (Kansas City)
+2024-12-01 19:26:27,463 - INFO - Saved job: Senior Mechanical Engineer (Nuclear) - Power (Kansas City) - Burns & McDonnell
+2024-12-01 19:26:29,097 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000636
+2024-12-01 19:26:32,719 - INFO - Successfully scraped job: Multi Skilled Engineer - Gas Bias
+2024-12-01 19:26:32,723 - INFO - Saved job: Multi Skilled Engineer - Gas Bias - JOHN GRAHAM CONSTRUCTION LIMITED
+2024-12-01 19:26:34,007 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000630
+2024-12-01 19:26:37,700 - DEBUG - No additional metadata found
+2024-12-01 19:26:37,715 - INFO - Successfully scraped job: Gas Engineer
+2024-12-01 19:26:37,720 - INFO - Saved job: Gas Engineer - Bourne Leisure Ltd
+2024-12-01 19:26:39,266 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/846503
+2024-12-01 19:26:42,362 - INFO - Successfully scraped job: Asst. Mechanical Maintenance Engineer
+2024-12-01 19:26:42,367 - INFO - Saved job: Asst. Mechanical Maintenance Engineer - Shell
+2024-12-01 19:26:44,063 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1000622
