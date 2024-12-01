@@ -5721,3 +5721,48 @@
 2024-12-01 17:08:03,178 - WARNING - Timeout waiting for company element
 2024-12-01 17:08:03,311 - INFO - Successfully scraped job: Principal Packages Engineer
 2024-12-01 17:08:03,316 - INFO - Saved job: Principal Packages Engineer - None
+2024-12-01 17:08:05,235 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/953841
+2024-12-01 17:08:17,497 - WARNING - Timeout waiting for company element
+2024-12-01 17:08:17,655 - INFO - Successfully scraped job: Geotechnical Engineering Project Manager
+2024-12-01 17:08:17,660 - INFO - Saved job: Geotechnical Engineering Project Manager - None
+2024-12-01 17:08:18,822 - INFO - Collected 1260 jobs so far
+2024-12-01 17:08:18,822 - INFO - Scraping page 64 of 384
+2024-12-01 17:08:22,654 - INFO - Getting job links from current page
+2024-12-01 17:08:25,690 - INFO - Found 20 job cards
+2024-12-01 17:08:25,704 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/981417
+2024-12-01 17:08:25,715 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/892440
+2024-12-01 17:08:25,726 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/981645
+2024-12-01 17:08:25,736 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/production-jobs/981768
+2024-12-01 17:08:25,746 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/981803
+2024-12-01 17:08:25,756 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/911700
+2024-12-01 17:08:25,767 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/911711
+2024-12-01 17:08:25,778 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/892502
+2024-12-01 17:08:25,789 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1004758
+2024-12-01 17:08:25,800 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1004698
+2024-12-01 17:08:25,810 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1004496
+2024-12-01 17:08:25,820 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1004483
+2024-12-01 17:08:25,830 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/900089
+2024-12-01 17:08:25,839 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1004447
+2024-12-01 17:08:25,850 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1004391
+2024-12-01 17:08:25,861 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1004396
+2024-12-01 17:08:25,871 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1004270
+2024-12-01 17:08:25,881 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1004190
+2024-12-01 17:08:25,891 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1004185
+2024-12-01 17:08:25,901 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1004166
+2024-12-01 17:08:25,901 - INFO - Successfully extracted 20 job links
+2024-12-01 17:08:25,901 - INFO - Found 20 jobs on page 64
+2024-12-01 17:08:25,901 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/981417
+2024-12-01 17:08:28,585 - INFO - Successfully scraped job: Engineer II | Renewable Generation Engineering
+2024-12-01 17:08:28,589 - INFO - Saved job: Engineer II | Renewable Generation Engineering - Arizona Public Service
+2024-12-01 17:08:30,110 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/892440
+2024-12-01 17:08:33,950 - INFO - Successfully scraped job: Construction Field Engineer - Oil, Gas, & Chemical
+2024-12-01 17:08:33,954 - INFO - Saved job: Construction Field Engineer - Oil, Gas, & Chemical - Kiewit
+2024-12-01 17:08:35,452 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/981645
+2024-12-01 17:08:48,916 - WARNING - Timeout waiting for company element
+2024-12-01 17:08:49,057 - INFO - Successfully scraped job: Static Equipment Engineer
+2024-12-01 17:08:49,062 - INFO - Saved job: Static Equipment Engineer - None
+2024-12-01 17:08:50,438 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/981768
+2024-12-01 17:09:03,333 - WARNING - Timeout waiting for company element
+2024-12-01 17:09:03,428 - INFO - Successfully scraped job: Crane / Mechanical Preparation Engineer M/F
+2024-12-01 17:09:03,434 - INFO - Saved job: Crane / Mechanical Preparation Engineer M/F - None
+2024-12-01 17:09:04,852 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/981803
