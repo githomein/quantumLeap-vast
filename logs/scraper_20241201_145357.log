@@ -10258,3 +10258,28 @@
 2024-12-01 18:55:27,692 - INFO - Successfully scraped job: Senior Engineer Electrical
 2024-12-01 18:55:27,697 - INFO - Saved job: Senior Engineer Electrical - None
 2024-12-01 18:55:29,075 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/899272
+2024-12-01 18:55:42,165 - WARNING - Timeout waiting for company element
+2024-12-01 18:55:42,347 - INFO - Successfully scraped job: Field Engineering Technician II - Construction Materials Testing
+2024-12-01 18:55:42,351 - INFO - Saved job: Field Engineering Technician II - Construction Materials Testing - None
+2024-12-01 18:55:44,334 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/920165
+2024-12-01 18:55:47,390 - INFO - Successfully scraped job: Gage Engineer III
+2024-12-01 18:55:47,394 - INFO - Saved job: Gage Engineer III - Honeywell
+2024-12-01 18:55:48,897 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/900129
+2024-12-01 18:55:51,444 - INFO - Successfully scraped job: Engineer - Nuclear Operations Support
+2024-12-01 18:55:51,448 - INFO - Saved job: Engineer - Nuclear Operations Support - AtkinsRéalis
+2024-12-01 18:55:52,855 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/966350
+2024-12-01 18:55:55,224 - INFO - Successfully scraped job: Motor Engineer
+2024-12-01 18:55:55,228 - INFO - Saved job: Motor Engineer - ABB
+2024-12-01 18:55:56,751 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/920470
+2024-12-01 18:55:59,297 - INFO - Successfully scraped job: Senior Energy Storage Engineer
+2024-12-01 18:55:59,302 - INFO - Saved job: Senior Energy Storage Engineer - ABB
+2024-12-01 18:56:00,469 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/989874
+2024-12-01 18:56:03,547 - INFO - Successfully scraped job: Sr Appl/Sys Sales Engineer - Remote -East Coast Region
+2024-12-01 18:56:03,552 - INFO - Saved job: Sr Appl/Sys Sales Engineer - Remote -East Coast Region - Honeywell
+2024-12-01 18:56:05,514 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/989719
+2024-12-01 18:56:17,914 - WARNING - Timeout waiting for company element
+2024-12-01 18:56:17,996 - DEBUG - No additional metadata found
+2024-12-01 18:56:18,011 - INFO - Successfully scraped job: Senior Planning and Control Engineer
+2024-12-01 18:56:18,017 - INFO - Saved job: Senior Planning and Control Engineer - None
+2024-12-01 18:56:19,715 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/legal-jobs/989648
+2024-12-01 18:56:33,130 - WARNING - Timeout waiting for company element
