@@ -3241,3 +3241,44 @@
 2024-12-01 16:13:39,466 - INFO - Successfully scraped job: (Senior) R&D Hardware Engineer (m/f/d)
 2024-12-01 16:13:39,468 - INFO - Saved job: (Senior) R&D Hardware Engineer (m/f/d) - ABB
 2024-12-01 16:13:41,019 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1000810
+2024-12-01 16:13:53,853 - WARNING - Timeout waiting for company element
+2024-12-01 16:13:53,980 - DEBUG - No additional metadata found
+2024-12-01 16:13:53,994 - INFO - Successfully scraped job: Senior Measurement Engineer
+2024-12-01 16:13:53,996 - INFO - Saved job: Senior Measurement Engineer - None
+2024-12-01 16:13:55,501 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1000808
+2024-12-01 16:14:08,075 - WARNING - Timeout waiting for company element
+2024-12-01 16:14:08,422 - DEBUG - No additional metadata found
+2024-12-01 16:14:08,437 - INFO - Successfully scraped job: Construction Specialist (Civil, Structural & Project Engineering)
+2024-12-01 16:14:08,441 - INFO - Saved job: Construction Specialist (Civil, Structural & Project Engineering) - None
+2024-12-01 16:14:09,843 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/910011
+2024-12-01 16:14:12,399 - INFO - Successfully scraped job: Senior/Principal Telecommunications Engineer - Paris, France - Contract
+2024-12-01 16:14:12,402 - INFO - Saved job: Senior/Principal Telecommunications Engineer - Paris, France - Contract - Wood PLC
+2024-12-01 16:14:14,034 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/931181
+2024-12-01 16:14:17,463 - INFO - Successfully scraped job: Senior Traction Power Engineer
+2024-12-01 16:14:17,466 - INFO - Saved job: Senior Traction Power Engineer - Hatch
+2024-12-01 16:14:18,884 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/930836
+2024-12-01 16:14:21,321 - INFO - Successfully scraped job: Energy Engineer
+2024-12-01 16:14:21,323 - INFO - Saved job: Energy Engineer - Wendel LLC
+2024-12-01 16:14:22,990 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/930696
+2024-12-01 16:14:26,530 - INFO - Successfully scraped job: Oil & Gas Engineering Program Manager
+2024-12-01 16:14:26,532 - INFO - Saved job: Oil & Gas Engineering Program Manager - Kleinfelder Inc
+2024-12-01 16:14:28,400 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/930753
+2024-12-01 16:14:30,973 - INFO - Successfully scraped job: Sr. Sales Engineer - Clean Power Systems
+2024-12-01 16:14:30,975 - INFO - Saved job: Sr. Sales Engineer - Clean Power Systems - Stark Tech
+2024-12-01 16:14:32,527 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/930750
+2024-12-01 16:14:35,486 - INFO - Successfully scraped job: Sr. Sales Engineer- Clean Power Systems
+2024-12-01 16:14:35,488 - INFO - Saved job: Sr. Sales Engineer- Clean Power Systems - Stark Tech
+2024-12-01 16:14:36,673 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/930570
+2024-12-01 16:14:39,744 - INFO - Successfully scraped job: Senior Traction Power Engineer
+2024-12-01 16:14:39,747 - INFO - Saved job: Senior Traction Power Engineer - AECOM
+2024-12-01 16:14:41,192 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/930457
+2024-12-01 16:14:43,535 - INFO - Successfully scraped job: Electrical Power Systems Test Engineer III - Lunar Permanence
+2024-12-01 16:14:43,538 - INFO - Saved job: Electrical Power Systems Test Engineer III - Lunar Permanence - Blue Origin, LLC
+2024-12-01 16:14:44,965 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/930277
+2024-12-01 16:14:47,560 - INFO - Successfully scraped job: Mine Engineering Intern (Summer 2025)
+2024-12-01 16:14:47,563 - INFO - Saved job: Mine Engineering Intern (Summer 2025) - Holcim
+2024-12-01 16:14:49,431 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/975999
+2024-12-01 16:14:52,433 - INFO - Successfully scraped job: Retro-Commissioning Energy Engineer (RCEE)
+2024-12-01 16:14:52,436 - INFO - Saved job: Retro-Commissioning Energy Engineer (RCEE) - Virginia Jobs
+2024-12-01 16:14:53,661 - INFO - Collected 720 jobs so far
+2024-12-01 16:14:53,661 - INFO - Scraping page 37 of 389
