@@ -2832,3 +2832,20 @@
 2024-12-01 15:55:21,613 - INFO - Successfully scraped job: Project Engineer ( Food /m Automotive / Medical / chemical manufacturing )
 2024-12-01 15:55:21,617 - INFO - Saved job: Project Engineer ( Food /m Automotive / Medical / chemical manufacturing ) - None
 2024-12-01 15:55:23,183 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/oilfield-jobs/1001684
+2024-12-01 15:55:36,135 - WARNING - Timeout waiting for company element
+2024-12-01 15:55:36,344 - INFO - Successfully scraped job: Petroleum Engineers (Digital Oil Field Workflows)
+2024-12-01 15:55:36,352 - INFO - Saved job: Petroleum Engineers (Digital Oil Field Workflows) - None
+2024-12-01 15:55:37,353 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000911
+2024-12-01 15:55:50,963 - WARNING - Timeout waiting for company element
+2024-12-01 15:55:51,384 - DEBUG - No additional metadata found
+2024-12-01 15:55:51,398 - INFO - Successfully scraped job: Lead Instrumentation and Control Engineer
+2024-12-01 15:55:51,402 - INFO - Saved job: Lead Instrumentation and Control Engineer - None
+2024-12-01 15:55:52,748 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000840
+2024-12-01 15:56:06,125 - WARNING - Timeout waiting for company element
+2024-12-01 15:56:06,431 - INFO - Successfully scraped job: Lead Safety Engineer
+2024-12-01 15:56:06,435 - INFO - Saved job: Lead Safety Engineer - None
+2024-12-01 15:56:07,949 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/general-management-jobs/999801
+2024-12-01 15:56:21,846 - WARNING - Timeout waiting for company element
+2024-12-01 15:56:22,166 - INFO - Successfully scraped job: Senior Project Engineer
+2024-12-01 15:56:22,169 - INFO - Saved job: Senior Project Engineer - None
+2024-12-01 15:56:23,191 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990727
