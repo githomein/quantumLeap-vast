@@ -4697,3 +4697,34 @@
 2024-12-01 16:46:30,531 - INFO - Successfully scraped job: Senior Structural Engineer
 2024-12-01 16:46:30,534 - INFO - Saved job: Senior Structural Engineer - AtkinsRéalis
 2024-12-01 16:46:31,853 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/900240
+2024-12-01 16:46:35,064 - INFO - Successfully scraped job: AFC Engineer (Saudi National)
+2024-12-01 16:46:35,067 - INFO - Saved job: AFC Engineer (Saudi National) - AtkinsRéalis
+2024-12-01 16:46:36,824 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/990097
+2024-12-01 16:46:40,119 - INFO - Successfully scraped job: Proposal Engineer
+2024-12-01 16:46:40,121 - INFO - Saved job: Proposal Engineer - NOV
+2024-12-01 16:46:41,683 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/906771
+2024-12-01 16:46:43,869 - INFO - Successfully scraped job: Field Engineer, L&P (Associate to Senior)
+2024-12-01 16:46:43,871 - INFO - Saved job: Field Engineer, L&P (Associate to Senior) - Halliburton
+2024-12-01 16:46:45,825 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/989944
+2024-12-01 16:46:49,134 - INFO - Successfully scraped job: Cyber Security Engineer
+2024-12-01 16:46:49,137 - INFO - Saved job: Cyber Security Engineer - Honeywell
+2024-12-01 16:46:50,734 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/989749
+2024-12-01 16:46:54,550 - INFO - Successfully scraped job: Chief Engineer Transmission & Distribution
+2024-12-01 16:46:54,555 - INFO - Saved job: Chief Engineer Transmission & Distribution - AtkinsRéalis
+2024-12-01 16:46:56,024 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/989750
+2024-12-01 16:46:58,310 - INFO - Successfully scraped job: Mechanical & Piping Engineer
+2024-12-01 16:46:58,312 - INFO - Saved job: Mechanical & Piping Engineer - AtkinsRéalis
+2024-12-01 16:47:00,069 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/989702
+2024-12-01 16:47:13,889 - WARNING - Timeout waiting for company element
+2024-12-01 16:47:14,041 - INFO - Successfully scraped job: Engineer - Instrument
+2024-12-01 16:47:14,045 - INFO - Saved job: Engineer - Instrument - None
+2024-12-01 16:47:15,265 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/989646
+2024-12-01 16:47:28,007 - WARNING - Timeout waiting for company element
+2024-12-01 16:47:28,138 - INFO - Successfully scraped job: Safety & Environment Engineer Working Environment
+2024-12-01 16:47:28,141 - INFO - Saved job: Safety & Environment Engineer Working Environment - None
+2024-12-01 16:47:29,244 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/965681
+2024-12-01 16:47:31,651 - INFO - Successfully scraped job: Staff Preliminary Cycle Design Engineer
+2024-12-01 16:47:31,654 - INFO - Saved job: Staff Preliminary Cycle Design Engineer - GE Renewable Energy Power and Aviation
+2024-12-01 16:47:33,366 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/965994
+2024-12-01 16:47:35,289 - INFO - Successfully scraped job: Back-End Software Engineer Intern (12 months) - Starting Summer 2025
+2024-12-01 16:47:35,293 - INFO - Saved job: Back-End Software Engineer Intern (12 months) - Starting Summer 2025 - Schlumberger
