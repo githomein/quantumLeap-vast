@@ -1241,3 +1241,69 @@
 2024-12-01 15:24:33,831 - INFO - Successfully scraped job: Zastępca Kierownika Kontraktu w Obiekcie Data Center Oddziału SAR
 2024-12-01 15:24:33,836 - INFO - Saved job: Zastępca Kierownika Kontraktu w Obiekcie Data Center Oddziału SAR - Engie
 2024-12-01 15:24:35,179 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/oilfield-jobs/1001684
+2024-12-01 15:24:48,838 - WARNING - Timeout waiting for company element
+2024-12-01 15:24:49,069 - INFO - Successfully scraped job: Petroleum Engineers (Digital Oil Field Workflows)
+2024-12-01 15:24:49,073 - INFO - Saved job: Petroleum Engineers (Digital Oil Field Workflows) - None
+2024-12-01 15:24:50,620 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/931137
+2024-12-01 15:24:54,512 - INFO - Successfully scraped job: Civil/Mechanical Engineer II/III (Gas)
+2024-12-01 15:24:54,514 - INFO - Saved job: Civil/Mechanical Engineer II/III (Gas) - Milhouse Engineering and Construction, Inc.
+2024-12-01 15:24:55,854 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000653
+2024-12-01 15:24:57,825 - INFO - Successfully scraped job: Lead Power System Engineer (m/w/d)
+2024-12-01 15:24:57,828 - INFO - Saved job: Lead Power System Engineer (m/w/d) - ILF Consulting Engineers
+2024-12-01 15:24:59,002 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/994544
+2024-12-01 15:25:02,691 - INFO - Successfully scraped job: Power Systems Engineer
+2024-12-01 15:25:02,694 - INFO - Saved job: Power Systems Engineer - Excel Engineering Inc
+2024-12-01 15:25:03,788 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/993030
+2024-12-01 15:25:05,860 - INFO - Successfully scraped job: Principal/Senior Power Systems Engineer
+2024-12-01 15:25:05,863 - INFO - Saved job: Principal/Senior Power Systems Engineer - Electric Power Engineers
+2024-12-01 15:25:07,206 - INFO - Collected 280 jobs so far
+2024-12-01 15:25:07,207 - INFO - Scraping page 15 of 389
+2024-12-01 15:25:09,835 - INFO - Getting job links from current page
+2024-12-01 15:25:12,868 - INFO - Found 20 job cards
+2024-12-01 15:25:12,880 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/928436
+2024-12-01 15:25:12,890 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/927951
+2024-12-01 15:25:12,899 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/971313
+2024-12-01 15:25:12,908 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/963766
+2024-12-01 15:25:12,917 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/994891
+2024-12-01 15:25:12,926 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/912585
+2024-12-01 15:25:12,937 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/952353
+2024-12-01 15:25:12,947 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/927013
+2024-12-01 15:25:12,957 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/997187
+2024-12-01 15:25:12,966 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/997086
+2024-12-01 15:25:12,975 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/997054
+2024-12-01 15:25:12,985 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/951552
+2024-12-01 15:25:12,994 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/933512
+2024-12-01 15:25:13,003 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/environmental-jobs/935769
+2024-12-01 15:25:13,012 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/997151
+2024-12-01 15:25:13,021 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/997134
+2024-12-01 15:25:13,030 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/969703
+2024-12-01 15:25:13,039 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/995476
+2024-12-01 15:25:13,047 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/935986
+2024-12-01 15:25:13,056 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/981516
+2024-12-01 15:25:13,056 - INFO - Successfully extracted 20 job links
+2024-12-01 15:25:13,056 - INFO - Found 20 jobs on page 15
+2024-12-01 15:25:13,056 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/928436
+2024-12-01 15:25:15,547 - INFO - Successfully scraped job: Power Systems Engineer - Design
+2024-12-01 15:25:15,550 - INFO - Saved job: Power Systems Engineer - Design - Schweitzer Engineering Laboratories, Inc.
+2024-12-01 15:25:16,673 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/927951
+2024-12-01 15:25:18,673 - INFO - Successfully scraped job: Senior Energy Engineer
+2024-12-01 15:25:18,675 - INFO - Saved job: Senior Energy Engineer - ENTECH ENGINEERING INC
+2024-12-01 15:25:20,423 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/971313
+2024-12-01 15:25:23,103 - INFO - Successfully scraped job: Associate Sales Engineer - Power Systems
+2024-12-01 15:25:23,106 - INFO - Saved job: Associate Sales Engineer - Power Systems - Schweitzer Engineering Laboratories, Inc.
+2024-12-01 15:25:25,060 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/963766
+2024-12-01 15:25:27,924 - INFO - Successfully scraped job: Graduate Engineer I - Water/Waste Water
+2024-12-01 15:25:27,927 - INFO - Saved job: Graduate Engineer I - Water/Waste Water - LJA Engineering
+2024-12-01 15:25:29,078 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/994891
+2024-12-01 15:25:31,800 - INFO - Successfully scraped job: Engineering Project Manager - Renewable Energy
+2024-12-01 15:25:31,802 - INFO - Saved job: Engineering Project Manager - Renewable Energy - Revamp Engineering
+2024-12-01 15:25:33,010 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/912585
+2024-12-01 15:25:34,938 - INFO - Successfully scraped job: Mid-Level Water/Wastewater Engineer
+2024-12-01 15:25:34,940 - INFO - Saved job: Mid-Level Water/Wastewater Engineer - Carollo Engineers Inc.
+2024-12-01 15:25:36,655 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/952353
+2024-12-01 15:25:39,225 - INFO - Successfully scraped job: Entry Level Mechanical Engineer- Petro-Chemical
+2024-12-01 15:25:39,231 - INFO - Saved job: Entry Level Mechanical Engineer- Petro-Chemical - Stress Engineering Services, Inc.
+2024-12-01 15:25:40,308 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/927013
+2024-12-01 15:25:42,779 - INFO - Successfully scraped job: Graduate Engineer II - Water/Wastewater
+2024-12-01 15:25:42,782 - INFO - Saved job: Graduate Engineer II - Water/Wastewater - LJA Engineering
+2024-12-01 15:25:44,532 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/997187
