@@ -4982,3 +4982,19 @@
 2024-12-01 16:54:39,542 - INFO - Successfully scraped job: Principle Subsea Engineer
 2024-12-01 16:54:39,546 - INFO - Saved job: Principle Subsea Engineer - None
 2024-12-01 16:54:41,493 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005906
+2024-12-01 16:54:53,603 - WARNING - Timeout waiting for company element
+2024-12-01 16:54:53,807 - INFO - Successfully scraped job: Senior Technical Safety Engineer
+2024-12-01 16:54:53,811 - INFO - Saved job: Senior Technical Safety Engineer - None
+2024-12-01 16:54:54,852 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005781
+2024-12-01 16:55:08,171 - WARNING - Timeout waiting for company element
+2024-12-01 16:55:08,500 - INFO - Successfully scraped job: Area Engineer
+2024-12-01 16:55:08,503 - INFO - Saved job: Area Engineer - None
+2024-12-01 16:55:10,294 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005117
+2024-12-01 16:55:23,888 - WARNING - Timeout waiting for company element
+2024-12-01 16:55:24,145 - INFO - Successfully scraped job: Engineering Manager
+2024-12-01 16:55:24,148 - INFO - Saved job: Engineering Manager - None
+2024-12-01 16:55:25,445 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001630
+2024-12-01 16:55:39,849 - WARNING - Timeout waiting for company element
+2024-12-01 16:55:39,987 - INFO - Successfully scraped job: Lead Rotating Engineer
+2024-12-01 16:55:39,990 - INFO - Saved job: Lead Rotating Engineer - None
+2024-12-01 16:55:41,419 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000709
