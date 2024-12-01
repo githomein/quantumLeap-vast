@@ -5257,3 +5257,31 @@
 2024-12-01 17:02:49,827 - INFO - Successfully scraped job: Senior Field Service Engineer
 2024-12-01 17:02:49,831 - INFO - Saved job: Senior Field Service Engineer - ABB
 2024-12-01 17:02:51,588 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005777
+2024-12-01 17:03:04,432 - WARNING - Timeout waiting for company element
+2024-12-01 17:03:04,633 - INFO - Successfully scraped job: Senior Forensics Engineer
+2024-12-01 17:03:04,638 - INFO - Saved job: Senior Forensics Engineer - None
+2024-12-01 17:03:06,627 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1005677
+2024-12-01 17:03:10,170 - INFO - Successfully scraped job: PCB CAD Design Engineer
+2024-12-01 17:03:10,173 - INFO - Saved job: PCB CAD Design Engineer - Honeywell
+2024-12-01 17:03:12,009 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005578
+2024-12-01 17:03:14,526 - INFO - Successfully scraped job: System Design Engineer (m/f/d)
+2024-12-01 17:03:14,530 - INFO - Saved job: System Design Engineer (m/f/d) - Emerson
+2024-12-01 17:03:16,385 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005594
+2024-12-01 17:03:18,562 - INFO - Successfully scraped job: Computer System Validation Lead Engineer
+2024-12-01 17:03:18,566 - INFO - Saved job: Computer System Validation Lead Engineer - Emerson
+2024-12-01 17:03:20,039 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/1005611
+2024-12-01 17:03:22,382 - INFO - Successfully scraped job: Edison Works Manufacturing Engineering & Technology Leader
+2024-12-01 17:03:22,387 - INFO - Saved job: Edison Works Manufacturing Engineering & Technology Leader - GE Renewable Energy Power and Aviation
+2024-12-01 17:03:23,666 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1005376
+2024-12-01 17:03:36,198 - WARNING - Timeout waiting for company element
+2024-12-01 17:03:36,592 - INFO - Successfully scraped job: Field Civil Engineer
+2024-12-01 17:03:36,595 - INFO - Saved job: Field Civil Engineer - None
+2024-12-01 17:03:37,688 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1005372
+2024-12-01 17:03:50,676 - WARNING - Timeout waiting for company element
+2024-12-01 17:03:50,772 - DEBUG - No additional metadata found
+2024-12-01 17:03:50,790 - INFO - Successfully scraped job: Senior QA/QC Engineer
+2024-12-01 17:03:50,793 - INFO - Saved job: Senior QA/QC Engineer - None
+2024-12-01 17:03:52,589 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/912058
+2024-12-01 17:03:54,845 - INFO - Successfully scraped job: Advanced Lead Engineer - Mechanical Component
+2024-12-01 17:03:54,850 - INFO - Saved job: Advanced Lead Engineer - Mechanical Component - GE Renewable Energy Power and Aviation
+2024-12-01 17:03:56,561 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/983822
