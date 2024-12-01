@@ -13820,3 +13820,33 @@
 2024-12-01 20:25:20,927 - INFO - Successfully scraped job: Engineer - Preservation
 2024-12-01 20:25:20,932 - INFO - Saved job: Engineer - Preservation - None
 2024-12-01 20:25:22,558 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001695
+2024-12-01 20:25:35,348 - WARNING - Timeout waiting for company element
+2024-12-01 20:25:35,475 - INFO - Successfully scraped job: Principal Instrumentation Engineer
+2024-12-01 20:25:35,482 - INFO - Saved job: Principal Instrumentation Engineer - None
+2024-12-01 20:25:36,970 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001634
+2024-12-01 20:25:40,034 - INFO - Successfully scraped job: Field Execution Engineer (Electrical)
+2024-12-01 20:25:40,040 - INFO - Saved job: Field Execution Engineer (Electrical) - Shell
+2024-12-01 20:25:41,418 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/976325
+2024-12-01 20:25:47,486 - DEBUG - No additional metadata found
+2024-12-01 20:25:47,500 - INFO - Successfully scraped job: Intern - Gas Engineering
+2024-12-01 20:25:47,505 - INFO - Saved job: Intern - Gas Engineering - Berkshire Hathaway Energy
+2024-12-01 20:25:49,295 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/976297
+2024-12-01 20:25:52,484 - INFO - Successfully scraped job: Turbine/Generator Engineer - PJM Fossil Plants
+2024-12-01 20:25:52,489 - INFO - Saved job: Turbine/Generator Engineer - PJM Fossil Plants - Talen Energy
+2024-12-01 20:25:53,901 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/951075
+2024-12-01 20:25:56,438 - INFO - Successfully scraped job: Embedded Software Engineer
+2024-12-01 20:25:56,444 - INFO - Saved job: Embedded Software Engineer - Emerson
+2024-12-01 20:25:57,906 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/951092
+2024-12-01 20:26:01,440 - INFO - Successfully scraped job: Test Engineer Product Validation
+2024-12-01 20:26:01,446 - INFO - Saved job: Test Engineer Product Validation - Emerson
+2024-12-01 20:26:02,657 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/976561
+2024-12-01 20:26:06,557 - INFO - Successfully scraped job: PAS Engineer
+2024-12-01 20:26:06,564 - INFO - Saved job: PAS Engineer - Emerson
+2024-12-01 20:26:07,859 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/951201
+2024-12-01 20:26:21,391 - WARNING - Timeout waiting for company element
+2024-12-01 20:26:21,653 - INFO - Successfully scraped job: Electrical Lead Engineer
+2024-12-01 20:26:21,660 - INFO - Saved job: Electrical Lead Engineer - None
+2024-12-01 20:26:22,697 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/976222
+2024-12-01 20:26:26,341 - INFO - Successfully scraped job: Manufacturing Process Development Engineer, Power Electronics, Vehicle & Energy Storage
+2024-12-01 20:26:26,346 - INFO - Saved job: Manufacturing Process Development Engineer, Power Electronics, Vehicle & Energy Storage - Tesla Motors
+2024-12-01 20:26:28,236 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/910144
