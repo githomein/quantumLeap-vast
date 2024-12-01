@@ -3881,3 +3881,56 @@
 2024-12-01 16:20:59,183 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/975340
 2024-12-01 16:21:01,020 - INFO - Successfully scraped job: Data Engineer
 2024-12-01 16:21:01,023 - INFO - Saved job: Data Engineer - Chevron
+2024-12-01 16:21:02,662 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/925535
+2024-12-01 16:21:05,471 - INFO - Successfully scraped job: Engineer II
+2024-12-01 16:21:05,474 - INFO - Saved job: Engineer II - Engie
+2024-12-01 16:21:07,319 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/925569
+2024-12-01 16:21:11,162 - INFO - Successfully scraped job: Sr PSM (Process Safety Management) Engineer
+2024-12-01 16:21:11,165 - INFO - Saved job: Sr PSM (Process Safety Management) Engineer - Honeywell
+2024-12-01 16:21:12,686 - INFO - Collected 860 jobs so far
+2024-12-01 16:21:12,686 - INFO - Scraping page 44 of 384
+2024-12-01 16:21:15,269 - INFO - Getting job links from current page
+2024-12-01 16:21:18,302 - INFO - Found 20 job cards
+2024-12-01 16:21:18,314 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000308
+2024-12-01 16:21:18,323 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000246
+2024-12-01 16:21:18,332 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/production-jobs/1000269
+2024-12-01 16:21:18,340 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1000135
+2024-12-01 16:21:18,352 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/offshore-jobs/1000067
+2024-12-01 16:21:18,362 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/925187
+2024-12-01 16:21:18,371 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/975007
+2024-12-01 16:21:18,380 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/974989
+2024-12-01 16:21:18,389 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/818920
+2024-12-01 16:21:18,398 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/975639
+2024-12-01 16:21:18,407 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/925393
+2024-12-01 16:21:18,415 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/925492
+2024-12-01 16:21:18,424 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1000032
+2024-12-01 16:21:18,432 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/935958
+2024-12-01 16:21:18,441 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/935836
+2024-12-01 16:21:18,450 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/975330
+2024-12-01 16:21:18,458 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/935702
+2024-12-01 16:21:18,467 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/935504
+2024-12-01 16:21:18,476 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/935614
+2024-12-01 16:21:18,485 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/975315
+2024-12-01 16:21:18,485 - INFO - Successfully extracted 20 job links
+2024-12-01 16:21:18,485 - INFO - Found 20 jobs on page 44
+2024-12-01 16:21:18,485 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000308
+2024-12-01 16:21:21,679 - INFO - Successfully scraped job: Process Automation Engineer
+2024-12-01 16:21:21,682 - INFO - Saved job: Process Automation Engineer - Emerson
+2024-12-01 16:21:23,549 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000246
+2024-12-01 16:21:26,471 - INFO - Successfully scraped job: Process Engineer
+2024-12-01 16:21:26,474 - INFO - Saved job: Process Engineer - Wood PLC
+2024-12-01 16:21:27,487 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/1000269
+2024-12-01 16:21:30,796 - INFO - Successfully scraped job: Service Production Engineering Manager
+2024-12-01 16:21:30,799 - INFO - Saved job: Service Production Engineering Manager - ABB
+2024-12-01 16:21:31,965 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1000135
+2024-12-01 16:21:44,491 - WARNING - Timeout waiting for company element
+2024-12-01 16:21:44,609 - DEBUG - No additional metadata found
+2024-12-01 16:21:44,624 - INFO - Successfully scraped job: Lead Electrical Engineer
+2024-12-01 16:21:44,628 - INFO - Saved job: Lead Electrical Engineer - None
+2024-12-01 16:21:45,695 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/offshore-jobs/1000067
+2024-12-01 16:21:58,608 - WARNING - Timeout waiting for company element
+2024-12-01 16:21:58,842 - INFO - Successfully scraped job: Senior Lead Engineer Flow Assurance Projects
+2024-12-01 16:21:58,846 - INFO - Saved job: Senior Lead Engineer Flow Assurance Projects - None
+2024-12-01 16:21:59,975 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/925187
+2024-12-01 16:22:02,433 - INFO - Successfully scraped job: Water/Wastewater Project Engineer
+2024-12-01 16:22:02,436 - INFO - Saved job: Water/Wastewater Project Engineer - Garver
