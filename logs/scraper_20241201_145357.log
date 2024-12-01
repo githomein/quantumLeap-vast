@@ -9042,3 +9042,27 @@
 2024-12-01 18:26:23,488 - INFO - Successfully scraped job: Senior Maintenance Engineer
 2024-12-01 18:26:23,492 - INFO - Saved job: Senior Maintenance Engineer - Wood PLC
 2024-12-01 18:26:24,759 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1000271
+2024-12-01 18:26:27,891 - INFO - Successfully scraped job: APPLICATION ENGINEER
+2024-12-01 18:26:27,895 - INFO - Saved job: APPLICATION ENGINEER - ABB
+2024-12-01 18:26:29,019 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/975197
+2024-12-01 18:26:32,861 - INFO - Successfully scraped job: C&I Energy Engineer
+2024-12-01 18:26:32,867 - INFO - Saved job: C&I Energy Engineer - CLEAResult
+2024-12-01 18:26:34,786 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/965002
+2024-12-01 18:26:37,235 - DEBUG - No additional metadata found
+2024-12-01 18:26:37,249 - INFO - Successfully scraped job: ENGINEER NUCLEAR 3
+2024-12-01 18:26:37,252 - INFO - Saved job: ENGINEER NUCLEAR 3 - Huntington Ingalls Industries
+2024-12-01 18:26:38,955 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/environmental-jobs/975567
+2024-12-01 18:26:52,422 - WARNING - Timeout waiting for company element
+2024-12-01 18:26:52,496 - DEBUG - No additional metadata found
+2024-12-01 18:26:52,510 - INFO - Successfully scraped job: Environmental Engineer
+2024-12-01 18:26:52,515 - INFO - Saved job: Environmental Engineer - None
+2024-12-01 18:26:54,178 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/818782
+2024-12-01 18:27:06,739 - WARNING - Timeout waiting for company element
+2024-12-01 18:27:06,837 - DEBUG - No additional metadata found
+2024-12-01 18:27:06,851 - INFO - Successfully scraped job: Instrument and Control System Engineer SENIOR
+2024-12-01 18:27:06,856 - INFO - Saved job: Instrument and Control System Engineer SENIOR - None
+2024-12-01 18:27:07,866 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/818639
+2024-12-01 18:27:21,084 - WARNING - Timeout waiting for company element
+2024-12-01 18:27:21,233 - INFO - Successfully scraped job: Administrateur Aveva Engineering et/ou Hexagon SPF-SDX F/H
+2024-12-01 18:27:21,237 - INFO - Saved job: Administrateur Aveva Engineering et/ou Hexagon SPF-SDX F/H - None
+2024-12-01 18:27:23,000 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/general-management-jobs/818503
