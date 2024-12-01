@@ -4481,3 +4481,36 @@
 2024-12-01 16:34:14,074 - INFO - Successfully scraped job: Construction Engineer - HVAC
 2024-12-01 16:34:14,078 - INFO - Saved job: Construction Engineer - HVAC - HPC Jobs Service
 2024-12-01 16:34:15,920 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/885631
+2024-12-01 16:34:19,519 - DEBUG - No additional metadata found
+2024-12-01 16:34:19,534 - INFO - Successfully scraped job: Project Construction Engineer (HVAC) (CON40151)
+2024-12-01 16:34:19,537 - INFO - Saved job: Project Construction Engineer (HVAC) (CON40151) - HPC Jobs Service
+2024-12-01 16:34:20,606 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/898402
+2024-12-01 16:34:22,829 - INFO - Successfully scraped job: Mobile Multi-Skilled Engineer (Elec or HVAC) - Northwest England
+2024-12-01 16:34:22,833 - INFO - Saved job: Mobile Multi-Skilled Engineer (Elec or HVAC) - Northwest England - CBRE
+2024-12-01 16:34:24,491 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/919513
+2024-12-01 16:34:28,403 - INFO - Successfully scraped job: Engineering Manager - Electrical & Power Systems
+2024-12-01 16:34:28,407 - INFO - Saved job: Engineering Manager - Electrical & Power Systems - Xodus Group
+2024-12-01 16:34:29,864 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/896350
+2024-12-01 16:34:31,863 - DEBUG - No additional metadata found
+2024-12-01 16:34:31,876 - INFO - Successfully scraped job: Regional Generator Engineer - Caerphilly
+2024-12-01 16:34:31,879 - INFO - Saved job: Regional Generator Engineer - Caerphilly - GAP Group
+2024-12-01 16:34:33,675 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/869242
+2024-12-01 16:34:36,800 - DEBUG - No additional metadata found
+2024-12-01 16:34:36,814 - INFO - Successfully scraped job: Secundair Engineer Hoogspanning
+2024-12-01 16:34:36,817 - INFO - Saved job: Secundair Engineer Hoogspanning - Bilfinger
+2024-12-01 16:34:37,909 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/895093
+2024-12-01 16:34:40,617 - INFO - Successfully scraped job: Principal EC&I Engineer - Nuclear
+2024-12-01 16:34:40,621 - INFO - Saved job: Principal EC&I Engineer - Nuclear - AECOM
+2024-12-01 16:34:42,257 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/955520
+2024-12-01 16:34:55,172 - WARNING - Timeout waiting for company element
+2024-12-01 16:34:55,301 - DEBUG - No additional metadata found
+2024-12-01 16:34:55,315 - INFO - Successfully scraped job: Engineering Manager
+2024-12-01 16:34:55,319 - INFO - Saved job: Engineering Manager - None
+2024-12-01 16:34:56,801 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/917397
+2024-12-01 16:34:59,924 - INFO - Successfully scraped job: Battery Energy Storage Engineer
+2024-12-01 16:34:59,928 - INFO - Saved job: Battery Energy Storage Engineer - GHD Group
+2024-12-01 16:35:01,887 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/814494
+2024-12-01 16:35:15,889 - WARNING - Timeout waiting for company element
+2024-12-01 16:35:16,017 - INFO - Successfully scraped job: Senior Process Safety Engineer
+2024-12-01 16:35:16,020 - INFO - Saved job: Senior Process Safety Engineer - None
+2024-12-01 16:35:17,237 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/967800
