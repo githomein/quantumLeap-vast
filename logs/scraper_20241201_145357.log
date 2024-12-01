@@ -4834,3 +4834,33 @@
 2024-12-01 16:44:26,011 - INFO - Successfully extracted 20 job links
 2024-12-01 16:44:26,011 - INFO - Found 20 jobs on page 54
 2024-12-01 16:44:26,011 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/992134
+2024-12-01 16:44:38,914 - WARNING - Timeout waiting for company element
+2024-12-01 16:44:39,075 - INFO - Successfully scraped job: Lead Mechanical Static Engineer
+2024-12-01 16:44:39,078 - INFO - Saved job: Lead Mechanical Static Engineer - None
+2024-12-01 16:44:40,121 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/992082
+2024-12-01 16:44:53,925 - WARNING - Timeout waiting for company element
+2024-12-01 16:44:54,007 - DEBUG - No additional metadata found
+2024-12-01 16:44:54,021 - INFO - Successfully scraped job: Senior ORA Engineer
+2024-12-01 16:44:54,025 - INFO - Saved job: Senior ORA Engineer - None
+2024-12-01 16:44:55,708 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991810
+2024-12-01 16:44:58,142 - INFO - Successfully scraped job: Product Packaging Engineer
+2024-12-01 16:44:58,146 - INFO - Saved job: Product Packaging Engineer - Emerson
+2024-12-01 16:44:59,670 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991905
+2024-12-01 16:45:03,292 - INFO - Successfully scraped job: Severe service solution engineer I - Sempell
+2024-12-01 16:45:03,295 - INFO - Saved job: Severe service solution engineer I - Sempell - Emerson
+2024-12-01 16:45:04,816 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991775
+2024-12-01 16:45:07,948 - INFO - Successfully scraped job: Manufacturing Engineer
+2024-12-01 16:45:07,952 - INFO - Saved job: Manufacturing Engineer - Emerson
+2024-12-01 16:45:09,100 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/991716
+2024-12-01 16:45:12,583 - INFO - Successfully scraped job: Desk Sales Engineer
+2024-12-01 16:45:12,586 - INFO - Saved job: Desk Sales Engineer - Emerson
+2024-12-01 16:45:13,902 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/991519
+2024-12-01 16:45:15,741 - INFO - Successfully scraped job: Electronic Product Quality Engineer
+2024-12-01 16:45:15,744 - INFO - Saved job: Electronic Product Quality Engineer - Schneider Electric
+2024-12-01 16:45:17,710 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991391
+2024-12-01 16:45:20,032 - INFO - Successfully scraped job: Project Engineer
+2024-12-01 16:45:20,035 - INFO - Saved job: Project Engineer - Schneider Electric
+2024-12-01 16:45:21,829 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/991288
+2024-12-01 16:45:25,071 - INFO - Successfully scraped job: Senior Instrumentation Engineer
+2024-12-01 16:45:25,076 - INFO - Saved job: Senior Instrumentation Engineer - Wood PLC
+2024-12-01 16:45:26,855 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/991257
