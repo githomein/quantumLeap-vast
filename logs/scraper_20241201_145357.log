@@ -2365,3 +2365,64 @@
 2024-12-01 15:39:57,144 - INFO - Successfully scraped job: EPCI Manager
 2024-12-01 15:39:57,148 - INFO - Saved job: EPCI Manager - None
 2024-12-01 15:39:58,729 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/953309
+2024-12-01 15:40:01,043 - DEBUG - No additional metadata found
+2024-12-01 15:40:01,056 - INFO - Successfully scraped job: Performance Testing Architect with Loadrunner expertise & Onsite Offshore exp
+2024-12-01 15:40:01,059 - INFO - Saved job: Performance Testing Architect with Loadrunner expertise & Onsite Offshore exp - CAPGEMINI ENGINEERING
+2024-12-01 15:40:02,845 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1001487
+2024-12-01 15:40:05,568 - INFO - Successfully scraped job: POWER PLANT OPERATOR TC-I
+2024-12-01 15:40:05,571 - INFO - Saved job: POWER PLANT OPERATOR TC-I - U.S. Army Corps of Engineers
+2024-12-01 15:40:07,308 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/927027
+2024-12-01 15:40:09,615 - INFO - Successfully scraped job: Technical Manager - Wastewater Treatment
+2024-12-01 15:40:09,618 - INFO - Saved job: Technical Manager - Wastewater Treatment - Colliers Engineering & Design
+2024-12-01 15:40:11,447 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/926590
+2024-12-01 15:40:14,002 - INFO - Successfully scraped job: Senior Project Manager - Water/Wastewater
+2024-12-01 15:40:14,005 - INFO - Saved job: Senior Project Manager - Water/Wastewater - Pape-Dawson Engineers
+2024-12-01 15:40:15,159 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/923504
+2024-12-01 15:40:17,031 - INFO - Successfully scraped job: Geotechnical Driller
+2024-12-01 15:40:17,034 - INFO - Saved job: Geotechnical Driller - Tolunay-Wong Engineers, Inc.
+2024-12-01 15:40:18,092 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/920351
+2024-12-01 15:40:20,677 - INFO - Successfully scraped job: HVAC Service Technician
+2024-12-01 15:40:20,680 - INFO - Saved job: HVAC Service Technician - HTS Engineering Ltd
+2024-12-01 15:40:21,830 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/993569
+2024-12-01 15:40:24,033 - INFO - Successfully scraped job: Senior Certified Petroleum Testing Technician
+2024-12-01 15:40:24,037 - INFO - Saved job: Senior Certified Petroleum Testing Technician - Bunnell-Lammons Engineering, Inc
+2024-12-01 15:40:25,942 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/988587
+2024-12-01 15:40:39,720 - WARNING - Timeout waiting for company element
+2024-12-01 15:40:39,808 - DEBUG - No additional metadata found
+2024-12-01 15:40:39,821 - INFO - Successfully scraped job: Process Specialist COMP3
+2024-12-01 15:40:39,824 - INFO - Saved job: Process Specialist COMP3 - None
+2024-12-01 15:40:41,788 - INFO - Collected 540 jobs so far
+2024-12-01 15:40:41,788 - INFO - Scraping page 28 of 384
+2024-12-01 15:40:44,773 - INFO - Getting job links from current page
+2024-12-01 15:40:47,806 - INFO - Found 20 job cards
+2024-12-01 15:40:47,818 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/888804
+2024-12-01 15:40:47,827 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/888805
+2024-12-01 15:40:47,836 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/999225
+2024-12-01 15:40:47,845 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/920352
+2024-12-01 15:40:47,854 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/994581
+2024-12-01 15:40:47,863 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/994570
+2024-12-01 15:40:47,872 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/993558
+2024-12-01 15:40:47,881 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/992918
+2024-12-01 15:40:47,889 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/992306
+2024-12-01 15:40:47,898 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001706
+2024-12-01 15:40:47,906 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/990794
+2024-12-01 15:40:47,915 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1002282
+2024-12-01 15:40:47,924 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001584
+2024-12-01 15:40:47,932 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/production-jobs/930117
+2024-12-01 15:40:47,941 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/888799
+2024-12-01 15:40:47,953 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/972024
+2024-12-01 15:40:47,963 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/998524
+2024-12-01 15:40:47,972 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/998505
+2024-12-01 15:40:47,981 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/923503
+2024-12-01 15:40:47,990 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/996963
+2024-12-01 15:40:47,991 - INFO - Successfully extracted 20 job links
+2024-12-01 15:40:47,991 - INFO - Found 20 jobs on page 28
+2024-12-01 15:40:47,991 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/888804
+2024-12-01 15:40:50,668 - INFO - Successfully scraped job: HVAC Service Technician
+2024-12-01 15:40:50,671 - INFO - Saved job: HVAC Service Technician - HTS Engineering Ltd
+2024-12-01 15:40:51,748 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/888805
+2024-12-01 15:40:53,846 - INFO - Successfully scraped job: HVAC Service Technician - DFW
+2024-12-01 15:40:53,849 - INFO - Saved job: HVAC Service Technician - DFW - HTS Engineering Ltd
+2024-12-01 15:40:55,674 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/999225
+2024-12-01 15:40:59,426 - INFO - Successfully scraped job: Power Plant Electrician A
+2024-12-01 15:40:59,429 - INFO - Saved job: Power Plant Electrician A - U.S. Army Corps of Engineers

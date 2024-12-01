@@ -1960,3 +1960,63 @@
 2024-12-01 15:39:57,354 - INFO - Successfully scraped job: Senior HVAC/R
 2024-12-01 15:39:57,357 - INFO - Saved job: Senior HVAC/R - HTS Engineering Ltd
 2024-12-01 15:39:58,801 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/994581
+2024-12-01 15:40:02,691 - INFO - Successfully scraped job: Driller's Helper- CDL Required
+2024-12-01 15:40:02,693 - INFO - Saved job: Driller's Helper- CDL Required - Universal Engineering Sciences
+2024-12-01 15:40:04,476 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/994570
+2024-12-01 15:40:06,694 - INFO - Successfully scraped job: Driller's Helper
+2024-12-01 15:40:06,697 - INFO - Saved job: Driller's Helper - Universal Engineering Sciences
+2024-12-01 15:40:08,137 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/993558
+2024-12-01 15:40:11,044 - INFO - Successfully scraped job: Senior Certified Petroleum Testing Technician
+2024-12-01 15:40:11,046 - INFO - Saved job: Senior Certified Petroleum Testing Technician - Bunnell-Lammons Engineering, Inc
+2024-12-01 15:40:12,196 - INFO - Collected 440 jobs so far
+2024-12-01 15:40:12,196 - INFO - Scraping page 23 of 389
+2024-12-01 15:40:15,095 - INFO - Getting job links from current page
+2024-12-01 15:40:18,128 - INFO - Found 20 job cards
+2024-12-01 15:40:18,141 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/993423
+2024-12-01 15:40:18,150 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/953309
+2024-12-01 15:40:18,159 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1001487
+2024-12-01 15:40:18,168 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/927027
+2024-12-01 15:40:18,176 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/926590
+2024-12-01 15:40:18,185 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/923504
+2024-12-01 15:40:18,194 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/920351
+2024-12-01 15:40:18,202 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/993569
+2024-12-01 15:40:18,210 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001706
+2024-12-01 15:40:18,218 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/990794
+2024-12-01 15:40:18,227 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1002282
+2024-12-01 15:40:18,235 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001584
+2024-12-01 15:40:18,244 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/production-jobs/930117
+2024-12-01 15:40:18,252 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/888799
+2024-12-01 15:40:18,260 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/972024
+2024-12-01 15:40:18,270 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/998524
+2024-12-01 15:40:18,278 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/998505
+2024-12-01 15:40:18,287 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/923503
+2024-12-01 15:40:18,295 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/996963
+2024-12-01 15:40:18,303 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/909912
+2024-12-01 15:40:18,304 - INFO - Successfully extracted 20 job links
+2024-12-01 15:40:18,304 - INFO - Found 20 jobs on page 23
+2024-12-01 15:40:18,304 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/993423
+2024-12-01 15:40:20,928 - INFO - Successfully scraped job: Electric Utility - Field Technician
+2024-12-01 15:40:20,930 - INFO - Saved job: Electric Utility - Field Technician - TechServ Engineering & Consulting
+2024-12-01 15:40:22,197 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/953309
+2024-12-01 15:40:24,959 - DEBUG - No additional metadata found
+2024-12-01 15:40:24,974 - INFO - Successfully scraped job: Performance Testing Architect with Loadrunner expertise & Onsite Offshore exp
+2024-12-01 15:40:24,977 - INFO - Saved job: Performance Testing Architect with Loadrunner expertise & Onsite Offshore exp - CAPGEMINI ENGINEERING
+2024-12-01 15:40:26,534 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1001487
+2024-12-01 15:40:30,205 - INFO - Successfully scraped job: POWER PLANT OPERATOR TC-I
+2024-12-01 15:40:30,208 - INFO - Saved job: POWER PLANT OPERATOR TC-I - U.S. Army Corps of Engineers
+2024-12-01 15:40:31,340 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/927027
+2024-12-01 15:40:33,307 - INFO - Successfully scraped job: Technical Manager - Wastewater Treatment
+2024-12-01 15:40:33,309 - INFO - Saved job: Technical Manager - Wastewater Treatment - Colliers Engineering & Design
+2024-12-01 15:40:34,752 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/926590
+2024-12-01 15:40:36,819 - INFO - Successfully scraped job: Senior Project Manager - Water/Wastewater
+2024-12-01 15:40:36,821 - INFO - Saved job: Senior Project Manager - Water/Wastewater - Pape-Dawson Engineers
+2024-12-01 15:40:38,465 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/923504
+2024-12-01 15:40:41,065 - INFO - Successfully scraped job: Geotechnical Driller
+2024-12-01 15:40:41,067 - INFO - Saved job: Geotechnical Driller - Tolunay-Wong Engineers, Inc.
+2024-12-01 15:40:42,312 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/920351
+2024-12-01 15:40:44,887 - INFO - Successfully scraped job: HVAC Service Technician
+2024-12-01 15:40:44,889 - INFO - Saved job: HVAC Service Technician - HTS Engineering Ltd
+2024-12-01 15:40:46,250 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/993569
+2024-12-01 15:40:48,668 - INFO - Successfully scraped job: Senior Certified Petroleum Testing Technician
+2024-12-01 15:40:48,672 - INFO - Saved job: Senior Certified Petroleum Testing Technician - Bunnell-Lammons Engineering, Inc
+2024-12-01 15:40:50,009 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001706
