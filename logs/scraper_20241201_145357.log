@@ -5881,3 +5881,57 @@
 2024-12-01 17:12:08,286 - INFO - Successfully scraped job: Multi-Skilled HVAC Engineers (Nationwide opportunities)
 2024-12-01 17:12:08,289 - INFO - Saved job: Multi-Skilled HVAC Engineers (Nationwide opportunities) - CBRE
 2024-12-01 17:12:10,060 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/910995
+2024-12-01 17:12:23,823 - WARNING - Timeout waiting for company element
+2024-12-01 17:12:23,973 - INFO - Successfully scraped job: Mechanical Engineer - Rotating Equipment
+2024-12-01 17:12:23,977 - INFO - Saved job: Mechanical Engineer - Rotating Equipment - None
+2024-12-01 17:12:25,485 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/978116
+2024-12-01 17:12:28,089 - INFO - Successfully scraped job: Producibility Engineer II
+2024-12-01 17:12:28,094 - INFO - Saved job: Producibility Engineer II - Honeywell
+2024-12-01 17:12:29,596 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/867293
+2024-12-01 17:12:33,601 - INFO - Successfully scraped job: Electrical Engineer
+2024-12-01 17:12:33,604 - INFO - Saved job: Electrical Engineer - AtkinsRéalis
+2024-12-01 17:12:35,472 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/867095
+2024-12-01 17:12:39,346 - INFO - Successfully scraped job: Senior Engineer - Employers Representative
+2024-12-01 17:12:39,349 - INFO - Saved job: Senior Engineer - Employers Representative - AtkinsRéalis
+2024-12-01 17:12:41,004 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/866755
+2024-12-01 17:12:44,006 - INFO - Successfully scraped job: Associate Consultant/ Engineer - International Cleanwater
+2024-12-01 17:12:44,010 - INFO - Saved job: Associate Consultant/ Engineer - International Cleanwater - AtkinsRéalis
+2024-12-01 17:12:45,966 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/866697
+2024-12-01 17:12:49,594 - INFO - Successfully scraped job: Senior Resident Engineer
+2024-12-01 17:12:49,598 - INFO - Saved job: Senior Resident Engineer - AtkinsRéalis
+2024-12-01 17:12:51,299 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/environmental-jobs/866631
+2024-12-01 17:12:53,741 - INFO - Successfully scraped job: Coastal/Environmental Engineering Project Director
+2024-12-01 17:12:53,745 - INFO - Saved job: Coastal/Environmental Engineering Project Director - AtkinsRéalis
+2024-12-01 17:12:54,921 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/866818
+2024-12-01 17:12:57,536 - INFO - Successfully scraped job: Engineering Manager - Net Zero
+2024-12-01 17:12:57,540 - INFO - Saved job: Engineering Manager - Net Zero - AtkinsRéalis
+2024-12-01 17:12:59,417 - INFO - Collected 1300 jobs so far
+2024-12-01 17:12:59,418 - INFO - Scraping page 66 of 384
+2024-12-01 17:13:02,339 - INFO - Getting job links from current page
+2024-12-01 17:13:05,377 - INFO - Found 20 job cards
+2024-12-01 17:13:05,389 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/865419
+2024-12-01 17:13:05,398 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/865575
+2024-12-01 17:13:05,408 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/866106
+2024-12-01 17:13:05,417 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/892212
+2024-12-01 17:13:05,426 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/866369
+2024-12-01 17:13:05,435 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/870142
+2024-12-01 17:13:05,444 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/870165
+2024-12-01 17:13:05,453 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/870072
+2024-12-01 17:13:05,462 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/866013
+2024-12-01 17:13:05,471 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/865555
+2024-12-01 17:13:05,480 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/977992
+2024-12-01 17:13:05,489 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/867111
+2024-12-01 17:13:05,498 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/977965
+2024-12-01 17:13:05,507 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/863609
+2024-12-01 17:13:05,516 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/866097
+2024-12-01 17:13:05,526 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/866095
+2024-12-01 17:13:05,535 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/866784
+2024-12-01 17:13:05,544 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/865993
+2024-12-01 17:13:05,553 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/867013
+2024-12-01 17:13:05,563 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/866793
+2024-12-01 17:13:05,563 - INFO - Successfully extracted 20 job links
+2024-12-01 17:13:05,563 - INFO - Found 20 jobs on page 66
+2024-12-01 17:13:05,563 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/865419
+2024-12-01 17:13:08,553 - INFO - Successfully scraped job: Associate Director Coastal Engineering
+2024-12-01 17:13:08,557 - INFO - Saved job: Associate Director Coastal Engineering - AtkinsRéalis
+2024-12-01 17:13:09,792 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/865575
