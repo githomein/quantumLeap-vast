@@ -2338,3 +2338,19 @@
 2024-12-01 15:51:19,063 - INFO - Successfully scraped job: Procurement QC Engineer
 2024-12-01 15:51:19,067 - INFO - Saved job: Procurement QC Engineer - None
 2024-12-01 15:51:20,799 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005362
+2024-12-01 15:51:34,287 - WARNING - Timeout waiting for company element
+2024-12-01 15:51:34,558 - INFO - Successfully scraped job: Technical Safety Engineering Services
+2024-12-01 15:51:34,562 - INFO - Saved job: Technical Safety Engineering Services - None
+2024-12-01 15:51:36,135 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005109
+2024-12-01 15:51:48,856 - WARNING - Timeout waiting for company element
+2024-12-01 15:51:49,031 - INFO - Successfully scraped job: Lead Umbilical Engineer
+2024-12-01 15:51:49,034 - INFO - Saved job: Lead Umbilical Engineer - None
+2024-12-01 15:51:50,337 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001629
+2024-12-01 15:52:02,783 - WARNING - Timeout waiting for company element
+2024-12-01 15:52:02,949 - INFO - Successfully scraped job: Lead Rotating Engineer
+2024-12-01 15:52:02,952 - INFO - Saved job: Lead Rotating Engineer - None
+2024-12-01 15:52:03,957 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/991014
+2024-12-01 15:52:17,652 - WARNING - Timeout waiting for company element
+2024-12-01 15:52:17,849 - INFO - Successfully scraped job: Senior Structural Engineer - Milan
+2024-12-01 15:52:17,851 - INFO - Saved job: Senior Structural Engineer - Milan - None
+2024-12-01 15:52:19,563 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005390

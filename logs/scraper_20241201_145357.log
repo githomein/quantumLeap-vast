@@ -2733,3 +2733,19 @@
 2024-12-01 15:51:25,252 - INFO - Successfully scraped job: Senior Electrical Engineers / Electrical Designer
 2024-12-01 15:51:25,255 - INFO - Saved job: Senior Electrical Engineers / Electrical Designer - None
 2024-12-01 15:51:27,241 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005362
+2024-12-01 15:51:39,822 - WARNING - Timeout waiting for company element
+2024-12-01 15:51:40,072 - INFO - Successfully scraped job: Technical Safety Engineering Services
+2024-12-01 15:51:40,077 - INFO - Saved job: Technical Safety Engineering Services - None
+2024-12-01 15:51:41,098 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005109
+2024-12-01 15:51:54,323 - WARNING - Timeout waiting for company element
+2024-12-01 15:51:54,541 - INFO - Successfully scraped job: Lead Umbilical Engineer
+2024-12-01 15:51:54,545 - INFO - Saved job: Lead Umbilical Engineer - None
+2024-12-01 15:51:55,552 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001629
+2024-12-01 15:52:08,941 - WARNING - Timeout waiting for company element
+2024-12-01 15:52:09,115 - INFO - Successfully scraped job: Lead Rotating Engineer
+2024-12-01 15:52:09,118 - INFO - Saved job: Lead Rotating Engineer - None
+2024-12-01 15:52:10,770 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1002053
+2024-12-01 15:52:24,516 - WARNING - Timeout waiting for company element
+2024-12-01 15:52:24,649 - INFO - Successfully scraped job: Welding Engineer
+2024-12-01 15:52:24,654 - INFO - Saved job: Welding Engineer - None
+2024-12-01 15:52:25,853 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1001731
