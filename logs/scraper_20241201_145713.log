@@ -2317,3 +2317,7 @@
 2024-12-01 15:50:03,432 - INFO - Successfully scraped job: Principle Pipeline Engineer
 2024-12-01 15:50:03,436 - INFO - Saved job: Principle Pipeline Engineer - None
 2024-12-01 15:50:05,432 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005908
+2024-12-01 15:50:18,910 - WARNING - Timeout waiting for company element
+2024-12-01 15:50:19,091 - INFO - Successfully scraped job: Principle Flow Assurance Engineer
+2024-12-01 15:50:19,094 - INFO - Saved job: Principle Flow Assurance Engineer - None
+2024-12-01 15:50:20,428 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000841
