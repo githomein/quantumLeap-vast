@@ -936,3 +936,40 @@
 2024-12-01 15:17:38,167 - INFO - Successfully scraped job: Team Lead - Customer master data
 2024-12-01 15:17:38,169 - INFO - Saved job: Team Lead - Customer master data - ABB
 2024-12-01 15:17:39,188 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/987033
+2024-12-01 15:17:41,768 - INFO - Successfully scraped job: Data Management Specialist (Associate - Senior)
+2024-12-01 15:17:41,771 - INFO - Saved job: Data Management Specialist (Associate - Senior) - Halliburton
+2024-12-01 15:17:43,033 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1006711
+2024-12-01 15:17:55,426 - WARNING - Timeout waiting for company element
+2024-12-01 15:17:55,568 - INFO - Successfully scraped job: Data Management Development Lead
+2024-12-01 15:17:55,571 - INFO - Saved job: Data Management Development Lead - None
+2024-12-01 15:17:57,120 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/985785
+2024-12-01 15:17:59,856 - INFO - Successfully scraped job: Data Privacy Lead Specialist
+2024-12-01 15:17:59,858 - INFO - Saved job: Data Privacy Lead Specialist - Vestas
+2024-12-01 15:18:01,761 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/982964
+2024-12-01 15:18:04,912 - DEBUG - No additional metadata found
+2024-12-01 15:18:04,925 - INFO - Successfully scraped job: Senior Partner - Data Integrity & HR Systems
+2024-12-01 15:18:04,927 - INFO - Saved job: Senior Partner - Data Integrity & HR Systems - AtkinsRéalis
+2024-12-01 15:18:06,885 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1004469
+2024-12-01 15:18:09,057 - INFO - Successfully scraped job: Data Science Intern (Geophysics)
+2024-12-01 15:18:09,061 - INFO - Saved job: Data Science Intern (Geophysics) - Schlumberger
+2024-12-01 15:18:10,629 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/sales-or-business-development-or-account-management-jobs/1004217
+2024-12-01 15:18:13,567 - INFO - Successfully scraped job: HVACR Business Development Manager - Data Center
+2024-12-01 15:18:13,570 - INFO - Saved job: HVACR Business Development Manager - Data Center - ABB
+2024-12-01 15:18:15,141 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/976873
+2024-12-01 15:18:18,562 - INFO - Successfully scraped job: Senior Program Manager (Building Automation / Data Centers)
+2024-12-01 15:18:18,565 - INFO - Saved job: Senior Program Manager (Building Automation / Data Centers) - Honeywell
+2024-12-01 15:18:19,829 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/910705
+2024-12-01 15:18:21,868 - INFO - Successfully scraped job: Data and Systems Coordinator - Iraq Nationals
+2024-12-01 15:18:21,870 - INFO - Saved job: Data and Systems Coordinator - Iraq Nationals - Wood PLC
+2024-12-01 15:18:23,511 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/976849
+2024-12-01 15:18:27,183 - INFO - Successfully scraped job: S&OP Specialist Data Excellence & Processes, B&R Automation
+2024-12-01 15:18:27,185 - INFO - Saved job: S&OP Specialist Data Excellence & Processes, B&R Automation - ABB
+2024-12-01 15:18:29,134 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/975071
+2024-12-01 15:18:32,343 - INFO - Successfully scraped job: (New York, US) Market Data Sales / Lead Generation
+2024-12-01 15:18:32,346 - INFO - Saved job: (New York, US) Market Data Sales / Lead Generation - Novus Precision Partners
+2024-12-01 15:18:33,437 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/975341
+2024-12-01 15:18:36,556 - INFO - Successfully scraped job: Data Architect
+2024-12-01 15:18:36,558 - INFO - Saved job: Data Architect - Chevron
+2024-12-01 15:18:38,550 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/935588
+2024-12-01 15:18:40,529 - INFO - Successfully scraped job: VP, Data Center Segment -Power Systems Architect
+2024-12-01 15:18:40,531 - INFO - Saved job: VP, Data Center Segment -Power Systems Architect - Eaton
