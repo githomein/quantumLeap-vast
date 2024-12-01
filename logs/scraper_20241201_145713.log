@@ -2578,3 +2578,30 @@
 2024-12-01 15:57:31,612 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/914450
 2024-12-01 15:57:34,867 - INFO - Successfully scraped job: Nuclear Engineer - Radioactive Waste Management
 2024-12-01 15:57:34,869 - INFO - Saved job: Nuclear Engineer - Radioactive Waste Management - Engie
+2024-12-01 15:57:36,436 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006557
+2024-12-01 15:57:49,011 - WARNING - Timeout waiting for company element
+2024-12-01 15:57:49,138 - INFO - Successfully scraped job: Completions Engineer – Electro/Instrument/Telecom/SAS
+2024-12-01 15:57:49,141 - INFO - Saved job: Completions Engineer – Electro/Instrument/Telecom/SAS - None
+2024-12-01 15:57:51,092 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/1006502
+2024-12-01 15:57:53,332 - INFO - Successfully scraped job: Manufacturing Software Engineer
+2024-12-01 15:57:53,334 - INFO - Saved job: Manufacturing Software Engineer - Emerson
+2024-12-01 15:57:54,777 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006490
+2024-12-01 15:57:57,086 - INFO - Successfully scraped job: Contract Senior Reservoir Engineer
+2024-12-01 15:57:57,089 - INFO - Saved job: Contract Senior Reservoir Engineer - Wood PLC
+2024-12-01 15:57:58,486 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1006403
+2024-12-01 15:58:01,545 - INFO - Successfully scraped job: Senior Engineering Manager
+2024-12-01 15:58:01,547 - INFO - Saved job: Senior Engineering Manager - ABB
+2024-12-01 15:58:03,200 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006319
+2024-12-01 15:58:06,857 - INFO - Successfully scraped job: Solutions Engineer I
+2024-12-01 15:58:06,860 - INFO - Saved job: Solutions Engineer I - Halliburton
+2024-12-01 15:58:08,473 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/957513
+2024-12-01 15:58:11,246 - INFO - Successfully scraped job: Design Engineer
+2024-12-01 15:58:11,249 - INFO - Saved job: Design Engineer - NOV
+2024-12-01 15:58:12,818 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1006227
+2024-12-01 15:58:26,757 - WARNING - Timeout waiting for company element
+2024-12-01 15:58:27,023 - INFO - Successfully scraped job: Sr Mechanical Engineer
+2024-12-01 15:58:27,026 - INFO - Saved job: Sr Mechanical Engineer - None
+2024-12-01 15:58:28,698 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/879447
+2024-12-01 15:58:31,917 - INFO - Successfully scraped job: Outside Sales Engineer
+2024-12-01 15:58:31,919 - INFO - Saved job: Outside Sales Engineer - Emerson
+2024-12-01 15:58:33,734 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/legal-jobs/1005935
