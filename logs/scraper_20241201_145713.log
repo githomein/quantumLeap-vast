@@ -14423,3 +14423,35 @@
 2024-12-01 20:38:56,758 - INFO - Successfully scraped job: Electrical Engineer III
 2024-12-01 20:38:56,764 - INFO - Saved job: Electrical Engineer III - None
 2024-12-01 20:38:58,117 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/973447
+2024-12-01 20:39:10,568 - WARNING - Timeout waiting for company element
+2024-12-01 20:39:10,672 - INFO - Successfully scraped job: SNR INSTRUMENT ENGINEER
+2024-12-01 20:39:10,679 - INFO - Saved job: SNR INSTRUMENT ENGINEER - None
+2024-12-01 20:39:12,240 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/973495
+2024-12-01 20:39:25,874 - WARNING - Timeout waiting for company element
+2024-12-01 20:39:25,971 - DEBUG - No additional metadata found
+2024-12-01 20:39:25,989 - INFO - Successfully scraped job: Offshore Methods Engineer ( Nationals Only)
+2024-12-01 20:39:25,997 - INFO - Saved job: Offshore Methods Engineer ( Nationals Only) - None
+2024-12-01 20:39:27,990 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/973420
+2024-12-01 20:39:41,948 - WARNING - Timeout waiting for company element
+2024-12-01 20:39:42,182 - INFO - Successfully scraped job: Senior Instrumentation Engineer
+2024-12-01 20:39:42,190 - INFO - Saved job: Senior Instrumentation Engineer - None
+2024-12-01 20:39:43,672 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/974005
+2024-12-01 20:39:46,026 - INFO - Successfully scraped job: Manufacturing Engineer
+2024-12-01 20:39:46,031 - INFO - Saved job: Manufacturing Engineer - Emerson
+2024-12-01 20:39:47,220 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/974017
+2024-12-01 20:39:50,203 - INFO - Successfully scraped job: Engineer Field Services
+2024-12-01 20:39:50,209 - INFO - Saved job: Engineer Field Services - Emerson
+2024-12-01 20:39:51,914 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/973146
+2024-12-01 20:39:55,221 - INFO - Successfully scraped job: Systems Engineering Manager
+2024-12-01 20:39:55,227 - INFO - Saved job: Systems Engineering Manager - Honeywell
+2024-12-01 20:39:57,060 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/999294
+2024-12-01 20:39:59,683 - INFO - Successfully scraped job: Sr. Mechanical Power Generation Engineer
+2024-12-01 20:39:59,689 - INFO - Saved job: Sr. Mechanical Power Generation Engineer - GPD Group
+2024-12-01 20:40:00,802 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/999272
+2024-12-01 20:40:03,675 - DEBUG - No additional metadata found
+2024-12-01 20:40:03,689 - INFO - Successfully scraped job: Energy Engineer
+2024-12-01 20:40:03,695 - INFO - Saved job: Energy Engineer - B.R. Building Resources Company
+2024-12-01 20:40:04,956 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/999142
+2024-12-01 20:40:07,758 - INFO - Successfully scraped job: Commercial Gas Engineer
+2024-12-01 20:40:07,764 - INFO - Saved job: Commercial Gas Engineer - Kingsley Consulting Ltd
+2024-12-01 20:40:08,915 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/999129
