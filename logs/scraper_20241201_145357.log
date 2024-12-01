@@ -6383,3 +6383,31 @@
 2024-12-01 17:22:23,145 - INFO - Successfully scraped job: 2025 Entry level Gas Turbine Products Engineering
 2024-12-01 17:22:23,149 - INFO - Saved job: 2025 Entry level Gas Turbine Products Engineering - Solar Turbines Incorporated
 2024-12-01 17:22:24,815 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/931735
+2024-12-01 17:22:28,204 - INFO - Successfully scraped job: Power System Protection Engineer - Substation
+2024-12-01 17:22:28,209 - INFO - Saved job: Power System Protection Engineer - Substation - Burns & McDonnell
+2024-12-01 17:22:29,389 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/931778
+2024-12-01 17:22:33,228 - INFO - Successfully scraped job: Mechanical Energy Engineer
+2024-12-01 17:22:33,232 - INFO - Saved job: Mechanical Energy Engineer - MeetHires
+2024-12-01 17:22:34,726 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/931714
+2024-12-01 17:22:38,456 - INFO - Successfully scraped job: Design Engineer - Gas - Expression of Interest
+2024-12-01 17:22:38,460 - INFO - Saved job: Design Engineer - Gas - Expression of Interest - Cordoba Corporation
+2024-12-01 17:22:40,093 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000586
+2024-12-01 17:22:53,980 - WARNING - Timeout waiting for company element
+2024-12-01 17:22:54,110 - INFO - Successfully scraped job: Senior Project Engineer - Construction
+2024-12-01 17:22:54,114 - INFO - Saved job: Senior Project Engineer - Construction - None
+2024-12-01 17:22:55,905 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000540
+2024-12-01 17:22:58,657 - INFO - Successfully scraped job: IP Strategist, Intellectual Property Engineer
+2024-12-01 17:22:58,661 - INFO - Saved job: IP Strategist, Intellectual Property Engineer - GE Renewable Energy Power and Aviation
+2024-12-01 17:22:59,676 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1000452
+2024-12-01 17:23:02,937 - INFO - Successfully scraped job: Senior Advanced Systems Engineer
+2024-12-01 17:23:02,941 - INFO - Saved job: Senior Advanced Systems Engineer - Honeywell
+2024-12-01 17:23:04,851 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000308
+2024-12-01 17:23:08,447 - INFO - Successfully scraped job: Process Automation Engineer
+2024-12-01 17:23:08,451 - INFO - Saved job: Process Automation Engineer - Emerson
+2024-12-01 17:23:10,124 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000246
+2024-12-01 17:23:13,529 - INFO - Successfully scraped job: Process Engineer
+2024-12-01 17:23:13,533 - INFO - Saved job: Process Engineer - Wood PLC
+2024-12-01 17:23:15,358 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/1000269
+2024-12-01 17:23:17,930 - INFO - Successfully scraped job: Service Production Engineering Manager
+2024-12-01 17:23:17,935 - INFO - Saved job: Service Production Engineering Manager - ABB
+2024-12-01 17:23:19,639 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1000135

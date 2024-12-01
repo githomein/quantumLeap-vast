@@ -6155,3 +6155,22 @@
 2024-12-01 17:22:21,385 - INFO - Successfully scraped job: Senior Engineer - Onshore Wind
 2024-12-01 17:22:21,389 - INFO - Saved job: Senior Engineer - Onshore Wind - None
 2024-12-01 17:22:23,295 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1000166
+2024-12-01 17:22:36,539 - WARNING - Timeout waiting for company element
+2024-12-01 17:22:36,698 - INFO - Successfully scraped job: Materials Engineer Inspection (E\u0026I)
+2024-12-01 17:22:36,703 - INFO - Saved job: Materials Engineer Inspection (E\u0026I) - None
+2024-12-01 17:22:38,634 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1000134
+2024-12-01 17:22:51,218 - WARNING - Timeout waiting for company element
+2024-12-01 17:22:51,373 - INFO - Successfully scraped job: Lead of Civil & Structure Engineering
+2024-12-01 17:22:51,376 - INFO - Saved job: Lead of Civil & Structure Engineering - None
+2024-12-01 17:22:52,449 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1000142
+2024-12-01 17:23:05,172 - WARNING - Timeout waiting for company element
+2024-12-01 17:23:05,246 - DEBUG - No additional metadata found
+2024-12-01 17:23:05,260 - INFO - Successfully scraped job: I&C Design Engineer / Cyber
+2024-12-01 17:23:05,263 - INFO - Saved job: I&C Design Engineer / Cyber - None
+2024-12-01 17:23:06,488 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/925181
+2024-12-01 17:23:09,942 - INFO - Successfully scraped job: Senior Project Engineer - Water/Wastewater
+2024-12-01 17:23:09,946 - INFO - Saved job: Senior Project Engineer - Water/Wastewater - Garver
+2024-12-01 17:23:11,325 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/909362
+2024-12-01 17:23:14,964 - INFO - Successfully scraped job: FIELD APPLICATION ENGINEER NUCLEAR POWER PLANTS (M/W/D)
+2024-12-01 17:23:14,968 - INFO - Saved job: FIELD APPLICATION ENGINEER NUCLEAR POWER PLANTS (M/W/D) - AEG Power Solutions
+2024-12-01 17:23:16,094 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/818952
