@@ -5060,3 +5060,24 @@
 2024-12-01 16:57:40,072 - INFO - Successfully scraped job: Project Engineer - Head Office (HO) and Fabrication Yard (FAB)
 2024-12-01 16:57:40,077 - INFO - Saved job: Project Engineer - Head Office (HO) and Fabrication Yard (FAB) - None
 2024-12-01 16:57:41,511 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/960760
+2024-12-01 16:57:54,591 - WARNING - Timeout waiting for company element
+2024-12-01 16:57:54,801 - INFO - Successfully scraped job: Preservation Instrument Engineer
+2024-12-01 16:57:54,805 - INFO - Saved job: Preservation Instrument Engineer - None
+2024-12-01 16:57:56,380 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/960761
+2024-12-01 16:58:09,105 - WARNING - Timeout waiting for company element
+2024-12-01 16:58:09,233 - INFO - Successfully scraped job: Preservation Electrical Engineer
+2024-12-01 16:58:09,236 - INFO - Saved job: Preservation Electrical Engineer - None
+2024-12-01 16:58:10,289 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/960226
+2024-12-01 16:58:14,284 - INFO - Successfully scraped job: Senior Waste Water Process Engineer
+2024-12-01 16:58:14,289 - INFO - Saved job: Senior Waste Water Process Engineer - AtkinsRéalis
+2024-12-01 16:58:15,472 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/administrative-or-secretarial-jobs/895833
+2024-12-01 16:58:29,435 - WARNING - Timeout waiting for company element
+2024-12-01 16:58:29,648 - INFO - Successfully scraped job: Secretary, Engineering Department
+2024-12-01 16:58:29,651 - INFO - Saved job: Secretary, Engineering Department - None
+2024-12-01 16:58:31,260 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/875399
+2024-12-01 16:58:34,960 - INFO - Successfully scraped job: Graduate Engineer 2024
+2024-12-01 16:58:34,963 - INFO - Saved job: Graduate Engineer 2024 - AtkinsRéalis
+2024-12-01 16:58:36,787 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1007131
+2024-12-01 16:58:40,439 - INFO - Successfully scraped job: Engineering, R&D & Innovation, NCE - Vestas Graduate Programme
+2024-12-01 16:58:40,442 - INFO - Saved job: Engineering, R&D & Innovation, NCE - Vestas Graduate Programme - Vestas
+2024-12-01 16:58:42,343 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/986470
