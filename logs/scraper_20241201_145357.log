@@ -9066,3 +9066,33 @@
 2024-12-01 18:27:21,233 - INFO - Successfully scraped job: Administrateur Aveva Engineering et/ou Hexagon SPF-SDX F/H
 2024-12-01 18:27:21,237 - INFO - Saved job: Administrateur Aveva Engineering et/ou Hexagon SPF-SDX F/H - None
 2024-12-01 18:27:23,000 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/general-management-jobs/818503
+2024-12-01 18:27:36,817 - WARNING - Timeout waiting for company element
+2024-12-01 18:27:37,051 - INFO - Successfully scraped job: QUALITY ANALYST - ENGINEER (H/F)
+2024-12-01 18:27:37,056 - INFO - Saved job: QUALITY ANALYST - ENGINEER (H/F) - None
+2024-12-01 18:27:38,799 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/975571
+2024-12-01 18:27:51,950 - WARNING - Timeout waiting for company element
+2024-12-01 18:27:52,106 - INFO - Successfully scraped job: Senior Principal Engineer - Pressure Vessels
+2024-12-01 18:27:52,111 - INFO - Saved job: Senior Principal Engineer - Pressure Vessels - None
+2024-12-01 18:27:53,825 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/818537
+2024-12-01 18:28:06,598 - WARNING - Timeout waiting for company element
+2024-12-01 18:28:06,725 - INFO - Successfully scraped job: Experienced Technical Safety Engineer F/M
+2024-12-01 18:28:06,735 - INFO - Saved job: Experienced Technical Safety Engineer F/M - None
+2024-12-01 18:28:08,638 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/925679
+2024-12-01 18:28:10,526 - INFO - Successfully scraped job: Process Safety Engineer (F/M)
+2024-12-01 18:28:10,531 - INFO - Saved job: Process Safety Engineer (F/M) - Total Energies
+2024-12-01 18:28:12,246 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/909610
+2024-12-01 18:28:14,574 - INFO - Successfully scraped job: Senior Digital Solution Engineering Specialist
+2024-12-01 18:28:14,579 - INFO - Saved job: Senior Digital Solution Engineering Specialist - ABB
+2024-12-01 18:28:15,620 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/975420
+2024-12-01 18:28:17,869 - INFO - Successfully scraped job: 2025 Discovery Program - Project Engineering
+2024-12-01 18:28:17,873 - INFO - Saved job: 2025 Discovery Program - Project Engineering - ABB
+2024-12-01 18:28:19,324 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/925503
+2024-12-01 18:28:22,758 - INFO - Successfully scraped job: Senior Construction Engineer (Mechanical / Piping & Civil)
+2024-12-01 18:28:22,763 - INFO - Saved job: Senior Construction Engineer (Mechanical / Piping & Civil) - Wood PLC
+2024-12-01 18:28:24,047 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/1000033
+2024-12-01 18:28:26,049 - DEBUG - No additional metadata found
+2024-12-01 18:28:26,064 - INFO - Successfully scraped job: Electrical Power Engineer
+2024-12-01 18:28:26,068 - INFO - Saved job: Electrical Power Engineer - Nucor
+2024-12-01 18:28:27,575 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1000030
+2024-12-01 18:28:29,955 - INFO - Successfully scraped job: Nuclear Engineer I or Nuclear Engineer II - Nuclear Fuels - Fuel Mechanical Performance (FMP)
+2024-12-01 18:28:29,960 - INFO - Saved job: Nuclear Engineer I or Nuclear Engineer II - Nuclear Fuels - Fuel Mechanical Performance (FMP) - Duke Energy Corporation
