@@ -5701,3 +5701,23 @@
 2024-12-01 17:07:00,755 - INFO - Successfully scraped job: Project Engineer - Nuclear Fluid Systems
 2024-12-01 17:07:00,759 - INFO - Saved job: Project Engineer - Nuclear Fluid Systems - Engie
 2024-12-01 17:07:02,469 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/913293
+2024-12-01 17:07:05,424 - INFO - Successfully scraped job: Engineering Delivery Platform Manager (EDP) Mexico
+2024-12-01 17:07:05,427 - INFO - Saved job: Engineering Delivery Platform Manager (EDP) Mexico - ABB
+2024-12-01 17:07:06,604 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005193
+2024-12-01 17:07:18,890 - WARNING - Timeout waiting for company element
+2024-12-01 17:07:18,993 - DEBUG - No additional metadata found
+2024-12-01 17:07:19,007 - INFO - Successfully scraped job: Facilities Engineer III
+2024-12-01 17:07:19,010 - INFO - Saved job: Facilities Engineer III - None
+2024-12-01 17:07:20,370 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1004990
+2024-12-01 17:07:34,348 - WARNING - Timeout waiting for company element
+2024-12-01 17:07:34,429 - DEBUG - No additional metadata found
+2024-12-01 17:07:34,443 - INFO - Successfully scraped job: Senior QA/QC Engineer
+2024-12-01 17:07:34,446 - INFO - Saved job: Senior QA/QC Engineer - None
+2024-12-01 17:07:36,318 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/953528
+2024-12-01 17:07:48,754 - WARNING - Timeout waiting for company element
+2024-12-01 17:07:48,934 - INFO - Successfully scraped job: Senior Engineer - Loss Prevention
+2024-12-01 17:07:48,938 - INFO - Saved job: Senior Engineer - Loss Prevention - None
+2024-12-01 17:07:50,619 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/953530
+2024-12-01 17:08:03,178 - WARNING - Timeout waiting for company element
+2024-12-01 17:08:03,311 - INFO - Successfully scraped job: Principal Packages Engineer
+2024-12-01 17:08:03,316 - INFO - Saved job: Principal Packages Engineer - None

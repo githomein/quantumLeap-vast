@@ -5428,3 +5428,33 @@
 2024-12-01 17:06:59,900 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/954094
 2024-12-01 17:07:02,908 - INFO - Successfully scraped job: Sr. Power Systems Test Engineer
 2024-12-01 17:07:02,911 - INFO - Saved job: Sr. Power Systems Test Engineer - RESA Power
+2024-12-01 17:07:04,044 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/865923
+2024-12-01 17:07:06,378 - INFO - Successfully scraped job: Senior Electrical Engineer
+2024-12-01 17:07:06,381 - INFO - Saved job: Senior Electrical Engineer - AtkinsRéalis
+2024-12-01 17:07:07,595 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/925396
+2024-12-01 17:07:09,896 - DEBUG - No additional metadata found
+2024-12-01 17:07:09,910 - INFO - Successfully scraped job: Principal Engineer
+2024-12-01 17:07:09,913 - INFO - Saved job: Principal Engineer - AtkinsRéalis
+2024-12-01 17:07:10,980 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/911527
+2024-12-01 17:07:12,995 - INFO - Successfully scraped job: Mobile HVAC/Maintenance Engineer
+2024-12-01 17:07:12,998 - INFO - Saved job: Mobile HVAC/Maintenance Engineer - Jones Lang LaSalle IP, Inc.
+2024-12-01 17:07:14,795 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/912408
+2024-12-01 17:07:17,217 - INFO - Successfully scraped job: Field Service Engineer - Tank Gauging (Sign On Bonus Applicable)
+2024-12-01 17:07:17,220 - INFO - Saved job: Field Service Engineer - Tank Gauging (Sign On Bonus Applicable) - Honeywell
+2024-12-01 17:07:18,862 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/981269
+2024-12-01 17:07:20,854 - INFO - Successfully scraped job: Senior Engineer - Nuclear (Remote Visual Inspection)
+2024-12-01 17:07:20,858 - INFO - Saved job: Senior Engineer - Nuclear (Remote Visual Inspection) - BAE Systems Canada
+2024-12-01 17:07:22,398 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/912018
+2024-12-01 17:07:25,141 - DEBUG - No additional metadata found
+2024-12-01 17:07:25,158 - INFO - Successfully scraped job: WELL ENGINEER IV
+2024-12-01 17:07:25,163 - INFO - Saved job: WELL ENGINEER IV - Weatherford
+2024-12-01 17:07:27,048 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/981738
+2024-12-01 17:07:40,836 - WARNING - Timeout waiting for company element
+2024-12-01 17:07:40,958 - INFO - Successfully scraped job: FPSO - Method/Planning Engineer M/F
+2024-12-01 17:07:40,961 - INFO - Saved job: FPSO - Method/Planning Engineer M/F - None
+2024-12-01 17:07:42,561 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/981836
+2024-12-01 17:07:56,305 - WARNING - Timeout waiting for company element
+2024-12-01 17:07:56,379 - DEBUG - No additional metadata found
+2024-12-01 17:07:56,393 - INFO - Successfully scraped job: Systems Engineer M/F
+2024-12-01 17:07:56,397 - INFO - Saved job: Systems Engineer M/F - None
+2024-12-01 17:07:57,570 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/981830
