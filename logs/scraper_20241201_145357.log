@@ -11143,3 +11143,45 @@
 2024-12-01 19:17:20,423 - INFO - Successfully scraped job: Sr. Project Electrical Engineer (Energy/ Power Generation and Delivery)
 2024-12-01 19:17:20,427 - INFO - Saved job: Sr. Project Electrical Engineer (Energy/ Power Generation and Delivery) - H2M
 2024-12-01 19:17:22,049 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/953347
+2024-12-01 19:17:24,071 - INFO - Successfully scraped job: Energy Engineer
+2024-12-01 19:17:24,076 - INFO - Saved job: Energy Engineer - Leidos
+2024-12-01 19:17:25,188 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/952686
+2024-12-01 19:17:28,377 - INFO - Successfully scraped job: Power Systems Engineer
+2024-12-01 19:17:28,382 - INFO - Saved job: Power Systems Engineer - The Aerospace Corporation
+2024-12-01 19:17:30,304 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/oilfield-jobs/1003942
+2024-12-01 19:17:44,273 - WARNING - Timeout waiting for company element
+2024-12-01 19:17:44,359 - DEBUG - No additional metadata found
+2024-12-01 19:17:44,374 - INFO - Successfully scraped job: Senior Planning Engineer (Resident)
+2024-12-01 19:17:44,379 - INFO - Saved job: Senior Planning Engineer (Resident) - None
+2024-12-01 19:17:45,848 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/927980
+2024-12-01 19:17:48,768 - INFO - Successfully scraped job: Civil Engineer I - Oil and Gas
+2024-12-01 19:17:48,772 - INFO - Saved job: Civil Engineer I - Oil and Gas - KLJ
+2024-12-01 19:17:50,128 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/952448
+2024-12-01 19:17:53,052 - DEBUG - No additional metadata found
+2024-12-01 19:17:53,067 - INFO - Successfully scraped job: Principal Controls Design Engineer - Nuclear
+2024-12-01 19:17:53,072 - INFO - Saved job: Principal Controls Design Engineer - Nuclear - Public Service Enterprise Group
+2024-12-01 19:17:54,807 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/952484
+2024-12-01 19:17:58,394 - DEBUG - No additional metadata found
+2024-12-01 19:17:58,409 - INFO - Successfully scraped job: Lead Controls Systems Commissioning Engineer - BOP, Nuclear
+2024-12-01 19:17:58,413 - INFO - Saved job: Lead Controls Systems Commissioning Engineer - BOP, Nuclear - Public Service Enterprise Group
+2024-12-01 19:17:59,576 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/952882
+2024-12-01 19:18:01,577 - INFO - Successfully scraped job: Intern - Process Engineer (Jan - June 2025)
+2024-12-01 19:18:01,584 - INFO - Saved job: Intern - Process Engineer (Jan - June 2025) - Exxon Mobil
+2024-12-01 19:18:03,170 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/978173
+2024-12-01 19:18:06,519 - INFO - Successfully scraped job: Configuration Management Specialist/Engineer
+2024-12-01 19:18:06,523 - INFO - Saved job: Configuration Management Specialist/Engineer - GE Renewable Energy Power and Aviation
+2024-12-01 19:18:08,469 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/867296
+2024-12-01 19:18:10,835 - DEBUG - No additional metadata found
+2024-12-01 19:18:10,850 - INFO - Successfully scraped job: HSE Engineer - Graduate
+2024-12-01 19:18:10,855 - INFO - Saved job: HSE Engineer - Graduate - AtkinsRéalis
+2024-12-01 19:18:12,063 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/environmental-jobs/867171
+2024-12-01 19:18:14,659 - DEBUG - No additional metadata found
+2024-12-01 19:18:14,674 - INFO - Successfully scraped job: Drainage/Environmental and SUDS Engineer
+2024-12-01 19:18:14,678 - INFO - Saved job: Drainage/Environmental and SUDS Engineer - AtkinsRéalis
+2024-12-01 19:18:16,474 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/867143
+2024-12-01 19:18:19,053 - INFO - Successfully scraped job: Civil Engineer
+2024-12-01 19:18:19,057 - INFO - Saved job: Civil Engineer - AtkinsRéalis
+2024-12-01 19:18:21,018 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/866970
+2024-12-01 19:18:23,394 - INFO - Successfully scraped job: Communications Engineer
+2024-12-01 19:18:23,398 - INFO - Saved job: Communications Engineer - AtkinsRéalis
+2024-12-01 19:18:24,511 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/867020
