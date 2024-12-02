@@ -2004,3 +2004,12 @@
 2024-12-02 03:53:34,939 - ERROR - Timeout waiting for job cards to load
 2024-12-02 03:53:35,275 - WARNING - No job links found on page 60
 2024-12-02 03:53:35,276 - INFO - Scraping page 61 of 389
+2024-12-02 03:53:37,698 - INFO - Getting job links from current page
+2024-12-02 03:53:56,147 - ERROR - Timeout waiting for job cards to load
+2024-12-02 03:53:56,480 - WARNING - No job links found on page 61
+2024-12-02 03:53:56,481 - INFO - Scraping page 62 of 389
+2024-12-02 03:53:58,822 - INFO - Getting job links from current page
+2024-12-02 03:54:17,286 - ERROR - Timeout waiting for job cards to load
+2024-12-02 03:54:17,641 - WARNING - No job links found on page 62
+2024-12-02 03:54:17,641 - INFO - Scraping page 63 of 389
+2024-12-02 03:54:19,546 - INFO - Getting job links from current page
