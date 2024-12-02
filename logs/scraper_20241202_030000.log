@@ -1494,3 +1494,36 @@
 2024-12-02 03:32:20,383 - INFO - Successfully scraped job: Senior Data Engineer
 2024-12-02 03:32:20,385 - INFO - Saved job: Senior Data Engineer - bp
 2024-12-02 03:32:21,395 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/893636
+2024-12-02 03:32:25,177 - INFO - Successfully scraped job: Energy Data Management IT Specialist
+2024-12-02 03:32:25,179 - INFO - Saved job: Energy Data Management IT Specialist - Total Energies
+2024-12-02 03:32:27,015 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1006084
+2024-12-02 03:32:28,954 - DEBUG - No additional metadata found
+2024-12-02 03:32:28,967 - INFO - Successfully scraped job: Data Processor I
+2024-12-02 03:32:28,970 - INFO - Saved job: Data Processor I - Engie
+2024-12-02 03:32:30,662 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/915845
+2024-12-02 03:32:34,059 - INFO - Successfully scraped job: Project Data Analyst
+2024-12-02 03:32:34,062 - INFO - Saved job: Project Data Analyst - Wood PLC
+2024-12-02 03:32:35,276 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/oil-rig-jobs/1004051
+2024-12-02 03:32:48,790 - WARNING - Timeout waiting for company element
+2024-12-02 03:32:48,871 - DEBUG - No additional metadata found
+2024-12-02 03:32:48,885 - INFO - Successfully scraped job: Data Analyst (Resident)
+2024-12-02 03:32:48,887 - INFO - Saved job: Data Analyst (Resident) - None
+2024-12-02 03:32:50,088 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/870036
+2024-12-02 03:32:52,143 - INFO - Successfully scraped job: Data Science Engineer 1
+2024-12-02 03:32:52,146 - INFO - Saved job: Data Science Engineer 1 - Emerson
+2024-12-02 03:32:53,639 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1003827
+2024-12-02 03:32:56,090 - INFO - Successfully scraped job: Generator Sales Account Executive, Data Centers
+2024-12-02 03:32:56,093 - INFO - Saved job: Generator Sales Account Executive, Data Centers - Kohler Energy
+2024-12-02 03:32:57,843 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/818299
+2024-12-02 03:33:09,981 - WARNING - Timeout waiting for company element
+2024-12-02 03:33:10,123 - INFO - Successfully scraped job: Vendor Data Coordinator H/F
+2024-12-02 03:33:10,126 - INFO - Saved job: Vendor Data Coordinator H/F - None
+2024-12-02 03:33:11,183 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/975494
+2024-12-02 03:33:13,538 - INFO - Successfully scraped job: Staff Data Analyst
+2024-12-02 03:33:13,541 - INFO - Saved job: Staff Data Analyst - Emerson
+2024-12-02 03:33:15,000 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/975603
+2024-12-02 03:33:18,025 - INFO - Successfully scraped job: Data Analytics Intern
+2024-12-02 03:33:18,028 - INFO - Saved job: Data Analytics Intern - Honeywell
+2024-12-02 03:33:19,523 - INFO - Collected 340 jobs so far
+2024-12-02 03:33:19,523 - INFO - Scraping page 18 of 389
+2024-12-02 03:33:23,074 - INFO - Getting job links from current page
