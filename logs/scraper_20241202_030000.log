@@ -2661,3 +2661,14 @@
 2024-12-02 04:52:04,984 - WARNING - No job links found on page 224
 2024-12-02 04:52:04,984 - INFO - Scraping page 225 of 389
 2024-12-02 04:52:07,888 - INFO - Getting job links from current page
+2024-12-02 04:52:26,330 - ERROR - Timeout waiting for job cards to load
+2024-12-02 04:52:26,669 - WARNING - No job links found on page 225
+2024-12-02 04:52:26,669 - INFO - Scraping page 226 of 389
+2024-12-02 04:52:28,706 - INFO - Getting job links from current page
+2024-12-02 04:52:47,160 - ERROR - Timeout waiting for job cards to load
+2024-12-02 04:52:47,484 - WARNING - No job links found on page 226
+2024-12-02 04:52:47,484 - INFO - Scraping page 227 of 389
+2024-12-02 04:52:49,557 - INFO - Getting job links from current page
+2024-12-02 04:53:08,029 - ERROR - Timeout waiting for job cards to load
+2024-12-02 04:53:08,354 - WARNING - No job links found on page 227
+2024-12-02 04:53:08,354 - INFO - Scraping page 228 of 389
