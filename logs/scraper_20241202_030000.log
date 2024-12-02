@@ -2049,3 +2049,11 @@
 2024-12-02 03:57:31,568 - WARNING - No job links found on page 71
 2024-12-02 03:57:31,568 - INFO - Scraping page 72 of 389
 2024-12-02 03:57:34,377 - INFO - Getting job links from current page
+2024-12-02 03:57:52,838 - ERROR - Timeout waiting for job cards to load
+2024-12-02 03:57:53,163 - WARNING - No job links found on page 72
+2024-12-02 03:57:53,163 - INFO - Scraping page 73 of 389
+2024-12-02 03:58:00,225 - INFO - Getting job links from current page
+2024-12-02 03:58:18,701 - ERROR - Timeout waiting for job cards to load
+2024-12-02 03:58:19,028 - WARNING - No job links found on page 73
+2024-12-02 03:58:19,028 - INFO - Scraping page 74 of 389
+2024-12-02 03:58:21,564 - INFO - Getting job links from current page
