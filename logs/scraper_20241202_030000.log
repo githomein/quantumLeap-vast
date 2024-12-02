@@ -1659,3 +1659,35 @@
 2024-12-02 03:35:21,679 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/954076
 2024-12-02 03:35:24,530 - INFO - Successfully scraped job: PG&E O&S Gas, Transmission, Routine & Wood Mgt. - Senior Database Manager (SDM)
 2024-12-02 03:35:24,534 - INFO - Saved job: PG&E O&S Gas, Transmission, Routine & Wood Mgt. - Senior Database Manager (SDM) - MGE
+2024-12-02 03:35:26,111 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/954085
+2024-12-02 03:35:29,450 - INFO - Successfully scraped job: PG&E O&S Gas, Transmission, Routine & Wood Mgt. - Database Management Specialist (DMS)
+2024-12-02 03:35:29,452 - INFO - Saved job: PG&E O&S Gas, Transmission, Routine & Wood Mgt. - Database Management Specialist (DMS) - MGE
+2024-12-02 03:35:30,471 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1004229
+2024-12-02 03:35:33,476 - INFO - Successfully scraped job: Tax Analyst- CanadaTax
+2024-12-02 03:35:33,479 - INFO - Saved job: Tax Analyst- CanadaTax - ABB
+2024-12-02 03:35:35,049 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/868091
+2024-12-02 03:35:38,427 - INFO - Successfully scraped job: Candidate pool EG.D - Databáze uchazečů (Brno, CZ)
+2024-12-02 03:35:38,430 - INFO - Saved job: Candidate pool EG.D - Databáze uchazečů (Brno, CZ) - E.ON
+2024-12-02 03:35:39,816 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1002167
+2024-12-02 03:35:42,588 - DEBUG - No additional metadata found
+2024-12-02 03:35:42,601 - INFO - Successfully scraped job: Database Lead (Offshore)
+2024-12-02 03:35:42,604 - INFO - Saved job: Database Lead (Offshore) - Save The Children Fund
+2024-12-02 03:35:44,419 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/science-or-research-jobs/1001265
+2024-12-02 03:35:57,356 - WARNING - Timeout waiting for company element
+2024-12-02 03:35:57,515 - INFO - Successfully scraped job: Senior Geoscientist - Subsurface Development - Houston
+2024-12-02 03:35:57,517 - INFO - Saved job: Senior Geoscientist - Subsurface Development - Houston - None
+2024-12-02 03:35:59,136 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/934550
+2024-12-02 03:36:01,003 - DEBUG - No additional metadata found
+2024-12-02 03:36:01,017 - INFO - Successfully scraped job: Principal Nuclear Engineer, Datacenter Engineering, Power Generation Solutions
+2024-12-02 03:36:01,019 - INFO - Saved job: Principal Nuclear Engineer, Datacenter Engineering, Power Generation Solutions - Amazon
+2024-12-02 03:36:02,860 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/886972
+2024-12-02 03:36:05,624 - INFO - Successfully scraped job: IT-Entwickler - Weiterentwicklung Next Generation Datacenter / Multi-Cloud w/m/d
+2024-12-02 03:36:05,627 - INFO - Saved job: IT-Entwickler - Weiterentwicklung Next Generation Datacenter / Multi-Cloud w/m/d - Computacenter
+2024-12-02 03:36:06,683 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/999433
+2024-12-02 03:36:09,713 - DEBUG - No additional metadata found
+2024-12-02 03:36:09,726 - INFO - Successfully scraped job: Principal Nuclear Product Mgr. - Tech, Datacenter Engineering, Power Generation Solutions
+2024-12-02 03:36:09,729 - INFO - Saved job: Principal Nuclear Product Mgr. - Tech, Datacenter Engineering, Power Generation Solutions - Amazon
+2024-12-02 03:36:10,909 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/998932
+2024-12-02 03:36:14,432 - INFO - Successfully scraped job: Expert - AWS Bigdata Security Lead
+2024-12-02 03:36:14,436 - INFO - Saved job: Expert - AWS Bigdata Security Lead - Schneider Electric
+2024-12-02 03:36:15,742 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/996611
