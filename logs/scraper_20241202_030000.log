@@ -1843,3 +1843,17 @@
 2024-12-02 03:39:22,093 - INFO - Successfully scraped job: Petroleum Engineers (Digital Oil Field Workflows)
 2024-12-02 03:39:22,096 - INFO - Saved job: Petroleum Engineers (Digital Oil Field Workflows) - None
 2024-12-02 03:39:23,489 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/general-management-jobs/1003175
+2024-12-02 03:39:36,869 - WARNING - Timeout waiting for company element
+2024-12-02 03:39:37,041 - INFO - Successfully scraped job: Commissioning Electrical Lead
+2024-12-02 03:39:37,043 - INFO - Saved job: Commissioning Electrical Lead - None
+2024-12-02 03:39:38,222 - INFO - Collected 410 jobs so far
+2024-12-02 03:39:38,223 - INFO - Scraping page 22 of 389
+2024-12-02 03:39:40,286 - INFO - Getting job links from current page
+2024-12-02 03:39:58,752 - ERROR - Timeout waiting for job cards to load
+2024-12-02 03:39:59,100 - WARNING - No job links found on page 22
+2024-12-02 03:39:59,100 - INFO - Scraping page 23 of 389
+2024-12-02 03:40:01,644 - INFO - Getting job links from current page
+2024-12-02 03:40:20,091 - ERROR - Timeout waiting for job cards to load
+2024-12-02 03:40:20,429 - WARNING - No job links found on page 23
+2024-12-02 03:40:20,429 - INFO - Scraping page 24 of 389
+2024-12-02 03:40:23,636 - INFO - Getting job links from current page
