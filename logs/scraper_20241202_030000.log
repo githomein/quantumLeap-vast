@@ -493,3 +493,41 @@
 2024-12-02 03:10:03,543 - INFO - Successfully scraped job: Fusion Data Analyst
 2024-12-02 03:10:03,546 - INFO - Saved job: Fusion Data Analyst - Weatherford
 2024-12-02 03:10:05,415 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/975340
+2024-12-02 03:10:08,515 - INFO - Successfully scraped job: Data Engineer
+2024-12-02 03:10:08,517 - INFO - Saved job: Data Engineer - Chevron
+2024-12-02 03:10:09,557 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/975337
+2024-12-02 03:10:13,232 - INFO - Successfully scraped job: Data Analyst
+2024-12-02 03:10:13,235 - INFO - Saved job: Data Analyst - Chevron
+2024-12-02 03:10:14,618 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/994943
+2024-12-02 03:10:17,813 - INFO - Successfully scraped job: Power Systems Data Center Technician
+2024-12-02 03:10:17,816 - INFO - Saved job: Power Systems Data Center Technician - Western States CAT
+2024-12-02 03:10:18,993 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/994432
+2024-12-02 03:10:22,170 - INFO - Successfully scraped job: Data Center Switchgear and Generator Technician
+2024-12-02 03:10:22,173 - INFO - Saved job: Data Center Switchgear and Generator Technician - CENTRAL POWER SYSTEMS & SERVICES
+2024-12-02 03:10:24,066 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/966629
+2024-12-02 03:10:27,470 - INFO - Successfully scraped job: Demand Generation, Data Center
+2024-12-02 03:10:27,473 - INFO - Saved job: Demand Generation, Data Center - Honeywell
+2024-12-02 03:10:29,145 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/989212
+2024-12-02 03:10:33,076 - INFO - Successfully scraped job: Data Migration Specialist (f/m/d) (Essen, DE)
+2024-12-02 03:10:33,078 - INFO - Saved job: Data Migration Specialist (f/m/d) (Essen, DE) - E.ON
+2024-12-02 03:10:34,862 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/918532
+2024-12-02 03:10:37,622 - INFO - Successfully scraped job: Data Analyst (Fixed Term Contract)
+2024-12-02 03:10:37,624 - INFO - Saved job: Data Analyst (Fixed Term Contract) - Total Energies
+2024-12-02 03:10:39,129 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/960469
+2024-12-02 03:10:41,982 - INFO - Successfully scraped job: Chef/e Projet Finance & Data H/F
+2024-12-02 03:10:41,984 - INFO - Saved job: Chef/e Projet Finance & Data H/F - Engie
+2024-12-02 03:10:43,051 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1006963
+2024-12-02 03:10:46,586 - INFO - Successfully scraped job: Org Data Senior Analyst
+2024-12-02 03:10:46,589 - INFO - Saved job: Org Data Senior Analyst - bp
+2024-12-02 03:10:47,815 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/864479
+2024-12-02 03:10:51,523 - INFO - Successfully scraped job: Real Estate Portfolio Management & Data Specialist
+2024-12-02 03:10:51,525 - INFO - Saved job: Real Estate Portfolio Management & Data Specialist - ABB
+2024-12-02 03:10:52,891 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/890731
+2024-12-02 03:10:55,510 - INFO - Successfully scraped job: Masterand (w/m/d): AI based object detection and depth estimation for precrash estimations using synthetic data generation and sensor data fusion
+2024-12-02 03:10:55,514 - INFO - Saved job: Masterand (w/m/d): AI based object detection and depth estimation for precrash estimations using synthetic data generation and sensor data fusion - Porsche
+2024-12-02 03:10:56,779 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/999858
+2024-12-02 03:11:00,397 - INFO - Successfully scraped job: Working student in Business Intelligence/ Data analytics (f/m/d)
+2024-12-02 03:11:00,400 - INFO - Saved job: Working student in Business Intelligence/ Data analytics (f/m/d) - Schneider Electric
+2024-12-02 03:11:01,514 - INFO - Collected 120 jobs so far
+2024-12-02 03:11:01,514 - INFO - Scraping page 7 of 389
+2024-12-02 03:11:04,736 - INFO - Getting job links from current page
