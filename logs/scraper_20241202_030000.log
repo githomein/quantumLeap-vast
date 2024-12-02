@@ -161,3 +161,52 @@
 2024-12-02 03:02:58,768 - INFO - Successfully scraped job: Senior Nuclear & Radiation Scientist
 2024-12-02 03:02:58,770 - INFO - Saved job: Senior Nuclear & Radiation Scientist - Noblis
 2024-12-02 03:03:00,199 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1005509
+2024-12-02 03:03:03,626 - INFO - Successfully scraped job: R&D Scientist in Switching for Electrification
+2024-12-02 03:03:03,628 - INFO - Saved job: R&D Scientist in Switching for Electrification - ABB
+2024-12-02 03:03:05,023 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/950766
+2024-12-02 03:03:08,653 - INFO - Successfully scraped job: Senior Scientist/Senior Ecologist
+2024-12-02 03:03:08,655 - INFO - Saved job: Senior Scientist/Senior Ecologist - AtkinsRéalis
+2024-12-02 03:03:10,367 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/925860
+2024-12-02 03:03:13,601 - INFO - Successfully scraped job: Senior Scientist/Group Manager
+2024-12-02 03:03:13,603 - INFO - Saved job: Senior Scientist/Group Manager - AtkinsRéalis
+2024-12-02 03:03:14,642 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/972801
+2024-12-02 03:03:18,176 - INFO - Successfully scraped job: LEAD SCIENTIST - SR. RESEARCH SCIENTIST - Solar Coronal Physics - Boulder, Colorado
+2024-12-02 03:03:18,180 - INFO - Saved job: LEAD SCIENTIST - SR. RESEARCH SCIENTIST - Solar Coronal Physics - Boulder, Colorado - Southwest Research Institute
+2024-12-02 03:03:19,540 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/science-or-research-jobs/964940
+2024-12-02 03:03:22,237 - INFO - Successfully scraped job: Environmental Scientist - Renewable Energy Generation and Transmission Siting and Permitting
+2024-12-02 03:03:22,239 - INFO - Saved job: Environmental Scientist - Renewable Energy Generation and Transmission Siting and Permitting - WSP
+2024-12-02 03:03:23,480 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/882929
+2024-12-02 03:03:36,717 - WARNING - Timeout waiting for company element
+2024-12-02 03:03:36,867 - INFO - Successfully scraped job: Senior Scientist
+2024-12-02 03:03:36,869 - INFO - Saved job: Senior Scientist - None
+2024-12-02 03:03:38,434 - INFO - Collected 40 jobs so far
+2024-12-02 03:03:38,434 - INFO - Scraping page 3 of 389
+2024-12-02 03:03:41,360 - INFO - Getting job links from current page
+2024-12-02 03:03:44,393 - INFO - Found 20 job cards
+2024-12-02 03:03:44,405 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/989116
+2024-12-02 03:03:44,414 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/897967
+2024-12-02 03:03:44,423 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/912497
+2024-12-02 03:03:44,432 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1002184
+2024-12-02 03:03:44,440 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/928066
+2024-12-02 03:03:44,449 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/975880
+2024-12-02 03:03:44,458 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/972260
+2024-12-02 03:03:44,467 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/997907
+2024-12-02 03:03:44,475 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/environmental-jobs/967057
+2024-12-02 03:03:44,485 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/895149
+2024-12-02 03:03:44,493 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/919439
+2024-12-02 03:03:44,502 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1005509
+2024-12-02 03:03:44,510 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/950766
+2024-12-02 03:03:44,519 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/925860
+2024-12-02 03:03:44,527 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/972801
+2024-12-02 03:03:44,535 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/science-or-research-jobs/964940
+2024-12-02 03:03:44,545 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/882929
+2024-12-02 03:03:44,553 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/965997
+2024-12-02 03:03:44,562 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/985527
+2024-12-02 03:03:44,571 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005674
+2024-12-02 03:03:44,571 - INFO - Successfully extracted 20 job links
+2024-12-02 03:03:44,571 - INFO - Found 20 jobs on page 3
+2024-12-02 03:03:44,571 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/989116
+2024-12-02 03:03:47,267 - INFO - Successfully scraped job: Active Materials Scientist
+2024-12-02 03:03:47,270 - INFO - Saved job: Active Materials Scientist - Exxon Mobil
+2024-12-02 03:03:49,108 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/897967
+2024-12-02 03:04:03,225 - WARNING - Timeout waiting for company element
