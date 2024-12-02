@@ -1378,3 +1378,32 @@
 2024-12-02 03:29:19,627 - WARNING - Timeout waiting for company element
 2024-12-02 03:29:19,751 - INFO - Successfully scraped job: Contract SAP Data Technician
 2024-12-02 03:29:19,753 - INFO - Saved job: Contract SAP Data Technician - None
+2024-12-02 03:29:21,583 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/988953
+2024-12-02 03:29:34,205 - WARNING - Timeout waiting for company element
+2024-12-02 03:29:34,349 - INFO - Successfully scraped job: Data Integration Manager F/M
+2024-12-02 03:29:34,352 - INFO - Saved job: Data Integration Manager F/M - None
+2024-12-02 03:29:35,844 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/988305
+2024-12-02 03:29:37,895 - DEBUG - No additional metadata found
+2024-12-02 03:29:37,912 - INFO - Successfully scraped job: Evendale Data Acquisition Tech
+2024-12-02 03:29:37,915 - INFO - Saved job: Evendale Data Acquisition Tech - GE Renewable Energy Power and Aviation
+2024-12-02 03:29:39,319 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/847330
+2024-12-02 03:29:41,568 - INFO - Successfully scraped job: Data Engineer
+2024-12-02 03:29:41,570 - INFO - Saved job: Data Engineer - bp
+2024-12-02 03:29:42,620 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/985448
+2024-12-02 03:29:45,850 - INFO - Successfully scraped job: Data Management Specialist
+2024-12-02 03:29:45,852 - INFO - Saved job: Data Management Specialist - ABB
+2024-12-02 03:29:47,291 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1005785
+2024-12-02 03:29:50,114 - INFO - Successfully scraped job: Data Operations Administrator (Afternoon shift)
+2024-12-02 03:29:50,117 - INFO - Saved job: Data Operations Administrator (Afternoon shift) - bp
+2024-12-02 03:29:51,410 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/983370
+2024-12-02 03:29:54,980 - INFO - Successfully scraped job: Advanced Data Analyst
+2024-12-02 03:29:54,983 - INFO - Saved job: Advanced Data Analyst - Honeywell
+2024-12-02 03:29:56,969 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/981982
+2024-12-02 03:30:00,200 - INFO - Successfully scraped job: Data Centre Account Manager - ELDS UK
+2024-12-02 03:30:00,203 - INFO - Saved job: Data Centre Account Manager - ELDS UK - ABB
+2024-12-02 03:30:01,960 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/976647
+2024-12-02 03:30:14,513 - WARNING - Timeout waiting for company element
+2024-12-02 03:30:14,589 - DEBUG - No additional metadata found
+2024-12-02 03:30:14,604 - INFO - Successfully scraped job: SAP Master Data Specialist
+2024-12-02 03:30:14,608 - INFO - Saved job: SAP Master Data Specialist - None
+2024-12-02 03:30:16,300 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/administrative-or-secretarial-jobs/1001252
