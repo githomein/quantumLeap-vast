@@ -1464,3 +1464,33 @@
 2024-12-02 03:31:18,502 - INFO - Successfully scraped job: Data & AI Architect (Oil and Gas)
 2024-12-02 03:31:18,506 - INFO - Saved job: Data & AI Architect (Oil and Gas) - Avanade Inc.
 2024-12-02 03:31:20,381 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/996380
+2024-12-02 03:31:23,937 - INFO - Successfully scraped job: Data & Analytics IS Intern- Summer 2025
+2024-12-02 03:31:23,940 - INFO - Saved job: Data & Analytics IS Intern- Summer 2025 - ABB
+2024-12-02 03:31:25,701 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/996149
+2024-12-02 03:31:28,822 - INFO - Successfully scraped job: Technology Director - Data Science(Power Systems/Utilities)
+2024-12-02 03:31:28,824 - INFO - Saved job: Technology Director - Data Science(Power Systems/Utilities) - Aspen Technology, Inc.
+2024-12-02 03:31:30,815 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/991549
+2024-12-02 03:31:33,256 - INFO - Successfully scraped job: Trainee IT (Cyber Security/Data/Cloud) - International Graduate Programm (m/w/d) (Essen, DE)
+2024-12-02 03:31:33,259 - INFO - Saved job: Trainee IT (Cyber Security/Data/Cloud) - International Graduate Programm (m/w/d) (Essen, DE) - E.ON
+2024-12-02 03:31:34,325 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/969391
+2024-12-02 03:31:38,050 - DEBUG - No additional metadata found
+2024-12-02 03:31:38,063 - INFO - Successfully scraped job: Lead Software Engineer - Energy Markets Data Solutions (f/m/d) (Essen, DE)
+2024-12-02 03:31:38,065 - INFO - Saved job: Lead Software Engineer - Energy Markets Data Solutions (f/m/d) (Essen, DE) - E.ON
+2024-12-02 03:31:39,216 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/873023
+2024-12-02 03:31:41,196 - INFO - Successfully scraped job: Data Officer
+2024-12-02 03:31:41,198 - INFO - Saved job: Data Officer - Engie
+2024-12-02 03:31:42,751 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/989703
+2024-12-02 03:31:56,732 - WARNING - Timeout waiting for company element
+2024-12-02 03:31:56,846 - INFO - Successfully scraped job: Contract SAP Plant Maintenance Data Technician.
+2024-12-02 03:31:56,849 - INFO - Saved job: Contract SAP Plant Maintenance Data Technician. - None
+2024-12-02 03:31:57,970 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/988370
+2024-12-02 03:32:10,084 - WARNING - Timeout waiting for company element
+2024-12-02 03:32:10,183 - INFO - Successfully scraped job: Junior Workload Data Analyst H/F
+2024-12-02 03:32:10,186 - INFO - Saved job: Junior Workload Data Analyst H/F - None
+2024-12-02 03:32:11,836 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/988152
+2024-12-02 03:32:15,279 - INFO - Successfully scraped job: Team Lead - Customer master data
+2024-12-02 03:32:15,281 - INFO - Saved job: Team Lead - Customer master data - ABB
+2024-12-02 03:32:16,995 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/915625
+2024-12-02 03:32:20,383 - INFO - Successfully scraped job: Senior Data Engineer
+2024-12-02 03:32:20,385 - INFO - Saved job: Senior Data Engineer - bp
+2024-12-02 03:32:21,395 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/893636
