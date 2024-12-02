@@ -1798,3 +1798,48 @@
 2024-12-02 03:38:23,115 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/969419
 2024-12-02 03:38:26,371 - INFO - Successfully scraped job: Scientific Software Engineer Intern (3 months) - Starting Summer 2025
 2024-12-02 03:38:26,373 - INFO - Saved job: Scientific Software Engineer Intern (3 months) - Starting Summer 2025 - Schlumberger
+2024-12-02 03:38:28,340 - INFO - Collected 400 jobs so far
+2024-12-02 03:38:28,340 - INFO - Scraping page 21 of 389
+2024-12-02 03:38:31,467 - INFO - Getting job links from current page
+2024-12-02 03:38:34,502 - INFO - Found 10 job cards
+2024-12-02 03:38:34,514 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/904793
+2024-12-02 03:38:34,524 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/995392
+2024-12-02 03:38:34,534 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/924784
+2024-12-02 03:38:34,544 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1004101
+2024-12-02 03:38:34,555 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/production-jobs/926772
+2024-12-02 03:38:34,564 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/926743
+2024-12-02 03:38:34,574 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/975238
+2024-12-02 03:38:34,584 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/998684
+2024-12-02 03:38:34,593 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/oilfield-jobs/1001684
+2024-12-02 03:38:34,603 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/general-management-jobs/1003175
+2024-12-02 03:38:34,603 - INFO - Successfully extracted 10 job links
+2024-12-02 03:38:34,603 - INFO - Found 10 jobs on page 21
+2024-12-02 03:38:34,603 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/904793
+2024-12-02 03:38:37,295 - INFO - Successfully scraped job: Market Development Manager, Clean Energy
+2024-12-02 03:38:37,298 - INFO - Saved job: Market Development Manager, Clean Energy - Thermo Fisher Scientific
+2024-12-02 03:38:38,489 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/995392
+2024-12-02 03:38:42,289 - INFO - Successfully scraped job: Demand Generation Intern - Bogotá
+2024-12-02 03:38:42,292 - INFO - Saved job: Demand Generation Intern - Bogotá - Boston Scientific
+2024-12-02 03:38:43,390 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/924784
+2024-12-02 03:38:45,289 - INFO - Successfully scraped job: Electrical Utilities Technician
+2024-12-02 03:38:45,292 - INFO - Saved job: Electrical Utilities Technician - Thermo Fisher Scientific
+2024-12-02 03:38:46,757 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1004101
+2024-12-02 03:38:50,202 - INFO - Successfully scraped job: VP, Demand Generation
+2024-12-02 03:38:50,205 - INFO - Saved job: VP, Demand Generation - LeanData
+2024-12-02 03:38:51,381 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/926772
+2024-12-02 03:38:55,097 - INFO - Successfully scraped job: Interface Coordinator (Process/Mechanical, Electrical, CommSec, Piping/Plumbing, HVAC)
+2024-12-02 03:38:55,099 - INFO - Saved job: Interface Coordinator (Process/Mechanical, Electrical, CommSec, Piping/Plumbing, HVAC) - Datasoft Technologies, Inc.
+2024-12-02 03:38:56,376 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/926743
+2024-12-02 03:38:58,569 - INFO - Successfully scraped job: Interface Coordinator - HVAC
+2024-12-02 03:38:58,573 - INFO - Saved job: Interface Coordinator - HVAC - Datasoft Technologies, Inc.
+2024-12-02 03:39:00,223 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/975238
+2024-12-02 03:39:03,379 - INFO - Successfully scraped job: Demand Generation Senior Manager
+2024-12-02 03:39:03,383 - INFO - Saved job: Demand Generation Senior Manager - DataGrail
+2024-12-02 03:39:04,520 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/998684
+2024-12-02 03:39:07,220 - INFO - Successfully scraped job: Head of Demand Generation
+2024-12-02 03:39:07,223 - INFO - Saved job: Head of Demand Generation - DataSnipper
+2024-12-02 03:39:08,767 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/oilfield-jobs/1001684
+2024-12-02 03:39:21,880 - WARNING - Timeout waiting for company element
+2024-12-02 03:39:22,093 - INFO - Successfully scraped job: Petroleum Engineers (Digital Oil Field Workflows)
+2024-12-02 03:39:22,096 - INFO - Saved job: Petroleum Engineers (Digital Oil Field Workflows) - None
+2024-12-02 03:39:23,489 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/general-management-jobs/1003175
