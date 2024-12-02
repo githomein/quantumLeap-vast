@@ -1005,3 +1005,44 @@
 2024-12-02 03:21:04,910 - INFO - Successfully scraped job: Sr. Data Center/Cloud Engineer
 2024-12-02 03:21:04,912 - INFO - Saved job: Sr. Data Center/Cloud Engineer - None
 2024-12-02 03:21:06,133 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/971278
+2024-12-02 03:21:18,481 - WARNING - Timeout waiting for company element
+2024-12-02 03:21:18,631 - INFO - Successfully scraped job: Senior Data Architect - Azure/GCP
+2024-12-02 03:21:18,633 - INFO - Saved job: Senior Data Architect - Azure/GCP - None
+2024-12-02 03:21:20,317 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/894801
+2024-12-02 03:21:22,870 - INFO - Successfully scraped job: Data Analysis Engineer
+2024-12-02 03:21:22,872 - INFO - Saved job: Data Analysis Engineer - Emerson
+2024-12-02 03:21:24,213 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/991749
+2024-12-02 03:21:26,279 - DEBUG - No additional metadata found
+2024-12-02 03:21:26,293 - INFO - Successfully scraped job: Customer Data Business Product Owner
+2024-12-02 03:21:26,295 - INFO - Saved job: Customer Data Business Product Owner - Emerson
+2024-12-02 03:21:27,572 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/903641
+2024-12-02 03:21:30,138 - INFO - Successfully scraped job: Business Data Analyst
+2024-12-02 03:21:30,140 - INFO - Saved job: Business Data Analyst - NOV
+2024-12-02 03:21:31,884 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/902129
+2024-12-02 03:21:35,034 - INFO - Successfully scraped job: Sr Data Governance Analyst
+2024-12-02 03:21:35,036 - INFO - Saved job: Sr Data Governance Analyst - Honeywell
+2024-12-02 03:21:36,152 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/902124
+2024-12-02 03:21:38,408 - INFO - Successfully scraped job: Sr Data Analyst
+2024-12-02 03:21:38,410 - INFO - Saved job: Sr Data Analyst - Honeywell
+2024-12-02 03:21:39,733 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/901250
+2024-12-02 03:21:42,724 - INFO - Successfully scraped job: Manager Data BI (h/f)
+2024-12-02 03:21:42,727 - INFO - Saved job: Manager Data BI (h/f) - Engie
+2024-12-02 03:21:43,858 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/989656
+2024-12-02 03:21:47,825 - INFO - Successfully scraped job: PS Data Analytics Analyst
+2024-12-02 03:21:47,827 - INFO - Saved job: PS Data Analytics Analyst - Exxon Mobil
+2024-12-02 03:21:49,530 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/988377
+2024-12-02 03:21:52,890 - INFO - Successfully scraped job: Data Analyst Intern (Summer 2025)
+2024-12-02 03:21:52,892 - INFO - Saved job: Data Analyst Intern (Summer 2025) - Schneider Electric
+2024-12-02 03:21:54,552 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/963467
+2024-12-02 03:21:57,277 - INFO - Successfully scraped job: Data Science Intern (6 or 12 months) - Starting Summer 2025
+2024-12-02 03:21:57,279 - INFO - Saved job: Data Science Intern (6 or 12 months) - Starting Summer 2025 - Schlumberger
+2024-12-02 03:21:58,559 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/846620
+2024-12-02 03:22:01,708 - INFO - Successfully scraped job: Data Engineer
+2024-12-02 03:22:01,711 - INFO - Saved job: Data Engineer - Chevron
+2024-12-02 03:22:03,608 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/845547
+2024-12-02 03:22:06,196 - INFO - Successfully scraped job: Débutant Data science appliquée aux Géosciences F/H
+2024-12-02 03:22:06,199 - INFO - Saved job: Débutant Data science appliquée aux Géosciences F/H - Total Energies
+2024-12-02 03:22:07,748 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/985448
+2024-12-02 03:22:10,243 - INFO - Successfully scraped job: Data Management Specialist
+2024-12-02 03:22:10,245 - INFO - Saved job: Data Management Specialist - ABB
+2024-12-02 03:22:12,151 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1005785
