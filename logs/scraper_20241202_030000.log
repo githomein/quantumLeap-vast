@@ -93,3 +93,71 @@
 2024-12-02 03:01:49,743 - INFO - Saved job: Staff Data Scientist - bp
 2024-12-02 03:01:51,560 - INFO - Collected 20 jobs so far
 2024-12-02 03:01:51,560 - INFO - Scraping page 2 of 389
+2024-12-02 03:01:54,868 - INFO - Getting job links from current page
+2024-12-02 03:01:57,899 - INFO - Found 20 job cards
+2024-12-02 03:01:57,910 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/969761
+2024-12-02 03:01:57,918 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/918144
+2024-12-02 03:01:57,926 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/977199
+2024-12-02 03:01:57,935 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/951567
+2024-12-02 03:01:57,945 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/931900
+2024-12-02 03:01:57,954 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/science-or-research-jobs/997982
+2024-12-02 03:01:57,962 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/992475
+2024-12-02 03:01:57,971 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/science-or-research-jobs/989739
+2024-12-02 03:01:57,979 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/986125
+2024-12-02 03:01:57,988 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/914118
+2024-12-02 03:01:57,996 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/892922
+2024-12-02 03:01:58,004 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/science-or-research-jobs/1001747
+2024-12-02 03:01:58,012 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/928564
+2024-12-02 03:01:58,020 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/964515
+2024-12-02 03:01:58,028 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1005509
+2024-12-02 03:01:58,036 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/950766
+2024-12-02 03:01:58,044 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/925860
+2024-12-02 03:01:58,053 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/972801
+2024-12-02 03:01:58,065 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/science-or-research-jobs/964940
+2024-12-02 03:01:58,075 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/882929
+2024-12-02 03:01:58,075 - INFO - Successfully extracted 20 job links
+2024-12-02 03:01:58,075 - INFO - Found 20 jobs on page 2
+2024-12-02 03:01:58,075 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/969761
+2024-12-02 03:02:00,947 - INFO - Successfully scraped job: Offshore Wind Energy Scientist / Permitter
+2024-12-02 03:02:00,949 - INFO - Saved job: Offshore Wind Energy Scientist / Permitter - AECOM
+2024-12-02 03:02:02,190 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/918144
+2024-12-02 03:02:05,700 - INFO - Successfully scraped job: 2025 UR_R&D Engr/Scientist II,Zhangjiagang, ADM,ESS
+2024-12-02 03:02:05,702 - INFO - Saved job: 2025 UR_R&D Engr/Scientist II,Zhangjiagang, ADM,ESS - Honeywell
+2024-12-02 03:02:06,856 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/977199
+2024-12-02 03:02:09,691 - INFO - Successfully scraped job: Research Scientist Intern, Code Generation
+2024-12-02 03:02:09,693 - INFO - Saved job: Research Scientist Intern, Code Generation - Meta
+2024-12-02 03:02:11,535 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/951567
+2024-12-02 03:02:14,889 - INFO - Successfully scraped job: Principal Scientist, Next Generation Ingredients, Global Sweeteners & Salt
+2024-12-02 03:02:14,891 - INFO - Saved job: Principal Scientist, Next Generation Ingredients, Global Sweeteners & Salt - Kraft Heinz Company
+2024-12-02 03:02:15,965 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/931900
+2024-12-02 03:02:18,075 - DEBUG - No additional metadata found
+2024-12-02 03:02:18,092 - INFO - Successfully scraped job: Nuclear Criticality Research Scientist/Co-Director Center of Energy and Environmental Studies
+2024-12-02 03:02:18,096 - INFO - Saved job: Nuclear Criticality Research Scientist/Co-Director Center of Energy and Environmental Studies - South Carolina State University
+2024-12-02 03:02:19,705 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/science-or-research-jobs/997982
+2024-12-02 03:02:22,307 - INFO - Successfully scraped job: Senior Environmental Scientist/Engineer (Nuclear)
+2024-12-02 03:02:22,311 - INFO - Saved job: Senior Environmental Scientist/Engineer (Nuclear) - AtkinsRéalis
+2024-12-02 03:02:24,105 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/992475
+2024-12-02 03:02:26,917 - INFO - Successfully scraped job: Waste Water Process Scientist
+2024-12-02 03:02:26,920 - INFO - Saved job: Waste Water Process Scientist - THAMES WATER UTILITIES LIMITED
+2024-12-02 03:02:28,658 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/science-or-research-jobs/989739
+2024-12-02 03:02:30,990 - INFO - Successfully scraped job: Intermediate Environmental Scientist
+2024-12-02 03:02:30,993 - INFO - Saved job: Intermediate Environmental Scientist - AtkinsRéalis
+2024-12-02 03:02:32,272 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/986125
+2024-12-02 03:02:35,209 - INFO - Successfully scraped job: Sr R&D Engineer Scientist - Process Modeling
+2024-12-02 03:02:35,211 - INFO - Saved job: Sr R&D Engineer Scientist - Process Modeling - Honeywell
+2024-12-02 03:02:37,061 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/914118
+2024-12-02 03:02:40,261 - INFO - Successfully scraped job: Exposure Scientist
+2024-12-02 03:02:40,264 - INFO - Saved job: Exposure Scientist - Exxon Mobil
+2024-12-02 03:02:41,528 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/892922
+2024-12-02 03:02:44,982 - INFO - Successfully scraped job: Scientist II
+2024-12-02 03:02:44,985 - INFO - Saved job: Scientist II - AtkinsRéalis
+2024-12-02 03:02:46,120 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/science-or-research-jobs/1001747
+2024-12-02 03:02:48,595 - INFO - Successfully scraped job: Senior Environmental Scientist/Ecologist
+2024-12-02 03:02:48,597 - INFO - Saved job: Senior Environmental Scientist/Ecologist - AtkinsRéalis
+2024-12-02 03:02:50,147 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/928564
+2024-12-02 03:02:54,223 - INFO - Successfully scraped job: Pulsed Power Engineering - Component Scientist
+2024-12-02 03:02:54,227 - INFO - Saved job: Pulsed Power Engineering - Component Scientist - Pacific Fusion Ltd
+2024-12-02 03:02:55,604 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/964515
+2024-12-02 03:02:58,768 - INFO - Successfully scraped job: Senior Nuclear & Radiation Scientist
+2024-12-02 03:02:58,770 - INFO - Saved job: Senior Nuclear & Radiation Scientist - Noblis
+2024-12-02 03:03:00,199 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1005509
