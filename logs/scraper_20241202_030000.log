@@ -581,3 +581,42 @@
 2024-12-02 03:11:53,223 - INFO - Successfully scraped job: Senior -BI Data Engineer
 2024-12-02 03:11:53,225 - INFO - Saved job: Senior -BI Data Engineer - Schneider Electric
 2024-12-02 03:11:54,487 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005394
+2024-12-02 03:12:08,418 - WARNING - Timeout waiting for company element
+2024-12-02 03:12:08,625 - INFO - Successfully scraped job: Data Management Development Lead
+2024-12-02 03:12:08,627 - INFO - Saved job: Data Management Development Lead - None
+2024-12-02 03:12:09,638 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1007102
+2024-12-02 03:12:23,065 - WARNING - Timeout waiting for company element
+2024-12-02 03:12:23,311 - INFO - Successfully scraped job: Data Management Development Lead
+2024-12-02 03:12:23,313 - INFO - Saved job: Data Management Development Lead - None
+2024-12-02 03:12:24,502 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/960606
+2024-12-02 03:12:28,116 - INFO - Successfully scraped job: Solutions Architect - Oil and Gas Drilling Data Systems
+2024-12-02 03:12:28,119 - INFO - Saved job: Solutions Architect - Oil and Gas Drilling Data Systems - NOV
+2024-12-02 03:12:30,025 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/915108
+2024-12-02 03:12:34,111 - INFO - Successfully scraped job: Data Privacy Analyst (m/w/d)
+2024-12-02 03:12:34,113 - INFO - Saved job: Data Privacy Analyst (m/w/d) - Engie
+2024-12-02 03:12:35,148 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/915195
+2024-12-02 03:12:37,376 - INFO - Successfully scraped job: Information Systems, IT, Cyber Engineer & Data Science - Recent Grad/Full Time (US Person Required)
+2024-12-02 03:12:37,378 - INFO - Saved job: Information Systems, IT, Cyber Engineer & Data Science - Recent Grad/Full Time (US Person Required) - Honeywell
+2024-12-02 03:12:39,277 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/958720
+2024-12-02 03:12:41,727 - DEBUG - No additional metadata found
+2024-12-02 03:12:41,741 - INFO - Successfully scraped job: Data Engineer I.Colombia . IT&S&S Projects:46 Standard Hours
+2024-12-02 03:12:41,743 - INFO - Saved job: Data Engineer I.Colombia . IT&S&S Projects:46 Standard Hours - Wood PLC
+2024-12-02 03:12:43,698 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/978308
+2024-12-02 03:12:46,276 - INFO - Successfully scraped job: Stage - Data analyst - Pricing & Développement Réseau Stations - AS 24
+2024-12-02 03:12:46,278 - INFO - Saved job: Stage - Data analyst - Pricing & Développement Réseau Stations - AS 24 - Total Energies
+2024-12-02 03:12:48,044 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/977866
+2024-12-02 03:12:50,271 - INFO - Successfully scraped job: Staff Data Analyst
+2024-12-02 03:12:50,273 - INFO - Saved job: Staff Data Analyst - bp
+2024-12-02 03:12:51,775 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1003181
+2024-12-02 03:12:54,190 - DEBUG - No additional metadata found
+2024-12-02 03:12:54,204 - INFO - Successfully scraped job: Payroll & Data Quality Advisor
+2024-12-02 03:12:54,206 - INFO - Saved job: Payroll & Data Quality Advisor - Shell
+2024-12-02 03:12:55,920 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1001342
+2024-12-02 03:12:58,983 - INFO - Successfully scraped job: Assurance Data Technician - Waste Water Networks
+2024-12-02 03:12:58,985 - INFO - Saved job: Assurance Data Technician - Waste Water Networks - Severn Trent Water
+2024-12-02 03:13:00,885 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1000315
+2024-12-02 03:13:03,027 - INFO - Successfully scraped job: Werkstudent (m/w/d) Cloud Development, Data Engineering & Data Visualization (Salzgitter, DE)
+2024-12-02 03:13:03,029 - INFO - Saved job: Werkstudent (m/w/d) Cloud Development, Data Engineering & Data Visualization (Salzgitter, DE) - E.ON
+2024-12-02 03:13:04,304 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/924663
+2024-12-02 03:13:07,536 - INFO - Successfully scraped job: Senior Data Science & AI Specialist
+2024-12-02 03:13:07,539 - INFO - Saved job: Senior Data Science & AI Specialist - ABB
