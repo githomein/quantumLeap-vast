@@ -1101,3 +1101,32 @@
 2024-12-02 03:23:11,356 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1001343
 2024-12-02 03:23:14,536 - INFO - Successfully scraped job: Senior Data Analyst & Pipeline Engineer (KDB+ Focus)
 2024-12-02 03:23:14,539 - INFO - Saved job: Senior Data Analyst & Pipeline Engineer (KDB+ Focus) - Morgan McKinley
+2024-12-02 03:23:16,044 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1001027
+2024-12-02 03:23:19,327 - INFO - Successfully scraped job: Data Analysis Engineer - Xi'an
+2024-12-02 03:23:19,330 - INFO - Saved job: Data Analysis Engineer - Xi'an - Emerson
+2024-12-02 03:23:20,599 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/999172
+2024-12-02 03:23:22,460 - INFO - Successfully scraped job: Statistician/Data Analyst - Input-Output research and greenhouse gas (GHG) footprints
+2024-12-02 03:23:22,463 - INFO - Saved job: Statistician/Data Analyst - Input-Output research and greenhouse gas (GHG) footprints - OECD
+2024-12-02 03:23:23,951 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/administrative-or-secretarial-jobs/996822
+2024-12-02 03:23:37,267 - WARNING - Timeout waiting for company element
+2024-12-02 03:23:37,342 - INFO - Successfully scraped job: Data Entry Associate II
+2024-12-02 03:23:37,345 - INFO - Saved job: Data Entry Associate II - None
+2024-12-02 03:23:39,139 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/996404
+2024-12-02 03:23:41,378 - INFO - Successfully scraped job: Data analysis and calculations Specialist with Excel Proficiency and Power Bi
+2024-12-02 03:23:41,380 - INFO - Saved job: Data analysis and calculations Specialist with Excel Proficiency and Power Bi - ABB
+2024-12-02 03:23:43,326 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/996288
+2024-12-02 03:23:45,992 - INFO - Successfully scraped job: Data Engineer
+2024-12-02 03:23:45,995 - INFO - Saved job: Data Engineer - Halliburton
+2024-12-02 03:23:47,143 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/994566
+2024-12-02 03:23:49,062 - INFO - Successfully scraped job: Offshore Geophysical Data Processor - Marine
+2024-12-02 03:23:49,065 - INFO - Saved job: Offshore Geophysical Data Processor - Marine - Fugro
+2024-12-02 03:23:50,543 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/993792
+2024-12-02 03:23:53,798 - INFO - Successfully scraped job: Data and Statistical Science for Evidence Generation Intern
+2024-12-02 03:23:53,800 - INFO - Saved job: Data and Statistical Science for Evidence Generation Intern - Daiichi Sankyo, Inc.
+2024-12-02 03:23:55,172 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/970113
+2024-12-02 03:23:58,409 - INFO - Successfully scraped job: Principal Data & Information Architect
+2024-12-02 03:23:58,413 - INFO - Saved job: Principal Data & Information Architect - GE Renewable Energy Power and Aviation
+2024-12-02 03:23:59,622 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/902138
+2024-12-02 03:24:03,253 - INFO - Successfully scraped job: Sr Data Analyst
+2024-12-02 03:24:03,257 - INFO - Saved job: Sr Data Analyst - Honeywell
+2024-12-02 03:24:04,535 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/general-management-jobs/966013
