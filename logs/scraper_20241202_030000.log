@@ -305,3 +305,43 @@
 2024-12-02 03:06:00,784 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/1000278
 2024-12-02 03:06:04,459 - INFO - Successfully scraped job: R&D Scientist - Electrical Simulation Specialists
 2024-12-02 03:06:04,462 - INFO - Saved job: R&D Scientist - Electrical Simulation Specialists - ABB
+2024-12-02 03:06:06,322 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/972591
+2024-12-02 03:06:08,979 - INFO - Successfully scraped job: Lead R&D Engineer/Scientist
+2024-12-02 03:06:08,982 - INFO - Saved job: Lead R&D Engineer/Scientist - Honeywell
+2024-12-02 03:06:10,541 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/production-jobs/996459
+2024-12-02 03:06:13,673 - INFO - Successfully scraped job: Research Scientist - Sensing & Electronics
+2024-12-02 03:06:13,676 - INFO - Saved job: Research Scientist - Sensing & Electronics - ABB
+2024-12-02 03:06:15,506 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/science-or-research-jobs/993573
+2024-12-02 03:06:19,417 - INFO - Successfully scraped job: Environmental Scientist (Petroleum Fuels Storage Tank Specialist)
+2024-12-02 03:06:19,420 - INFO - Saved job: Environmental Scientist (Petroleum Fuels Storage Tank Specialist) - WSP
+2024-12-02 03:06:21,081 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005690
+2024-12-02 03:06:23,346 - INFO - Successfully scraped job: Sr Advanced R&D Engineer/Scientist - Aerospace Systems
+2024-12-02 03:06:23,349 - INFO - Saved job: Sr Advanced R&D Engineer/Scientist - Aerospace Systems - Honeywell
+2024-12-02 03:06:25,230 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1005355
+2024-12-02 03:06:27,750 - INFO - Successfully scraped job: T504-ESG-Scientist-Physics, Sr
+2024-12-02 03:06:27,753 - INFO - Saved job: T504-ESG-Scientist-Physics, Sr - Halliburton
+2024-12-02 03:06:29,321 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/982331
+2024-12-02 03:06:31,748 - INFO - Successfully scraped job: Research Scientist - Physicist
+2024-12-02 03:06:31,751 - INFO - Saved job: Research Scientist - Physicist - Schlumberger
+2024-12-02 03:06:33,725 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1001180
+2024-12-02 03:06:36,144 - INFO - Successfully scraped job: Sr R&D Software Engineer Engineer - Architect & Integration Scientist - Speech Technology
+2024-12-02 03:06:36,147 - INFO - Saved job: Sr R&D Software Engineer Engineer - Architect & Integration Scientist - Speech Technology - Honeywell
+2024-12-02 03:06:37,312 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/930766
+2024-12-02 03:06:39,863 - DEBUG - No additional metadata found
+2024-12-02 03:06:39,876 - INFO - Successfully scraped job: Principal Scientist- Video Generation Control Research Leader
+2024-12-02 03:06:39,878 - INFO - Saved job: Principal Scientist- Video Generation Control Research Leader - Adobe, Inc.
+2024-12-02 03:06:41,364 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1000649
+2024-12-02 03:06:44,645 - INFO - Successfully scraped job: Principal Research Scientist (f/m/d) - AI for Power Systems
+2024-12-02 03:06:44,647 - INFO - Saved job: Principal Research Scientist (f/m/d) - AI for Power Systems - Siemens Energy
+2024-12-02 03:06:45,816 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/908332
+2024-12-02 03:06:49,557 - INFO - Successfully scraped job: Senior Scientist/Ecologist
+2024-12-02 03:06:49,559 - INFO - Saved job: Senior Scientist/Ecologist - AtkinsRéalis
+2024-12-02 03:06:51,304 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/science-or-research-jobs/922783
+2024-12-02 03:06:53,526 - INFO - Successfully scraped job: Graduate Environmental Scientist
+2024-12-02 03:06:53,528 - INFO - Saved job: Graduate Environmental Scientist - AtkinsRéalis
+2024-12-02 03:06:55,166 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/992437
+2024-12-02 03:06:58,916 - INFO - Successfully scraped job: Industrial Water Treatment Scientist
+2024-12-02 03:06:58,918 - INFO - Saved job: Industrial Water Treatment Scientist - Veolia Environnement SA
+2024-12-02 03:07:00,302 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/990188
+2024-12-02 03:07:03,322 - INFO - Successfully scraped job: T505-ESG-Scientist-Physics
+2024-12-02 03:07:03,324 - INFO - Saved job: T505-ESG-Scientist-Physics - Halliburton
