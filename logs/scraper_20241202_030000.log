@@ -1691,3 +1691,64 @@
 2024-12-02 03:36:14,432 - INFO - Successfully scraped job: Expert - AWS Bigdata Security Lead
 2024-12-02 03:36:14,436 - INFO - Saved job: Expert - AWS Bigdata Security Lead - Schneider Electric
 2024-12-02 03:36:15,742 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/996611
+2024-12-02 03:36:27,924 - WARNING - Timeout waiting for company element
+2024-12-02 03:36:28,001 - DEBUG - No additional metadata found
+2024-12-02 03:36:28,015 - INFO - Successfully scraped job: Internship - Creation of a database for estimating the cost of electrical equipment - M/F
+2024-12-02 03:36:28,018 - INFO - Saved job: Internship - Creation of a database for estimating the cost of electrical equipment - M/F - None
+2024-12-02 03:36:29,914 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/962878
+2024-12-02 03:36:33,283 - INFO - Successfully scraped job: Next Generation Firewall Software Development Engineer Datapath & Control Path
+2024-12-02 03:36:33,286 - INFO - Saved job: Next Generation Firewall Software Development Engineer Datapath & Control Path - Broadcom, Inc.
+2024-12-02 03:36:34,848 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/960202
+2024-12-02 03:36:47,921 - WARNING - Timeout waiting for company element
+2024-12-02 03:36:48,144 - INFO - Successfully scraped job: Systems Completions Database (SCDB) Lead
+2024-12-02 03:36:48,148 - INFO - Saved job: Systems Completions Database (SCDB) Lead - None
+2024-12-02 03:36:49,308 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/990946
+2024-12-02 03:36:51,621 - INFO - Successfully scraped job: Project Controls Manager for Critical Infrastructure & Datacenter project
+2024-12-02 03:36:51,624 - INFO - Saved job: Project Controls Manager for Critical Infrastructure & Datacenter project - Engie
+2024-12-02 03:36:53,091 - INFO - Collected 380 jobs so far
+2024-12-02 03:36:53,091 - INFO - Scraping page 20 of 389
+2024-12-02 03:36:57,292 - INFO - Getting job links from current page
+2024-12-02 03:37:00,328 - INFO - Found 20 job cards
+2024-12-02 03:37:00,343 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/990951
+2024-12-02 03:37:00,352 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/990939
+2024-12-02 03:37:00,362 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/990942
+2024-12-02 03:37:00,371 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/general-management-jobs/990940
+2024-12-02 03:37:00,380 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/990944
+2024-12-02 03:37:00,389 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/851507
+2024-12-02 03:37:00,398 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/865609
+2024-12-02 03:37:00,407 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/989818
+2024-12-02 03:37:00,415 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/989827
+2024-12-02 03:37:00,424 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/production-jobs/989810
+2024-12-02 03:37:00,432 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/989812
+2024-12-02 03:37:00,440 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/989831
+2024-12-02 03:37:00,449 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/989828
+2024-12-02 03:37:00,457 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/989821
+2024-12-02 03:37:00,465 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/919794
+2024-12-02 03:37:00,473 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/science-or-research-jobs/846902
+2024-12-02 03:37:00,481 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/987468
+2024-12-02 03:37:00,490 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/987452
+2024-12-02 03:37:00,499 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/961058
+2024-12-02 03:37:00,508 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/969419
+2024-12-02 03:37:00,508 - INFO - Successfully extracted 20 job links
+2024-12-02 03:37:00,508 - INFO - Found 20 jobs on page 20
+2024-12-02 03:37:00,508 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/990951
+2024-12-02 03:37:02,567 - INFO - Successfully scraped job: Contracts Manager for Critical Infrastructure & Datacenter project
+2024-12-02 03:37:02,571 - INFO - Saved job: Contracts Manager for Critical Infrastructure & Datacenter project - Engie
+2024-12-02 03:37:04,013 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/990939
+2024-12-02 03:37:06,202 - INFO - Successfully scraped job: Lead Scheduler for Critical Infrastructure & Datacenter project
+2024-12-02 03:37:06,205 - INFO - Saved job: Lead Scheduler for Critical Infrastructure & Datacenter project - Engie
+2024-12-02 03:37:07,428 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/990942
+2024-12-02 03:37:09,523 - INFO - Successfully scraped job: Procurement Manager for Critical Infrastructure & Datacenter project (on site)
+2024-12-02 03:37:09,526 - INFO - Saved job: Procurement Manager for Critical Infrastructure & Datacenter project (on site) - Engie
+2024-12-02 03:37:10,831 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/general-management-jobs/990940
+2024-12-02 03:37:13,147 - INFO - Successfully scraped job: Quality Manager for Critical Infrastructure & Datacenter project
+2024-12-02 03:37:13,150 - INFO - Saved job: Quality Manager for Critical Infrastructure & Datacenter project - Engie
+2024-12-02 03:37:14,481 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/990944
+2024-12-02 03:37:17,060 - INFO - Successfully scraped job: MEP Lead for Critical Infrastructure & Datacenter project
+2024-12-02 03:37:17,063 - INFO - Saved job: MEP Lead for Critical Infrastructure & Datacenter project - Engie
+2024-12-02 03:37:18,276 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/851507
+2024-12-02 03:37:21,986 - INFO - Successfully scraped job: Ingénieur d'études CVC/PLB Datacenter Expérimenté ou Sénior H/F
+2024-12-02 03:37:21,989 - INFO - Saved job: Ingénieur d'études CVC/PLB Datacenter Expérimenté ou Sénior H/F - Engie
+2024-12-02 03:37:23,097 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/865609
+2024-12-02 03:37:25,848 - INFO - Successfully scraped job: Database Specialist
+2024-12-02 03:37:25,851 - INFO - Saved job: Database Specialist - AtkinsRéalis
