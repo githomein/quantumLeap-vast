@@ -345,3 +345,57 @@
 2024-12-02 03:07:00,302 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/990188
 2024-12-02 03:07:03,322 - INFO - Successfully scraped job: T505-ESG-Scientist-Physics
 2024-12-02 03:07:03,324 - INFO - Saved job: T505-ESG-Scientist-Physics - Halliburton
+2024-12-02 03:07:05,207 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/958325
+2024-12-02 03:07:08,460 - INFO - Successfully scraped job: Research Scientist - Enterprise Optimization - Aerospace Research
+2024-12-02 03:07:08,463 - INFO - Saved job: Research Scientist - Enterprise Optimization - Aerospace Research - GE Renewable Energy Power and Aviation
+2024-12-02 03:07:10,399 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/978040
+2024-12-02 03:07:13,453 - INFO - Successfully scraped job: R&D Scientist - CFD Simulation Specialist
+2024-12-02 03:07:13,456 - INFO - Saved job: R&D Scientist - CFD Simulation Specialist - ABB
+2024-12-02 03:07:14,659 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/976645
+2024-12-02 03:07:28,303 - WARNING - Timeout waiting for company element
+2024-12-02 03:07:28,427 - INFO - Successfully scraped job: Senior Scientist, Feedstock
+2024-12-02 03:07:28,429 - INFO - Saved job: Senior Scientist, Feedstock - None
+2024-12-02 03:07:29,575 - INFO - Collected 80 jobs so far
+2024-12-02 03:07:29,575 - INFO - Scraping page 5 of 389
+2024-12-02 03:07:34,047 - INFO - Getting job links from current page
+2024-12-02 03:07:37,082 - INFO - Found 20 job cards
+2024-12-02 03:07:37,095 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005674
+2024-12-02 03:07:37,104 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/954465
+2024-12-02 03:07:37,113 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/981402
+2024-12-02 03:07:37,123 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/928037
+2024-12-02 03:07:37,132 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/1000278
+2024-12-02 03:07:37,141 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/972591
+2024-12-02 03:07:37,151 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/production-jobs/996459
+2024-12-02 03:07:37,160 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/science-or-research-jobs/993573
+2024-12-02 03:07:37,169 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1007086
+2024-12-02 03:07:37,178 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/1007087
+2024-12-02 03:07:37,187 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/production-jobs/914808
+2024-12-02 03:07:37,196 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/1005540
+2024-12-02 03:07:37,204 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/982324
+2024-12-02 03:07:37,213 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/science-or-research-jobs/1001749
+2024-12-02 03:07:37,223 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/908315
+2024-12-02 03:07:37,232 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/engineering-jobs/970844
+2024-12-02 03:07:37,240 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/production-jobs/864444
+2024-12-02 03:07:37,248 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/919420
+2024-12-02 03:07:37,256 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/989147
+2024-12-02 03:07:37,265 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/965233
+2024-12-02 03:07:37,265 - INFO - Successfully extracted 20 job links
+2024-12-02 03:07:37,265 - INFO - Found 20 jobs on page 5
+2024-12-02 03:07:37,265 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/1005674
+2024-12-02 03:07:41,044 - INFO - Successfully scraped job: Sr. Advanced R&D Engineer Scientist - Crystallization Process
+2024-12-02 03:07:41,046 - INFO - Saved job: Sr. Advanced R&D Engineer Scientist - Crystallization Process - Honeywell
+2024-12-02 03:07:42,933 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/954465
+2024-12-02 03:07:46,656 - INFO - Successfully scraped job: Intern - Cyber Scientist
+2024-12-02 03:07:46,658 - INFO - Saved job: Intern - Cyber Scientist - Honeywell
+2024-12-02 03:07:48,278 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/981402
+2024-12-02 03:07:51,308 - INFO - Successfully scraped job: Gas Analysis Applications Scientist
+2024-12-02 03:07:51,310 - INFO - Saved job: Gas Analysis Applications Scientist - Ametek
+2024-12-02 03:07:52,657 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/928037
+2024-12-02 03:07:56,617 - INFO - Successfully scraped job: Research Scientist - Power System Operation
+2024-12-02 03:07:56,619 - INFO - Saved job: Research Scientist - Power System Operation - Hitachi, Ltd.
+2024-12-02 03:07:58,076 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/technicians-or-service-jobs/1000278
+2024-12-02 03:08:00,586 - INFO - Successfully scraped job: R&D Scientist - Electrical Simulation Specialists
+2024-12-02 03:08:00,588 - INFO - Saved job: R&D Scientist - Electrical Simulation Specialists - ABB
+2024-12-02 03:08:01,957 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/engineering-jobs/972591
+2024-12-02 03:08:04,603 - INFO - Successfully scraped job: Lead R&D Engineer/Scientist
+2024-12-02 03:08:04,606 - INFO - Saved job: Lead R&D Engineer/Scientist - Honeywell
