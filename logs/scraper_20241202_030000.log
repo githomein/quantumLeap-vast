@@ -1279,3 +1279,45 @@
 2024-12-02 03:27:11,524 - INFO - Successfully scraped job: Senior Principal Engineer - Data Driven
 2024-12-02 03:27:11,528 - INFO - Saved job: Senior Principal Engineer - Data Driven - None
 2024-12-02 03:27:13,218 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/administrative-or-secretarial-jobs/1005896
+2024-12-02 03:27:27,039 - WARNING - Timeout waiting for company element
+2024-12-02 03:27:27,137 - DEBUG - No additional metadata found
+2024-12-02 03:27:27,152 - INFO - Successfully scraped job: Data Analyst
+2024-12-02 03:27:27,155 - INFO - Saved job: Data Analyst - None
+2024-12-02 03:27:28,203 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/984195
+2024-12-02 03:27:31,202 - INFO - Successfully scraped job: Data Manager
+2024-12-02 03:27:31,205 - INFO - Saved job: Data Manager - bp
+2024-12-02 03:27:32,910 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1004211
+2024-12-02 03:27:35,227 - INFO - Successfully scraped job: Data Science Intern- Summer 2025
+2024-12-02 03:27:35,229 - INFO - Saved job: Data Science Intern- Summer 2025 - ABB
+2024-12-02 03:27:36,862 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/952502
+2024-12-02 03:27:38,922 - INFO - Successfully scraped job: Data Architect - Industrials & Energy Sector - Senior - Consulting - Location Open
+2024-12-02 03:27:38,925 - INFO - Saved job: Data Architect - Industrials & Energy Sector - Senior - Consulting - Location Open - EY
+2024-12-02 03:27:40,849 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/1001813
+2024-12-02 03:27:43,220 - INFO - Successfully scraped job: Senior Manager Data Governance & Management (m/w/d)* (Quickborn, DE)
+2024-12-02 03:27:43,223 - INFO - Saved job: Senior Manager Data Governance & Management (m/w/d)* (Quickborn, DE) - E.ON
+2024-12-02 03:27:44,311 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/974912
+2024-12-02 03:27:48,101 - INFO - Successfully scraped job: Team Leader, Energy Data Management (Location: Geneva) Gas & Power Trading IT
+2024-12-02 03:27:48,103 - INFO - Saved job: Team Leader, Energy Data Management (Location: Geneva) Gas & Power Trading IT - Total Energies
+2024-12-02 03:27:49,417 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/999830
+2024-12-02 03:27:53,044 - INFO - Successfully scraped job: Digital Upskilling Lead (f/m/d) - Data & AI (Berlin, DE)
+2024-12-02 03:27:53,047 - INFO - Saved job: Digital Upskilling Lead (f/m/d) - Data & AI (Berlin, DE) - E.ON
+2024-12-02 03:27:54,865 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/general-management-jobs/999002
+2024-12-02 03:27:56,916 - INFO - Successfully scraped job: Logistics Data intern
+2024-12-02 03:27:56,918 - INFO - Saved job: Logistics Data intern - Schneider Electric
+2024-12-02 03:27:58,206 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/999001
+2024-12-02 03:28:02,063 - DEBUG - No additional metadata found
+2024-12-02 03:28:02,076 - INFO - Successfully scraped job: Lead, Data Platforms Engineer
+2024-12-02 03:28:02,079 - INFO - Saved job: Lead, Data Platforms Engineer - Schneider Electric
+2024-12-02 03:28:03,247 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/907618
+2024-12-02 03:28:05,694 - INFO - Successfully scraped job: Data Engineer - Specialist
+2024-12-02 03:28:05,696 - INFO - Saved job: Data Engineer - Specialist - Vestas
+2024-12-02 03:28:07,153 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/872307
+2024-12-02 03:28:09,528 - INFO - Successfully scraped job: IS Lead Architect - CFIN-MDG Data Replication Analyst
+2024-12-02 03:28:09,531 - INFO - Saved job: IS Lead Architect - CFIN-MDG Data Replication Analyst - ABB
+2024-12-02 03:28:10,850 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/971410
+2024-12-02 03:28:12,876 - INFO - Successfully scraped job: Staff Data Manager
+2024-12-02 03:28:12,878 - INFO - Saved job: Staff Data Manager - bp
+2024-12-02 03:28:13,905 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/997856
+2024-12-02 03:28:17,577 - INFO - Successfully scraped job: Clean Energy Business Data Analyst
+2024-12-02 03:28:17,579 - INFO - Saved job: Clean Energy Business Data Analyst - The Cadmus Group, Inc.
+2024-12-02 03:28:18,980 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/966059
