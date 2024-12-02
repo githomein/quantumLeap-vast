@@ -1,0 +1,37 @@
+2024-12-02 02:58:35,315 - INFO - Scraper initialized
+2024-12-02 02:58:35,321 - INFO - Starting scraping process for 389 pages
+2024-12-02 02:58:38,589 - INFO - Attempting to handle cookie consent
+2024-12-02 02:58:38,589 - DEBUG - Waiting for 'Allow all' button to be clickable
+2024-12-02 02:58:38,624 - INFO - Clicked 'Allow all' button to accept cookies
+2024-12-02 02:58:39,159 - INFO - Scraping page 1 of 389
+2024-12-02 02:58:39,159 - INFO - Getting job links from current page
+2024-12-02 02:58:42,192 - INFO - Found 20 job cards
+2024-12-02 02:58:42,205 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/988504
+2024-12-02 02:58:42,214 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/976091
+2024-12-02 02:58:42,223 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/878586
+2024-12-02 02:58:42,231 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1006640
+2024-12-02 02:58:42,239 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/984297
+2024-12-02 02:58:42,247 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/984161
+2024-12-02 02:58:42,255 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/999177
+2024-12-02 02:58:42,262 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/892741
+2024-12-02 02:58:42,270 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/919768
+2024-12-02 02:58:42,279 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/986423
+2024-12-02 02:58:42,287 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/1005643
+2024-12-02 02:58:42,295 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/982809
+2024-12-02 02:58:42,304 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/863942
+2024-12-02 02:58:42,312 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/920397
+2024-12-02 02:58:42,320 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/966758
+2024-12-02 02:58:42,329 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/958023
+2024-12-02 02:58:42,345 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/981619
+2024-12-02 02:58:42,359 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/891903
+2024-12-02 02:58:42,368 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/964348
+2024-12-02 02:58:42,377 - DEBUG - Found job link: https://oilandgasjobsearch.com/jobs/other-jobs/966606
+2024-12-02 02:58:42,377 - INFO - Successfully extracted 20 job links
+2024-12-02 02:58:42,377 - INFO - Found 20 jobs on page 1
+2024-12-02 02:58:42,377 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/988504
+2024-12-02 02:58:45,078 - INFO - Successfully scraped job: Data Scientist
+2024-12-02 02:58:45,081 - INFO - Saved job: Data Scientist - Chevron
+2024-12-02 02:58:46,377 - INFO - Accessing job URL: https://oilandgasjobsearch.com/jobs/other-jobs/976091
+2024-12-02 02:58:48,642 - INFO - Successfully scraped job: Next Generation Sales Engine (NGSE) Data Scientist
+2024-12-02 02:58:48,645 - INFO - Saved job: Next Generation Sales Engine (NGSE) Data Scientist - Zoetis, Inc.
+2024-12-02 02:58:48,783 - INFO - Scraping completed. Browser closed.

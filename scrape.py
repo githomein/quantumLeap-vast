@@ -50,7 +50,7 @@ class OilGasJobScraper:
             raise e
         
         # URLs and data storage
-        self.base_url = "https://oilandgasjobsearch.com/jobs?title=Data+Engineer"
+        self.base_url = "https://oilandgasjobsearch.com/jobs?title=Data+Scientist"
         
         # Initialize DataFrames with all expected columns
         self.columns = [
